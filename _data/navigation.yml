@@ -22,27 +22,27 @@ docs:
         isactive: 1
         img: /images/nav/us.svg
         hreflang: en
-      - title: "Эра Хаоса"
-        url: /ru/
-        img: /images/nav/ru.svg
-        hreflang: ru
-      - title: "Wing Fighter"
+      - title: "Wing Flugzeug"
         url: /de/
         img: /images/nav/de.svg
         hreflang: de
-      - title: "Wing Fighter"
+      - title: "Wing Chasseur"
         url: /fr/
         img: /images/nav/fr.svg
         hreflang: fr
-      - title: "Wing Fighter"
+      - title: "Wing Caça"
         url: /it/
         img: /images/nav/it.svg
         hreflang: it
-      - title: "Wing Fighter"
+      - title: "Wing Avión"
         url: /es/
         img: /images/nav/es.svg
         hreflang: es
-      - title: "魔法门之英雄无敌：战争纪元"
+      - title: "Wing Истребитель"
+        url: /ru/
+        img: /images/nav/ru.svg
+        hreflang: ru
+      - title: "战机"
         url: https://wing-fighter.github.io/cn/
         img: /images/nav/cn.svg
         hreflang: zh_TW
