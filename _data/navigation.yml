@@ -1,12 +1,48 @@
-# main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "News"
+    url: /posts/
+  - title: "About"
+    url: /about/
+
+
+
+# documentation links
+docs:
+  - title: "Navigation"
+    children:
+    - title: "Fighters"
+      url: /fighter/
+    - title: "Pilots"
+      url: /pilot/
+
+  - title: "Language"
+    children:
+      - title: "Wing Fighter"
+        url: /
+        isactive: 1
+        img: /images/nav/us.svg
+        hreflang: en
+      - title: "Эра Хаоса"
+        url: /ru/
+        img: /images/nav/ru.svg
+        hreflang: ru
+      - title: "Wing Fighter"
+        url: /de/
+        img: /images/nav/de.svg
+        hreflang: de
+      - title: "Wing Fighter"
+        url: /fr/
+        img: /images/nav/fr.svg
+        hreflang: fr
+      - title: "Wing Fighter"
+        url: /it/
+        img: /images/nav/it.svg
+        hreflang: it
+      - title: "Wing Fighter"
+        url: /es/
+        img: /images/nav/es.svg
+        hreflang: es
+      - title: "魔法门之英雄无敌：战争纪元"
+        url: https://wing-fighter.github.io/cn/
+        img: /images/nav/cn.svg
+        hreflang: zh_TW
