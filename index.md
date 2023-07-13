@@ -113,13 +113,16 @@ sidebar:
 
 
 
-
+![Wing Fighter Wiki](https://wing-fighter.github.io/images/anzh_img16.png)
 
 This information portal contains information about "Wing Fighter" mobile game.
 
 You will find here:
-* <i class="fas fa-gavel"/> [Items](/Items/)
-* <i class="fas fa-chess-king"/>  [Heroes](/heroes/)
+
+<h1> <img src="/images/common_lobby_icon30.png" alt="Fighters"/><a href="/fighter/" hreflang="en">Fighters</a> </h1>
+<h1> <img src="/images/pilot/actor_debris_0.png" alt="Pilots"/><a href="/pilot/" hreflang="en">Pilots</a> </h1>
+
+<!-- * <i class="fas fa-chess-king"/>  [Heroes](/heroes/)
 * <i class="fas fa-mask"/>  [Adjutant](/heroes/Adjutants/)
 * <i class="fab fa-optin-monster"/>  [Units](/units/)
 * <i class="fas fa-fist-raised"/> [Combination Info: Heroes & Units](/combination/)
@@ -144,7 +147,7 @@ You will find here:
 * <i class="fas fa-calendar-day"/> [Hotspot Artifacts & Spell 2021](/Hotspot/)
 * <i class="fas fa-calendar-day"/> [Hotspot Artifacts 2021](/Hotspot/HotSpot Artifact _2021/)
 * <i class="fas fa-calendar-day"/> [Hotspot Spell 2021](/Hotspot/HotSpot Spell _2021/)
-* <i class="fas fa-calendar-day"/> [Faction Altar 2021](https://wing-fighter.github.io/FactionAltar/)
+* <i class="fas fa-calendar-day"/> [Faction Altar 2021](https://wing-fighter.github.io/FactionAltar/) -->
 
 
 
@@ -163,12 +166,15 @@ You will find here:
 
 Update History:
 
-* [Wing Fighter Wiki History](/Era_Of_Chaos_Wiki_History.html)  
-* [Wing Fighter Client Update History](/Era_Of_Chaos_Client_Update_History.html)
+* [Wing Fighter Wiki History](/Wing_Fighter_Wiki_History.html)  
+* [Wing Fighter Client Update History](/Wing_Fighter_Client_Update_History.html)
+
+![Wing Fighter Wiki](https://wing-fighter.github.io/images/xqdz_img40.png)
+
 
 <br/>
-<h1> <img src="/images/heroes.jpg" alt="Heroes"/><a href="/heroes/" hreflang="en">Heroes</a> </h1>
-<h1> <img src="/images/units.jpg" alt="Units"/><a href="/units/" hreflang="en">Units</a> </h1>
+<h1> <img src="/images/common_lobby_icon30.png" alt="Fighters"/><a href="/fighter/" hreflang="en">Fighters</a> </h1>
+<h1> <img src="/images/pilot/actor_debris_0.png" alt="Pilots"/><a href="/pilot/" hreflang="en">Pilots</a> </h1>
 <h1> <img src="/images/items.png" alt="Items"/><a href="/Items/" hreflang="en">Items</a> </h1>
 <h1> <img src="/images/schedule.png" alt="Schedule"/><a href="/Schedule/" hreflang="en">Schedule</a> </h1>
 
