@@ -16,6 +16,10 @@ classes: wide
 
  **Rarity:** R 
 
+ **Attack:** +150
+
+ **HP:** +600
+
  **Skill:** Revive
 
  **Skill Description:**  Fighter revive with XXX HP after death. This passive skill can only be used once per battle

@@ -16,6 +16,10 @@ classes: wide
 
  **Rarity:** SR 
 
+ **Attack:** +200
+
+ **HP:** +800
+
  **Skill:** Get Stars
 
  **Skill Description:**  Stars dropped in battle +XXX

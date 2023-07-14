@@ -16,6 +16,10 @@ classes: wide
 
  **Rarity:** N 
 
+ **Attack:** +100
+
+ **HP:** +400
+
  **Skill:** Missile Expert
 
  **Skill Description:**  Missile damage+XXX

@@ -16,6 +16,10 @@ classes: wide
 
  **Rarity:** SR 
 
+ **Attack:** +200
+
+ **HP:** +800
+
  **Skill:** Ultimate Speed-Up
 
  **Skill Description:**  Recharging speed of Ultimate +XXX
