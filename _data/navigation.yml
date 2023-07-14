@@ -12,8 +12,8 @@ docs:
     children:
     - title: "Fighters"
       url: /fighter/
-    - title: "Pilots"
-      url: /pilot/
+    - title: "Commanders"
+      url: /commander/
 
   - title: "Language"
     children:
