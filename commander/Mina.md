@@ -20,3 +20,9 @@ classes: wide
 
  **Skill Description:**  Stars dropped in battle +XXX
 
+ **Levels:**  List of levels with HP and Attack -> TBD
+
+ **Upgrade:**  TBD
+
+ **Evolve:**  TBD
+

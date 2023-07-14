@@ -20,3 +20,9 @@ classes: wide
 
  **Skill Description:**  Recharging speed of Ultimate +XXX
 
+ **Levels:**  List of levels with HP and Attack -> TBD
+
+ **Upgrade:**  TBD
+
+ **Evolve:**  TBD
+

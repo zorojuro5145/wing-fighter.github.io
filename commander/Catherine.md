@@ -20,3 +20,9 @@ classes: wide
 
  **Skill Description:**  Missile damage+XXX
 
+ **Levels:**  List of levels with HP and Attack -> TBD
+
+ **Upgrade:**  TBD
+
+ **Evolve:**  TBD
+

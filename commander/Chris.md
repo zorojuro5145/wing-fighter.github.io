@@ -20,3 +20,9 @@ classes: wide
 
  **Skill Description:**  Fighter revive with XXX HP after death. This passive skill can only be used once per battle
 
+ **Levels:**  List of levels with HP and Attack -> TBD
+
+ **Upgrade:**  TBD
+
+ **Evolve:**  TBD
+
