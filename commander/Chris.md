@@ -26,7 +26,9 @@ classes: wide
 
  **Levels:**  List of levels with HP and Attack -> TBD
 
- **Upgrade:**  
+ **Upgrade:**  TBD
+
+ **Ascend:**  
 
   |  Star level | Attack | HP |  Skill | Upgrade Costs |
   |:------|:----:|:------|:-------:|:-------------------|
@@ -38,6 +40,4 @@ classes: wide
   | 5  | +1296  | +5184  | TBD  | **1690000** Stars, **250x** Commander Shard - Chris |
   | 6  | +1616  | +6464  | TBD  | **2250000** Stars, **400x** Commander Shard - Chris |
   | 7  | +1936  | +7744  | TBD  | **2250000** Stars, **400x** Commander Shard - Chris |
-
- **Evolve:**  TBD
 

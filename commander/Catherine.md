@@ -26,7 +26,9 @@ classes: wide
 
  **Levels:**  List of levels with HP and Attack -> TBD
 
- **Upgrade:**  
+ **Upgrade:**  TBD
+
+ **Ascend:**  
 
   |  Star level | Attack | HP |  Skill | Upgrade Costs |
   |:------|:----:|:------|:-------:|:-------------------|
@@ -38,6 +40,4 @@ classes: wide
   | 5  | +974  | +3896  | TBD  | **1690000** Stars, **250x** Commander Shard - Catherine |
   | 6  | +1214  | +4856  | TBD  | **2250000** Stars, **400x** Commander Shard - Catherine |
   | 7  | +1454  | +5816  | TBD  | **2250000** Stars, **400x** Commander Shard - Catherine |
-
- **Evolve:**  TBD
 

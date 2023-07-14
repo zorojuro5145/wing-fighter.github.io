@@ -26,7 +26,9 @@ classes: wide
 
  **Levels:**  List of levels with HP and Attack -> TBD
 
- **Upgrade:**  
+ **Upgrade:**  TBD
+
+ **Ascend:**  
 
   |  Star level | Attack | HP |  Skill | Upgrade Costs |
   |:------|:----:|:------|:-------:|:-------------------|
@@ -38,6 +40,4 @@ classes: wide
   | 5  | +1618  | +6472  | TBD  | **1690000** Stars, **250x** Commander Shard - Mina |
   | 6  | +2018  | +8072  | TBD  | **2250000** Stars, **400x** Commander Shard - Mina |
   | 7  | +2418  | +9672  | TBD  | **2250000** Stars, **400x** Commander Shard - Mina |
-
- **Evolve:**  TBD
 
