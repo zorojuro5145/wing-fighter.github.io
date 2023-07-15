@@ -44,27 +44,27 @@ classes: wide
 
  **Ascend:**  
 
-  |  Star level | Attack(Total) | HP(Total) |  Skill | Upgrade Costs |
+  |  Star level | Attack(Total) | HP(Total) | All Fighters | Attributes | Upgrade Costs |
   |:------|:----:|:------|:-------:|:-------------------|
-  | ![Star 0](/images/s0.png)  | +0  | +0  | TBD  | **10** Red Phantom Shards |
-  | ![Star1](/images/s1.png)  | **+36** (36)  | **+144** (144)  | TBD  | **10** Red Phantom Shards |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)  | **+36** (72)  | **+144** (288)  | TBD  | **20** Red Phantom Shards |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | **+36** (108)  | **+144** (432)  | TBD  | **20** Red Phantom Shards |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | **+40** (148)  | **+160** (592)  | TBD  | **20** Red Phantom Shards |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | **+40** (188)  | **+160** (752)  | TBD  | **30** Red Phantom Shards |
-  | ![Star2](/images/s2.png)  | **+40** (228)  | **+160** (912)  | TBD  | **30** Red Phantom Shards |
-  | ![Star2](/images/s2.png)![Star2](/images/s2.png)  | **+53** (281)  | **+213** (1125)  | TBD  | **30** Red Phantom Shards |
-  | ![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)  | **+53** (334)  | **+213** (1338)  | TBD  | **60** Red Phantom Shards |
-  | ![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)  | **+54** (388)  | **+214** (1552)  | TBD  | **60** Red Phantom Shards |
-  | ![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)  | **+66** (454)  | **+266** (1818)  | TBD  | **60** Red Phantom Shards |
-  | ![Star3](/images/s3.png)  | **+67** (521)  | **+267** (2085)  | TBD  | **80** Red Phantom Shards |
-  | ![Star3](/images/s3.png)![Star3](/images/s3.png)  | **+67** (588)  | **+267** (2352)  | TBD  | **80** Red Phantom Shards |
-  | ![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)  | **+80** (668)  | **+320** (2672)  | TBD  | **80** Red Phantom Shards |
-  | ![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)  | **+80** (748)  | **+320** (2992)  | TBD  | **110** Red Phantom Shards |
-  | ![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)  | **+80** (828)  | **+320** (3312)  | TBD  | **110** Red Phantom Shards |
-  | ![Star4](/images/s4.png)  | **+93** (921)  | **+373** (3685)  | TBD  | **110** Red Phantom Shards |
-  | ![Star4](/images/s4.png)![Star4](/images/s4.png)  | **+93** (1014)  | **+373** (4058)  | TBD  | **150** Red Phantom Shards |
-  | ![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)  | **+94** (1108)  | **+374** (4432)  | TBD  | **150** Red Phantom Shards |
-  | ![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)  | **+160** (1268)  | **+640** (5072)  | TBD  | **150** Red Phantom Shards |
-  | ![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)  | **+160** (1428)  | **+640** (5712)  | TBD  | **150** Red Phantom Shards |
+  | ![Star 0](/images/s0.png)  | +0  | +0  |  |    | **10** Red Phantom Shards |
+  | ![Star1](/images/s1.png)  | **+36** (36)  | **+144** (144)  |   | Idle rewards +2%  | **10** Red Phantom Shards |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)  | **+36** (72)  | **+144** (288)  |   | Total HP +2%  | **20** Red Phantom Shards |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | **+36** (108)  | **+144** (432)  |   | Idle rewards +2%  | **20** Red Phantom Shards |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | **+40** (148)  | **+160** (592)  |   | Total HP +2%  | **20** Red Phantom Shards |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | **+40** (188)  | **+160** (752)  |   | Total HP +2%  | **30** Red Phantom Shards |
+  | ![Star2](/images/s2.png)  | **+40** (228)  | **+160** (912)  | **+**  | Winggun attack +5%  | **30** Red Phantom Shards |
+  | ![Star2](/images/s2.png)![Star2](/images/s2.png)  | **+53** (281)  | **+213** (1125)  |   | Total HP +2%  | **30** Red Phantom Shards |
+  | ![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)  | **+53** (334)  | **+213** (1338)  |   | Maingun attack +3%  | **60** Red Phantom Shards |
+  | ![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)  | **+54** (388)  | **+214** (1552)  |   | Total HP +2%  | **60** Red Phantom Shards |
+  | ![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)  | **+66** (454)  | **+266** (1818)  |   | Maingun attack +3%  | **60** Red Phantom Shards |
+  | ![Star3](/images/s3.png)  | **+67** (521)  | **+267** (2085)  |   | Missile attack +3%  | **80** Red Phantom Shards |
+  | ![Star3](/images/s3.png)![Star3](/images/s3.png)  | **+67** (588)  | **+267** (2352)  |   | Maingun attack +4%  | **80** Red Phantom Shards |
+  | ![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)  | **+80** (668)  | **+320** (2672)  |   | Missile attack +3%  | **80** Red Phantom Shards |
+  | ![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)  | **+80** (748)  | **+320** (2992)  |   | Attack rate +2%  | **110** Red Phantom Shards |
+  | ![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)  | **+80** (828)  | **+320** (3312)  |   | Missile attack +4%  | **110** Red Phantom Shards |
+  | ![Star4](/images/s4.png)  | **+93** (921)  | **+373** (3685)  |   | Attack rate +2%  | **110** Red Phantom Shards |
+  | ![Star4](/images/s4.png)![Star4](/images/s4.png)  | **+93** (1014)  | **+373** (4058)  |   | Attack rate +2%  | **150** Red Phantom Shards |
+  | ![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)  | **+94** (1108)  | **+374** (4432)  |   | Attack rate +2%  | **150** Red Phantom Shards |
+  | ![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)  | **+160** (1268)  | **+640** (5072)  |   | Attack rate +2%  | **150** Red Phantom Shards |
+  | ![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)  | **+160** (1428)  | **+640** (5712)  | **+**  | Total HP +5%  | **150** Red Phantom Shards |
 

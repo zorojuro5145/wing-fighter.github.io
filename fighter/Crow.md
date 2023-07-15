@@ -44,27 +44,27 @@ classes: wide
 
  **Ascend:**  
 
-  |  Star level | Attack(Total) | HP(Total) |  Skill | Upgrade Costs |
+  |  Star level | Attack(Total) | HP(Total) | All Fighters | Attributes | Upgrade Costs |
   |:------|:----:|:------|:-------:|:-------------------|
-  | ![Star 0](/images/s0.png)  | +0  | +0  | TBD  | **10** Crow Shards |
-  | ![Star1](/images/s1.png)  | **+60** (60)  | **+243** (243)  | TBD  | **10** Crow Shards |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)  | **+61** (121)  | **+244** (487)  | TBD  | **20** Crow Shards |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | **+61** (182)  | **+243** (730)  | TBD  | **20** Crow Shards |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | **+68** (250)  | **+271** (1001)  | TBD  | **20** Crow Shards |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | **+68** (318)  | **+271** (1272)  | TBD  | **30** Crow Shards |
-  | ![Star2](/images/s2.png)  | **+67** (385)  | **+270** (1542)  | TBD  | **30** Crow Shards |
-  | ![Star2](/images/s2.png)![Star2](/images/s2.png)  | **+90** (475)  | **+361** (1903)  | TBD  | **30** Crow Shards |
-  | ![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)  | **+90** (565)  | **+360** (2263)  | TBD  | **60** Crow Shards |
-  | ![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)  | **+91** (656)  | **+362** (2625)  | TBD  | **60** Crow Shards |
-  | ![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)  | **+112** (768)  | **+450** (3075)  | TBD  | **60** Crow Shards |
-  | ![Star3](/images/s3.png)  | **+113** (881)  | **+452** (3527)  | TBD  | **80** Crow Shards |
-  | ![Star3](/images/s3.png)![Star3](/images/s3.png)  | **+113** (994)  | **+452** (3979)  | TBD  | **80** Crow Shards |
-  | ![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)  | **+136** (1130)  | **+541** (4520)  | TBD  | **80** Crow Shards |
-  | ![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)  | **+135** (1265)  | **+542** (5062)  | TBD  | **110** Crow Shards |
-  | ![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)  | **+135** (1400)  | **+541** (5603)  | TBD  | **110** Crow Shards |
-  | ![Star4](/images/s4.png)  | **+158** (1558)  | **+631** (6234)  | TBD  | **110** Crow Shards |
-  | ![Star4](/images/s4.png)![Star4](/images/s4.png)  | **+158** (1716)  | **+631** (6865)  | TBD  | **150** Crow Shards |
-  | ![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)  | **+158** (1874)  | **+633** (7498)  | TBD  | **150** Crow Shards |
-  | ![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)  | **+271** (2145)  | **+1083** (8581)  | TBD  | **150** Crow Shards |
-  | ![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)  | **+271** (2416)  | **+1083** (9664)  | TBD  | **150** Crow Shards |
+  | ![Star 0](/images/s0.png)  | +0  | +0  |  |    | **10** Crow Shards |
+  | ![Star1](/images/s1.png)  | **+60** (60)  | **+243** (243)  |   | Flame-lines damage increased to 105%. Duration increased to 6 seconds  | **10** Crow Shards |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)  | **+61** (121)  | **+244** (487)  |   | Flame-lines damage increased to 105%. Duration increased to 7 seconds  | **20** Crow Shards |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | **+61** (182)  | **+243** (730)  |   | Flame-lines damage increased to 110%. Duration increased to 7 seconds  | **20** Crow Shards |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | **+68** (250)  | **+271** (1001)  |   | Flame-lines damage increased to 110%. Duration increased to 8 seconds  | **20** Crow Shards |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | **+68** (318)  | **+271** (1272)  |   | Flame-lines damage increased to 115%. Duration increased to 8 seconds  | **30** Crow Shards |
+  | ![Star2](/images/s2.png)  | **+67** (385)  | **+270** (1542)  | **+**  | All attack +5%  | **30** Crow Shards |
+  | ![Star2](/images/s2.png)![Star2](/images/s2.png)  | **+90** (475)  | **+361** (1903)  |   | Flame-lines damage increased to 120%. Duration increased to 8 seconds  | **30** Crow Shards |
+  | ![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)  | **+90** (565)  | **+360** (2263)  |   | Flame-lines damage increased to 125%. Duration increased to 8 seconds  | **60** Crow Shards |
+  | ![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)  | **+91** (656)  | **+362** (2625)  |   | Flame-lines damage increased to 125%. Duration increased to 9 seconds  | **60** Crow Shards |
+  | ![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)  | **+112** (768)  | **+450** (3075)  |   | Flame-lines damage increased to 130%. Duration increased to 9 seconds  | **60** Crow Shards |
+  | ![Star3](/images/s3.png)  | **+113** (881)  | **+452** (3527)  |   | Flame-lines damage increased to 130%. Duration increased to 10 seconds  | **80** Crow Shards |
+  | ![Star3](/images/s3.png)![Star3](/images/s3.png)  | **+113** (994)  | **+452** (3979)  |   | Flame-lines damage increased to 135%. Duration increased to 10 seconds  | **80** Crow Shards |
+  | ![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)  | **+136** (1130)  | **+541** (4520)  |   | Flame-lines damage increased to 135%. Duration increased to 11 seconds  | **80** Crow Shards |
+  | ![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)  | **+135** (1265)  | **+542** (5062)  |   | Flame-lines damage increased to 140%. Duration increased to 11 seconds  | **110** Crow Shards |
+  | ![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)  | **+135** (1400)  | **+541** (5603)  |   | Flame-lines damage increased to 140%. Duration increased to 12 seconds  | **110** Crow Shards |
+  | ![Star4](/images/s4.png)  | **+158** (1558)  | **+631** (6234)  |   | Flame-lines damage increased to 145%. Duration increased to 12 seconds  | **110** Crow Shards |
+  | ![Star4](/images/s4.png)![Star4](/images/s4.png)  | **+158** (1716)  | **+631** (6865)  |   | Flame-lines damage increased to 145%. Duration increased to 13 seconds  | **150** Crow Shards |
+  | ![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)  | **+158** (1874)  | **+633** (7498)  |   | Flame-lines damage increased to 150%. Duration increased to 13 seconds  | **150** Crow Shards |
+  | ![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)  | **+271** (2145)  | **+1083** (8581)  |   | Flame-lines damage increased to 150%. Duration increased to 14 seconds  | **150** Crow Shards |
+  | ![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)  | **+271** (2416)  | **+1083** (9664)  | **+**  | All attack +15%  | **150** Crow Shards |
 

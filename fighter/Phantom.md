@@ -44,27 +44,27 @@ classes: wide
 
  **Ascend:**  
 
-  |  Star level | Attack(Total) | HP(Total) |  Skill | Upgrade Costs |
+  |  Star level | Attack(Total) | HP(Total) | All Fighters | Attributes | Upgrade Costs |
   |:------|:----:|:------|:-------:|:-------------------|
-  | ![Star 0](/images/s0.png)  | +0  | +0  | TBD  | **10** Phantom Shards |
-  | ![Star1](/images/s1.png)  | **+60** (60)  | **+243** (243)  | TBD  | **10** Phantom Shards |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)  | **+61** (121)  | **+244** (487)  | TBD  | **20** Phantom Shards |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | **+61** (182)  | **+243** (730)  | TBD  | **20** Phantom Shards |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | **+68** (250)  | **+271** (1001)  | TBD  | **20** Phantom Shards |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | **+68** (318)  | **+271** (1272)  | TBD  | **30** Phantom Shards |
-  | ![Star2](/images/s2.png)  | **+67** (385)  | **+270** (1542)  | TBD  | **30** Phantom Shards |
-  | ![Star2](/images/s2.png)![Star2](/images/s2.png)  | **+90** (475)  | **+361** (1903)  | TBD  | **30** Phantom Shards |
-  | ![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)  | **+90** (565)  | **+360** (2263)  | TBD  | **60** Phantom Shards |
-  | ![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)  | **+91** (656)  | **+362** (2625)  | TBD  | **60** Phantom Shards |
-  | ![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)  | **+112** (768)  | **+450** (3075)  | TBD  | **60** Phantom Shards |
-  | ![Star3](/images/s3.png)  | **+113** (881)  | **+452** (3527)  | TBD  | **80** Phantom Shards |
-  | ![Star3](/images/s3.png)![Star3](/images/s3.png)  | **+113** (994)  | **+452** (3979)  | TBD  | **80** Phantom Shards |
-  | ![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)  | **+136** (1130)  | **+541** (4520)  | TBD  | **80** Phantom Shards |
-  | ![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)  | **+135** (1265)  | **+542** (5062)  | TBD  | **110** Phantom Shards |
-  | ![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)  | **+135** (1400)  | **+541** (5603)  | TBD  | **110** Phantom Shards |
-  | ![Star4](/images/s4.png)  | **+158** (1558)  | **+631** (6234)  | TBD  | **110** Phantom Shards |
-  | ![Star4](/images/s4.png)![Star4](/images/s4.png)  | **+158** (1716)  | **+631** (6865)  | TBD  | **150** Phantom Shards |
-  | ![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)  | **+158** (1874)  | **+633** (7498)  | TBD  | **150** Phantom Shards |
-  | ![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)  | **+271** (2145)  | **+1083** (8581)  | TBD  | **150** Phantom Shards |
-  | ![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)  | **+271** (2416)  | **+1083** (9664)  | TBD  | **150** Phantom Shards |
+  | ![Star 0](/images/s0.png)  | +0  | +0  |  |    | **10** Phantom Shards |
+  | ![Star1](/images/s1.png)  | **+60** (60)  | **+243** (243)  |   | Mirror attack increased to 55%. Duration increased to 15 seconds  | **10** Phantom Shards |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)  | **+61** (121)  | **+244** (487)  |   | Mirror attack increased to 55%. Duration increased to 16 seconds  | **20** Phantom Shards |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | **+61** (182)  | **+243** (730)  |   | Mirror attack increased to 60%. Duration increased to 16 seconds  | **20** Phantom Shards |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | **+68** (250)  | **+271** (1001)  |   | Mirror attack increased to 60%. Duration increased to 17 seconds  | **20** Phantom Shards |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | **+68** (318)  | **+271** (1272)  |   | Mirror attack increased to 65%. Duration increased to 17 seconds  | **30** Phantom Shards |
+  | ![Star2](/images/s2.png)  | **+67** (385)  | **+270** (1542)  | **+**  | All attack +5%  | **30** Phantom Shards |
+  | ![Star2](/images/s2.png)![Star2](/images/s2.png)  | **+90** (475)  | **+361** (1903)  |   | Mirror attack increased to 65%. Duration increased to 19 seconds  | **30** Phantom Shards |
+  | ![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)  | **+90** (565)  | **+360** (2263)  |   | Mirror attack increased to 70%. Duration increased to 19 seconds  | **60** Phantom Shards |
+  | ![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)  | **+91** (656)  | **+362** (2625)  |   | Mirror attack increased to 75%. Duration increased to 19 seconds  | **60** Phantom Shards |
+  | ![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)  | **+112** (768)  | **+450** (3075)  |   | Mirror attack increased to 75%. Duration increased to 20 seconds  | **60** Phantom Shards |
+  | ![Star3](/images/s3.png)  | **+113** (881)  | **+452** (3527)  |   | Mirror attack increased to 80%. Duration increased to 20 seconds  | **80** Phantom Shards |
+  | ![Star3](/images/s3.png)![Star3](/images/s3.png)  | **+113** (994)  | **+452** (3979)  |   | Mirror attack increased to 80%. Duration increased to 21 seconds  | **80** Phantom Shards |
+  | ![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)  | **+136** (1130)  | **+541** (4520)  |   | Mirror attack increased to 85%. Duration increased to 21 seconds  | **80** Phantom Shards |
+  | ![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)  | **+135** (1265)  | **+542** (5062)  |   | Mirror attack increased to 85%. Duration increased to 22 seconds  | **110** Phantom Shards |
+  | ![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)  | **+135** (1400)  | **+541** (5603)  |   | Mirror attack increased to 90%. Duration increased to 22 seconds  | **110** Phantom Shards |
+  | ![Star4](/images/s4.png)  | **+158** (1558)  | **+631** (6234)  |   | Mirror attack increased to 90%. Duration increased to 23 seconds  | **110** Phantom Shards |
+  | ![Star4](/images/s4.png)![Star4](/images/s4.png)  | **+158** (1716)  | **+631** (6865)  |   | Mirror attack increased to 95%. Duration increased to 23 seconds  | **150** Phantom Shards |
+  | ![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)  | **+158** (1874)  | **+633** (7498)  |   | Mirror attack increased to 100%. Duration increased to 23 seconds  | **150** Phantom Shards |
+  | ![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)  | **+271** (2145)  | **+1083** (8581)  |   | Mirror attack increased to 100%. Duration increased to 25 seconds  | **150** Phantom Shards |
+  | ![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)  | **+271** (2416)  | **+1083** (9664)  | **+**  | All attack +15%  | **150** Phantom Shards |
 

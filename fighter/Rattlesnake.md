@@ -44,27 +44,27 @@ classes: wide
 
  **Ascend:**  
 
-  |  Star level | Attack(Total) | HP(Total) |  Skill | Upgrade Costs |
+  |  Star level | Attack(Total) | HP(Total) | All Fighters | Attributes | Upgrade Costs |
   |:------|:----:|:------|:-------:|:-------------------|
-  | ![Star 0](/images/s0.png)  | +0  | +0  | TBD  | **10** Rattlesnake Shards |
-  | ![Star1](/images/s1.png)  | **+52** (52)  | **+211** (211)  | TBD  | **10** Rattlesnake Shards |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)  | **+53** (105)  | **+212** (423)  | TBD  | **20** Rattlesnake Shards |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | **+53** (158)  | **+212** (635)  | TBD  | **20** Rattlesnake Shards |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | **+59** (217)  | **+235** (870)  | TBD  | **20** Rattlesnake Shards |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | **+59** (276)  | **+235** (1105)  | TBD  | **30** Rattlesnake Shards |
-  | ![Star2](/images/s2.png)  | **+59** (335)  | **+236** (1341)  | TBD  | **30** Rattlesnake Shards |
-  | ![Star2](/images/s2.png)![Star2](/images/s2.png)  | **+78** (413)  | **+313** (1654)  | TBD  | **30** Rattlesnake Shards |
-  | ![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)  | **+78** (491)  | **+313** (1967)  | TBD  | **60** Rattlesnake Shards |
-  | ![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)  | **+79** (570)  | **+315** (2282)  | TBD  | **60** Rattlesnake Shards |
-  | ![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)  | **+98** (668)  | **+391** (2673)  | TBD  | **60** Rattlesnake Shards |
-  | ![Star3](/images/s3.png)  | **+98** (766)  | **+393** (3066)  | TBD  | **80** Rattlesnake Shards |
-  | ![Star3](/images/s3.png)![Star3](/images/s3.png)  | **+98** (864)  | **+392** (3458)  | TBD  | **80** Rattlesnake Shards |
-  | ![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)  | **+118** (982)  | **+471** (3929)  | TBD  | **80** Rattlesnake Shards |
-  | ![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)  | **+118** (1100)  | **+471** (4400)  | TBD  | **110** Rattlesnake Shards |
-  | ![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)  | **+117** (1217)  | **+470** (4870)  | TBD  | **110** Rattlesnake Shards |
-  | ![Star4](/images/s4.png)  | **+137** (1354)  | **+549** (5419)  | TBD  | **110** Rattlesnake Shards |
-  | ![Star4](/images/s4.png)![Star4](/images/s4.png)  | **+137** (1491)  | **+548** (5967)  | TBD  | **150** Rattlesnake Shards |
-  | ![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)  | **+138** (1629)  | **+550** (6517)  | TBD  | **150** Rattlesnake Shards |
-  | ![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)  | **+235** (1864)  | **+941** (7458)  | TBD  | **150** Rattlesnake Shards |
-  | ![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)  | **+236** (2100)  | **+942** (8400)  | TBD  | **150** Rattlesnake Shards |
+  | ![Star 0](/images/s0.png)  | +0  | +0  |  |    | **10** Rattlesnake Shards |
+  | ![Star1](/images/s1.png)  | **+52** (52)  | **+211** (211)  |   | Standard Missile attack +3%  | **10** Rattlesnake Shards |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)  | **+53** (105)  | **+212** (423)  |   | Standard Missile attack +3%  | **20** Rattlesnake Shards |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | **+53** (158)  | **+212** (635)  |   | Standard Missile attack +4%  | **20** Rattlesnake Shards |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | **+59** (217)  | **+235** (870)  |   | Standard Missile attack +4%  | **20** Rattlesnake Shards |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | **+59** (276)  | **+235** (1105)  |   | Standard Missile attack +4%  | **30** Rattlesnake Shards |
+  | ![Star2](/images/s2.png)  | **+59** (335)  | **+236** (1341)  | **+**  | Missile attack +5%  | **30** Rattlesnake Shards |
+  | ![Star2](/images/s2.png)![Star2](/images/s2.png)  | **+78** (413)  | **+313** (1654)  |   | Standard Missile attack +5%  | **30** Rattlesnake Shards |
+  | ![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)  | **+78** (491)  | **+313** (1967)  |   | Standard Missile attack +5%  | **60** Rattlesnake Shards |
+  | ![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)  | **+79** (570)  | **+315** (2282)  |   | Standard Missile attack +5%  | **60** Rattlesnake Shards |
+  | ![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)  | **+98** (668)  | **+391** (2673)  |   | Standard Missile attack +5%  | **60** Rattlesnake Shards |
+  | ![Star3](/images/s3.png)  | **+98** (766)  | **+393** (3066)  |   | Standard Missile attack +6%  | **80** Rattlesnake Shards |
+  | ![Star3](/images/s3.png)![Star3](/images/s3.png)  | **+98** (864)  | **+392** (3458)  |   | Standard Missile attack +6%  | **80** Rattlesnake Shards |
+  | ![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)  | **+118** (982)  | **+471** (3929)  |   | Standard Missile attack +6%  | **80** Rattlesnake Shards |
+  | ![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)  | **+118** (1100)  | **+471** (4400)  |   | Standard Missile attack +7%  | **110** Rattlesnake Shards |
+  | ![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)  | **+117** (1217)  | **+470** (4870)  |   | Standard Missile attack +7%  | **110** Rattlesnake Shards |
+  | ![Star4](/images/s4.png)  | **+137** (1354)  | **+549** (5419)  |   | Standard Missile attack +7%  | **110** Rattlesnake Shards |
+  | ![Star4](/images/s4.png)![Star4](/images/s4.png)  | **+137** (1491)  | **+548** (5967)  |   | Standard Missile attack +7%  | **150** Rattlesnake Shards |
+  | ![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)  | **+138** (1629)  | **+550** (6517)  |   | Standard Missile attack +8%  | **150** Rattlesnake Shards |
+  | ![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)  | **+235** (1864)  | **+941** (7458)  |   | Standard Missile attack +8%  | **150** Rattlesnake Shards |
+  | ![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)  | **+236** (2100)  | **+942** (8400)  | **+**  | Missile attack +15%  | **150** Rattlesnake Shards |
 

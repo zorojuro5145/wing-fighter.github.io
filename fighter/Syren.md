@@ -44,27 +44,27 @@ classes: wide
 
  **Ascend:**  
 
-  |  Star level | Attack(Total) | HP(Total) |  Skill | Upgrade Costs |
+  |  Star level | Attack(Total) | HP(Total) | All Fighters | Attributes | Upgrade Costs |
   |:------|:----:|:------|:-------:|:-------------------|
-  | ![Star 0](/images/s0.png)  | +0  | +0  | TBD  | **10** Syren Shards |
-  | ![Star1](/images/s1.png)  | **+60** (60)  | **+243** (243)  | TBD  | **10** Syren Shards |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)  | **+61** (121)  | **+244** (487)  | TBD  | **20** Syren Shards |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | **+61** (182)  | **+243** (730)  | TBD  | **20** Syren Shards |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | **+68** (250)  | **+271** (1001)  | TBD  | **20** Syren Shards |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | **+68** (318)  | **+271** (1272)  | TBD  | **30** Syren Shards |
-  | ![Star2](/images/s2.png)  | **+67** (385)  | **+270** (1542)  | TBD  | **30** Syren Shards |
-  | ![Star2](/images/s2.png)![Star2](/images/s2.png)  | **+90** (475)  | **+361** (1903)  | TBD  | **30** Syren Shards |
-  | ![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)  | **+90** (565)  | **+360** (2263)  | TBD  | **60** Syren Shards |
-  | ![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)  | **+91** (656)  | **+362** (2625)  | TBD  | **60** Syren Shards |
-  | ![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)  | **+112** (768)  | **+450** (3075)  | TBD  | **60** Syren Shards |
-  | ![Star3](/images/s3.png)  | **+113** (881)  | **+452** (3527)  | TBD  | **80** Syren Shards |
-  | ![Star3](/images/s3.png)![Star3](/images/s3.png)  | **+113** (994)  | **+452** (3979)  | TBD  | **80** Syren Shards |
-  | ![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)  | **+136** (1130)  | **+541** (4520)  | TBD  | **80** Syren Shards |
-  | ![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)  | **+135** (1265)  | **+542** (5062)  | TBD  | **110** Syren Shards |
-  | ![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)  | **+135** (1400)  | **+541** (5603)  | TBD  | **110** Syren Shards |
-  | ![Star4](/images/s4.png)  | **+158** (1558)  | **+631** (6234)  | TBD  | **110** Syren Shards |
-  | ![Star4](/images/s4.png)![Star4](/images/s4.png)  | **+158** (1716)  | **+631** (6865)  | TBD  | **150** Syren Shards |
-  | ![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)  | **+158** (1874)  | **+633** (7498)  | TBD  | **150** Syren Shards |
-  | ![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)  | **+271** (2145)  | **+1083** (8581)  | TBD  | **150** Syren Shards |
-  | ![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)  | **+271** (2416)  | **+1083** (9664)  | TBD  | **150** Syren Shards |
+  | ![Star 0](/images/s0.png)  | +0  | +0  |  |    | **10** Syren Shards |
+  | ![Star1](/images/s1.png)  | **+60** (60)  | **+243** (243)  |   | HP recover effect increased to 110%. Attack increased to 1.1% in furious mode  | **10** Syren Shards |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)  | **+61** (121)  | **+244** (487)  |   | HP recover effect increased to 120%. Attack increased to 1.2% in furious mode  | **20** Syren Shards |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | **+61** (182)  | **+243** (730)  |   | HP recover effect increased to 130%. Attack increased to 1.3% in furious mode  | **20** Syren Shards |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | **+68** (250)  | **+271** (1001)  |   | HP recover effect increased to 140%. Attack increased to 1.4% in furious mode  | **20** Syren Shards |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | **+68** (318)  | **+271** (1272)  |   | HP recover effect increased to 150%. Attack increased to 1.5% in furious mode  | **30** Syren Shards |
+  | ![Star2](/images/s2.png)  | **+67** (385)  | **+270** (1542)  | **+**  | All attack +5%  | **30** Syren Shards |
+  | ![Star2](/images/s2.png)![Star2](/images/s2.png)  | **+90** (475)  | **+361** (1903)  |   | HP recover effect increased to 160%. Attack increased to 1.6% in furious mode  | **30** Syren Shards |
+  | ![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)  | **+90** (565)  | **+360** (2263)  |   | HP recover effect increased to 170%. Attack increased to 1.7% in furious mode  | **60** Syren Shards |
+  | ![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)  | **+91** (656)  | **+362** (2625)  |   | HP recover effect increased to 180%. Attack increased to 1.8% in furious mode  | **60** Syren Shards |
+  | ![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)  | **+112** (768)  | **+450** (3075)  |   | HP recover effect increased to 190%. Attack increased to 1.9% in furious mode  | **60** Syren Shards |
+  | ![Star3](/images/s3.png)  | **+113** (881)  | **+452** (3527)  |   | HP recover effect increased to 200%. Attack increased to 2% in furious mode  | **80** Syren Shards |
+  | ![Star3](/images/s3.png)![Star3](/images/s3.png)  | **+113** (994)  | **+452** (3979)  |   | HP recover effect increased to 210%. Attack increased to 2.1% in furious mode  | **80** Syren Shards |
+  | ![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)  | **+136** (1130)  | **+541** (4520)  |   | HP recover effect increased to 220%. Attack increased to 2.2% in furious mode  | **80** Syren Shards |
+  | ![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)  | **+135** (1265)  | **+542** (5062)  |   | HP recover effect increased to 230%. Attack increased to 2.3% in furious mode  | **110** Syren Shards |
+  | ![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)  | **+135** (1400)  | **+541** (5603)  |   | HP recover effect increased to 250%. Attack increased to 2.5% in furious mode  | **110** Syren Shards |
+  | ![Star4](/images/s4.png)  | **+158** (1558)  | **+631** (6234)  |   | HP recover effect increased to 260%. Attack increased to 2.6% in furious mode  | **110** Syren Shards |
+  | ![Star4](/images/s4.png)![Star4](/images/s4.png)  | **+158** (1716)  | **+631** (6865)  |   | HP recover effect increased to 270%. Attack increased to 2.7% in furious mode  | **150** Syren Shards |
+  | ![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)  | **+158** (1874)  | **+633** (7498)  |   | HP recover effect increased to 280%. Attack increased to 2.8% in furious mode  | **150** Syren Shards |
+  | ![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)  | **+271** (2145)  | **+1083** (8581)  |   | HP recover effect increased to 300%. Attack increased to 3% in furious mode  | **150** Syren Shards |
+  | ![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)  | **+271** (2416)  | **+1083** (9664)  | **+**  | All attack +15%  | **150** Syren Shards |
 
