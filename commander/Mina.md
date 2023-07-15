@@ -26,9 +26,7 @@ classes: wide
 
  **Levels:**  List of levels with HP and Attack -> TBD
 
- **Upgrade:**  TBD
-
- **Ascend:**  
+ **Upgrade/Ascend:**  
 
   |  Star level | Attack | HP |  Skill | Upgrade Costs |
   |:------|:----:|:------|:-------:|:-------------------|
