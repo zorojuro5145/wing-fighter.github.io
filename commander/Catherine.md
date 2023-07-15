@@ -20,7 +20,7 @@ classes: wide
 
  **HP:** +400
 
- **Skill:** Missile Expert
+ **Skill:** ![Missile Expert](/images/commander/actor_skill_03.png) Missile Expert
 
  **Skill Description:**  Missile damage+XXX
 

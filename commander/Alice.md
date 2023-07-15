@@ -20,7 +20,7 @@ classes: wide
 
  **HP:** +800
 
- **Skill:** Ultimate Speed-Up
+ **Skill:** ![Ultimate Speed-Up](/images/commander/actor_skill_01.png) Ultimate Speed-Up
 
  **Skill Description:**  Recharging speed of Ultimate +XXX
 

@@ -20,7 +20,7 @@ classes: wide
 
  **HP:** +600
 
- **Skill:** Get Stars
+ **Skill:** ![Get Stars](/images/commander/actor_skill_04.png) Get Stars
 
  **Skill Description:**  Stars dropped in battle +XXX
 

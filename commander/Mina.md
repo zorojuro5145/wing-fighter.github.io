@@ -20,7 +20,7 @@ classes: wide
 
  **HP:** +800
 
- **Skill:** Revive
+ **Skill:** ![Revive](/images/commander/actor_skill_02.png) Revive
 
  **Skill Description:**  Fighter revive with XXX HP after death. This passive skill can only be used once per battle
 
