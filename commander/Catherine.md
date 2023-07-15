@@ -30,12 +30,12 @@ classes: wide
 
   |  Star level | Attack | HP |  Skill | Power | Upgrade Costs |
   |:------|:----:|:------|:-------:|:---------:|:--------------|
-  | ![Star1](/images/s1.png)  | +0  | +0  | Missile damage+1.0%  | +300  | **20000** Stars, **10x** Commander Shard - Catherine |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)  | +134  | +536  | Missile damage+2.0%  | +400  | **87500** Stars, **20x** Commander Shard - Catherine |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | +314  | +1256  | Missile damage+3.0%  | +500  | **157500** Stars, **40x** Commander Shard - Catherine |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | +554  | +2216  | Missile damage+4.0%  | +600  | **285000** Stars, **80x** Commander Shard - Catherine |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | +734  | +2936  | Missile damage+5.0%  | +700  | **876000** Stars, **150x** Commander Shard - Catherine |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | +974  | +3896  | Missile damage+6.0%  | +800  | **1690000** Stars, **250x** Commander Shard - Catherine |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | +1214  | +4856  | Missile damage+7.0%  | +900  | **2250000** Stars, **400x** Commander Shard - Catherine |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | +1454  | +5816  | Missile damage+8.0%  | +1000  | **2250000** Stars, **400x** Commander Shard - Catherine |
+  | ![Star 0](/images/s0.png)  | +0  | +0  | Missile damage+1.0%  | +300  | **20000** Stars, **10x** Commander Shard - Catherine |
+  | ![Star1](/images/s1.png)  | +134  | +536  | Missile damage+2.0%  | +400  | **87500** Stars, **20x** Commander Shard - Catherine |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)  | +314  | +1256  | Missile damage+3.0%  | +500  | **157500** Stars, **40x** Commander Shard - Catherine |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | +554  | +2216  | Missile damage+4.0%  | +600  | **285000** Stars, **80x** Commander Shard - Catherine |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | +734  | +2936  | Missile damage+5.0%  | +700  | **876000** Stars, **150x** Commander Shard - Catherine |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | +974  | +3896  | Missile damage+6.0%  | +800  | **1690000** Stars, **250x** Commander Shard - Catherine |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | +1214  | +4856  | Missile damage+7.0%  | +900  | **2250000** Stars, **400x** Commander Shard - Catherine |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | +1454  | +5816  | Missile damage+8.0%  | +1000  | **2250000** Stars, **400x** Commander Shard - Catherine |
 

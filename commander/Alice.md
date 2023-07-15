@@ -30,12 +30,12 @@ classes: wide
 
   |  Star level | Attack | HP |  Skill | Power | Upgrade Costs |
   |:------|:----:|:------|:-------:|:---------:|:--------------|
-  | ![Star1](/images/s1.png)  | +0  | +0  | Recharging speed of Ultimate +4.0%  | +1000  | **20000** Stars, **10x** Commander Shard - Alice |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)  | +218  | +872  | Recharging speed of Ultimate +8.0%  | +1400  | **87500** Stars, **20x** Commander Shard - Alice |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | +518  | +2072  | Recharging speed of Ultimate +12.0%  | +1800  | **157500** Stars, **40x** Commander Shard - Alice |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | +918  | +3672  | Recharging speed of Ultimate +16.0%  | +2200  | **285000** Stars, **80x** Commander Shard - Alice |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | +1218  | +4872  | Recharging speed of Ultimate +20.0%  | +2600  | **876000** Stars, **150x** Commander Shard - Alice |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | +1618  | +6472  | Recharging speed of Ultimate +25.0%  | +3000  | **1690000** Stars, **250x** Commander Shard - Alice |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | +2018  | +8072  | Recharging speed of Ultimate +30.000002%  | +3400  | **2250000** Stars, **400x** Commander Shard - Alice |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | +2418  | +9672  | Recharging speed of Ultimate +40.0%  | +3800  | **2250000** Stars, **400x** Commander Shard - Alice |
+  | ![Star 0](/images/s0.png)  | +0  | +0  | Recharging speed of Ultimate +4.0%  | +1000  | **20000** Stars, **10x** Commander Shard - Alice |
+  | ![Star1](/images/s1.png)  | +218  | +872  | Recharging speed of Ultimate +8.0%  | +1400  | **87500** Stars, **20x** Commander Shard - Alice |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)  | +518  | +2072  | Recharging speed of Ultimate +12.0%  | +1800  | **157500** Stars, **40x** Commander Shard - Alice |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | +918  | +3672  | Recharging speed of Ultimate +16.0%  | +2200  | **285000** Stars, **80x** Commander Shard - Alice |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | +1218  | +4872  | Recharging speed of Ultimate +20.0%  | +2600  | **876000** Stars, **150x** Commander Shard - Alice |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | +1618  | +6472  | Recharging speed of Ultimate +25.0%  | +3000  | **1690000** Stars, **250x** Commander Shard - Alice |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | +2018  | +8072  | Recharging speed of Ultimate +30.000002%  | +3400  | **2250000** Stars, **400x** Commander Shard - Alice |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | +2418  | +9672  | Recharging speed of Ultimate +40.0%  | +3800  | **2250000** Stars, **400x** Commander Shard - Alice |
 

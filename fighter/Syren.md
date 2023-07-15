@@ -34,27 +34,27 @@ classes: wide
 
  **Ascend:**  
 
-  |  Star level | Attack | HP |  Skill | Upgrade Costs |
+  |  Star level | Attack(Total) | HP(Total) |  Skill | Upgrade Costs |
   |:------|:----:|:------|:-------:|:-------------------|
-  | ![Star1](/images/s1.png)  | +0  | +0  | TBD  | **10** Syren Shards |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)  | +60  | +243  | TBD  | **10** Syren Shards |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | +121  | +487  | TBD  | **20** Syren Shards |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | +182  | +730  | TBD  | **20** Syren Shards |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | +250  | +1001  | TBD  | **20** Syren Shards |
-  | ![Star2](/images/s2.png)  | +318  | +1272  | TBD  | **30** Syren Shards |
-  | ![Star2](/images/s2.png)![Star2](/images/s2.png)  | +385  | +1542  | TBD  | **30** Syren Shards |
-  | ![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)  | +475  | +1903  | TBD  | **30** Syren Shards |
-  | ![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)  | +565  | +2263  | TBD  | **60** Syren Shards |
-  | ![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)  | +656  | +2625  | TBD  | **60** Syren Shards |
-  | ![Star3](/images/s3.png)  | +768  | +3075  | TBD  | **60** Syren Shards |
-  | ![Star3](/images/s3.png)![Star3](/images/s3.png)  | +881  | +3527  | TBD  | **80** Syren Shards |
-  | ![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)  | +994  | +3979  | TBD  | **80** Syren Shards |
-  | ![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)  | +1130  | +4520  | TBD  | **80** Syren Shards |
-  | ![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)  | +1265  | +5062  | TBD  | **110** Syren Shards |
-  | ![Star4](/images/s4.png)  | +1400  | +5603  | TBD  | **110** Syren Shards |
-  | ![Star4](/images/s4.png)![Star4](/images/s4.png)  | +1558  | +6234  | TBD  | **110** Syren Shards |
-  | ![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)  | +1716  | +6865  | TBD  | **150** Syren Shards |
-  | ![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)  | +1874  | +7498  | TBD  | **150** Syren Shards |
-  | ![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)  | +2145  | +8581  | TBD  | **150** Syren Shards |
-  | MAX  | +2416  | +9664  | TBD  | **150** Syren Shards |
+  | ![Star 0](/images/s0.png)  | +0  | +0  | TBD  | **10** Syren Shards |
+  | ![Star1](/images/s1.png)  | **+60** (60)  | **+243** (243)  | TBD  | **10** Syren Shards |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)  | **+61** (121)  | **+244** (487)  | TBD  | **20** Syren Shards |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | **+61** (182)  | **+243** (730)  | TBD  | **20** Syren Shards |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | **+68** (250)  | **+271** (1001)  | TBD  | **20** Syren Shards |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | **+68** (318)  | **+271** (1272)  | TBD  | **30** Syren Shards |
+  | ![Star2](/images/s2.png)  | **+67** (385)  | **+270** (1542)  | TBD  | **30** Syren Shards |
+  | ![Star2](/images/s2.png)![Star2](/images/s2.png)  | **+90** (475)  | **+361** (1903)  | TBD  | **30** Syren Shards |
+  | ![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)  | **+90** (565)  | **+360** (2263)  | TBD  | **60** Syren Shards |
+  | ![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)  | **+91** (656)  | **+362** (2625)  | TBD  | **60** Syren Shards |
+  | ![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)![Star2](/images/s2.png)  | **+112** (768)  | **+450** (3075)  | TBD  | **60** Syren Shards |
+  | ![Star3](/images/s3.png)  | **+113** (881)  | **+452** (3527)  | TBD  | **80** Syren Shards |
+  | ![Star3](/images/s3.png)![Star3](/images/s3.png)  | **+113** (994)  | **+452** (3979)  | TBD  | **80** Syren Shards |
+  | ![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)  | **+136** (1130)  | **+541** (4520)  | TBD  | **80** Syren Shards |
+  | ![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)  | **+135** (1265)  | **+542** (5062)  | TBD  | **110** Syren Shards |
+  | ![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)![Star3](/images/s3.png)  | **+135** (1400)  | **+541** (5603)  | TBD  | **110** Syren Shards |
+  | ![Star4](/images/s4.png)  | **+158** (1558)  | **+631** (6234)  | TBD  | **110** Syren Shards |
+  | ![Star4](/images/s4.png)![Star4](/images/s4.png)  | **+158** (1716)  | **+631** (6865)  | TBD  | **150** Syren Shards |
+  | ![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)  | **+158** (1874)  | **+633** (7498)  | TBD  | **150** Syren Shards |
+  | ![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)  | **+271** (2145)  | **+1083** (8581)  | TBD  | **150** Syren Shards |
+  | ![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)![Star4](/images/s4.png)  | **+271** (2416)  | **+1083** (9664)  | TBD  | **150** Syren Shards |
 
