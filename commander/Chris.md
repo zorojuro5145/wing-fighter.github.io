@@ -2,7 +2,7 @@
 title: "Commander Chris"
 permalink: /commander/Chris/
 excerpt: "Wing Fighter Chris"
-last_modified_at: 2023-07-14
+last_modified_at: 2023-07-15
 locale: en
 ref: "Chris.md"
 toc: false
@@ -20,9 +20,9 @@ classes: wide
 
  **HP:** +600
 
- **Skill:** Revive
+ **Skill:** Get Stars
 
- **Skill Description:**  Fighter revive with XXX HP after death. This passive skill can only be used once per battle
+ **Skill Description:**  Stars dropped in battle +XXX
 
  **Levels:**  List of levels with HP and Attack -> TBD
 

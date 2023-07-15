@@ -2,7 +2,7 @@
 title: "Commander Mina"
 permalink: /commander/Mina/
 excerpt: "Wing Fighter Mina"
-last_modified_at: 2023-07-14
+last_modified_at: 2023-07-15
 locale: en
 ref: "Mina.md"
 toc: false
@@ -20,9 +20,9 @@ classes: wide
 
  **HP:** +800
 
- **Skill:** Get Stars
+ **Skill:** Revive
 
- **Skill Description:**  Stars dropped in battle +XXX
+ **Skill Description:**  Fighter revive with XXX HP after death. This passive skill can only be used once per battle
 
  **Levels:**  List of levels with HP and Attack -> TBD
 
