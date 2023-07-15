@@ -28,6 +28,16 @@ classes: wide
 
  **Skill Description:**  Active Skill
 
+## Attributes
+
+  |  Nr | All Fighters | Bonus | Level |
+  |:----|:-------------:|:--------------------|:--------|
+  | 1  | **+**  | Winggun attack +3%  | **20** |
+  | 2  |   | Total HP +10%  | **40** |
+  | 3  | **+**  | HP +100  | **60** |
+  | 4  |   | Winggun attack +5%  | **80** |
+
+
  **Levels:**  List of levels with HP and Attack -> TBD
 
  **Upgrade:**  TBD

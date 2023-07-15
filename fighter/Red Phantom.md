@@ -28,6 +28,16 @@ classes: wide
 
  **Skill Description:**  Passive Skill
 
+## Attributes
+
+  |  Nr | All Fighters | Bonus | Level |
+  |:----|:-------------:|:--------------------|:--------|
+  | 1  | **+**  | HP +100  | **20** |
+  | 2  |   | Maingun attack +3%  | **40** |
+  | 3  | **+**  | Total HP +3%  | **60** |
+  | 4  |   | Missile attack +3%  | **80** |
+
+
  **Levels:**  List of levels with HP and Attack -> TBD
 
  **Upgrade:**  TBD

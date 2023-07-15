@@ -28,6 +28,16 @@ classes: wide
 
  **Skill Description:**  Passive Skill
 
+## Attributes
+
+  |  Nr | All Fighters | Bonus | Level |
+  |:----|:-------------:|:--------------------|:--------|
+  | 1  | **+**  | Winggun attack +3%  | **20** |
+  | 2  |   | Healing heart effect +10%  | **40** |
+  | 3  | **+**  | Missile attack +5%  | **60** |
+  | 4  |   | Maingun attack +10%  | **80** |
+
+
  **Levels:**  List of levels with HP and Attack -> TBD
 
  **Upgrade:**  TBD
