@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+  by Shop Type:  [Supreme Care Chest(/shop/Supreme Care Chest/){: .btn .btn--primary}  [Stage X Pack(/shop/Stage X Pack/){: .btn .btn--primary}  [Ad-free(/shop/Ad-free/){: .btn .btn--primary}  [Stars(/shop/Stars/){: .btn .btn--primary}  [Diamonds(/shop/Diamonds/){: .btn .btn--primary}  [Other(/shop/Other/){: .btn .btn--primary}
+
   |  Nr | typeName | itemname | Desciption | id | typeid | pageid | rowid | isHot | active |
   |:----|:--------:|:---------|:----------:|:--:|:------:|:------:|:-----:|:-----:|:-------|
   | 1 | Supreme Care Chest | Standard Chest | Standard Chest | 1 |1 |-1 |1 |0 |false |
