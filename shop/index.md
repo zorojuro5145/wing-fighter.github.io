@@ -29,33 +29,33 @@ classes: wide
   | 14 |  [Stars](/shop/Stars/) |[72h Reward](/shop/72h Reward_14) | 72 hours of idle rewards | 
   | 15 |  [Supreme Care Chest](/shop/Supreme Care Chest/) |[Module Chest](/shop/Module Chest_15) | Module Chest | 
   | 16 |  [Supreme Care Chest](/shop/Supreme Care Chest/) |[Fighter Chest](/shop/Fighter Chest_16) | Fighter Chest | 
-  | 17 |  [Supreme Care Chest](/shop/Supreme Care Chest/) |[null](/shop/null_17) |  | 
+  | 17 |  [Supreme Care Chest](/shop/Supreme Care Chest/) |[Unknown](/shop/Unknown_17) |  | 
   | 18 |  [Supreme Care Chest](/shop/Supreme Care Chest/) |[Gem Chest](/shop/Gem Chest_18) | Get 1-3 Star Gems | 
-  | 19 |  [Other](/shop/Other/) |[null](/shop/null_19) |  | 
+  | 19 |  [Other](/shop/Other/) |[Unknown](/shop/Unknown_19) |  | 
   | 20 |  [Supreme Care Chest](/shop/Supreme Care Chest/) |[Chest](/shop/Chest_20) | Get 1-2 star equipment, fighters, and fighter materials | 
   | 21 |  [Supreme Care Chest](/shop/Supreme Care Chest/) |[Super Chest](/shop/Super Chest_21) | Get 2-4 star equipment, fighters, and fighter materials | 
   | 22 |  [Supreme Care Chest](/shop/Supreme Care Chest/) |[Super Chest×10](/shop/Super Chest×10_22) | Get 2-4 star equipment, fighters, and fighter materials | 
-  | 23 |  [Other](/shop/Other/) |[null](/shop/null_23) |  | 
-  | 24 |  [Other](/shop/Other/) |[null](/shop/null_24) |  | 
-  | 25 |  [Other](/shop/Other/) |[null](/shop/null_25) |  | 
-  | 26 |  [Other](/shop/Other/) |[null](/shop/null_26) |  | 
-  | 27 |  [Other](/shop/Other/) |[null](/shop/null_27) |  | 
+  | 23 |  [Other](/shop/Other/) |[Unknown](/shop/Unknown_23) |  | 
+  | 24 |  [Other](/shop/Other/) |[Unknown](/shop/Unknown_24) |  | 
+  | 25 |  [Other](/shop/Other/) |[Unknown](/shop/Unknown_25) |  | 
+  | 26 |  [Other](/shop/Other/) |[Unknown](/shop/Unknown_26) |  | 
+  | 27 |  [Other](/shop/Other/) |[Unknown](/shop/Unknown_27) |  | 
   | 28 |  [Supreme Care Chest](/shop/Supreme Care Chest/) |[Conqueror Chest](/shop/Conqueror Chest_28) | Get 2-4 star equipment, fighters, and fighter materials | 
   | 29 |  [Supreme Care Chest](/shop/Supreme Care Chest/) |[Gear Set Chest](/shop/Gear Set Chest_29) | Get 2-4 star equipment, fighters, and fighter materials | 
-  | 30 |  [Other](/shop/Other/) |[null](/shop/null_30) | Get 1-2 star equipment, fighters, and fighter materials | 
-  | 31 |  [Other](/shop/Other/) |[null](/shop/null_31) | Get 1-3 Star Gems | 
-  | 32 |  [Other](/shop/Other/) |[null](/shop/null_32) |  | 
-  | 33 |  [Other](/shop/Other/) |[null](/shop/null_33) | Fighter Chest | 
+  | 30 |  [Other](/shop/Other/) |[Unknown](/shop/Unknown_30) | Get 1-2 star equipment, fighters, and fighter materials | 
+  | 31 |  [Other](/shop/Other/) |[Unknown](/shop/Unknown_31) | Get 1-3 Star Gems | 
+  | 32 |  [Other](/shop/Other/) |[Unknown](/shop/Unknown_32) |  | 
+  | 33 |  [Other](/shop/Other/) |[Unknown](/shop/Unknown_33) | Fighter Chest | 
   | 34 |  [Other](/shop/Other/) |[Battle Pass](/shop/Battle Pass_34) | Battle Pass | 
   | 35 |  [Other](/shop/Other/) |[Free Pack](/shop/Free Pack_35) |  | 
   | 36 |  [Other](/shop/Other/) |[Overload ×1](/shop/Overload ×1_36) | Obtain 1 "Overload" buff | 
   | 37 |  [Other](/shop/Other/) |[Overload ×6](/shop/Overload ×6_37) | Obtain 6 "Overload" buffs | 
   | 38 |  [Supreme Care Chest](/shop/Supreme Care Chest/) |[Gem Chest](/shop/Gem Chest_38) | Get 1-3 Star Gems | 
   | 39 |  [Stars](/shop/Stars/) |[5h Reward](/shop/5h Reward_39) | 5 hours of idle rewards | 
-  | 40 |  [Supreme Care Chest](/shop/Supreme Care Chest/) |[null](/shop/null_40) | Conqueror Probability Up! | 
-  | 41 |  [Supreme Care Chest](/shop/Supreme Care Chest/) |[null](/shop/null_41) | Conqueror Probability Up! | 
-  | 42 |  [Supreme Care Chest](/shop/Supreme Care Chest/) |[null](/shop/null_42) | Thor Probability Up! | 
-  | 43 |  [Supreme Care Chest](/shop/Supreme Care Chest/) |[null](/shop/null_43) | Thor Probability Up! | 
+  | 40 |  [Supreme Care Chest](/shop/Supreme Care Chest/) |[Unknown](/shop/Unknown_40) | Conqueror Probability Up! | 
+  | 41 |  [Supreme Care Chest](/shop/Supreme Care Chest/) |[Unknown](/shop/Unknown_41) | Conqueror Probability Up! | 
+  | 42 |  [Supreme Care Chest](/shop/Supreme Care Chest/) |[Unknown](/shop/Unknown_42) | Thor Probability Up! | 
+  | 43 |  [Supreme Care Chest](/shop/Supreme Care Chest/) |[Unknown](/shop/Unknown_43) | Thor Probability Up! | 
   | 44 |  [Stage X Pack](/shop/Stage X Pack/) |[Stage 1 Pack](/shop/Stage 1 Pack_101) |  | 
   | 45 |  [Stage X Pack](/shop/Stage X Pack/) |[Stage 2 Pack](/shop/Stage 2 Pack_102) |  | 
   | 46 |  [Stage X Pack](/shop/Stage X Pack/) |[Stage 3 Pack](/shop/Stage 3 Pack_103) |  | 
