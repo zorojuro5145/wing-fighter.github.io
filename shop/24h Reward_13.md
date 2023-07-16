@@ -22,6 +22,8 @@ classes: wide
 
  **Active:** - 
 
+ **Idle time:** 24 hours 
+
 ## Drop
 
 
