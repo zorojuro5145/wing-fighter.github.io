@@ -128,8 +128,10 @@ You will find here:
 <h1> <img src="/images/gem_group.png" alt="Gem Chest" width="29" height="28"/><a href="/shop/Gem%20Chest_18/" hreflang="en">Gem Chest</a> </h1>
 <h1> <img src="/images/box_open.png" alt="Chest" width="34" height="27"/><a href="/shop/Chest_20/" hreflang="en">Chest</a> </h1>
 
+<br/>
+Extra information:
 
-
+* [Player Levels and Idle Rewards](/Player_Levels_and_Idle_Rewards.html)  
 
 <!-- * <i class="fas fa-chess-king"/>  [Heroes](/heroes/)
 * <i class="fas fa-mask"/>  [Adjutant](/heroes/Adjutants/)
