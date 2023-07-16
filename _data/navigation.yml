@@ -12,8 +12,27 @@ docs:
     children:
     - title: "Fighters"
       url: /fighter/
+    - title: "Equipment"
+      url: /equipment/
     - title: "Commanders"
       url: /commander/
+    - title: "Gems"
+      url: /gem/
+    - title: "Shop"
+      url: /shop/
+      children:
+        - title: "Gear Set Chest"
+          url: /Gear_Set_Chest/
+        - title: "Super Chest"
+          url: /Super_Chest/
+        - title: "Gem Chest"
+          url: /Gem_Chest/
+    - title: "Battle"
+      url: /battle/
+    - title: "Talents"
+      url: /talent/
+    - title: "Legion"
+      url: /legion/
 
   - title: "Language"
     children:
