@@ -97,7 +97,7 @@ plugins:
 analytics:
   provider               :  "google-gtag"           # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :  "G-4RPP6FDRZ4"
+    tracking_id          :  "G-92LWD7D281"
 
 author:
   name   : "PilotX"
