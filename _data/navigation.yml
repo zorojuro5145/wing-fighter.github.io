@@ -18,6 +18,7 @@ docs:
       url: /commander/
     - title: "Gems"
       url: /gem/
+      
     - title: "Shop"
       url: /shop/
       children:
@@ -27,6 +28,7 @@ docs:
           url: /Super_Chest/
         - title: "Gem Chest"
           url: /Gem_Chest/
+          
     - title: "Battle"
       url: /battle/
     - title: "Talents"
