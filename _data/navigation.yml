@@ -18,17 +18,14 @@ docs:
       url: /commander/
     - title: "Gems"
       url: /gem/
-      
     - title: "Shop"
       url: /shop/
-      children:
-        - title: "Gear Set Chest"
-          url: /Gear_Set_Chest/
-        - title: "Super Chest"
-          url: /Super_Chest/
-        - title: "Gem Chest"
-          url: /Gem_Chest/
-          
+    - title: "Gear Set Chest"
+      url: /Gear_Set_Chest.html
+    - title: "Super Chest"
+      url: /Super_Chest.html
+    - title: "Gem Chest"
+      url: /Gem_Chest.html
     - title: "Battle"
       url: /battle/
     - title: "Talents"
