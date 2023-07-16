@@ -123,10 +123,10 @@ You will find here:
 <h1> <img src="/images/commander/actor_debris_0.png" alt="Commander" width="38" height="44"/><a href="/commander/" hreflang="en">Commanders</a> </h1>
 <h1> <img src="/images/shop.png" alt="Shop"/><a href="/shop/" hreflang="en">Shop</a> </h1>
 
-<h1> <img src="/images/img_2.png" alt="Gear Set Chest"/><a href="/shop/Gear%20Set%20Chest_29/" hreflang="en">Gear Set Chest</a> </h1>
-<h1> <img src="/images/shop/mixed_box_2.png" alt="Super Chest"/><a href="/shop/Super%20Chest_21/" hreflang="en">Super Chest</a> </h1>
-<h1> <img src="/images/shop/gem_group.png" alt="Gem Chest"/><a href="/shop/Gem%20Chest_18/" hreflang="en">Gem Chest</a> </h1>
-<h1> <img src="/images/shop/box_open.png" alt="Chest"/><a href="/shop/Chest_20/" hreflang="en">Chest</a> </h1>
+<h1> <img src="/images/img_2.png" alt="Gear Set Chest" width="34" height="28"/><a href="/shop/Gear%20Set%20Chest_29/" hreflang="en">Gear Set Chest</a> </h1>
+<h1> <img src="/images/mixed_box_2.png" alt="Super Chest" width="34" height="26"/><a href="/shop/Super%20Chest_21/" hreflang="en">Super Chest</a> </h1>
+<h1> <img src="/images/gem_group.png" alt="Gem Chest" width="29" height="28"/><a href="/shop/Gem%20Chest_18/" hreflang="en">Gem Chest</a> </h1>
+<h1> <img src="/images/box_open.png" alt="Chest" width="34" height="27"/><a href="/shop/Chest_20/" hreflang="en">Chest</a> </h1>
 
 
 
