@@ -7,6 +7,7 @@ locale: en
 ref: "Player_Levels_and_Idle_Rewards.md"
 toc: false
 classes: wide
+layout: single
 sidebar:
   nav: "docs"
 ---
