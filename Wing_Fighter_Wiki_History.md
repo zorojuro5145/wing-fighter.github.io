@@ -28,6 +28,6 @@ sidebar:
 {% endcapture %}
 
 <div class="notice--danger">
-  <h4 class="no_toc">3 July 2023 Update: Client version 1.7.520</h4>
+  <h4 class="no_toc">14 July 2023 Update: Open alpha version of Wing Fighter Wiki</h4>
   {{ notice-update20230714 | markdownify }}
 </div>
