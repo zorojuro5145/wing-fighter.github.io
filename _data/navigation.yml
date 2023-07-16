@@ -21,11 +21,11 @@ docs:
     - title: "Shop"
       url: /shop/
     - title: "Gear Set Chest"
-      url: /Gear_Set_Chest.html
+      url: "/shop/Gear Set Chest_29/"
     - title: "Super Chest"
-      url: /Super_Chest.html
+      url: "/shop/Super Chest_21/"
     - title: "Gem Chest"
-      url: /Gem_Chest.html
+      url: "/shop/Gem Chest_18/"
     - title: "Battle"
       url: /battle/
     - title: "Talents"
