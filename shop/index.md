@@ -9,21 +9,21 @@ toc: false
 classes: wide
 ---
 
-  by Shop Type:  [Supreme Care Chest](/shop/Shop Supreme Care Chest/){: .btn .btn--primary}  [Stage X Pack](/shop/Shop Stage X Pack/){: .btn .btn--primary}  [Ad-free](/shop/Shop Ad-free/){: .btn .btn--primary}  [Stars](/shop/Shop Stars/){: .btn .btn--primary}  [Diamonds](/shop/Shop Diamonds/){: .btn .btn--primary}  [Other](/shop/Shop Other/){: .btn .btn--primary}
+  by Shop Type:  [Supreme Care Chest](/shop/Shop Supreme Care Chest/){: .btn .btn--primary}   [Stage X Pack](/shop/Shop Stage X Pack/){: .btn .btn--primary}   [Ad-free](/shop/Shop Ad-free/){: .btn .btn--primary}   [Stars](/shop/Shop Stars/){: .btn .btn--primary}   [Diamonds](/shop/Shop Diamonds/){: .btn .btn--primary}   [Other](/shop/Shop Other/){: .btn .btn--primary} 
 
   |  Nr |   Type   |   Item   | Desciption |
   |:----|:--------:|:---------|:----------:|
   | 1 |  [Supreme Care Chest](/shop/Shop Supreme Care Chest/) |[Standard Chest](/shop/Standard Chest_1) | Standard Chest | 
   | 2 |  [Supreme Care Chest](/shop/Shop Supreme Care Chest/) |[Advanced Chest](/shop/Advanced Chest_2) | Advanced Chest | 
   | 3 |  [Supreme Care Chest](/shop/Shop Supreme Care Chest/) |[Advanced Chest x10](/shop/Advanced Chest x10_3) | Tenfold Chest | 
-  | 4 |  [Ad-free](/shop/Shop Ad-free/) |[Ad-free (Month)](/shop/Ad-free (Month)_4) | Last for <span style="color: #FEDC98">One Month</span><br/><span style="color: #ffffff;"></span | 
-  | 5 |  [Ad-free](/shop/Shop Ad-free/) |[Ad-free (Permanent)](/shop/Ad-free (Permanent)_5) | Last <span style="color: #FEDC98">Permanently</span><br/><span style="color: #ffffff;"></span | 
-  | 6 |  [Diamonds](/shop/Shop Diamonds/) |[Small pile of diamonds](/shop/Small pile of diamonds_6) | First-time purchase <span style="color: #FFC926">+80</span><br/><span style="color: #ffffff;"></span | 
-  | 7 |  [Diamonds](/shop/Shop Diamonds/) |[Big pile of diamonds](/shop/Big pile of diamonds_7) | First-time purchase <span style="color: #FFC926">+500</span><br/><span style="color: #ffffff;"></span | 
-  | 8 |  [Diamonds](/shop/Shop Diamonds/) |[Small pack of diamonds](/shop/Small pack of diamonds_8) | First-time purchase <span style="color: #FFC926">+1200</span><br/><span style="color: #ffffff;"></span | 
-  | 9 |  [Diamonds](/shop/Shop Diamonds/) |[Big pack of diamonds](/shop/Big pack of diamonds_9) | First-time purchase <span style="color: #FFC926">+2500</span><br/><span style="color: #ffffff;"></span | 
-  | 10 |  [Diamonds](/shop/Shop Diamonds/) |[Small chest of diamonds](/shop/Small chest of diamonds_10) | First-time purchase <span style="color: #FFC926">+6500</span><br/><span style="color: #ffffff;"></span | 
-  | 11 |  [Diamonds](/shop/Shop Diamonds/) |[Big chest of diamonds](/shop/Big chest of diamonds_11) | First-time purchase <span style="color: #FFC926">+14000</span><br/><span style="color: #ffffff;"></span | 
+  | 4 |  [Ad-free](/shop/Shop Ad-free/) |[Ad-free (Month)](/shop/Ad-free (Month)_4) | Last for <span style="color: #FEDC98">One Month</span><br/><span style="color: #ffffff;"></span> | 
+  | 5 |  [Ad-free](/shop/Shop Ad-free/) |[Ad-free (Permanent)](/shop/Ad-free (Permanent)_5) | Last <span style="color: #FEDC98">Permanently</span><br/><span style="color: #ffffff;"></span> | 
+  | 6 |  [Diamonds](/shop/Shop Diamonds/) |[Small pile of diamonds](/shop/Small pile of diamonds_6) | First-time purchase <span style="color: #FFC926">+80</span><br/><span style="color: #ffffff;"></span> | 
+  | 7 |  [Diamonds](/shop/Shop Diamonds/) |[Big pile of diamonds](/shop/Big pile of diamonds_7) | First-time purchase <span style="color: #FFC926">+500</span><br/><span style="color: #ffffff;"></span> | 
+  | 8 |  [Diamonds](/shop/Shop Diamonds/) |[Small pack of diamonds](/shop/Small pack of diamonds_8) | First-time purchase <span style="color: #FFC926">+1200</span><br/><span style="color: #ffffff;"></span> | 
+  | 9 |  [Diamonds](/shop/Shop Diamonds/) |[Big pack of diamonds](/shop/Big pack of diamonds_9) | First-time purchase <span style="color: #FFC926">+2500</span><br/><span style="color: #ffffff;"></span> | 
+  | 10 |  [Diamonds](/shop/Shop Diamonds/) |[Small chest of diamonds](/shop/Small chest of diamonds_10) | First-time purchase <span style="color: #FFC926">+6500</span><br/><span style="color: #ffffff;"></span> | 
+  | 11 |  [Diamonds](/shop/Shop Diamonds/) |[Big chest of diamonds](/shop/Big chest of diamonds_11) | First-time purchase <span style="color: #FFC926">+14000</span><br/><span style="color: #ffffff;"></span> | 
   | 12 |  [Stars](/shop/Shop Stars/) |[5h Reward](/shop/5h Reward_12) | 5 hours of idle rewards | 
   | 13 |  [Stars](/shop/Shop Stars/) |[24h Reward](/shop/24h Reward_13) | 24 hours of idle rewards | 
   | 14 |  [Stars](/shop/Shop Stars/) |[72h Reward](/shop/72h Reward_14) | 72 hours of idle rewards | 
