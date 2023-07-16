@@ -10,11 +10,13 @@ classes: wide
 ---
 
 
-  [Supreme Care Chest](/shop/Shop Supreme Care Chest/){: .btn .btn--primary}   [Stage X Pack](/shop/Shop Stage X Pack/){: .btn .btn--primary}   [Ad-free](/shop/Shop Ad-free/){: .btn .btn--primary}   [Stars](/shop/Shop Stars/){: .btn .btn--primary}   [Diamonds](/shop/Shop Diamonds/){: .btn .btn--primary}   [Other](/shop/Shop Other/){: .btn .btn--primary} ## Details
+  [Supreme Care Chest](/shop/Shop Supreme Care Chest/){: .btn .btn--primary}   [Stage X Pack](/shop/Shop Stage X Pack/){: .btn .btn--primary}   [Ad-free](/shop/Shop Ad-free/){: .btn .btn--primary}   [Stars](/shop/Shop Stars/){: .btn .btn--primary}   [Diamonds](/shop/Shop Diamonds/){: .btn .btn--primary}   [Other](/shop/Shop Other/){: .btn .btn--primary} 
+
+## Details
 
  **Name:** Super Chest×10 
 
- **Description:** +Get 2-4 star equipment, fighters, and fighter materials
+ **Description:** Get 2-4 star equipment, fighters, and fighter materials
 
  **Shop Type:** [Supreme Care Chest](/shop/Shop Supreme Care Chest/)
 
