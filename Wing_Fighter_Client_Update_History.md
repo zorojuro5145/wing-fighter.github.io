@@ -32,7 +32,7 @@ The Wing Fighter fixed the following issues:
 * General optimization and repairs.
 
 
-* [Wing Fighter Wiki](https://wing-fighter.github.io/) updated to latest game state.
+The [Wing Fighter Wiki](https://wing-fighter.github.io/) updated to latest game state.
 
 {% endcapture %}
 
