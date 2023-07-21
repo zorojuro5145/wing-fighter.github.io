@@ -12,12 +12,14 @@ docs:
     children:
     - title: "Fighters"
       url: /fighter/
-    - title: "Equipment"
-      url: /equipment/
     - title: "Commanders"
       url: /commander/
+    - title: "Item"
+      url: /item/
     - title: "Gems"
       url: /gem/
+    - title: "Equipment"
+      url: /equipment/
     - title: "Shop"
       url: /shop/
     - title: "Gear Set Chest"
