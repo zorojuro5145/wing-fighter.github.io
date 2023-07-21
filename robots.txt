@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wing-fighter.github.io/sitemap.xml
