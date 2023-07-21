@@ -57,33 +57,28 @@ sidebar:
   <h4 class="no_toc">27 July 2021 Update: Client version 157 (3832/3833)</h4>
   {{ notice-update20210727 | markdownify }}
 </div>
+-->
 
+{% capture notice-update20230721 %}
 
-{% capture notice-update20210720 %}
+* Added [Items](/item/)
 
-* [Gloom Tides](https://wing-fighter.github.io/Exclusive/Revyaratan Gloom Tides/) - Exclusive weapon for ![Revyaratan](/images/u/ti_haiguai.jpg)  [Revyaratan](/units/Revyaratan/)
+* Great collaboration with Minigame - I would expect more information from them on this Wiki. 
 
-* New items:
-  * [Level Speed Up Pack Lv. 1](https://wing-fighter.github.io/Items/con_2219/)
-  * [Level Speed Up Pack Lv. 2](https://wing-fighter.github.io/Items/con_2220/)
-  * [Level Speed Up Pack Lv. 3](https://wing-fighter.github.io/Items/con_2221/)
-  * [Gloom Tides Token](https://wing-fighter.github.io/Items/con_2224/)
-  * [Break Waves Token](https://wing-fighter.github.io/Items/con_2225/)
-  * [Gloom Tides Special Skin](https://wing-fighter.github.io/Items/con_2222/)
-  * [Break Waves Special Skin](https://wing-fighter.github.io/Items/con_2223/)
+* Corrected Google search integration by "Search menu". The Wiki information parsing is in progress.
 
-* Update [Schedule](https://wing-fighter.github.io/Schedule/) (up to 11 August 2021)
+* About 1473 unique users visited Wiki after initial post. 
 
-* [Wing Fighter Wiki](https://wing-fighter.github.io/) updated to latest game state.
+* If You have a game content -> How To guide(s), Tricks and Tips, Fun info, etc. I'll be happy to publish it on Wiki, [Please contact me via Discord](https://discordapp.com/users/351705203038224385/)
 
 {% endcapture %}
 
 <div class="notice--danger">
-  <h4 class="no_toc">20 July 2021 Update: Client version 157 (3799/3800)</h4>
-  {{ notice-update20210720 | markdownify }}
+  <h4 class="no_toc">21 July 2023 Wiki Update: More images, Items published, ...</h4>
+  {{ notice-update20230721 | markdownify }}
 </div>
 
--->
+
 
 
 
@@ -132,6 +127,8 @@ You will find here:
 Extra information:
 
 * [Player Levels and Idle Rewards](/Player_Levels_and_Idle_Rewards.html)  
+
+* [Items](/item/)  
 
 <!-- * <i class="fas fa-chess-king"/>  [Heroes](/heroes/)
 * <i class="fas fa-mask"/>  [Adjutant](/heroes/Adjutants/)
