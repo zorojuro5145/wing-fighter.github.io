@@ -13,10 +13,10 @@ classes: wide
   |:----|:----------|:-----:|:--------:|:-----------:|:------:|:-----:| 
   | 1 |  |  | ? | ? | 1 | 36 | 
   | 2 | ![Stars](/images/item/Stars_p.png) | 1 | Stars | Stars | 1 | 1 | 
-  | 3 | ![Unknown_3](/images/item/Settlement_Energy_p.png) |  | ? | ? | 1 | 2 | 
-  | 4 | ![Unknown_5](/images/item/Main_power_p.png) |  | ? | ? | 1 | 3 | 
+  | 3 | ![Unknown_3](/images/item/Settlement_Energy_p.png) |  | *Settlement_Energy* | ? | 1 | 2 | 
+  | 4 | ![Unknown_5](/images/item/Main_power_p.png) |  | *Main_power* | ? | 1 | 3 | 
   | 5 |  |  | ? | ? | 1 | 5 | 
-  | 6 | ![Unknown_7](/images/item/Settlement_Exp_p.png) |  | ? | ? | 1 | 6 | 
+  | 6 | ![Unknown_7](/images/item/Settlement_Exp_p.png) |  | *Settlement_Exp* | ? | 1 | 6 | 
   | 7 |  | 1 | ? | ? | 1 | 7 | 
   | 8 | ![Maingun Module](/images/item/Maingun_Module_p.png) | 1 | Maingun Module | Used to upgrade Maingun | 1 | 8 | 
   | 9 | ![Winggun Module](/images/item/Winggun_Module_p.png) | 1 | Winggun Module | Used to upgrade Winggun | 1 | 9 | 
@@ -27,8 +27,8 @@ classes: wide
   | 14 | ![Diamonds](/images/item/Diamonds_p.png) |  | Diamonds | Diamonds | 1 | 14 | 
   | 15 | ![Ultimate Module](/images/item/Ultimate_Module_p.png) | 1 | Ultimate Module | Used to upgrade Ultimate Skill | 1 | 15 | 
   | 16 |  |  | ? | ? | 1 | 16 | 
-  | 17 | ![Unknown_18](/images/item/battle_sd_icon12_p.png) | 1 | ? | ? | 1 | 17 | 
-  | 18 | ![Unknown_19](/images/item/battle_sd_icon10_p.png) | 1 | ? | ? | 1 | 18 | 
+  | 17 | ![Unknown_18](/images/item/battle_sd_icon12_p.png) | 1 | *battle_sd_icon12* | ? | 1 | 17 | 
+  | 18 | ![Unknown_19](/images/item/battle_sd_icon10_p.png) | 1 | *battle_sd_icon10* | ? | 1 | 18 | 
   | 19 | ![Alloy Plate](/images/item/Alloy_Plate_p.png) | 1 | Alloy Plate | Used to upgrade fighter | 1 | 19 | 
   | 20 | ![Nanochip](/images/item/Nanochip_p.png) | 1 | Nanochip | Used to evolve fighter | 1 | 20 | 
   | 21 | ![Red Phantom Shards](/images/item/Red_Phantom_Shards_p.png) | 1 | Red Phantom Shards | Used to evolve Red Phantom | 3 | 101 | 
@@ -61,7 +61,7 @@ classes: wide
   | 48 | ![Thane Shards](/images/item/Thane_Shards_p.png) | 1 | Thane Shards | Used to evolve Thane | 6 | 121 | 
   | 49 | ![Conqueror Shard](/images/item/Conqueror_Shard_p.png) | 1 | Conqueror Shard | Used to evolve Fighter Conqueror | 6 | 1101 | 
   | 50 | ![Thor fighter shard](/images/item/Thor_fighter_shard_p.png) | 1 | Thor fighter shard | Used to fuse and evolve Thor fighter | 6 | 1102 | 
-  | 51 | ![Unknown_50](/images/item/actor_debris_1_p.png) | 1 | ? | ? | 1 | 28 | 
+  | 51 | ![Unknown_50](/images/item/actor_debris_1_p.png) | 1 | *actor_debris_1* | ? | 1 | 28 | 
   | 52 | ![EXP Card I](/images/item/EXP_Card_I_p.png) | 100 | EXP Card I | Used to increase commander experience by 100 | 2 | 29 | 
   | 53 | ![EXP Card II](/images/item/EXP_Card_II_p.png) | 500 | EXP Card II | Used to increase commander experience by 500 | 3 | 30 | 
   | 54 | ![EXP Card III](/images/item/EXP_Card_III_p.png) | 2500 | EXP Card III | Used to increase commander experience by 2500 | 4 | 31 | 
@@ -71,16 +71,16 @@ classes: wide
   | 58 | ![Stars](/images/item/Stars_p.png) | 1 | Stars | Stars | 1 | 35 | 
   | 59 | ![Random SR Fighter Shard](/images/item/Random_SR_Fighter_Shard_p.png) | 201 | Random SR Fighter Shard | Randomly get 1 SR fighter shard | 1 | 38 | 
   | 60 | ![Random SSR Fighter Shard](/images/item/Random_SSR_Fighter_Shard_p.png) | 43 | Random SSR Fighter Shard | Randomly get 1 SSR fighter shard | 1 | 39 | 
-  | 61 | ![Unknown_60](/images/item/random_equip_p.png) | 44 | ? | ? | 1 | 40 | 
-  | 62 | ![Unknown_61](/images/item/random_module_1_p.png) | 45 | ? | ? | 1 | 41 | 
-  | 63 | ![Unknown_62](/images/item/random_module_2_p.png) | 46 | ? | ? | 1 | 42 | 
-  | 64 | ![Unknown_63](/images/item/random_gem_red_p.png) | 47 | ? | ? | 1 | 43 | 
-  | 65 | ![Unknown_64](/images/item/random_gem_blue_p.png) | 48 | ? | ? | 1 | 44 | 
-  | 66 | ![Unknown_65](/images/item/random_gem_green_p.png) | 49 | ? | ? | 1 | 45 | 
-  | 67 | ![Unknown_66](/images/item/actor_debris_1_p.png) | 1 | ? | ? | 1 | 39 | 
-  | 68 | ![Unknown_67](/images/item/ttsd_img2_p.png) | 1 | ? | ? | 1 | 46 | 
-  | 69 | ![Unknown_68](/images/item/bh_img25_p.png) | 1 | ? | ? | 1 | 47 | 
-  | 70 | ![Unknown_69](/images/item/bh_img27_p.png) | 1 | ? | ? | 1 | 48 | 
+  | 61 | ![Unknown_60](/images/item/random_equip_p.png) | 44 | *random_equip* | ? | 1 | 40 | 
+  | 62 | ![Unknown_61](/images/item/random_module_1_p.png) | 45 | *random_module_1* | ? | 1 | 41 | 
+  | 63 | ![Unknown_62](/images/item/random_module_2_p.png) | 46 | *random_module_2* | ? | 1 | 42 | 
+  | 64 | ![Unknown_63](/images/item/random_gem_red_p.png) | 47 | *random_gem_red* | ? | 1 | 43 | 
+  | 65 | ![Unknown_64](/images/item/random_gem_blue_p.png) | 48 | *random_gem_blue* | ? | 1 | 44 | 
+  | 66 | ![Unknown_65](/images/item/random_gem_green_p.png) | 49 | *random_gem_green* | ? | 1 | 45 | 
+  | 67 | ![Unknown_66](/images/item/actor_debris_1_p.png) | 1 | *actor_debris_1* | ? | 1 | 39 | 
+  | 68 | ![Unknown_67](/images/item/ttsd_img2_p.png) | 1 | *ttsd_img2* | ? | 1 | 46 | 
+  | 69 | ![Unknown_68](/images/item/bh_img25_p.png) | 1 | *bh_img25* | ? | 1 | 47 | 
+  | 70 | ![Unknown_69](/images/item/bh_img27_p.png) | 1 | *bh_img27* | ? | 1 | 48 | 
   | 71 | ![Titan Key](/images/item/Titan_Key_p.png) | 1 | Titan Key | Used for opening Conqueror Chest | 1 | 49 | 
   | 72 | ![Random Modules](/images/item/Random_Modules_p.png) | 57 | Random Modules | Randomly get one module | 1 | 50 | 
   | 73 | ![Random 1-star Gem](/images/item/Random_1-star_Gem_p.png) | 58 | Random 1-star Gem | Randomly get one 1-star gem | 1 | 52 | 
@@ -89,8 +89,8 @@ classes: wide
   | 76 | ![Random 4-star Gem](/images/item/Random_4-star_Gem_p.png) | 61 | Random 4-star Gem | Randomly get one 4-star gem | 1 | 55 | 
   | 77 | ![Random Epic Equipment](/images/item/Random_Epic_Equipment_p.png) | 62 | Random Epic Equipment | Randomly get one Epic Normal Equipment | 1 | 56 | 
   | 78 | ![Random Epic Conqueror Equipment](/images/item/Random_Epic_Conqueror_Equipment_p.png) | 63 | Random Epic Conqueror Equipment | Randomly get one Epic Conqueror Equipment | 1 | 57 | 
-  | 79 | ![Unknown_78](/images/item/xqdz_icon6_p.png) | 1 | ? | ? | 1 | 58 | 
-  | 80 | ![Unknown_79](/images/item/jt_jd_img25_p.png) | 1 | ? | ? | 1 | 59 | 
+  | 79 | ![Unknown_78](/images/item/xqdz_icon6_p.png) | 1 | *xqdz_icon6* | ? | 1 | 58 | 
+  | 80 | ![Unknown_79](/images/item/jt_jd_img25_p.png) | 1 | *jt_jd_img25* | ? | 1 | 59 | 
   | 81 | ![Random Fighter of Gear Set](/images/item/Random_Fighter_of_Gear_Set_p.png) | 64 | Random Fighter of Gear Set | Randomly get 1 shard of Conqueror Fighter or Thor Fighter | 1 | 60 | 
   | 82 | ![Random Equipment of Gear Set](/images/item/Random_Equipment_of_Gear_Set_p.png) | 65 | Random Equipment of Gear Set | Randomly get 1 Epic Conqueror Equipment or Thor Equipment | 1 | 61 | 
   | 83 | ![Stargate Challenge Ticket](/images/item/Stargate_Challenge_Ticket_p.png) | 1 | Stargate Challenge Ticket | Used to challenge Titan | 1 | 62 | 
@@ -99,7 +99,7 @@ classes: wide
   | 86 | ![Random Epic Equipment](/images/item/Random_Epic_Equipment_p.png) | 62 | Random Epic Equipment | Randomly get one Epic Normal Equipment | 3 | 40 | 
   | 87 | ![Random 1-star Gem](/images/item/Random_1-star_Gem_p.png) | 62 | Random 1-star Gem | Randomly get one 1-star gem | 1 | 52 | 
   | 88 | ![Random 2-star Gem](/images/item/Random_2-star_Gem_p.png) | 62 | Random 2-star Gem | Randomly get one 2-star gem | 2 | 53 | 
-  | 89 | ![Unknown_2001](/images/item/daily_gift2_p.png) | 1 | ? | ? | 1 | 21 | 
-  | 90 | ![Unknown_2002](/images/item/daily_gift2_p.png) | 1 | ? | ? | 1 | 21 | 
-  | 91 | ![Unknown_2005](/images/item/daily_gift5_p.png) | 1 | ? | ? | 1 | 14 | 
-  | 92 | ![Unknown_2006](/images/item/daily_gift3_p.png) | 1 | ? | ? | 1 | 14 | 
+  | 89 | ![Unknown_2001](/images/item/daily_gift2_p.png) | 1 | *daily_gift2* | ? | 1 | 21 | 
+  | 90 | ![Unknown_2002](/images/item/daily_gift2_p.png) | 1 | *daily_gift2* | ? | 1 | 21 | 
+  | 91 | ![Unknown_2005](/images/item/daily_gift5_p.png) | 1 | *daily_gift5* | ? | 1 | 14 | 
+  | 92 | ![Unknown_2006](/images/item/daily_gift3_p.png) | 1 | *daily_gift3* | ? | 1 | 14 | 
