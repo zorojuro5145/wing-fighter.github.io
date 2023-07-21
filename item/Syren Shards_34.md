@@ -1,5 +1,5 @@
 ---
-title: "Item Syren Shards"
+title: "Syren Shards"
 permalink: /item/Syren Shards_34/
 excerpt: "Wing Fighter Syren Shards"
 last_modified_at: 2023-07-21

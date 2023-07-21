@@ -1,5 +1,5 @@
 ---
-title: "Item Inferno Shards"
+title: "Inferno Shards"
 permalink: /item/Inferno Shards_26/
 excerpt: "Wing Fighter Inferno Shards"
 last_modified_at: 2023-07-21

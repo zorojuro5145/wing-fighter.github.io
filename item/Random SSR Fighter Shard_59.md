@@ -1,5 +1,5 @@
 ---
-title: "Item Random SSR Fighter Shard"
+title: "Random SSR Fighter Shard"
 permalink: /item/Random SSR Fighter Shard_59/
 excerpt: "Wing Fighter Random SSR Fighter Shard"
 last_modified_at: 2023-07-21

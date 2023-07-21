@@ -1,5 +1,5 @@
 ---
-title: "Item Gem Crate Key"
+title: "Gem Crate Key"
 permalink: /item/Gem Crate Key_35/
 excerpt: "Wing Fighter Gem Crate Key"
 last_modified_at: 2023-07-21

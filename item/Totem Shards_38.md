@@ -1,5 +1,5 @@
 ---
-title: "Item Totem Shards"
+title: "Totem Shards"
 permalink: /item/Totem Shards_38/
 excerpt: "Wing Fighter Totem Shards"
 last_modified_at: 2023-07-21

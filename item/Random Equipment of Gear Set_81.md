@@ -1,5 +1,5 @@
 ---
-title: "Item Random Equipment of Gear Set"
+title: "Random Equipment of Gear Set"
 permalink: /item/Random Equipment of Gear Set_81/
 excerpt: "Wing Fighter Random Equipment of Gear Set"
 last_modified_at: 2023-07-21

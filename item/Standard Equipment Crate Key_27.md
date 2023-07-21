@@ -1,5 +1,5 @@
 ---
-title: "Item Standard Equipment Crate Key"
+title: "Standard Equipment Crate Key"
 permalink: /item/Standard Equipment Crate Key_27/
 excerpt: "Wing Fighter Standard Equipment Crate Key"
 last_modified_at: 2023-07-21

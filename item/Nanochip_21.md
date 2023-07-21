@@ -1,5 +1,5 @@
 ---
-title: "Item Nanochip"
+title: "Nanochip"
 permalink: /item/Nanochip_21/
 excerpt: "Wing Fighter Nanochip"
 last_modified_at: 2023-07-21

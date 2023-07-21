@@ -1,5 +1,5 @@
 ---
-title: "Item Ultimate Module"
+title: "Ultimate Module"
 permalink: /item/Ultimate Module_16/
 excerpt: "Wing Fighter Ultimate Module"
 last_modified_at: 2023-07-21

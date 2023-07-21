@@ -1,5 +1,5 @@
 ---
-title: "Item Armor Module"
+title: "Armor Module"
 permalink: /item/Armor Module_12/
 excerpt: "Wing Fighter Armor Module"
 last_modified_at: 2023-07-21

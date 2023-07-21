@@ -1,5 +1,5 @@
 ---
-title: "Item Titan Key"
+title: "Titan Key"
 permalink: /item/Titan Key_70/
 excerpt: "Wing Fighter Titan Key"
 last_modified_at: 2023-07-21

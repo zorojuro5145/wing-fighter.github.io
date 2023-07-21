@@ -1,5 +1,5 @@
 ---
-title: "Item Random Epic Conqueror Equipment"
+title: "Random Epic Conqueror Equipment"
 permalink: /item/Random Epic Conqueror Equipment_77/
 excerpt: "Wing Fighter Random Epic Conqueror Equipment"
 last_modified_at: 2023-07-21

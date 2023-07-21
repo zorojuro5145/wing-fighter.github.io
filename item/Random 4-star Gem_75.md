@@ -1,5 +1,5 @@
 ---
-title: "Item Random 4-star Gem"
+title: "Random 4-star Gem"
 permalink: /item/Random 4-star Gem_75/
 excerpt: "Wing Fighter Random 4-star Gem"
 last_modified_at: 2023-07-21

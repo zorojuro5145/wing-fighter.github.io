@@ -1,5 +1,5 @@
 ---
-title: "Item Thor fighter shard"
+title: "Thor fighter shard"
 permalink: /item/Thor fighter shard_102/
 excerpt: "Wing Fighter Thor fighter shard"
 last_modified_at: 2023-07-21

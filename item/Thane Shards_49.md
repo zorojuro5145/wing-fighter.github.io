@@ -1,5 +1,5 @@
 ---
-title: "Item Thane Shards"
+title: "Thane Shards"
 permalink: /item/Thane Shards_49/
 excerpt: "Wing Fighter Thane Shards"
 last_modified_at: 2023-07-21

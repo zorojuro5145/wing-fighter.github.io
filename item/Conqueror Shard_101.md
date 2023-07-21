@@ -1,5 +1,5 @@
 ---
-title: "Item Conqueror Shard"
+title: "Conqueror Shard"
 permalink: /item/Conqueror Shard_101/
 excerpt: "Wing Fighter Conqueror Shard"
 last_modified_at: 2023-07-21

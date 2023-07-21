@@ -1,5 +1,5 @@
 ---
-title: "Item Module Crate Key"
+title: "Module Crate Key"
 permalink: /item/Module Crate Key_29/
 excerpt: "Wing Fighter Module Crate Key"
 last_modified_at: 2023-07-21

@@ -1,5 +1,5 @@
 ---
-title: "Item null"
+title: "null"
 permalink: /item/random_gem_green_65/
 excerpt: "Wing Fighter null"
 last_modified_at: 2023-07-21

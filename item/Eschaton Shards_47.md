@@ -1,5 +1,5 @@
 ---
-title: "Item Eschaton Shards"
+title: "Eschaton Shards"
 permalink: /item/Eschaton Shards_47/
 excerpt: "Wing Fighter Eschaton Shards"
 last_modified_at: 2023-07-21

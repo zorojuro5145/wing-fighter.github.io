@@ -1,5 +1,5 @@
 ---
-title: "Item Glacier Shards"
+title: "Glacier Shards"
 permalink: /item/Glacier Shards_33/
 excerpt: "Wing Fighter Glacier Shards"
 last_modified_at: 2023-07-21

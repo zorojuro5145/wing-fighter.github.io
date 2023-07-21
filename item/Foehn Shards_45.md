@@ -1,5 +1,5 @@
 ---
-title: "Item Foehn Shards"
+title: "Foehn Shards"
 permalink: /item/Foehn Shards_45/
 excerpt: "Wing Fighter Foehn Shards"
 last_modified_at: 2023-07-21

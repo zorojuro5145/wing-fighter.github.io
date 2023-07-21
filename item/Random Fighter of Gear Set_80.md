@@ -1,5 +1,5 @@
 ---
-title: "Item Random Fighter of Gear Set"
+title: "Random Fighter of Gear Set"
 permalink: /item/Random Fighter of Gear Set_80/
 excerpt: "Wing Fighter Random Fighter of Gear Set"
 last_modified_at: 2023-07-21

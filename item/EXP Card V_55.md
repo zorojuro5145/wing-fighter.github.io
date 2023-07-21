@@ -1,5 +1,5 @@
 ---
-title: "Item EXP Card V"
+title: "EXP Card V"
 permalink: /item/EXP Card V_55/
 excerpt: "Wing Fighter EXP Card V"
 last_modified_at: 2023-07-21

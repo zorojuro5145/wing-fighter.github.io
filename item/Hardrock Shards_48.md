@@ -1,5 +1,5 @@
 ---
-title: "Item Hardrock Shards"
+title: "Hardrock Shards"
 permalink: /item/Hardrock Shards_48/
 excerpt: "Wing Fighter Hardrock Shards"
 last_modified_at: 2023-07-21

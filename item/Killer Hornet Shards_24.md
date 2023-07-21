@@ -1,5 +1,5 @@
 ---
-title: "Item Killer Hornet Shards"
+title: "Killer Hornet Shards"
 permalink: /item/Killer Hornet Shards_24/
 excerpt: "Wing Fighter Killer Hornet Shards"
 last_modified_at: 2023-07-21

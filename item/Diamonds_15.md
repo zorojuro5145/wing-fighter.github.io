@@ -1,5 +1,5 @@
 ---
-title: "Item Diamonds"
+title: "Diamonds"
 permalink: /item/Diamonds_15/
 excerpt: "Wing Fighter Diamonds"
 last_modified_at: 2023-07-21

@@ -1,5 +1,5 @@
 ---
-title: "Item Random Epic Equipment"
+title: "Random Epic Equipment"
 permalink: /item/Random Epic Equipment_84/
 excerpt: "Wing Fighter Random Epic Equipment"
 last_modified_at: 2023-07-21

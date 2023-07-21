@@ -1,5 +1,5 @@
 ---
-title: "Item Random Modules"
+title: "Random Modules"
 permalink: /item/Random Modules_71/
 excerpt: "Wing Fighter Random Modules"
 last_modified_at: 2023-07-21

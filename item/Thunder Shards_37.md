@@ -1,5 +1,5 @@
 ---
-title: "Item Thunder Shards"
+title: "Thunder Shards"
 permalink: /item/Thunder Shards_37/
 excerpt: "Wing Fighter Thunder Shards"
 last_modified_at: 2023-07-21

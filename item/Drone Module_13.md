@@ -1,5 +1,5 @@
 ---
-title: "Item Drone Module"
+title: "Drone Module"
 permalink: /item/Drone Module_13/
 excerpt: "Wing Fighter Drone Module"
 last_modified_at: 2023-07-21

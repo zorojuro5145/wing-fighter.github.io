@@ -1,5 +1,5 @@
 ---
-title: "Item Crimson Dragon Shards"
+title: "Crimson Dragon Shards"
 permalink: /item/Crimson Dragon Shards_23/
 excerpt: "Wing Fighter Crimson Dragon Shards"
 last_modified_at: 2023-07-21

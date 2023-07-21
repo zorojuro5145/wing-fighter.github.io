@@ -1,5 +1,5 @@
 ---
-title: "Item Stars"
+title: "Stars"
 permalink: /item/Stars_2/
 excerpt: "Wing Fighter Stars"
 last_modified_at: 2023-07-21

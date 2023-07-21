@@ -1,5 +1,5 @@
 ---
-title: "Item Phoenix Shards"
+title: "Phoenix Shards"
 permalink: /item/Phoenix Shards_43/
 excerpt: "Wing Fighter Phoenix Shards"
 last_modified_at: 2023-07-21

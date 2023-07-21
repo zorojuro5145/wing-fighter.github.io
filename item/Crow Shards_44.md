@@ -1,5 +1,5 @@
 ---
-title: "Item Crow Shards"
+title: "Crow Shards"
 permalink: /item/Crow Shards_44/
 excerpt: "Wing Fighter Crow Shards"
 last_modified_at: 2023-07-21

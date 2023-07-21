@@ -1,5 +1,5 @@
 ---
-title: "Item Epic Equipment Crate Key"
+title: "Epic Equipment Crate Key"
 permalink: /item/Epic Equipment Crate Key_28/
 excerpt: "Wing Fighter Epic Equipment Crate Key"
 last_modified_at: 2023-07-21

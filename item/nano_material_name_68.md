@@ -1,5 +1,5 @@
 ---
-title: "Item null"
+title: "null"
 permalink: /item/nano_material_name_68/
 excerpt: "Wing Fighter null"
 last_modified_at: 2023-07-21
