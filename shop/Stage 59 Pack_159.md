@@ -26,6 +26,8 @@ classes: wide
 
  **Discount: +600%** 
 
+
+
 ## Items in Drop:
 
   |  Nr | Item Amount  |       Item       |

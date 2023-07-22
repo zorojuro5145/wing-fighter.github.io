@@ -22,6 +22,8 @@ classes: wide
 
  **Active:** + 
 
+
+
 ## Drop
 
   |  Nr | Drop Rate, %  |    Drop Item     |
@@ -30,6 +32,8 @@ classes: wide
   | 2 | 34.0 | <span style="color: #c7c7c7">2-Star Gem</span><br/><span style="color: #ffffff;"></span> | 
   | 3 | 12.0 | <span style="color: #c7c7c7">3-Star Gem</span><br/><span style="color: #ffffff;"></span> | 
   | 4 | 3.0 | <span style="color: #c7c7c7">4-Star Gem</span><br/><span style="color: #ffffff;"></span> | 
+
+
 ## Items in Drop:
 
   |  Nr | Item Amount  |       Item       |

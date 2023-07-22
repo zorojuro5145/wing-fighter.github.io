@@ -22,6 +22,8 @@ classes: wide
 
  **Active:** + 
 
+
+
 ## Drop
 
   |  Nr | Drop Rate, %  |    Drop Item     |
@@ -42,6 +44,8 @@ classes: wide
   | 14 | 3.0 | <span style="color: #c7c7c7">Alloy Plate×5</span><br/><span style="color: #ffffff;"></span> | 
   | 15 | 3.0 | <span style="color: #c7c7c7">Star×2000</span><br/><span style="color: #ffffff;"></span> | 
   | 16 | 3.0 | <span style="color: #c7c7c7">Star×1000</span><br/><span style="color: #ffffff;"></span> | 
+
+
 ## Items in Drop:
 
   |  Nr | Item Amount  |       Item       |

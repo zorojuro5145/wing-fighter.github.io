@@ -22,6 +22,8 @@ classes: wide
 
  **Active:** - 
 
+
+
 ## Items in Drop:
 
   |  Nr | Item Amount  |       Item       |
