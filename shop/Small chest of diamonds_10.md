@@ -2,7 +2,7 @@
 title: "Shop Small chest of diamonds"
 permalink: /shop/Small chest of diamonds_10/
 excerpt: "Wing Fighter Small chest of diamonds"
-last_modified_at: 2023-07-16
+last_modified_at: 2023-07-22
 locale: en
 ref: "Small chest of diamonds_10.md"
 toc: false
@@ -25,7 +25,5 @@ classes: wide
  **Price:** 49.99 $/EUR 
 
  **Discount: +50%** 
-
-## Drop
 
 

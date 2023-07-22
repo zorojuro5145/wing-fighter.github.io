@@ -2,7 +2,7 @@
 title: "Shop 24h Reward"
 permalink: /shop/24h Reward_13/
 excerpt: "Wing Fighter 24h Reward"
-last_modified_at: 2023-07-16
+last_modified_at: 2023-07-22
 locale: en
 ref: "24h Reward_13.md"
 toc: false
@@ -23,7 +23,5 @@ classes: wide
  **Active:** - 
 
  **Idle time:** 24 hours 
-
-## Drop
 
 

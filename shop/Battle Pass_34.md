@@ -2,7 +2,7 @@
 title: "Shop Battle Pass"
 permalink: /shop/Battle Pass_34/
 excerpt: "Wing Fighter Battle Pass"
-last_modified_at: 2023-07-16
+last_modified_at: 2023-07-22
 locale: en
 ref: "Battle Pass_34.md"
 toc: false
@@ -25,7 +25,5 @@ classes: wide
  **Price:** 19.99 $/EUR 
 
  **Discount: X16** 
-
-## Drop
 
 

@@ -2,7 +2,7 @@
 title: "null"
 permalink: /item/fuel_name_69/
 excerpt: "Wing Fighter null"
-last_modified_at: 2023-07-21
+last_modified_at: 2023-07-22
 locale: en
 ref: "fuel_name_69.md"
 toc: false

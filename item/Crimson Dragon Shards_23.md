@@ -2,7 +2,7 @@
 title: "Crimson Dragon Shards"
 permalink: /item/Crimson Dragon Shards_23/
 excerpt: "Wing Fighter Crimson Dragon Shards"
-last_modified_at: 2023-07-21
+last_modified_at: 2023-07-22
 locale: en
 ref: "Crimson Dragon Shards_23.md"
 toc: false

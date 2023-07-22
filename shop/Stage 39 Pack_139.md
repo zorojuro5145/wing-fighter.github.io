@@ -2,7 +2,7 @@
 title: "Shop Stage 39 Pack"
 permalink: /shop/Stage 39 Pack_139/
 excerpt: "Wing Fighter Stage 39 Pack"
-last_modified_at: 2023-07-16
+last_modified_at: 2023-07-22
 locale: en
 ref: "Stage 39 Pack_139.md"
 toc: false
@@ -26,6 +26,12 @@ classes: wide
 
  **Discount: +600%** 
 
-## Drop
+## Items in Drop:
 
+  |  Nr | Item Amount  |       Item       |
+  |:----|:------------:|:-----------------|
+  | 1 | **6500**  | ![Diamonds](/images/item/Diamonds_p.png) [Diamonds](/item/Diamonds_15/) | 
+  | 2 | **500000**  | ![Stars](/images/item/Stars_p.png) [Stars](/item/Stars_2/) | 
+  | 3 | **75**  | ![Fighter Crate Key](/images/item/Fighter_Crate_Key_p.png) [Fighter Crate Key](/item/Fighter Crate Key_30/) | 
+  | 4 | **300**  | ![Alloy Plate](/images/item/Alloy_Plate_p.png) [Alloy Plate](/item/Alloy Plate_20/) | 
 

@@ -2,7 +2,7 @@
 title: "Shop 5h Reward"
 permalink: /shop/5h Reward_39/
 excerpt: "Wing Fighter 5h Reward"
-last_modified_at: 2023-07-16
+last_modified_at: 2023-07-22
 locale: en
 ref: "5h Reward_39.md"
 toc: false
@@ -21,7 +21,5 @@ classes: wide
  **Shop Type:** [Stars](/shop/Shop Stars/)
 
  **Active:** + 
-
-## Drop
 
 

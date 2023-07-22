@@ -2,7 +2,7 @@
 title: "Shop Overload ×1"
 permalink: /shop/Overload ×1_36/
 excerpt: "Wing Fighter Overload ×1"
-last_modified_at: 2023-07-16
+last_modified_at: 2023-07-22
 locale: en
 ref: "Overload ×1_36.md"
 toc: false
@@ -23,7 +23,5 @@ classes: wide
  **Active:** + 
 
  **Price:** 1.99 $/EUR 
-
-## Drop
 
 

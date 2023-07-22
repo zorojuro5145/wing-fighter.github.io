@@ -2,7 +2,7 @@
 title: "Glacier Shards"
 permalink: /item/Glacier Shards_33/
 excerpt: "Wing Fighter Glacier Shards"
-last_modified_at: 2023-07-21
+last_modified_at: 2023-07-22
 locale: en
 ref: "Glacier Shards_33.md"
 toc: false

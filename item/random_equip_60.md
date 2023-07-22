@@ -2,7 +2,7 @@
 title: "null"
 permalink: /item/random_equip_60/
 excerpt: "Wing Fighter null"
-last_modified_at: 2023-07-21
+last_modified_at: 2023-07-22
 locale: en
 ref: "random_equip_60.md"
 toc: false

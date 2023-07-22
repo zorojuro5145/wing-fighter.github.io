@@ -2,7 +2,7 @@
 title: "Shop"
 permalink: /shop/
 excerpt: "Wing Fighter Shop"
-last_modified_at: 2023-07-16
+last_modified_at: 2023-07-22
 locale: en
 ref: "index.md"
 toc: false

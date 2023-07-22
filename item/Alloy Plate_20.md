@@ -2,7 +2,7 @@
 title: "Alloy Plate"
 permalink: /item/Alloy Plate_20/
 excerpt: "Wing Fighter Alloy Plate"
-last_modified_at: 2023-07-21
+last_modified_at: 2023-07-22
 locale: en
 ref: "Alloy Plate_20.md"
 toc: false

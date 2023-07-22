@@ -2,7 +2,7 @@
 title: "Shop Free Pack"
 permalink: /shop/Free Pack_35/
 excerpt: "Wing Fighter Free Pack"
-last_modified_at: 2023-07-16
+last_modified_at: 2023-07-22
 locale: en
 ref: "Free Pack_35.md"
 toc: false
@@ -23,7 +23,5 @@ classes: wide
  **Active:** + 
 
  **Discount: +200%** 
-
-## Drop
 
 

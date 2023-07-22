@@ -2,7 +2,7 @@
 title: "Diamonds"
 permalink: /item/Diamonds_15/
 excerpt: "Wing Fighter Diamonds"
-last_modified_at: 2023-07-21
+last_modified_at: 2023-07-22
 locale: en
 ref: "Diamonds_15.md"
 toc: false

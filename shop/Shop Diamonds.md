@@ -2,7 +2,7 @@
 title: "Shop Diamonds"
 permalink: /shop/Shop Diamonds/
 excerpt: "Wing Fighter Diamonds"
-last_modified_at: 2023-07-16
+last_modified_at: 2023-07-22
 locale: en
 ref: "Shop Diamonds.md"
 toc: false

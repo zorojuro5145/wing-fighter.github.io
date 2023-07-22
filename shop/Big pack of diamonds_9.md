@@ -2,7 +2,7 @@
 title: "Shop Big pack of diamonds"
 permalink: /shop/Big pack of diamonds_9/
 excerpt: "Wing Fighter Big pack of diamonds"
-last_modified_at: 2023-07-16
+last_modified_at: 2023-07-22
 locale: en
 ref: "Big pack of diamonds_9.md"
 toc: false
@@ -25,7 +25,5 @@ classes: wide
  **Price:** 19.99 $/EUR 
 
  **Discount: +50%** 
-
-## Drop
 
 

@@ -2,7 +2,7 @@
 title: "Random SR Fighter Shard"
 permalink: /item/Random SR Fighter Shard_58/
 excerpt: "Wing Fighter Random SR Fighter Shard"
-last_modified_at: 2023-07-21
+last_modified_at: 2023-07-22
 locale: en
 ref: "Random SR Fighter Shard_58.md"
 toc: false

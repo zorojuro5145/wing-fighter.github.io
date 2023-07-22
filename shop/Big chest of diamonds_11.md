@@ -2,7 +2,7 @@
 title: "Shop Big chest of diamonds"
 permalink: /shop/Big chest of diamonds_11/
 excerpt: "Wing Fighter Big chest of diamonds"
-last_modified_at: 2023-07-16
+last_modified_at: 2023-07-22
 locale: en
 ref: "Big chest of diamonds_11.md"
 toc: false
@@ -25,7 +25,5 @@ classes: wide
  **Price:** 99.99 $/EUR 
 
  **Discount: +75%** 
-
-## Drop
 
 

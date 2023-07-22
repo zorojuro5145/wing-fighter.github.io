@@ -2,7 +2,7 @@
 title: "Shop Ad-free (Permanent)"
 permalink: /shop/Ad-free (Permanent)_5/
 excerpt: "Wing Fighter Ad-free (Permanent)"
-last_modified_at: 2023-07-16
+last_modified_at: 2023-07-22
 locale: en
 ref: "Ad-free (Permanent)_5.md"
 toc: false
@@ -23,7 +23,5 @@ classes: wide
  **Active:** + 
 
  **Price:** 29.99 $/EUR 
-
-## Drop
 
 

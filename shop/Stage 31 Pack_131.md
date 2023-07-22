@@ -2,7 +2,7 @@
 title: "Shop Stage 31 Pack"
 permalink: /shop/Stage 31 Pack_131/
 excerpt: "Wing Fighter Stage 31 Pack"
-last_modified_at: 2023-07-16
+last_modified_at: 2023-07-22
 locale: en
 ref: "Stage 31 Pack_131.md"
 toc: false
@@ -26,6 +26,12 @@ classes: wide
 
  **Discount: +600%** 
 
-## Drop
+## Items in Drop:
 
+  |  Nr | Item Amount  |       Item       |
+  |:----|:------------:|:-----------------|
+  | 1 | **3700**  | ![Diamonds](/images/item/Diamonds_p.png) [Diamonds](/item/Diamonds_15/) | 
+  | 2 | **300000**  | ![Stars](/images/item/Stars_p.png) [Stars](/item/Stars_2/) | 
+  | 3 | **45**  | ![Fighter Crate Key](/images/item/Fighter_Crate_Key_p.png) [Fighter Crate Key](/item/Fighter Crate Key_30/) | 
+  | 4 | **250**  | ![Alloy Plate](/images/item/Alloy_Plate_p.png) [Alloy Plate](/item/Alloy Plate_20/) | 
 

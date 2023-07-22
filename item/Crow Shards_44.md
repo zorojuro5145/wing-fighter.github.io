@@ -2,7 +2,7 @@
 title: "Crow Shards"
 permalink: /item/Crow Shards_44/
 excerpt: "Wing Fighter Crow Shards"
-last_modified_at: 2023-07-21
+last_modified_at: 2023-07-22
 locale: en
 ref: "Crow Shards_44.md"
 toc: false

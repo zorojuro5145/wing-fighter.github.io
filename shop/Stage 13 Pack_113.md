@@ -2,7 +2,7 @@
 title: "Shop Stage 13 Pack"
 permalink: /shop/Stage 13 Pack_113/
 excerpt: "Wing Fighter Stage 13 Pack"
-last_modified_at: 2023-07-16
+last_modified_at: 2023-07-22
 locale: en
 ref: "Stage 13 Pack_113.md"
 toc: false
@@ -26,6 +26,12 @@ classes: wide
 
  **Discount: +600%** 
 
-## Drop
+## Items in Drop:
 
+  |  Nr | Item Amount  |       Item       |
+  |:----|:------------:|:-----------------|
+  | 1 | **1800**  | ![Diamonds](/images/item/Diamonds_p.png) [Diamonds](/item/Diamonds_15/) | 
+  | 2 | **80000**  | ![Stars](/images/item/Stars_p.png) [Stars](/item/Stars_2/) | 
+  | 3 | **25**  | ![Fighter Crate Key](/images/item/Fighter_Crate_Key_p.png) [Fighter Crate Key](/item/Fighter Crate Key_30/) | 
+  | 4 | **100**  | ![Alloy Plate](/images/item/Alloy_Plate_p.png) [Alloy Plate](/item/Alloy Plate_20/) | 
 

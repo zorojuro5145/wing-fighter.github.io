@@ -2,7 +2,7 @@
 title: "Shop Super Chest×10"
 permalink: /shop/Super Chest×10_22/
 excerpt: "Wing Fighter Super Chest×10"
-last_modified_at: 2023-07-16
+last_modified_at: 2023-07-22
 locale: en
 ref: "Super Chest×10_22.md"
 toc: false
@@ -43,4 +43,133 @@ classes: wide
   | 15 | 3.0 | <span style="color: #c7c7c7">Alloy Plate×15</span><br/><span style="color: #ffffff;"></span> | 
   | 16 | 3.0 | <span style="color: #c7c7c7">Star×8000</span><br/><span style="color: #ffffff;"></span> | 
   | 17 | 3.0 | <span style="color: #c7c7c7">Star×4000</span><br/><span style="color: #ffffff;"></span> | 
+## Items in Drop:
+
+  |  Nr | Item Amount  |       Item       |
+  |:----|:------------:|:-----------------|
+  | 1 | **0**  | fighter:5, level = 1 | 
+  | 2 | **0**  | fighter:7, level = 1 | 
+  | 3 | **0**  | fighter:16, level = 1 | 
+  | 4 | **0**  | fighter:21, level = 1 | 
+  | 5 | **0**  | fighter:3, level = 1 | 
+  | 6 | **0**  | fighter:6, level = 1 | 
+  | 7 | **0**  | fighter:8, level = 1 | 
+  | 8 | **0**  | fighter:9, level = 1 | 
+  | 9 | **0**  | fighter:10, level = 1 | 
+  | 10 | **0**  | fighter:11, level = 1 | 
+  | 11 | **0**  | fighter:12, level = 1 | 
+  | 12 | **0**  | fighter:13, level = 1 | 
+  | 13 | **0**  | fighter:14, level = 1 | 
+  | 14 | **0**  | fighter:17, level = 1 | 
+  | 15 | **0**  | fighter:18, level = 1 | 
+  | 16 | **0**  | fighter:19, level = 1 | 
+  | 17 | **0**  | fighter:20, level = 1 | 
+  | 18 | **0**  | fighter:2, level = 1 | 
+  | 19 | **0**  | fighter:4, level = 1 | 
+  | 20 | **0**  | fighter:1, level = 1 | 
+  | 21 | **1**  | equipment:100, level = 1, gr=4 | 
+  | 22 | **1**  | equipment:101, level = 1, gr=4 | 
+  | 23 | **1**  | equipment:102, level = 1, gr=4 | 
+  | 24 | **1**  | equipment:103, level = 1, gr=4 | 
+  | 25 | **1**  | equipment:104, level = 1, gr=4 | 
+  | 26 | **1**  | equipment:110, level = 1, gr=4 | 
+  | 27 | **1**  | equipment:111, level = 1, gr=4 | 
+  | 28 | **1**  | equipment:112, level = 1, gr=4 | 
+  | 29 | **1**  | equipment:113, level = 1, gr=4 | 
+  | 30 | **1**  | equipment:114, level = 1, gr=4 | 
+  | 31 | **1**  | equipment:120, level = 1, gr=4 | 
+  | 32 | **1**  | equipment:121, level = 1, gr=4 | 
+  | 33 | **1**  | equipment:122, level = 1, gr=4 | 
+  | 34 | **1**  | equipment:123, level = 1, gr=4 | 
+  | 35 | **1**  | equipment:130, level = 1, gr=4 | 
+  | 36 | **1**  | equipment:131, level = 1, gr=4 | 
+  | 37 | **1**  | equipment:132, level = 1, gr=4 | 
+  | 38 | **1**  | equipment:133, level = 1, gr=4 | 
+  | 39 | **1**  | equipment:134, level = 1, gr=4 | 
+  | 40 | **1**  | equipment:151, level = 1, gr=4 | 
+  | 41 | **1**  | equipment:152, level = 1, gr=4 | 
+  | 42 | **5**  | ![Phantom Shards](/images/item/Phantom_Shards_p.png) [Phantom Shards](/item/Phantom Shards_32/) | 
+  | 43 | **5**  | ![Syren Shards](/images/item/Syren_Shards_p.png) [Syren Shards](/item/Syren Shards_34/) | 
+  | 44 | **5**  | ![Crow Shards](/images/item/Crow_Shards_p.png) [Crow Shards](/item/Crow Shards_44/) | 
+  | 45 | **5**  | ![Thane Shards](/images/item/Thane_Shards_p.png) [Thane Shards](/item/Thane Shards_49/) | 
+  | 46 | **5**  | ![Killer Hornet Shards](/images/item/Killer_Hornet_Shards_p.png) [Killer Hornet Shards](/item/Killer Hornet Shards_24/) | 
+  | 47 | **5**  | ![Glacier Shards](/images/item/Glacier_Shards_p.png) [Glacier Shards](/item/Glacier Shards_33/) | 
+  | 48 | **5**  | ![WindTunnel Shards](/images/item/WindTunnel_Shards_p.png) [WindTunnel Shards](/item/WindTunnel Shards_36/) | 
+  | 49 | **5**  | ![Thunder Shards](/images/item/Thunder_Shards_p.png) [Thunder Shards](/item/Thunder Shards_37/) | 
+  | 50 | **5**  | ![Totem Shards](/images/item/Totem_Shards_p.png) [Totem Shards](/item/Totem Shards_38/) | 
+  | 51 | **5**  | ![NightWing Shards](/images/item/NightWing_Shards_p.png) [NightWing Shards](/item/NightWing Shards_39/) | 
+  | 52 | **5**  | ![Rock Shards](/images/item/Rock_Shards_p.png) [Rock Shards](/item/Rock Shards_40/) | 
+  | 53 | **5**  | ![Rattlesnake Shards](/images/item/Rattlesnake_Shards_p.png) [Rattlesnake Shards](/item/Rattlesnake Shards_41/) | 
+  | 54 | **5**  | ![Arrow Shards](/images/item/Arrow_Shards_p.png) [Arrow Shards](/item/Arrow Shards_42/) | 
+  | 55 | **5**  | ![Foehn Shards](/images/item/Foehn_Shards_p.png) [Foehn Shards](/item/Foehn Shards_45/) | 
+  | 56 | **5**  | ![Flash Shards](/images/item/Flash_Shards_p.png) [Flash Shards](/item/Flash Shards_46/) | 
+  | 57 | **5**  | ![Eschaton Shards](/images/item/Eschaton_Shards_p.png) [Eschaton Shards](/item/Eschaton Shards_47/) | 
+  | 58 | **5**  | ![Hardrock Shards](/images/item/Hardrock_Shards_p.png) [Hardrock Shards](/item/Hardrock Shards_48/) | 
+  | 59 | **5**  | ![Crimson Dragon Shards](/images/item/Crimson_Dragon_Shards_p.png) [Crimson Dragon Shards](/item/Crimson Dragon Shards_23/) | 
+  | 60 | **5**  | ![Inferno Shards](/images/item/Inferno_Shards_p.png) [Inferno Shards](/item/Inferno Shards_26/) | 
+  | 61 | **5**  | ![Red Phantom Shards](/images/item/Red_Phantom_Shards_p.png) [Red Phantom Shards](/item/Red Phantom Shards_22/) | 
+  | 62 | **1**  | equipment:100, level = 1, gr=3 | 
+  | 63 | **1**  | equipment:101, level = 1, gr=3 | 
+  | 64 | **1**  | equipment:102, level = 1, gr=3 | 
+  | 65 | **1**  | equipment:103, level = 1, gr=3 | 
+  | 66 | **1**  | equipment:104, level = 1, gr=3 | 
+  | 67 | **1**  | equipment:110, level = 1, gr=3 | 
+  | 68 | **1**  | equipment:111, level = 1, gr=3 | 
+  | 69 | **1**  | equipment:112, level = 1, gr=3 | 
+  | 70 | **1**  | equipment:113, level = 1, gr=3 | 
+  | 71 | **1**  | equipment:114, level = 1, gr=3 | 
+  | 72 | **1**  | equipment:120, level = 1, gr=3 | 
+  | 73 | **1**  | equipment:121, level = 1, gr=3 | 
+  | 74 | **1**  | equipment:122, level = 1, gr=3 | 
+  | 75 | **1**  | equipment:123, level = 1, gr=3 | 
+  | 76 | **1**  | equipment:130, level = 1, gr=3 | 
+  | 77 | **1**  | equipment:131, level = 1, gr=3 | 
+  | 78 | **1**  | equipment:132, level = 1, gr=3 | 
+  | 79 | **1**  | equipment:133, level = 1, gr=3 | 
+  | 80 | **1**  | equipment:134, level = 1, gr=3 | 
+  | 81 | **1**  | equipment:151, level = 1, gr=3 | 
+  | 82 | **1**  | equipment:152, level = 1, gr=3 | 
+  | 83 | **2**  | ![Phantom Shards](/images/item/Phantom_Shards_p.png) [Phantom Shards](/item/Phantom Shards_32/) | 
+  | 84 | **2**  | ![Syren Shards](/images/item/Syren_Shards_p.png) [Syren Shards](/item/Syren Shards_34/) | 
+  | 85 | **2**  | ![Crow Shards](/images/item/Crow_Shards_p.png) [Crow Shards](/item/Crow Shards_44/) | 
+  | 86 | **2**  | ![Thane Shards](/images/item/Thane_Shards_p.png) [Thane Shards](/item/Thane Shards_49/) | 
+  | 87 | **2**  | ![Killer Hornet Shards](/images/item/Killer_Hornet_Shards_p.png) [Killer Hornet Shards](/item/Killer Hornet Shards_24/) | 
+  | 88 | **2**  | ![Glacier Shards](/images/item/Glacier_Shards_p.png) [Glacier Shards](/item/Glacier Shards_33/) | 
+  | 89 | **2**  | ![WindTunnel Shards](/images/item/WindTunnel_Shards_p.png) [WindTunnel Shards](/item/WindTunnel Shards_36/) | 
+  | 90 | **2**  | ![Thunder Shards](/images/item/Thunder_Shards_p.png) [Thunder Shards](/item/Thunder Shards_37/) | 
+  | 91 | **2**  | ![Totem Shards](/images/item/Totem_Shards_p.png) [Totem Shards](/item/Totem Shards_38/) | 
+  | 92 | **2**  | ![NightWing Shards](/images/item/NightWing_Shards_p.png) [NightWing Shards](/item/NightWing Shards_39/) | 
+  | 93 | **2**  | ![Rock Shards](/images/item/Rock_Shards_p.png) [Rock Shards](/item/Rock Shards_40/) | 
+  | 94 | **2**  | ![Rattlesnake Shards](/images/item/Rattlesnake_Shards_p.png) [Rattlesnake Shards](/item/Rattlesnake Shards_41/) | 
+  | 95 | **2**  | ![Arrow Shards](/images/item/Arrow_Shards_p.png) [Arrow Shards](/item/Arrow Shards_42/) | 
+  | 96 | **2**  | ![Foehn Shards](/images/item/Foehn_Shards_p.png) [Foehn Shards](/item/Foehn Shards_45/) | 
+  | 97 | **2**  | ![Flash Shards](/images/item/Flash_Shards_p.png) [Flash Shards](/item/Flash Shards_46/) | 
+  | 98 | **2**  | ![Eschaton Shards](/images/item/Eschaton_Shards_p.png) [Eschaton Shards](/item/Eschaton Shards_47/) | 
+  | 99 | **2**  | ![Hardrock Shards](/images/item/Hardrock_Shards_p.png) [Hardrock Shards](/item/Hardrock Shards_48/) | 
+  | 100 | **2**  | ![Crimson Dragon Shards](/images/item/Crimson_Dragon_Shards_p.png) [Crimson Dragon Shards](/item/Crimson Dragon Shards_23/) | 
+  | 101 | **2**  | ![Inferno Shards](/images/item/Inferno_Shards_p.png) [Inferno Shards](/item/Inferno Shards_26/) | 
+  | 102 | **2**  | ![Red Phantom Shards](/images/item/Red_Phantom_Shards_p.png) [Red Phantom Shards](/item/Red Phantom Shards_22/) | 
+  | 103 | **1**  | equipment:100, level = 1, gr=2 | 
+  | 104 | **1**  | equipment:101, level = 1, gr=2 | 
+  | 105 | **1**  | equipment:102, level = 1, gr=2 | 
+  | 106 | **1**  | equipment:103, level = 1, gr=2 | 
+  | 107 | **1**  | equipment:104, level = 1, gr=2 | 
+  | 108 | **1**  | equipment:110, level = 1, gr=2 | 
+  | 109 | **1**  | equipment:111, level = 1, gr=2 | 
+  | 110 | **1**  | equipment:112, level = 1, gr=2 | 
+  | 111 | **1**  | equipment:113, level = 1, gr=2 | 
+  | 112 | **1**  | equipment:114, level = 1, gr=2 | 
+  | 113 | **1**  | equipment:120, level = 1, gr=2 | 
+  | 114 | **1**  | equipment:121, level = 1, gr=2 | 
+  | 115 | **1**  | equipment:122, level = 1, gr=2 | 
+  | 116 | **1**  | equipment:123, level = 1, gr=2 | 
+  | 117 | **1**  | equipment:130, level = 1, gr=2 | 
+  | 118 | **1**  | equipment:131, level = 1, gr=2 | 
+  | 119 | **1**  | equipment:132, level = 1, gr=2 | 
+  | 120 | **1**  | equipment:133, level = 1, gr=2 | 
+  | 121 | **1**  | equipment:134, level = 1, gr=2 | 
+  | 122 | **1**  | equipment:151, level = 1, gr=2 | 
+  | 123 | **1**  | equipment:152, level = 1, gr=2 | 
+  | 124 | **20**  | ![Alloy Plate](/images/item/Alloy_Plate_p.png) [Alloy Plate](/item/Alloy Plate_20/) | 
+  | 125 | **10**  | ![Alloy Plate](/images/item/Alloy_Plate_p.png) [Alloy Plate](/item/Alloy Plate_20/) | 
 
