@@ -57,7 +57,7 @@ classes: wide
 
   |  Nr | Item Amount  |       Item       |
   |:----|:------------:|:-----------------|
-  | 1 | **0**  | fighter:101, level = 1 | 
+  | 1 | **1**  | fighter:101, star = 0 | 
   | 2 | **1**  | equipment:2001, level = 1, gr=4 | 
   | 3 | **1**  | equipment:2101, level = 1, gr=4 | 
   | 4 | **1**  | equipment:2201, level = 1, gr=4 | 
@@ -68,26 +68,26 @@ classes: wide
   | 9 | **1**  | equipment:2301, level = 1, gr=3 | 
   | 10 | **5**  | ![Conqueror Shard](/images/item/Conqueror_Shard_p.png) [Conqueror Shard](/item/Conqueror Shard_101/) | 
   | 11 | **2**  | ![Conqueror Shard](/images/item/Conqueror_Shard_p.png) [Conqueror Shard](/item/Conqueror Shard_101/) | 
-  | 12 | **0**  | fighter:5, level = 1 | 
-  | 13 | **0**  | fighter:7, level = 1 | 
-  | 14 | **0**  | fighter:16, level = 1 | 
-  | 15 | **0**  | fighter:21, level = 1 | 
-  | 16 | **0**  | fighter:3, level = 1 | 
-  | 17 | **0**  | fighter:6, level = 1 | 
-  | 18 | **0**  | fighter:8, level = 1 | 
-  | 19 | **0**  | fighter:9, level = 1 | 
-  | 20 | **0**  | fighter:10, level = 1 | 
-  | 21 | **0**  | fighter:11, level = 1 | 
-  | 22 | **0**  | fighter:12, level = 1 | 
-  | 23 | **0**  | fighter:13, level = 1 | 
-  | 24 | **0**  | fighter:14, level = 1 | 
-  | 25 | **0**  | fighter:17, level = 1 | 
-  | 26 | **0**  | fighter:18, level = 1 | 
-  | 27 | **0**  | fighter:19, level = 1 | 
-  | 28 | **0**  | fighter:20, level = 1 | 
-  | 29 | **0**  | fighter:2, level = 1 | 
-  | 30 | **0**  | fighter:4, level = 1 | 
-  | 31 | **0**  | fighter:1, level = 1 | 
+  | 12 | **1**  | fighter:5, star = 0 | 
+  | 13 | **1**  | fighter:7, star = 0 | 
+  | 14 | **1**  | fighter:16, star = 0 | 
+  | 15 | **1**  | fighter:21, star = 0 | 
+  | 16 | **1**  | fighter:3, star = 0 | 
+  | 17 | **1**  | fighter:6, star = 0 | 
+  | 18 | **1**  | fighter:8, star = 0 | 
+  | 19 | **1**  | fighter:9, star = 0 | 
+  | 20 | **1**  | fighter:10, star = 0 | 
+  | 21 | **1**  | fighter:11, star = 0 | 
+  | 22 | **1**  | fighter:12, star = 0 | 
+  | 23 | **1**  | fighter:13, star = 0 | 
+  | 24 | **1**  | fighter:14, star = 0 | 
+  | 25 | **1**  | fighter:17, star = 0 | 
+  | 26 | **1**  | fighter:18, star = 0 | 
+  | 27 | **1**  | fighter:19, star = 0 | 
+  | 28 | **1**  | fighter:20, star = 0 | 
+  | 29 | **1**  | fighter:2, star = 0 | 
+  | 30 | **1**  | fighter:4, star = 0 | 
+  | 31 | **1**  | fighter:1, star = 0 | 
   | 32 | **1**  | equipment:100, level = 1, gr=4 | 
   | 33 | **1**  | equipment:101, level = 1, gr=4 | 
   | 34 | **1**  | equipment:102, level = 1, gr=4 | 

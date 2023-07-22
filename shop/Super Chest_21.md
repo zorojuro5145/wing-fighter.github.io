@@ -51,26 +51,26 @@ classes: wide
 
   |  Nr | Item Amount  |       Item       |
   |:----|:------------:|:-----------------|
-  | 1 | **0**  | fighter:5, level = 1 | 
-  | 2 | **0**  | fighter:7, level = 1 | 
-  | 3 | **0**  | fighter:16, level = 1 | 
-  | 4 | **0**  | fighter:21, level = 1 | 
-  | 5 | **0**  | fighter:3, level = 1 | 
-  | 6 | **0**  | fighter:6, level = 1 | 
-  | 7 | **0**  | fighter:8, level = 1 | 
-  | 8 | **0**  | fighter:9, level = 1 | 
-  | 9 | **0**  | fighter:10, level = 1 | 
-  | 10 | **0**  | fighter:11, level = 1 | 
-  | 11 | **0**  | fighter:12, level = 1 | 
-  | 12 | **0**  | fighter:13, level = 1 | 
-  | 13 | **0**  | fighter:14, level = 1 | 
-  | 14 | **0**  | fighter:17, level = 1 | 
-  | 15 | **0**  | fighter:18, level = 1 | 
-  | 16 | **0**  | fighter:19, level = 1 | 
-  | 17 | **0**  | fighter:20, level = 1 | 
-  | 18 | **0**  | fighter:2, level = 1 | 
-  | 19 | **0**  | fighter:4, level = 1 | 
-  | 20 | **0**  | fighter:1, level = 1 | 
+  | 1 | **1**  | fighter:5, star = 0 | 
+  | 2 | **1**  | fighter:7, star = 0 | 
+  | 3 | **1**  | fighter:16, star = 0 | 
+  | 4 | **1**  | fighter:21, star = 0 | 
+  | 5 | **1**  | fighter:3, star = 0 | 
+  | 6 | **1**  | fighter:6, star = 0 | 
+  | 7 | **1**  | fighter:8, star = 0 | 
+  | 8 | **1**  | fighter:9, star = 0 | 
+  | 9 | **1**  | fighter:10, star = 0 | 
+  | 10 | **1**  | fighter:11, star = 0 | 
+  | 11 | **1**  | fighter:12, star = 0 | 
+  | 12 | **1**  | fighter:13, star = 0 | 
+  | 13 | **1**  | fighter:14, star = 0 | 
+  | 14 | **1**  | fighter:17, star = 0 | 
+  | 15 | **1**  | fighter:18, star = 0 | 
+  | 16 | **1**  | fighter:19, star = 0 | 
+  | 17 | **1**  | fighter:20, star = 0 | 
+  | 18 | **1**  | fighter:2, star = 0 | 
+  | 19 | **1**  | fighter:4, star = 0 | 
+  | 20 | **1**  | fighter:1, star = 0 | 
   | 21 | **1**  | equipment:100, level = 1, gr=4 | 
   | 22 | **1**  | equipment:101, level = 1, gr=4 | 
   | 23 | **1**  | equipment:102, level = 1, gr=4 | 

@@ -50,14 +50,14 @@ classes: wide
 
   |  Nr | Item Amount  |       Item       |
   |:----|:------------:|:-----------------|
-  | 1 | **0**  | fighter:3, level = 1 | 
-  | 2 | **0**  | fighter:9, level = 1 | 
-  | 3 | **0**  | fighter:10, level = 1 | 
-  | 4 | **0**  | fighter:13, level = 1 | 
-  | 5 | **0**  | fighter:19, level = 1 | 
-  | 6 | **0**  | fighter:2, level = 1 | 
-  | 7 | **0**  | fighter:4, level = 1 | 
-  | 8 | **0**  | fighter:1, level = 1 | 
+  | 1 | **1**  | fighter:3, star = 0 | 
+  | 2 | **1**  | fighter:9, star = 0 | 
+  | 3 | **1**  | fighter:10, star = 0 | 
+  | 4 | **1**  | fighter:13, star = 0 | 
+  | 5 | **1**  | fighter:19, star = 0 | 
+  | 6 | **1**  | fighter:2, star = 0 | 
+  | 7 | **1**  | fighter:4, star = 0 | 
+  | 8 | **1**  | fighter:1, star = 0 | 
   | 9 | **2**  | ![Phantom Shards](/images/item/Phantom_Shards_p.png) [Phantom Shards](/item/Phantom Shards_32/) | 
   | 10 | **2**  | ![Syren Shards](/images/item/Syren_Shards_p.png) [Syren Shards](/item/Syren Shards_34/) | 
   | 11 | **2**  | ![Crow Shards](/images/item/Crow_Shards_p.png) [Crow Shards](/item/Crow Shards_44/) | 
