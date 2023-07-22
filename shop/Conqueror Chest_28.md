@@ -57,7 +57,7 @@ classes: wide
 
   |  Nr | Item Amount  |       Item       |
   |:----|:------------:|:-----------------|
-  | 1 | **1**  | fighter:101, star = 0 | 
+  | 1 | **1**  | ![Conqueror](/images/ship/fj_img101.png) [Conqueror](/fighter/Conqueror) | 
   | 2 | **1**  | equipment:2001, level = 1, gr=4 | 
   | 3 | **1**  | equipment:2101, level = 1, gr=4 | 
   | 4 | **1**  | equipment:2201, level = 1, gr=4 | 
@@ -68,26 +68,26 @@ classes: wide
   | 9 | **1**  | equipment:2301, level = 1, gr=3 | 
   | 10 | **5**  | ![Conqueror Shard](/images/item/Conqueror_Shard_p.png) [Conqueror Shard](/item/Conqueror Shard_101/) | 
   | 11 | **2**  | ![Conqueror Shard](/images/item/Conqueror_Shard_p.png) [Conqueror Shard](/item/Conqueror Shard_101/) | 
-  | 12 | **1**  | fighter:5, star = 0 | 
-  | 13 | **1**  | fighter:7, star = 0 | 
-  | 14 | **1**  | fighter:16, star = 0 | 
-  | 15 | **1**  | fighter:21, star = 0 | 
-  | 16 | **1**  | fighter:3, star = 0 | 
-  | 17 | **1**  | fighter:6, star = 0 | 
-  | 18 | **1**  | fighter:8, star = 0 | 
-  | 19 | **1**  | fighter:9, star = 0 | 
-  | 20 | **1**  | fighter:10, star = 0 | 
-  | 21 | **1**  | fighter:11, star = 0 | 
-  | 22 | **1**  | fighter:12, star = 0 | 
-  | 23 | **1**  | fighter:13, star = 0 | 
-  | 24 | **1**  | fighter:14, star = 0 | 
-  | 25 | **1**  | fighter:17, star = 0 | 
-  | 26 | **1**  | fighter:18, star = 0 | 
-  | 27 | **1**  | fighter:19, star = 0 | 
-  | 28 | **1**  | fighter:20, star = 0 | 
-  | 29 | **1**  | fighter:2, star = 0 | 
-  | 30 | **1**  | fighter:4, star = 0 | 
-  | 31 | **1**  | fighter:1, star = 0 | 
+  | 12 | **1**  | ![Phantom](/images/ship/fj_img5.png) [Phantom](/fighter/Phantom) | 
+  | 13 | **1**  | ![Syren](/images/ship/fj_img7.png) [Syren](/fighter/Syren) | 
+  | 14 | **1**  | ![Crow](/images/ship/fj_img16.png) [Crow](/fighter/Crow) | 
+  | 15 | **1**  | ![Thane](/images/ship/fj_img21.png) [Thane](/fighter/Thane) | 
+  | 16 | **1**  | ![Killer Hornet](/images/ship/fj_img3.png) [Killer Hornet](/fighter/Killer Hornet) | 
+  | 17 | **1**  | ![Glacier](/images/ship/fj_img6.png) [Glacier](/fighter/Glacier) | 
+  | 18 | **1**  | ![WindTunnel](/images/ship/fj_img8.png) [WindTunnel](/fighter/WindTunnel) | 
+  | 19 | **1**  | ![Thunder](/images/ship/fj_img9.png) [Thunder](/fighter/Thunder) | 
+  | 20 | **1**  | ![Totem](/images/ship/fj_img10.png) [Totem](/fighter/Totem) | 
+  | 21 | **1**  | ![NightWing](/images/ship/fj_img11.png) [NightWing](/fighter/NightWing) | 
+  | 22 | **1**  | ![Rock](/images/ship/fj_img12.png) [Rock](/fighter/Rock) | 
+  | 23 | **1**  | ![Rattlesnake](/images/ship/fj_img13.png) [Rattlesnake](/fighter/Rattlesnake) | 
+  | 24 | **1**  | ![Arrow](/images/ship/fj_img14.png) [Arrow](/fighter/Arrow) | 
+  | 25 | **1**  | ![Foehn](/images/ship/fj_img17.png) [Foehn](/fighter/Foehn) | 
+  | 26 | **1**  | ![Flash](/images/ship/fj_img18.png) [Flash](/fighter/Flash) | 
+  | 27 | **1**  | ![Eschaton](/images/ship/fj_img19.png) [Eschaton](/fighter/Eschaton) | 
+  | 28 | **1**  | ![Hardrock](/images/ship/fj_img20.png) [Hardrock](/fighter/Hardrock) | 
+  | 29 | **1**  | ![Crimson Dragon](/images/ship/fj_img2.png) [Crimson Dragon](/fighter/Crimson Dragon) | 
+  | 30 | **1**  | ![Inferno](/images/ship/fj_img4.png) [Inferno](/fighter/Inferno) | 
+  | 31 | **1**  | ![Red Phantom](/images/ship/fj_img1.png) [Red Phantom](/fighter/Red Phantom) | 
   | 32 | **1**  | equipment:100, level = 1, gr=4 | 
   | 33 | **1**  | equipment:101, level = 1, gr=4 | 
   | 34 | **1**  | equipment:102, level = 1, gr=4 | 

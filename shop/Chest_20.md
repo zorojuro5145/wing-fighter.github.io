@@ -50,14 +50,14 @@ classes: wide
 
   |  Nr | Item Amount  |       Item       |
   |:----|:------------:|:-----------------|
-  | 1 | **1**  | fighter:3, star = 0 | 
-  | 2 | **1**  | fighter:9, star = 0 | 
-  | 3 | **1**  | fighter:10, star = 0 | 
-  | 4 | **1**  | fighter:13, star = 0 | 
-  | 5 | **1**  | fighter:19, star = 0 | 
-  | 6 | **1**  | fighter:2, star = 0 | 
-  | 7 | **1**  | fighter:4, star = 0 | 
-  | 8 | **1**  | fighter:1, star = 0 | 
+  | 1 | **1**  | ![Killer Hornet](/images/ship/fj_img3.png) [Killer Hornet](/fighter/Killer Hornet) | 
+  | 2 | **1**  | ![Thunder](/images/ship/fj_img9.png) [Thunder](/fighter/Thunder) | 
+  | 3 | **1**  | ![Totem](/images/ship/fj_img10.png) [Totem](/fighter/Totem) | 
+  | 4 | **1**  | ![Rattlesnake](/images/ship/fj_img13.png) [Rattlesnake](/fighter/Rattlesnake) | 
+  | 5 | **1**  | ![Eschaton](/images/ship/fj_img19.png) [Eschaton](/fighter/Eschaton) | 
+  | 6 | **1**  | ![Crimson Dragon](/images/ship/fj_img2.png) [Crimson Dragon](/fighter/Crimson Dragon) | 
+  | 7 | **1**  | ![Inferno](/images/ship/fj_img4.png) [Inferno](/fighter/Inferno) | 
+  | 8 | **1**  | ![Red Phantom](/images/ship/fj_img1.png) [Red Phantom](/fighter/Red Phantom) | 
   | 9 | **2**  | ![Phantom Shards](/images/item/Phantom_Shards_p.png) [Phantom Shards](/item/Phantom Shards_32/) | 
   | 10 | **2**  | ![Syren Shards](/images/item/Syren_Shards_p.png) [Syren Shards](/item/Syren Shards_34/) | 
   | 11 | **2**  | ![Crow Shards](/images/item/Crow_Shards_p.png) [Crow Shards](/item/Crow Shards_44/) | 

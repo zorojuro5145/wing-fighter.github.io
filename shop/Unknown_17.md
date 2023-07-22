@@ -28,18 +28,18 @@ classes: wide
 
   |  Nr | Item Amount  |       Item       |
   |:----|:------------:|:-----------------|
-  | 1 | **1**  | fighter:14, star = 0 | 
-  | 2 | **1**  | fighter:12, star = 0 | 
-  | 3 | **1**  | fighter:11, star = 0 | 
-  | 4 | **1**  | fighter:8, star = 0 | 
-  | 5 | **1**  | fighter:6, star = 0 | 
-  | 6 | **1**  | fighter:13, star = 0 | 
-  | 7 | **1**  | fighter:10, star = 0 | 
-  | 8 | **1**  | fighter:9, star = 0 | 
-  | 9 | **1**  | fighter:4, star = 0 | 
-  | 10 | **1**  | fighter:3, star = 0 | 
-  | 11 | **1**  | fighter:2, star = 0 | 
-  | 12 | **1**  | fighter:1, star = 0 | 
+  | 1 | **1**  | ![Arrow](/images/ship/fj_img14.png) [Arrow](/fighter/Arrow) | 
+  | 2 | **1**  | ![Rock](/images/ship/fj_img12.png) [Rock](/fighter/Rock) | 
+  | 3 | **1**  | ![NightWing](/images/ship/fj_img11.png) [NightWing](/fighter/NightWing) | 
+  | 4 | **1**  | ![WindTunnel](/images/ship/fj_img8.png) [WindTunnel](/fighter/WindTunnel) | 
+  | 5 | **1**  | ![Glacier](/images/ship/fj_img6.png) [Glacier](/fighter/Glacier) | 
+  | 6 | **1**  | ![Rattlesnake](/images/ship/fj_img13.png) [Rattlesnake](/fighter/Rattlesnake) | 
+  | 7 | **1**  | ![Totem](/images/ship/fj_img10.png) [Totem](/fighter/Totem) | 
+  | 8 | **1**  | ![Thunder](/images/ship/fj_img9.png) [Thunder](/fighter/Thunder) | 
+  | 9 | **1**  | ![Inferno](/images/ship/fj_img4.png) [Inferno](/fighter/Inferno) | 
+  | 10 | **1**  | ![Killer Hornet](/images/ship/fj_img3.png) [Killer Hornet](/fighter/Killer Hornet) | 
+  | 11 | **1**  | ![Crimson Dragon](/images/ship/fj_img2.png) [Crimson Dragon](/fighter/Crimson Dragon) | 
+  | 12 | **1**  | ![Red Phantom](/images/ship/fj_img1.png) [Red Phantom](/fighter/Red Phantom) | 
   | 13 | **5**  | ![Syren Shards](/images/item/Syren_Shards_p.png) [Syren Shards](/item/Syren Shards_34/) | 
   | 14 | **5**  | ![Phantom Shards](/images/item/Phantom_Shards_p.png) [Phantom Shards](/item/Phantom Shards_32/) | 
   | 15 | **5**  | ![Arrow Shards](/images/item/Arrow_Shards_p.png) [Arrow Shards](/item/Arrow Shards_42/) | 

@@ -2,7 +2,7 @@
 title: "Commander Mina"
 permalink: /commander/Mina/
 excerpt: "Wing Fighter Mina"
-last_modified_at: 2023-07-15
+last_modified_at: 2023-07-22
 locale: en
 ref: "Mina.md"
 toc: false
@@ -30,12 +30,12 @@ classes: wide
 
   |  Star level | Attack | HP |  Skill | Power | Upgrade Costs |
   |:------|:----:|:------|:-------:|:---------:|:--------------|
-  | ![Star 0](/images/s0.png)  | +0  | +0  | Fighter revive with 15.000001% HP after death. This passive skill can only be used once per battle  | +1000  | **20000** Stars, **10x** Commander Shard - Mina |
-  | ![Star1](/images/s1.png)  | +218  | +872  | Fighter revive with 20.0% HP after death. This passive skill can only be used once per battle  | +1400  | **87500** Stars, **20x** Commander Shard - Mina |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)  | +518  | +2072  | Fighter revive with 25.0% HP after death. This passive skill can only be used once per battle  | +1800  | **157500** Stars, **40x** Commander Shard - Mina |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | +918  | +3672  | Fighter revive with 30.000002% HP after death. This passive skill can only be used once per battle  | +2200  | **285000** Stars, **80x** Commander Shard - Mina |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | +1218  | +4872  | Fighter revive with 40.0% HP after death. This passive skill can only be used once per battle  | +2600  | **876000** Stars, **150x** Commander Shard - Mina |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | +1618  | +6472  | Fighter revive with 50.0% HP after death. This passive skill can only be used once per battle  | +3000  | **1690000** Stars, **250x** Commander Shard - Mina |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | +2018  | +8072  | Fighter revive with 65.0% HP after death. This passive skill can only be used once per battle  | +3400  | **2250000** Stars, **400x** Commander Shard - Mina |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | +2418  | +9672  | Fighter revive with 80.0% HP after death. This passive skill can only be used once per battle  | +3800  | **2250000** Stars, **400x** Commander Shard - Mina |
+  | ![Star 0](/images/s0.png)  | +0  | +0  | Fighter revive with 15.000001% HP after death. This passive skill can only be used once per battle  | +1000  | **20000**![Stars](/images/item/Stars_p.png)[Stars](/item/Stars_2/)**10**![Inferno Shards](/images/item/Inferno_Shards_p.png)[Inferno Shards](/item/Inferno Shards_26/) |
+  | ![Star1](/images/s1.png)  | +218  | +872  | Fighter revive with 20.0% HP after death. This passive skill can only be used once per battle  | +1400  | **87500**![Stars](/images/item/Stars_p.png)[Stars](/item/Stars_2/)**20**![Inferno Shards](/images/item/Inferno_Shards_p.png)[Inferno Shards](/item/Inferno Shards_26/) |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)  | +518  | +2072  | Fighter revive with 25.0% HP after death. This passive skill can only be used once per battle  | +1800  | **157500**![Stars](/images/item/Stars_p.png)[Stars](/item/Stars_2/)**40**![Inferno Shards](/images/item/Inferno_Shards_p.png)[Inferno Shards](/item/Inferno Shards_26/) |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | +918  | +3672  | Fighter revive with 30.000002% HP after death. This passive skill can only be used once per battle  | +2200  | **285000**![Stars](/images/item/Stars_p.png)[Stars](/item/Stars_2/)**80**![Inferno Shards](/images/item/Inferno_Shards_p.png)[Inferno Shards](/item/Inferno Shards_26/) |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | +1218  | +4872  | Fighter revive with 40.0% HP after death. This passive skill can only be used once per battle  | +2600  | **876000**![Stars](/images/item/Stars_p.png)[Stars](/item/Stars_2/)**150**![Inferno Shards](/images/item/Inferno_Shards_p.png)[Inferno Shards](/item/Inferno Shards_26/) |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | +1618  | +6472  | Fighter revive with 50.0% HP after death. This passive skill can only be used once per battle  | +3000  | **1690000**![Stars](/images/item/Stars_p.png)[Stars](/item/Stars_2/)**250**![Inferno Shards](/images/item/Inferno_Shards_p.png)[Inferno Shards](/item/Inferno Shards_26/) |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | +2018  | +8072  | Fighter revive with 65.0% HP after death. This passive skill can only be used once per battle  | +3400  | **2250000**![Stars](/images/item/Stars_p.png)[Stars](/item/Stars_2/)**400**![Inferno Shards](/images/item/Inferno_Shards_p.png)[Inferno Shards](/item/Inferno Shards_26/) |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | +2418  | +9672  | Fighter revive with 80.0% HP after death. This passive skill can only be used once per battle  | +3800  | **2250000**![Stars](/images/item/Stars_p.png)[Stars](/item/Stars_2/)**400**![Inferno Shards](/images/item/Inferno_Shards_p.png)[Inferno Shards](/item/Inferno Shards_26/) |
 
