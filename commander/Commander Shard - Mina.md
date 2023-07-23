@@ -1,5 +1,5 @@
 ---
-title: "Commander Commander Shard - Mina"
+title: "Commander Shard - Mina"
 permalink: /commander/Commander Shard - Mina/
 excerpt: "Wing Fighter Commander Shard - Mina"
 last_modified_at: 2023-07-23

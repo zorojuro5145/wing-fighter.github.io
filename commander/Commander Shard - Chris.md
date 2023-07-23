@@ -1,5 +1,5 @@
 ---
-title: "Commander Commander Shard - Chris"
+title: "Commander Shard - Chris"
 permalink: /commander/Commander Shard - Chris/
 excerpt: "Wing Fighter Commander Shard - Chris"
 last_modified_at: 2023-07-23
