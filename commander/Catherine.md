@@ -2,7 +2,7 @@
 title: "Commander Catherine"
 permalink: /commander/Catherine/
 excerpt: "Wing Fighter Catherine"
-last_modified_at: 2023-07-22
+last_modified_at: 2023-07-23
 locale: en
 ref: "Catherine.md"
 toc: false
@@ -13,6 +13,8 @@ classes: wide
  ![Catherine](/images/commander/actor_debris_1.png)
 
 ## Details
+
+ **Shard:** ![Commander Shard - Catherine](/images/commander/actor_debris_1_zbsx_img9.png) [Commander Shard - Catherine](/commander/Commander Shard - Catherine) 
 
  **Rarity:** N 
 

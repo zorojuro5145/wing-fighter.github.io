@@ -2,7 +2,7 @@
 title: "Commander Alice"
 permalink: /commander/Alice/
 excerpt: "Wing Fighter Alice"
-last_modified_at: 2023-07-22
+last_modified_at: 2023-07-23
 locale: en
 ref: "Alice.md"
 toc: false
@@ -13,6 +13,8 @@ classes: wide
  ![Alice](/images/commander/actor_debris_3.png)
 
 ## Details
+
+ **Shard:** ![Commander Shard - Alice](/images/commander/actor_debris_3_zbsx_img11.png) [Commander Shard - Alice](/commander/Commander Shard - Alice) 
 
  **Rarity:** SR 
 

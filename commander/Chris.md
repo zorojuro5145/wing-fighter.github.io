@@ -2,7 +2,7 @@
 title: "Commander Chris"
 permalink: /commander/Chris/
 excerpt: "Wing Fighter Chris"
-last_modified_at: 2023-07-22
+last_modified_at: 2023-07-23
 locale: en
 ref: "Chris.md"
 toc: false
@@ -13,6 +13,8 @@ classes: wide
  ![Chris](/images/commander/actor_debris_2.png)
 
 ## Details
+
+ **Shard:** ![Commander Shard - Chris](/images/commander/actor_debris_2_zbsx_img10.png) [Commander Shard - Chris](/commander/Commander Shard - Chris) 
 
  **Rarity:** R 
 
