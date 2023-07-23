@@ -22,7 +22,7 @@ classes: wide
 
   |  Nr | Icon |    Name   |  Description |
   |:----|:----:|:----------|:-------------|
-  | 0 | ![Commander Shard - Catherine](/images/commander/actor_debris_1_zbsx_img9.png) | [Commander Shard - Catherine](/commander/Commander Shard - Catherine) | SR | Used to unlock and ascend commander Catherine |
-  | 1 | ![Commander Shard - Chris](/images/commander/actor_debris_2_zbsx_img10.png) | [Commander Shard - Chris](/commander/Commander Shard - Chris) | SSR | Used to unlock and ascend commander Chris |
-  | 2 | ![Commander Shard - Alice](/images/commander/actor_debris_3_zbsx_img11.png) | [Commander Shard - Alice](/commander/Commander Shard - Alice) | UR | Used to unlock and ascend commander Alice |
-  | 3 | ![Commander Shard - Mina](/images/commander/actor_debris_4_zbsx_img11.png) | [Commander Shard - Mina](/commander/Commander Shard - Mina) | UR | Used to unlock and ascend commander Mina |
+  | 1 | ![Commander Shard - Catherine](/images/commander/actor_debris_1_zbsx_img9.png) | [Commander Shard - Catherine](/commander/Commander Shard - Catherine) | SR | Used to unlock and ascend commander Catherine |
+  | 2 | ![Commander Shard - Chris](/images/commander/actor_debris_2_zbsx_img10.png) | [Commander Shard - Chris](/commander/Commander Shard - Chris) | SSR | Used to unlock and ascend commander Chris |
+  | 3 | ![Commander Shard - Alice](/images/commander/actor_debris_3_zbsx_img11.png) | [Commander Shard - Alice](/commander/Commander Shard - Alice) | UR | Used to unlock and ascend commander Alice |
+  | 4 | ![Commander Shard - Mina](/images/commander/actor_debris_4_zbsx_img11.png) | [Commander Shard - Mina](/commander/Commander Shard - Mina) | UR | Used to unlock and ascend commander Mina |
