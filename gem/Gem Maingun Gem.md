@@ -19,12 +19,12 @@ classes: wide
 
   |  Nr | Icon |      Gem        |   Description   |
   |:----|:----:|:---------------:|:---------------:|
-  | 2 | ![Maingun Gem +1](/images/gem/bs1_img1.png) | [Maingun Gem +1](/gem/Maingun Gem_1) | Used to increase Maingun attack | 
-  | 3 | ![Maingun Gem +2](/images/gem/bs1_img1.png) | [Maingun Gem +2](/gem/Maingun Gem_2) | Used to increase Maingun attack | 
-  | 4 | ![Maingun Gem +3](/images/gem/bs1_img1.png) | [Maingun Gem +3](/gem/Maingun Gem_3) | Used to increase Maingun attack | 
-  | 5 | ![Maingun Gem +4](/images/gem/bs1_img1.png) | [Maingun Gem +4](/gem/Maingun Gem_4) | Used to increase Maingun attack | 
-  | 6 | ![Maingun Gem +5](/images/gem/bs1_img1.png) | [Maingun Gem +5](/gem/Maingun Gem_5) | Used to increase Maingun attack | 
-  | 7 | ![Maingun Gem +6](/images/gem/bs1_img1.png) | [Maingun Gem +6](/gem/Maingun Gem_6) | Used to increase Maingun attack | 
-  | 8 | ![Maingun Gem +7](/images/gem/bs1_img1.png) | [Maingun Gem +7](/gem/Maingun Gem_7) | Used to increase Maingun attack | 
-  | 9 | ![Maingun Gem +8](/images/gem/bs1_img1.png) | [Maingun Gem +8](/gem/Maingun Gem_8) | Used to increase Maingun attack | 
-  | 10 | ![Maingun Gem +9](/images/gem/bs1_img1.png) | [Maingun Gem +9](/gem/Maingun Gem_9) | Used to increase Maingun attack | 
+  | 1 | ![Maingun Gem +1](/images/gem/bs1_img1.png) | [Maingun Gem +1](/gem/Maingun Gem_1) | Used to increase Maingun attack | 
+  | 2 | ![Maingun Gem +2](/images/gem/bs1_img1.png) | [Maingun Gem +2](/gem/Maingun Gem_2) | Used to increase Maingun attack | 
+  | 3 | ![Maingun Gem +3](/images/gem/bs1_img1.png) | [Maingun Gem +3](/gem/Maingun Gem_3) | Used to increase Maingun attack | 
+  | 4 | ![Maingun Gem +4](/images/gem/bs1_img1.png) | [Maingun Gem +4](/gem/Maingun Gem_4) | Used to increase Maingun attack | 
+  | 5 | ![Maingun Gem +5](/images/gem/bs1_img1.png) | [Maingun Gem +5](/gem/Maingun Gem_5) | Used to increase Maingun attack | 
+  | 6 | ![Maingun Gem +6](/images/gem/bs1_img1.png) | [Maingun Gem +6](/gem/Maingun Gem_6) | Used to increase Maingun attack | 
+  | 7 | ![Maingun Gem +7](/images/gem/bs1_img1.png) | [Maingun Gem +7](/gem/Maingun Gem_7) | Used to increase Maingun attack | 
+  | 8 | ![Maingun Gem +8](/images/gem/bs1_img1.png) | [Maingun Gem +8](/gem/Maingun Gem_8) | Used to increase Maingun attack | 
+  | 9 | ![Maingun Gem +9](/images/gem/bs1_img1.png) | [Maingun Gem +9](/gem/Maingun Gem_9) | Used to increase Maingun attack | 

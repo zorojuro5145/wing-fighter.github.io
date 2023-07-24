@@ -19,12 +19,12 @@ classes: wide
 
   |  Nr | Icon |      Gem        |   Description   |
   |:----|:----:|:---------------:|:---------------:|
-  | 20 | ![Missile Gem +1](/images/gem/bs1_img3.png) | [Missile Gem +1](/gem/Missile Gem_1) | Used to increase Missile attack | 
-  | 21 | ![Missile Gem +2](/images/gem/bs1_img3.png) | [Missile Gem +2](/gem/Missile Gem_2) | Used to increase Missile attack | 
-  | 22 | ![Missile Gem +3](/images/gem/bs1_img3.png) | [Missile Gem +3](/gem/Missile Gem_3) | Used to increase Missile attack | 
-  | 23 | ![Missile Gem +4](/images/gem/bs1_img3.png) | [Missile Gem +4](/gem/Missile Gem_4) | Used to increase Missile attack | 
-  | 24 | ![Missile Gem +5](/images/gem/bs1_img3.png) | [Missile Gem +5](/gem/Missile Gem_5) | Used to increase Missile attack | 
-  | 25 | ![Missile Gem +6](/images/gem/bs1_img3.png) | [Missile Gem +6](/gem/Missile Gem_6) | Used to increase Missile attack | 
-  | 26 | ![Missile Gem +7](/images/gem/bs1_img3.png) | [Missile Gem +7](/gem/Missile Gem_7) | Used to increase Missile attack | 
-  | 27 | ![Missile Gem +8](/images/gem/bs1_img3.png) | [Missile Gem +8](/gem/Missile Gem_8) | Used to increase Missile attack | 
-  | 28 | ![Missile Gem +9](/images/gem/bs1_img3.png) | [Missile Gem +9](/gem/Missile Gem_9) | Used to increase Missile attack | 
+  | 19 | ![Missile Gem +1](/images/gem/bs1_img3.png) | [Missile Gem +1](/gem/Missile Gem_1) | Used to increase Missile attack | 
+  | 20 | ![Missile Gem +2](/images/gem/bs1_img3.png) | [Missile Gem +2](/gem/Missile Gem_2) | Used to increase Missile attack | 
+  | 21 | ![Missile Gem +3](/images/gem/bs1_img3.png) | [Missile Gem +3](/gem/Missile Gem_3) | Used to increase Missile attack | 
+  | 22 | ![Missile Gem +4](/images/gem/bs1_img3.png) | [Missile Gem +4](/gem/Missile Gem_4) | Used to increase Missile attack | 
+  | 23 | ![Missile Gem +5](/images/gem/bs1_img3.png) | [Missile Gem +5](/gem/Missile Gem_5) | Used to increase Missile attack | 
+  | 24 | ![Missile Gem +6](/images/gem/bs1_img3.png) | [Missile Gem +6](/gem/Missile Gem_6) | Used to increase Missile attack | 
+  | 25 | ![Missile Gem +7](/images/gem/bs1_img3.png) | [Missile Gem +7](/gem/Missile Gem_7) | Used to increase Missile attack | 
+  | 26 | ![Missile Gem +8](/images/gem/bs1_img3.png) | [Missile Gem +8](/gem/Missile Gem_8) | Used to increase Missile attack | 
+  | 27 | ![Missile Gem +9](/images/gem/bs1_img3.png) | [Missile Gem +9](/gem/Missile Gem_9) | Used to increase Missile attack | 

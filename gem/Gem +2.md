@@ -19,12 +19,12 @@ classes: wide
 
   |  Nr | Icon |      Gem        |   Description   |
   |:----|:----:|:---------------:|:---------------:|
-  | 3 | ![Maingun Gem +2](/images/gem/bs1_img1.png) | [Maingun Gem +2](/gem/Maingun Gem_2) | Used to increase Maingun attack | 
-  | 12 | ![Winggun Gem +2](/images/gem/bs1_img2.png) | [Winggun Gem +2](/gem/Winggun Gem_2) | Used to increase Winggun attack | 
-  | 21 | ![Missile Gem +2](/images/gem/bs1_img3.png) | [Missile Gem +2](/gem/Missile Gem_2) | Used to increase Missile attack | 
-  | 30 | ![HP Gem +2](/images/gem/bs2_img1.png) | [HP Gem +2](/gem/HP Gem_2) | Used to increase Fighter HP | 
-  | 39 | ![Dodge Gem +2](/images/gem/bs2_img2.png) | [Dodge Gem +2](/gem/Dodge Gem_2) | Used to increase Fighter dodge | 
-  | 48 | ![Defense Gem +2](/images/gem/bs2_img3.png) | [Defense Gem +2](/gem/Defense Gem_2) | Used to reduce damage taken from enemies | 
-  | 57 | ![Anti-Air Gem +2](/images/gem/bs3_img1.png) | [Anti-Air Gem +2](/gem/Anti-Air Gem_2) | Used to increase damage against flying enemies and reduce their damage | 
-  | 66 | ![Anti-Land Gem +2](/images/gem/bs3_img2.png) | [Anti-Land Gem +2](/gem/Anti-Land Gem_2) | Used to increase damage against ground enemies and reduce their damage | 
-  | 75 | ![Enhancement Gem +2](/images/gem/bs3_img3.png) | [Enhancement Gem +2](/gem/Enhancement Gem_2) | Used to increase damage against strong foes and reduce their damage | 
+  | 2 | ![Maingun Gem +2](/images/gem/bs1_img1.png) | [Maingun Gem +2](/gem/Maingun Gem_2) | Used to increase Maingun attack | 
+  | 11 | ![Winggun Gem +2](/images/gem/bs1_img2.png) | [Winggun Gem +2](/gem/Winggun Gem_2) | Used to increase Winggun attack | 
+  | 20 | ![Missile Gem +2](/images/gem/bs1_img3.png) | [Missile Gem +2](/gem/Missile Gem_2) | Used to increase Missile attack | 
+  | 29 | ![HP Gem +2](/images/gem/bs2_img1.png) | [HP Gem +2](/gem/HP Gem_2) | Used to increase Fighter HP | 
+  | 38 | ![Dodge Gem +2](/images/gem/bs2_img2.png) | [Dodge Gem +2](/gem/Dodge Gem_2) | Used to increase Fighter dodge | 
+  | 47 | ![Defense Gem +2](/images/gem/bs2_img3.png) | [Defense Gem +2](/gem/Defense Gem_2) | Used to reduce damage taken from enemies | 
+  | 56 | ![Anti-Air Gem +2](/images/gem/bs3_img1.png) | [Anti-Air Gem +2](/gem/Anti-Air Gem_2) | Used to increase damage against flying enemies and reduce their damage | 
+  | 65 | ![Anti-Land Gem +2](/images/gem/bs3_img2.png) | [Anti-Land Gem +2](/gem/Anti-Land Gem_2) | Used to increase damage against ground enemies and reduce their damage | 
+  | 74 | ![Enhancement Gem +2](/images/gem/bs3_img3.png) | [Enhancement Gem +2](/gem/Enhancement Gem_2) | Used to increase damage against strong foes and reduce their damage | 

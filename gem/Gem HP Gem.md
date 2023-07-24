@@ -19,12 +19,12 @@ classes: wide
 
   |  Nr | Icon |      Gem        |   Description   |
   |:----|:----:|:---------------:|:---------------:|
-  | 29 | ![HP Gem +1](/images/gem/bs2_img1.png) | [HP Gem +1](/gem/HP Gem_1) | Used to increase Fighter HP | 
-  | 30 | ![HP Gem +2](/images/gem/bs2_img1.png) | [HP Gem +2](/gem/HP Gem_2) | Used to increase Fighter HP | 
-  | 31 | ![HP Gem +3](/images/gem/bs2_img1.png) | [HP Gem +3](/gem/HP Gem_3) | Used to increase Fighter HP | 
-  | 32 | ![HP Gem +4](/images/gem/bs2_img1.png) | [HP Gem +4](/gem/HP Gem_4) | Used to increase Fighter HP | 
-  | 33 | ![HP Gem +5](/images/gem/bs2_img1.png) | [HP Gem +5](/gem/HP Gem_5) | Used to increase Fighter HP | 
-  | 34 | ![HP Gem +6](/images/gem/bs2_img1.png) | [HP Gem +6](/gem/HP Gem_6) | Used to increase Fighter HP | 
-  | 35 | ![HP Gem +7](/images/gem/bs2_img1.png) | [HP Gem +7](/gem/HP Gem_7) | Used to increase Fighter HP | 
-  | 36 | ![HP Gem +8](/images/gem/bs2_img1.png) | [HP Gem +8](/gem/HP Gem_8) | Used to increase Fighter HP | 
-  | 37 | ![HP Gem +9](/images/gem/bs2_img1.png) | [HP Gem +9](/gem/HP Gem_9) | Used to increase Fighter HP | 
+  | 28 | ![HP Gem +1](/images/gem/bs2_img1.png) | [HP Gem +1](/gem/HP Gem_1) | Used to increase Fighter HP | 
+  | 29 | ![HP Gem +2](/images/gem/bs2_img1.png) | [HP Gem +2](/gem/HP Gem_2) | Used to increase Fighter HP | 
+  | 30 | ![HP Gem +3](/images/gem/bs2_img1.png) | [HP Gem +3](/gem/HP Gem_3) | Used to increase Fighter HP | 
+  | 31 | ![HP Gem +4](/images/gem/bs2_img1.png) | [HP Gem +4](/gem/HP Gem_4) | Used to increase Fighter HP | 
+  | 32 | ![HP Gem +5](/images/gem/bs2_img1.png) | [HP Gem +5](/gem/HP Gem_5) | Used to increase Fighter HP | 
+  | 33 | ![HP Gem +6](/images/gem/bs2_img1.png) | [HP Gem +6](/gem/HP Gem_6) | Used to increase Fighter HP | 
+  | 34 | ![HP Gem +7](/images/gem/bs2_img1.png) | [HP Gem +7](/gem/HP Gem_7) | Used to increase Fighter HP | 
+  | 35 | ![HP Gem +8](/images/gem/bs2_img1.png) | [HP Gem +8](/gem/HP Gem_8) | Used to increase Fighter HP | 
+  | 36 | ![HP Gem +9](/images/gem/bs2_img1.png) | [HP Gem +9](/gem/HP Gem_9) | Used to increase Fighter HP | 

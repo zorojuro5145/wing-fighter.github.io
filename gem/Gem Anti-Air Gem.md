@@ -19,12 +19,12 @@ classes: wide
 
   |  Nr | Icon |      Gem        |   Description   |
   |:----|:----:|:---------------:|:---------------:|
-  | 56 | ![Anti-Air Gem +1](/images/gem/bs3_img1.png) | [Anti-Air Gem +1](/gem/Anti-Air Gem_1) | Used to increase damage against flying enemies and reduce their damage | 
-  | 57 | ![Anti-Air Gem +2](/images/gem/bs3_img1.png) | [Anti-Air Gem +2](/gem/Anti-Air Gem_2) | Used to increase damage against flying enemies and reduce their damage | 
-  | 58 | ![Anti-Air Gem +3](/images/gem/bs3_img1.png) | [Anti-Air Gem +3](/gem/Anti-Air Gem_3) | Used to increase damage against flying enemies and reduce their damage | 
-  | 59 | ![Anti-Air Gem +4](/images/gem/bs3_img1.png) | [Anti-Air Gem +4](/gem/Anti-Air Gem_4) | Used to increase damage against flying enemies and reduce their damage | 
-  | 60 | ![Anti-Air Gem +5](/images/gem/bs3_img1.png) | [Anti-Air Gem +5](/gem/Anti-Air Gem_5) | Used to increase damage against flying enemies and reduce their damage | 
-  | 61 | ![Anti-Air Gem +6](/images/gem/bs3_img1.png) | [Anti-Air Gem +6](/gem/Anti-Air Gem_6) | Used to increase damage against flying enemies and reduce their damage | 
-  | 62 | ![Anti-Air Gem +7](/images/gem/bs3_img1.png) | [Anti-Air Gem +7](/gem/Anti-Air Gem_7) | Used to increase damage against flying enemies and reduce their damage | 
-  | 63 | ![Anti-Air Gem +8](/images/gem/bs3_img1.png) | [Anti-Air Gem +8](/gem/Anti-Air Gem_8) | Used to increase damage against flying enemies and reduce their damage | 
-  | 64 | ![Anti-Air Gem +9](/images/gem/bs3_img1.png) | [Anti-Air Gem +9](/gem/Anti-Air Gem_9) | Used to increase damage against flying enemies and reduce their damage | 
+  | 55 | ![Anti-Air Gem +1](/images/gem/bs3_img1.png) | [Anti-Air Gem +1](/gem/Anti-Air Gem_1) | Used to increase damage against flying enemies and reduce their damage | 
+  | 56 | ![Anti-Air Gem +2](/images/gem/bs3_img1.png) | [Anti-Air Gem +2](/gem/Anti-Air Gem_2) | Used to increase damage against flying enemies and reduce their damage | 
+  | 57 | ![Anti-Air Gem +3](/images/gem/bs3_img1.png) | [Anti-Air Gem +3](/gem/Anti-Air Gem_3) | Used to increase damage against flying enemies and reduce their damage | 
+  | 58 | ![Anti-Air Gem +4](/images/gem/bs3_img1.png) | [Anti-Air Gem +4](/gem/Anti-Air Gem_4) | Used to increase damage against flying enemies and reduce their damage | 
+  | 59 | ![Anti-Air Gem +5](/images/gem/bs3_img1.png) | [Anti-Air Gem +5](/gem/Anti-Air Gem_5) | Used to increase damage against flying enemies and reduce their damage | 
+  | 60 | ![Anti-Air Gem +6](/images/gem/bs3_img1.png) | [Anti-Air Gem +6](/gem/Anti-Air Gem_6) | Used to increase damage against flying enemies and reduce their damage | 
+  | 61 | ![Anti-Air Gem +7](/images/gem/bs3_img1.png) | [Anti-Air Gem +7](/gem/Anti-Air Gem_7) | Used to increase damage against flying enemies and reduce their damage | 
+  | 62 | ![Anti-Air Gem +8](/images/gem/bs3_img1.png) | [Anti-Air Gem +8](/gem/Anti-Air Gem_8) | Used to increase damage against flying enemies and reduce their damage | 
+  | 63 | ![Anti-Air Gem +9](/images/gem/bs3_img1.png) | [Anti-Air Gem +9](/gem/Anti-Air Gem_9) | Used to increase damage against flying enemies and reduce their damage | 

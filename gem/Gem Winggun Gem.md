@@ -19,12 +19,12 @@ classes: wide
 
   |  Nr | Icon |      Gem        |   Description   |
   |:----|:----:|:---------------:|:---------------:|
-  | 11 | ![Winggun Gem +1](/images/gem/bs1_img2.png) | [Winggun Gem +1](/gem/Winggun Gem_1) | Used to increase Winggun attack | 
-  | 12 | ![Winggun Gem +2](/images/gem/bs1_img2.png) | [Winggun Gem +2](/gem/Winggun Gem_2) | Used to increase Winggun attack | 
-  | 13 | ![Winggun Gem +3](/images/gem/bs1_img2.png) | [Winggun Gem +3](/gem/Winggun Gem_3) | Used to increase Winggun attack | 
-  | 14 | ![Winggun Gem +4](/images/gem/bs1_img2.png) | [Winggun Gem +4](/gem/Winggun Gem_4) | Used to increase Winggun attack | 
-  | 15 | ![Winggun Gem +5](/images/gem/bs1_img2.png) | [Winggun Gem +5](/gem/Winggun Gem_5) | Used to increase Winggun attack | 
-  | 16 | ![Winggun Gem +6](/images/gem/bs1_img2.png) | [Winggun Gem +6](/gem/Winggun Gem_6) | Used to increase Winggun attack | 
-  | 17 | ![Winggun Gem +7](/images/gem/bs1_img2.png) | [Winggun Gem +7](/gem/Winggun Gem_7) | Used to increase Winggun attack | 
-  | 18 | ![Winggun Gem +8](/images/gem/bs1_img2.png) | [Winggun Gem +8](/gem/Winggun Gem_8) | Used to increase Winggun attack | 
-  | 19 | ![Winggun Gem +9](/images/gem/bs1_img2.png) | [Winggun Gem +9](/gem/Winggun Gem_9) | Used to increase Winggun attack | 
+  | 10 | ![Winggun Gem +1](/images/gem/bs1_img2.png) | [Winggun Gem +1](/gem/Winggun Gem_1) | Used to increase Winggun attack | 
+  | 11 | ![Winggun Gem +2](/images/gem/bs1_img2.png) | [Winggun Gem +2](/gem/Winggun Gem_2) | Used to increase Winggun attack | 
+  | 12 | ![Winggun Gem +3](/images/gem/bs1_img2.png) | [Winggun Gem +3](/gem/Winggun Gem_3) | Used to increase Winggun attack | 
+  | 13 | ![Winggun Gem +4](/images/gem/bs1_img2.png) | [Winggun Gem +4](/gem/Winggun Gem_4) | Used to increase Winggun attack | 
+  | 14 | ![Winggun Gem +5](/images/gem/bs1_img2.png) | [Winggun Gem +5](/gem/Winggun Gem_5) | Used to increase Winggun attack | 
+  | 15 | ![Winggun Gem +6](/images/gem/bs1_img2.png) | [Winggun Gem +6](/gem/Winggun Gem_6) | Used to increase Winggun attack | 
+  | 16 | ![Winggun Gem +7](/images/gem/bs1_img2.png) | [Winggun Gem +7](/gem/Winggun Gem_7) | Used to increase Winggun attack | 
+  | 17 | ![Winggun Gem +8](/images/gem/bs1_img2.png) | [Winggun Gem +8](/gem/Winggun Gem_8) | Used to increase Winggun attack | 
+  | 18 | ![Winggun Gem +9](/images/gem/bs1_img2.png) | [Winggun Gem +9](/gem/Winggun Gem_9) | Used to increase Winggun attack | 

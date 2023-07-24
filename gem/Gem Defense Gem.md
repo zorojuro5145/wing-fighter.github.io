@@ -19,12 +19,12 @@ classes: wide
 
   |  Nr | Icon |      Gem        |   Description   |
   |:----|:----:|:---------------:|:---------------:|
-  | 47 | ![Defense Gem +1](/images/gem/bs2_img3.png) | [Defense Gem +1](/gem/Defense Gem_1) | Used to reduce damage taken from enemies | 
-  | 48 | ![Defense Gem +2](/images/gem/bs2_img3.png) | [Defense Gem +2](/gem/Defense Gem_2) | Used to reduce damage taken from enemies | 
-  | 49 | ![Defense Gem +3](/images/gem/bs2_img3.png) | [Defense Gem +3](/gem/Defense Gem_3) | Used to reduce damage taken from enemies | 
-  | 50 | ![Defense Gem +4](/images/gem/bs2_img3.png) | [Defense Gem +4](/gem/Defense Gem_4) | Used to reduce damage taken from enemies | 
-  | 51 | ![Defense Gem +5](/images/gem/bs2_img3.png) | [Defense Gem +5](/gem/Defense Gem_5) | Used to reduce damage taken from enemies | 
-  | 52 | ![Defense Gem +6](/images/gem/bs2_img3.png) | [Defense Gem +6](/gem/Defense Gem_6) | Used to reduce damage taken from enemies | 
-  | 53 | ![Defense Gem +7](/images/gem/bs2_img3.png) | [Defense Gem +7](/gem/Defense Gem_7) | Used to reduce damage taken from enemies | 
-  | 54 | ![Defense Gem +8](/images/gem/bs2_img3.png) | [Defense Gem +8](/gem/Defense Gem_8) | Used to reduce damage taken from enemies | 
-  | 55 | ![Defense Gem +9](/images/gem/bs2_img3.png) | [Defense Gem +9](/gem/Defense Gem_9) | Used to reduce damage taken from enemies | 
+  | 46 | ![Defense Gem +1](/images/gem/bs2_img3.png) | [Defense Gem +1](/gem/Defense Gem_1) | Used to reduce damage taken from enemies | 
+  | 47 | ![Defense Gem +2](/images/gem/bs2_img3.png) | [Defense Gem +2](/gem/Defense Gem_2) | Used to reduce damage taken from enemies | 
+  | 48 | ![Defense Gem +3](/images/gem/bs2_img3.png) | [Defense Gem +3](/gem/Defense Gem_3) | Used to reduce damage taken from enemies | 
+  | 49 | ![Defense Gem +4](/images/gem/bs2_img3.png) | [Defense Gem +4](/gem/Defense Gem_4) | Used to reduce damage taken from enemies | 
+  | 50 | ![Defense Gem +5](/images/gem/bs2_img3.png) | [Defense Gem +5](/gem/Defense Gem_5) | Used to reduce damage taken from enemies | 
+  | 51 | ![Defense Gem +6](/images/gem/bs2_img3.png) | [Defense Gem +6](/gem/Defense Gem_6) | Used to reduce damage taken from enemies | 
+  | 52 | ![Defense Gem +7](/images/gem/bs2_img3.png) | [Defense Gem +7](/gem/Defense Gem_7) | Used to reduce damage taken from enemies | 
+  | 53 | ![Defense Gem +8](/images/gem/bs2_img3.png) | [Defense Gem +8](/gem/Defense Gem_8) | Used to reduce damage taken from enemies | 
+  | 54 | ![Defense Gem +9](/images/gem/bs2_img3.png) | [Defense Gem +9](/gem/Defense Gem_9) | Used to reduce damage taken from enemies | 

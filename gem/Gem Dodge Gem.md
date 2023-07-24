@@ -19,12 +19,12 @@ classes: wide
 
   |  Nr | Icon |      Gem        |   Description   |
   |:----|:----:|:---------------:|:---------------:|
-  | 38 | ![Dodge Gem +1](/images/gem/bs2_img2.png) | [Dodge Gem +1](/gem/Dodge Gem_1) | Used to increase Fighter dodge | 
-  | 39 | ![Dodge Gem +2](/images/gem/bs2_img2.png) | [Dodge Gem +2](/gem/Dodge Gem_2) | Used to increase Fighter dodge | 
-  | 40 | ![Dodge Gem +3](/images/gem/bs2_img2.png) | [Dodge Gem +3](/gem/Dodge Gem_3) | Used to increase Fighter dodge | 
-  | 41 | ![Dodge Gem +4](/images/gem/bs2_img2.png) | [Dodge Gem +4](/gem/Dodge Gem_4) | Used to increase Fighter dodge | 
-  | 42 | ![Dodge Gem +5](/images/gem/bs2_img2.png) | [Dodge Gem +5](/gem/Dodge Gem_5) | Used to increase Fighter dodge | 
-  | 43 | ![Dodge Gem +6](/images/gem/bs2_img2.png) | [Dodge Gem +6](/gem/Dodge Gem_6) | Used to increase Fighter dodge | 
-  | 44 | ![Dodge Gem +7](/images/gem/bs2_img2.png) | [Dodge Gem +7](/gem/Dodge Gem_7) | Used to increase Fighter dodge | 
-  | 45 | ![Dodge Gem +8](/images/gem/bs2_img2.png) | [Dodge Gem +8](/gem/Dodge Gem_8) | Used to increase Fighter dodge | 
-  | 46 | ![Dodge Gem +9](/images/gem/bs2_img2.png) | [Dodge Gem +9](/gem/Dodge Gem_9) | Used to increase Fighter dodge | 
+  | 37 | ![Dodge Gem +1](/images/gem/bs2_img2.png) | [Dodge Gem +1](/gem/Dodge Gem_1) | Used to increase Fighter dodge | 
+  | 38 | ![Dodge Gem +2](/images/gem/bs2_img2.png) | [Dodge Gem +2](/gem/Dodge Gem_2) | Used to increase Fighter dodge | 
+  | 39 | ![Dodge Gem +3](/images/gem/bs2_img2.png) | [Dodge Gem +3](/gem/Dodge Gem_3) | Used to increase Fighter dodge | 
+  | 40 | ![Dodge Gem +4](/images/gem/bs2_img2.png) | [Dodge Gem +4](/gem/Dodge Gem_4) | Used to increase Fighter dodge | 
+  | 41 | ![Dodge Gem +5](/images/gem/bs2_img2.png) | [Dodge Gem +5](/gem/Dodge Gem_5) | Used to increase Fighter dodge | 
+  | 42 | ![Dodge Gem +6](/images/gem/bs2_img2.png) | [Dodge Gem +6](/gem/Dodge Gem_6) | Used to increase Fighter dodge | 
+  | 43 | ![Dodge Gem +7](/images/gem/bs2_img2.png) | [Dodge Gem +7](/gem/Dodge Gem_7) | Used to increase Fighter dodge | 
+  | 44 | ![Dodge Gem +8](/images/gem/bs2_img2.png) | [Dodge Gem +8](/gem/Dodge Gem_8) | Used to increase Fighter dodge | 
+  | 45 | ![Dodge Gem +9](/images/gem/bs2_img2.png) | [Dodge Gem +9](/gem/Dodge Gem_9) | Used to increase Fighter dodge | 
