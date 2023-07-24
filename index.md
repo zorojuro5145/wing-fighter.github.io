@@ -15,6 +15,8 @@ sidebar:
 
 * Added <img src="/images/gem_group.png" alt="Shop" width="29" height="28"/><a href="/gem/" hreflang="en">Gems</a>
 
+* Added [Collection Center](/CollectionCenter/)
+
 * Next in progress: Equipment and Talents
 
 * If You have a game content -> How To guide(s), Tricks and Tips, Fun info, etc. I'll be happy to publish it on Wiki, [Please contact me via Discord](https://discordapp.com/users/351705203038224385/)

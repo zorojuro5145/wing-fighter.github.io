@@ -18,8 +18,8 @@ docs:
       url: /item/
     - title: "Gems"
       url: /gem/
-    - title: "Equipment"
-      url: /equipment/
+    - title: "Collection Center"
+      url: /CollectionCenter/
     - title: "Shop"
       url: /shop/
     - title: "Gear Set Chest"
@@ -28,6 +28,8 @@ docs:
       url: "/shop/Super Chest_21/"
     - title: "Gem Chest"
       url: "/shop/Gem Chest_18/"
+    - title: "Equipment"
+      url: /equipment/
     - title: "Battle"
       url: /battle/
     - title: "Talents"
