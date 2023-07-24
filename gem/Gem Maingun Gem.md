@@ -1,10 +1,10 @@
 ---
-title: "Gem Red"
-permalink: /gem/Gem Red/
-excerpt: "Wing Fighter Gem Red"
+title: "Gem Maingun Gem"
+permalink: /gem/Gem Maingun Gem/
+excerpt: "Wing Fighter Gem Maingun Gem"
 last_modified_at: 2023-07-24
 locale: en
-ref: "Gem Red.md"
+ref: "Gem Maingun Gem.md"
 toc: false
 classes: wide
 ---
@@ -28,21 +28,3 @@ classes: wide
   | 8 | ![Maingun Gem +7](/images/gem/bs1_img1.png) | [Maingun Gem +7](/gem/Maingun Gem_7) | Used to increase Maingun attack | 
   | 9 | ![Maingun Gem +8](/images/gem/bs1_img1.png) | [Maingun Gem +8](/gem/Maingun Gem_8) | Used to increase Maingun attack | 
   | 10 | ![Maingun Gem +9](/images/gem/bs1_img1.png) | [Maingun Gem +9](/gem/Maingun Gem_9) | Used to increase Maingun attack | 
-  | 11 | ![Winggun Gem +1](/images/gem/bs1_img2.png) | [Winggun Gem +1](/gem/Winggun Gem_1) | Used to increase Winggun attack | 
-  | 12 | ![Winggun Gem +2](/images/gem/bs1_img2.png) | [Winggun Gem +2](/gem/Winggun Gem_2) | Used to increase Winggun attack | 
-  | 13 | ![Winggun Gem +3](/images/gem/bs1_img2.png) | [Winggun Gem +3](/gem/Winggun Gem_3) | Used to increase Winggun attack | 
-  | 14 | ![Winggun Gem +4](/images/gem/bs1_img2.png) | [Winggun Gem +4](/gem/Winggun Gem_4) | Used to increase Winggun attack | 
-  | 15 | ![Winggun Gem +5](/images/gem/bs1_img2.png) | [Winggun Gem +5](/gem/Winggun Gem_5) | Used to increase Winggun attack | 
-  | 16 | ![Winggun Gem +6](/images/gem/bs1_img2.png) | [Winggun Gem +6](/gem/Winggun Gem_6) | Used to increase Winggun attack | 
-  | 17 | ![Winggun Gem +7](/images/gem/bs1_img2.png) | [Winggun Gem +7](/gem/Winggun Gem_7) | Used to increase Winggun attack | 
-  | 18 | ![Winggun Gem +8](/images/gem/bs1_img2.png) | [Winggun Gem +8](/gem/Winggun Gem_8) | Used to increase Winggun attack | 
-  | 19 | ![Winggun Gem +9](/images/gem/bs1_img2.png) | [Winggun Gem +9](/gem/Winggun Gem_9) | Used to increase Winggun attack | 
-  | 20 | ![Missile Gem +1](/images/gem/bs1_img3.png) | [Missile Gem +1](/gem/Missile Gem_1) | Used to increase Missile attack | 
-  | 21 | ![Missile Gem +2](/images/gem/bs1_img3.png) | [Missile Gem +2](/gem/Missile Gem_2) | Used to increase Missile attack | 
-  | 22 | ![Missile Gem +3](/images/gem/bs1_img3.png) | [Missile Gem +3](/gem/Missile Gem_3) | Used to increase Missile attack | 
-  | 23 | ![Missile Gem +4](/images/gem/bs1_img3.png) | [Missile Gem +4](/gem/Missile Gem_4) | Used to increase Missile attack | 
-  | 24 | ![Missile Gem +5](/images/gem/bs1_img3.png) | [Missile Gem +5](/gem/Missile Gem_5) | Used to increase Missile attack | 
-  | 25 | ![Missile Gem +6](/images/gem/bs1_img3.png) | [Missile Gem +6](/gem/Missile Gem_6) | Used to increase Missile attack | 
-  | 26 | ![Missile Gem +7](/images/gem/bs1_img3.png) | [Missile Gem +7](/gem/Missile Gem_7) | Used to increase Missile attack | 
-  | 27 | ![Missile Gem +8](/images/gem/bs1_img3.png) | [Missile Gem +8](/gem/Missile Gem_8) | Used to increase Missile attack | 
-  | 28 | ![Missile Gem +9](/images/gem/bs1_img3.png) | [Missile Gem +9](/gem/Missile Gem_9) | Used to increase Missile attack | 

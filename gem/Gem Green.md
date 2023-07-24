@@ -9,7 +9,7 @@ toc: false
 classes: wide
 ---
 
-  by Gem Color:  [Red](/gem/Gem Red/){: .btn .btn--primary}   [Blue](/gem/Gem Blue/){: .btn .btn--success}   [Green](/gem/Gem Green/){: .btn .btn--warning} 
+  by Gem Color:  [Red](/gem/Gem Red/){: .btn .btn--danger}   [Blue](/gem/Gem Blue/){: .btn .btn--info}   [Green](/gem/Gem Green/){: .btn .btn--success} 
 
   by Gem Level:  [+1](/gem/Gem +1/){: .btn .btn--primary}   [+2](/gem/Gem +2/){: .btn .btn--success}   [+3](/gem/Gem +3/){: .btn .btn--warning}   [+4](/gem/Gem +4/){: .btn .btn--danger}   [+5](/gem/Gem +5/){: .btn .btn--info}   [+6](/gem/Gem +6/){: .btn .btn--primary}   [+7](/gem/Gem +7/){: .btn .btn--success}   [+8](/gem/Gem +8/){: .btn .btn--warning}   [+9](/gem/Gem +9/){: .btn .btn--danger} 
 
