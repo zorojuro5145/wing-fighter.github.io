@@ -10,54 +10,56 @@ sidebar:
   nav: "docs"
 ---
 
-<!--
-| Release Date | Icon |         New Commander        |
-|:---|:-:|:--------------------|
-| 21 July | ![Dark Champion](https://wing-fighter.github.io/images/u/ti_sishen.jpg) | [Dark Champion](https://wing-fighter.github.io/units/Dark%20Champion/) |
-| 18 August | ![White Tiger](https://wing-fighter.github.io/images/u/ti_baihu.jpg) | [White Tiger](https://wing-fighter.github.io/units/White Tiger/) |
-| 15 September | ![Mantis](https://wing-fighter.github.io/images/u/ti_tanglang.jpg) | [Mantis](https://wing-fighter.github.io/units/Mantis/) |
 
+{% capture notice-update20230724 %}
 
-{% capture notice-update20210804 %}
+* Added <img src="/images/gem_group.png" alt="Shop" width="29" height="28"/><a href="/gem/" hreflang="en">Gems</a>
 
-* [Berserker Berserker's Axe](https://wing-fighter.github.io/Exclusive/Berserker Berserker's Axe/) - Exclusive weapon for ![Berserker](/images/u/ti_kuangzhanshi.jpg) [Berserker](/units/Berserker/)
+* Next in progress: Equipment and Talents
 
-* New items:
-  * [Mantis Avatar](/Items/con_2237/)
-  * [Blue dragon](/Items/con_2236/)
-
-* Update [Schedule](https://wing-fighter.github.io/Schedule/) (up to 25 August 2021)
-
-* [Wing Fighter Wiki](https://wing-fighter.github.io/) updated to latest game state.
+* If You have a game content -> How To guide(s), Tricks and Tips, Fun info, etc. I'll be happy to publish it on Wiki, [Please contact me via Discord](https://discordapp.com/users/351705203038224385/)
 
 {% endcapture %}
 
 <div class="notice--danger">
-  <h4 class="no_toc">4 August 2021 Update: Client version 157 (3847/3848)</h4>
-  {{ notice-update20210804 | markdownify }}
+  <h4 class="no_toc">24 July 2023 Wiki Update: Added Gems, extended info in Commanders, Flights and Chests, ...</h4>
+  {{ notice-update20230724 | markdownify }}
 </div>
 
-{% capture notice-update20210727 %}
 
-* [Griffin Knight Pike](https://wing-fighter.github.io/Exclusive/Griffin Knight Pike/) - Exclusive weapon for ![Griffin](/images/u/ti_shijiu.jpg) [Griffin](/units/Griffin/)
 
-* New items:
-  * [Blue dragon](https://wing-fighter.github.io/Items/con_2236/)
-  * [SR Unit Pack Chest](https://wing-fighter.github.io/Items/con_2226/)
-  * [V6 Premium Package](https://wing-fighter.github.io/Items/con_2225/)
-  * [Heart-pounding Summer Cassanbel Offer](https://wing-fighter.github.io/Items/con_2227/)
 
-* Update [Schedule](https://wing-fighter.github.io/Schedule/) (up to 18 August 2021)
 
-* [Wing Fighter Wiki](https://wing-fighter.github.io/) updated to latest game state.
 
-{% endcapture %}
 
-<div class="notice--danger">
-  <h4 class="no_toc">27 July 2021 Update: Client version 157 (3832/3833)</h4>
-  {{ notice-update20210727 | markdownify }}
-</div>
--->
+![Wing Fighter Wiki](https://wing-fighter.github.io/images/anzh_img16.png)
+
+This information portal contains information about "Wing Fighter" mobile game.
+
+You will find here:
+
+<h1> <img src="/images/common_lobby_icon30.png" alt="Fighters" width="37" height="28"/><a href="/fighter/" hreflang="en">Fighters</a> </h1>
+<h1> <img src="/images/commander/actor_debris_0.png" alt="Commander" width="38" height="44"/><a href="/commander/" hreflang="en">Commanders</a> </h1>
+<h1> <img src="/images/shop.png" alt="Shop" width="31" height="23"/><a href="/shop/" hreflang="en">Shop</a> </h1>
+<h1> <img src="/images/gem_group.png" alt="Shop" width="29" height="28"/><a href="/gem/" hreflang="en">Gems</a> </h1>
+
+<h1> <img src="/images/img_2.png" alt="Gear Set Chest" width="34" height="28"/><a href="/shop/Gear%20Set%20Chest_29/" hreflang="en">Gear Set Chest</a> </h1>
+<h1> <img src="/images/mixed_box_2.png" alt="Super Chest" width="34" height="26"/><a href="/shop/Super%20Chest_21/" hreflang="en">Super Chest</a> </h1>
+<h1> <img src="/images/gem_group.png" alt="Gem Chest" width="29" height="28"/><a href="/shop/Gem%20Chest_18/" hreflang="en">Gem Chest</a> </h1>
+<h1> <img src="/images/box_open.png" alt="Chest" width="34" height="27"/><a href="/shop/Chest_20/" hreflang="en">Chest</a> </h1>
+
+<br/>
+Extra information:
+
+* [Player Levels and Idle Rewards](/Player_Levels_and_Idle_Rewards.html)  
+
+* [Items](/item/)  
+
+<br/>
+<br/>
+**YOUR feedback is welcome!**
+[Please contact me via Discord](https://discordapp.com/users/351705203038224385/)
+
 
 {% capture notice-update20230721 %}
 
@@ -79,90 +81,6 @@ sidebar:
 </div>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![Wing Fighter Wiki](https://wing-fighter.github.io/images/anzh_img16.png)
-
-This information portal contains information about "Wing Fighter" mobile game.
-
-You will find here:
-
-<h1> <img src="/images/common_lobby_icon30.png" alt="Fighters" width="37" height="28"/><a href="/fighter/" hreflang="en">Fighters</a> </h1>
-<h1> <img src="/images/commander/actor_debris_0.png" alt="Commander" width="38" height="44"/><a href="/commander/" hreflang="en">Commanders</a> </h1>
-<h1> <img src="/images/shop.png" alt="Shop" width="31" height="23"/><a href="/shop/" hreflang="en">Shop</a> </h1>
-
-<h1> <img src="/images/img_2.png" alt="Gear Set Chest" width="34" height="28"/><a href="/shop/Gear%20Set%20Chest_29/" hreflang="en">Gear Set Chest</a> </h1>
-<h1> <img src="/images/mixed_box_2.png" alt="Super Chest" width="34" height="26"/><a href="/shop/Super%20Chest_21/" hreflang="en">Super Chest</a> </h1>
-<h1> <img src="/images/gem_group.png" alt="Gem Chest" width="29" height="28"/><a href="/shop/Gem%20Chest_18/" hreflang="en">Gem Chest</a> </h1>
-<h1> <img src="/images/box_open.png" alt="Chest" width="34" height="27"/><a href="/shop/Chest_20/" hreflang="en">Chest</a> </h1>
-
-<br/>
-Extra information:
-
-* [Player Levels and Idle Rewards](/Player_Levels_and_Idle_Rewards.html)  
-
-* [Items](/item/)  
-
-<!-- * <i class="fas fa-chess-king"/>  [Heroes](/heroes/)
-* <i class="fas fa-mask"/>  [Adjutant](/heroes/Adjutants/)
-* <i class="fab fa-optin-monster"/>  [Units](/units/)
-* <i class="fas fa-fist-raised"/> [Combination Info: Heroes & Units](/combination/)
-* <i class="fas fa-atom"/>  [Holy Emblem](/Emblem/)
-* <i class="fas fa-hand-sparkles"/>  [Artifacts](/artifacts/)
-
-* <i class="fas fa-poo-storm"/> [Main Story](/Main Story/)
-* <i class="fas fa-door-open"/> [Underground](/Underground/)
-* <i class="fas fa-crown"/> [VIP System](/VIP/)
-* <i class="fab fa-think-peaks"/> [Peak Talent](/PeakTalent/)
-
-* <i class="fas fa-question-circle"/>  [Sphinx: Answer questions for approval and rewards!](/sphinx/)
-
-* <i class="fas fa-hat-cowboy-side"/>  [Backup](/Backup/)
-* <i class="fas fa-place-of-worship"/>  [Alchemy Formula Library](/Alchemy Workshop/)
-* <i class="fab fa-battle-net"/> [Battle Formation](/Battle Formation/)
-* <i class="fas fa-store-alt"/>  [Harbour Shop](/Shops/Harbour Shop/)
-* <i class="fas fa-water"/>  [Healing Sea](/Healing Sea/)
-
-* <i class="fas fa-business-time"/>  [Weekly Sign Rewards](/Weekly Sign Rewards/) (up to 27 July 2021)
-* <i class="fas fa-calendar-alt"/>  [Schedule](/Schedule/) (up to 27 July 2021)
-* <i class="fas fa-calendar-day"/> [Hotspot Artifacts & Spell 2021](/Hotspot/)
-* <i class="fas fa-calendar-day"/> [Hotspot Artifacts 2021](/Hotspot/HotSpot Artifact _2021/)
-* <i class="fas fa-calendar-day"/> [Hotspot Spell 2021](/Hotspot/HotSpot Spell _2021/)
-* <i class="fas fa-calendar-day"/> [Faction Altar 2021](https://wing-fighter.github.io/FactionAltar/) -->
-
-
-
-<br/>
-<br/>
-**YOUR feedback is welcome!**
-[Please contact me via Discord](https://discordapp.com/users/351705203038224385/)
 
 <!--
 ### <i class="fas fa-place-of-worship"/>  Guild
