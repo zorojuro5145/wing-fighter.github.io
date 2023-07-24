@@ -17,86 +17,86 @@ classes: wide
 
 ## List of Gems
 
-  |  Nr | Icon |    Gem    | Level | Description | Type | Group |
-  |:----|:----:|:----------|:-----:|:-----------:|:----:|:------|
-  | 1 | ![Maingun Gem](/images/gem/bs1_img1.png) | [Maingun Gem](/gem/Maingun Gem) | **+1** | Used to increase Maingun attack | 1 |1 |
-  | 2 | ![Maingun Gem](/images/gem/bs1_img1.png) | [Maingun Gem](/gem/Maingun Gem) | **+2** | Used to increase Maingun attack | 1 |1 |
-  | 3 | ![Maingun Gem](/images/gem/bs1_img1.png) | [Maingun Gem](/gem/Maingun Gem) | **+3** | Used to increase Maingun attack | 1 |1 |
-  | 4 | ![Maingun Gem](/images/gem/bs1_img1.png) | [Maingun Gem](/gem/Maingun Gem) | **+4** | Used to increase Maingun attack | 1 |1 |
-  | 5 | ![Maingun Gem](/images/gem/bs1_img1.png) | [Maingun Gem](/gem/Maingun Gem) | **+5** | Used to increase Maingun attack | 1 |1 |
-  | 6 | ![Maingun Gem](/images/gem/bs1_img1.png) | [Maingun Gem](/gem/Maingun Gem) | **+6** | Used to increase Maingun attack | 1 |1 |
-  | 7 | ![Maingun Gem](/images/gem/bs1_img1.png) | [Maingun Gem](/gem/Maingun Gem) | **+7** | Used to increase Maingun attack | 1 |1 |
-  | 8 | ![Maingun Gem](/images/gem/bs1_img1.png) | [Maingun Gem](/gem/Maingun Gem) | **+8** | Used to increase Maingun attack | 1 |1 |
-  | 9 | ![Maingun Gem](/images/gem/bs1_img1.png) | [Maingun Gem](/gem/Maingun Gem) | **+9** | Used to increase Maingun attack | 1 |1 |
-  | 10 | ![Winggun Gem](/images/gem/bs1_img2.png) | [Winggun Gem](/gem/Winggun Gem) | **+1** | Used to increase Winggun attack | 2 |1 |
-  | 11 | ![Winggun Gem](/images/gem/bs1_img2.png) | [Winggun Gem](/gem/Winggun Gem) | **+2** | Used to increase Winggun attack | 2 |1 |
-  | 12 | ![Winggun Gem](/images/gem/bs1_img2.png) | [Winggun Gem](/gem/Winggun Gem) | **+3** | Used to increase Winggun attack | 2 |1 |
-  | 13 | ![Winggun Gem](/images/gem/bs1_img2.png) | [Winggun Gem](/gem/Winggun Gem) | **+4** | Used to increase Winggun attack | 2 |1 |
-  | 14 | ![Winggun Gem](/images/gem/bs1_img2.png) | [Winggun Gem](/gem/Winggun Gem) | **+5** | Used to increase Winggun attack | 2 |1 |
-  | 15 | ![Winggun Gem](/images/gem/bs1_img2.png) | [Winggun Gem](/gem/Winggun Gem) | **+6** | Used to increase Winggun attack | 2 |1 |
-  | 16 | ![Winggun Gem](/images/gem/bs1_img2.png) | [Winggun Gem](/gem/Winggun Gem) | **+7** | Used to increase Winggun attack | 2 |1 |
-  | 17 | ![Winggun Gem](/images/gem/bs1_img2.png) | [Winggun Gem](/gem/Winggun Gem) | **+8** | Used to increase Winggun attack | 2 |1 |
-  | 18 | ![Winggun Gem](/images/gem/bs1_img2.png) | [Winggun Gem](/gem/Winggun Gem) | **+9** | Used to increase Winggun attack | 2 |1 |
-  | 19 | ![Missile Gem](/images/gem/bs1_img3.png) | [Missile Gem](/gem/Missile Gem) | **+1** | Used to increase Missile attack | 3 |1 |
-  | 20 | ![Missile Gem](/images/gem/bs1_img3.png) | [Missile Gem](/gem/Missile Gem) | **+2** | Used to increase Missile attack | 3 |1 |
-  | 21 | ![Missile Gem](/images/gem/bs1_img3.png) | [Missile Gem](/gem/Missile Gem) | **+3** | Used to increase Missile attack | 3 |1 |
-  | 22 | ![Missile Gem](/images/gem/bs1_img3.png) | [Missile Gem](/gem/Missile Gem) | **+4** | Used to increase Missile attack | 3 |1 |
-  | 23 | ![Missile Gem](/images/gem/bs1_img3.png) | [Missile Gem](/gem/Missile Gem) | **+5** | Used to increase Missile attack | 3 |1 |
-  | 24 | ![Missile Gem](/images/gem/bs1_img3.png) | [Missile Gem](/gem/Missile Gem) | **+6** | Used to increase Missile attack | 3 |1 |
-  | 25 | ![Missile Gem](/images/gem/bs1_img3.png) | [Missile Gem](/gem/Missile Gem) | **+7** | Used to increase Missile attack | 3 |1 |
-  | 26 | ![Missile Gem](/images/gem/bs1_img3.png) | [Missile Gem](/gem/Missile Gem) | **+8** | Used to increase Missile attack | 3 |1 |
-  | 27 | ![Missile Gem](/images/gem/bs1_img3.png) | [Missile Gem](/gem/Missile Gem) | **+9** | Used to increase Missile attack | 3 |1 |
-  | 28 | ![HP Gem](/images/gem/bs2_img1.png) | [HP Gem](/gem/HP Gem) | **+1** | Used to increase Fighter HP | 4 |2 |
-  | 29 | ![HP Gem](/images/gem/bs2_img1.png) | [HP Gem](/gem/HP Gem) | **+2** | Used to increase Fighter HP | 4 |2 |
-  | 30 | ![HP Gem](/images/gem/bs2_img1.png) | [HP Gem](/gem/HP Gem) | **+3** | Used to increase Fighter HP | 4 |2 |
-  | 31 | ![HP Gem](/images/gem/bs2_img1.png) | [HP Gem](/gem/HP Gem) | **+4** | Used to increase Fighter HP | 4 |2 |
-  | 32 | ![HP Gem](/images/gem/bs2_img1.png) | [HP Gem](/gem/HP Gem) | **+5** | Used to increase Fighter HP | 4 |2 |
-  | 33 | ![HP Gem](/images/gem/bs2_img1.png) | [HP Gem](/gem/HP Gem) | **+6** | Used to increase Fighter HP | 4 |2 |
-  | 34 | ![HP Gem](/images/gem/bs2_img1.png) | [HP Gem](/gem/HP Gem) | **+7** | Used to increase Fighter HP | 4 |2 |
-  | 35 | ![HP Gem](/images/gem/bs2_img1.png) | [HP Gem](/gem/HP Gem) | **+8** | Used to increase Fighter HP | 4 |2 |
-  | 36 | ![HP Gem](/images/gem/bs2_img1.png) | [HP Gem](/gem/HP Gem) | **+9** | Used to increase Fighter HP | 4 |2 |
-  | 37 | ![Dodge Gem](/images/gem/bs2_img2.png) | [Dodge Gem](/gem/Dodge Gem) | **+1** | Used to increase Fighter dodge | 5 |2 |
-  | 38 | ![Dodge Gem](/images/gem/bs2_img2.png) | [Dodge Gem](/gem/Dodge Gem) | **+2** | Used to increase Fighter dodge | 5 |2 |
-  | 39 | ![Dodge Gem](/images/gem/bs2_img2.png) | [Dodge Gem](/gem/Dodge Gem) | **+3** | Used to increase Fighter dodge | 5 |2 |
-  | 40 | ![Dodge Gem](/images/gem/bs2_img2.png) | [Dodge Gem](/gem/Dodge Gem) | **+4** | Used to increase Fighter dodge | 5 |2 |
-  | 41 | ![Dodge Gem](/images/gem/bs2_img2.png) | [Dodge Gem](/gem/Dodge Gem) | **+5** | Used to increase Fighter dodge | 5 |2 |
-  | 42 | ![Dodge Gem](/images/gem/bs2_img2.png) | [Dodge Gem](/gem/Dodge Gem) | **+6** | Used to increase Fighter dodge | 5 |2 |
-  | 43 | ![Dodge Gem](/images/gem/bs2_img2.png) | [Dodge Gem](/gem/Dodge Gem) | **+7** | Used to increase Fighter dodge | 5 |2 |
-  | 44 | ![Dodge Gem](/images/gem/bs2_img2.png) | [Dodge Gem](/gem/Dodge Gem) | **+8** | Used to increase Fighter dodge | 5 |2 |
-  | 45 | ![Dodge Gem](/images/gem/bs2_img2.png) | [Dodge Gem](/gem/Dodge Gem) | **+9** | Used to increase Fighter dodge | 5 |2 |
-  | 46 | ![Defense Gem](/images/gem/bs2_img3.png) | [Defense Gem](/gem/Defense Gem) | **+1** | Used to reduce damage taken from enemies | 6 |2 |
-  | 47 | ![Defense Gem](/images/gem/bs2_img3.png) | [Defense Gem](/gem/Defense Gem) | **+2** | Used to reduce damage taken from enemies | 6 |2 |
-  | 48 | ![Defense Gem](/images/gem/bs2_img3.png) | [Defense Gem](/gem/Defense Gem) | **+3** | Used to reduce damage taken from enemies | 6 |2 |
-  | 49 | ![Defense Gem](/images/gem/bs2_img3.png) | [Defense Gem](/gem/Defense Gem) | **+4** | Used to reduce damage taken from enemies | 6 |2 |
-  | 50 | ![Defense Gem](/images/gem/bs2_img3.png) | [Defense Gem](/gem/Defense Gem) | **+5** | Used to reduce damage taken from enemies | 6 |2 |
-  | 51 | ![Defense Gem](/images/gem/bs2_img3.png) | [Defense Gem](/gem/Defense Gem) | **+6** | Used to reduce damage taken from enemies | 6 |2 |
-  | 52 | ![Defense Gem](/images/gem/bs2_img3.png) | [Defense Gem](/gem/Defense Gem) | **+7** | Used to reduce damage taken from enemies | 6 |2 |
-  | 53 | ![Defense Gem](/images/gem/bs2_img3.png) | [Defense Gem](/gem/Defense Gem) | **+8** | Used to reduce damage taken from enemies | 6 |2 |
-  | 54 | ![Defense Gem](/images/gem/bs2_img3.png) | [Defense Gem](/gem/Defense Gem) | **+9** | Used to reduce damage taken from enemies | 6 |2 |
-  | 55 | ![Anti-Air Gem](/images/gem/bs3_img1.png) | [Anti-Air Gem](/gem/Anti-Air Gem) | **+1** | Used to increase damage against flying enemies and reduce their damage | 7 |3 |
-  | 56 | ![Anti-Air Gem](/images/gem/bs3_img1.png) | [Anti-Air Gem](/gem/Anti-Air Gem) | **+2** | Used to increase damage against flying enemies and reduce their damage | 7 |3 |
-  | 57 | ![Anti-Air Gem](/images/gem/bs3_img1.png) | [Anti-Air Gem](/gem/Anti-Air Gem) | **+3** | Used to increase damage against flying enemies and reduce their damage | 7 |3 |
-  | 58 | ![Anti-Air Gem](/images/gem/bs3_img1.png) | [Anti-Air Gem](/gem/Anti-Air Gem) | **+4** | Used to increase damage against flying enemies and reduce their damage | 7 |3 |
-  | 59 | ![Anti-Air Gem](/images/gem/bs3_img1.png) | [Anti-Air Gem](/gem/Anti-Air Gem) | **+5** | Used to increase damage against flying enemies and reduce their damage | 7 |3 |
-  | 60 | ![Anti-Air Gem](/images/gem/bs3_img1.png) | [Anti-Air Gem](/gem/Anti-Air Gem) | **+6** | Used to increase damage against flying enemies and reduce their damage | 7 |3 |
-  | 61 | ![Anti-Air Gem](/images/gem/bs3_img1.png) | [Anti-Air Gem](/gem/Anti-Air Gem) | **+7** | Used to increase damage against flying enemies and reduce their damage | 7 |3 |
-  | 62 | ![Anti-Air Gem](/images/gem/bs3_img1.png) | [Anti-Air Gem](/gem/Anti-Air Gem) | **+8** | Used to increase damage against flying enemies and reduce their damage | 7 |3 |
-  | 63 | ![Anti-Air Gem](/images/gem/bs3_img1.png) | [Anti-Air Gem](/gem/Anti-Air Gem) | **+9** | Used to increase damage against flying enemies and reduce their damage | 7 |3 |
-  | 64 | ![Anti-Land Gem](/images/gem/bs3_img2.png) | [Anti-Land Gem](/gem/Anti-Land Gem) | **+1** | Used to increase damage against ground enemies and reduce their damage | 8 |3 |
-  | 65 | ![Anti-Land Gem](/images/gem/bs3_img2.png) | [Anti-Land Gem](/gem/Anti-Land Gem) | **+2** | Used to increase damage against ground enemies and reduce their damage | 8 |3 |
-  | 66 | ![Anti-Land Gem](/images/gem/bs3_img2.png) | [Anti-Land Gem](/gem/Anti-Land Gem) | **+3** | Used to increase damage against ground enemies and reduce their damage | 8 |3 |
-  | 67 | ![Anti-Land Gem](/images/gem/bs3_img2.png) | [Anti-Land Gem](/gem/Anti-Land Gem) | **+4** | Used to increase damage against ground enemies and reduce their damage | 8 |3 |
-  | 68 | ![Anti-Land Gem](/images/gem/bs3_img2.png) | [Anti-Land Gem](/gem/Anti-Land Gem) | **+5** | Used to increase damage against ground enemies and reduce their damage | 8 |3 |
-  | 69 | ![Anti-Land Gem](/images/gem/bs3_img2.png) | [Anti-Land Gem](/gem/Anti-Land Gem) | **+6** | Used to increase damage against ground enemies and reduce their damage | 8 |3 |
-  | 70 | ![Anti-Land Gem](/images/gem/bs3_img2.png) | [Anti-Land Gem](/gem/Anti-Land Gem) | **+7** | Used to increase damage against ground enemies and reduce their damage | 8 |3 |
-  | 71 | ![Anti-Land Gem](/images/gem/bs3_img2.png) | [Anti-Land Gem](/gem/Anti-Land Gem) | **+8** | Used to increase damage against ground enemies and reduce their damage | 8 |3 |
-  | 72 | ![Anti-Land Gem](/images/gem/bs3_img2.png) | [Anti-Land Gem](/gem/Anti-Land Gem) | **+9** | Used to increase damage against ground enemies and reduce their damage | 8 |3 |
-  | 73 | ![Enhancement Gem](/images/gem/bs3_img3.png) | [Enhancement Gem](/gem/Enhancement Gem) | **+1** | Used to increase damage against strong foes and reduce their damage | 9 |3 |
-  | 74 | ![Enhancement Gem](/images/gem/bs3_img3.png) | [Enhancement Gem](/gem/Enhancement Gem) | **+2** | Used to increase damage against strong foes and reduce their damage | 9 |3 |
-  | 75 | ![Enhancement Gem](/images/gem/bs3_img3.png) | [Enhancement Gem](/gem/Enhancement Gem) | **+3** | Used to increase damage against strong foes and reduce their damage | 9 |3 |
-  | 76 | ![Enhancement Gem](/images/gem/bs3_img3.png) | [Enhancement Gem](/gem/Enhancement Gem) | **+4** | Used to increase damage against strong foes and reduce their damage | 9 |3 |
-  | 77 | ![Enhancement Gem](/images/gem/bs3_img3.png) | [Enhancement Gem](/gem/Enhancement Gem) | **+5** | Used to increase damage against strong foes and reduce their damage | 9 |3 |
-  | 78 | ![Enhancement Gem](/images/gem/bs3_img3.png) | [Enhancement Gem](/gem/Enhancement Gem) | **+6** | Used to increase damage against strong foes and reduce their damage | 9 |3 |
-  | 79 | ![Enhancement Gem](/images/gem/bs3_img3.png) | [Enhancement Gem](/gem/Enhancement Gem) | **+7** | Used to increase damage against strong foes and reduce their damage | 9 |3 |
-  | 80 | ![Enhancement Gem](/images/gem/bs3_img3.png) | [Enhancement Gem](/gem/Enhancement Gem) | **+8** | Used to increase damage against strong foes and reduce their damage | 9 |3 |
-  | 81 | ![Enhancement Gem](/images/gem/bs3_img3.png) | [Enhancement Gem](/gem/Enhancement Gem) | **+9** | Used to increase damage against strong foes and reduce their damage | 9 |3 |
+  |  Nr | Icon |      Gem        |   Description   |
+  |:----|:----:|:---------------:|:---------------:|
+  | 1 | ![Maingun Gem +1](/images/gem/bs1_img1.png) | [Maingun Gem +1](/gem/Maingun Gem_1) | Used to increase Maingun attack | 
+  | 2 | ![Maingun Gem +2](/images/gem/bs1_img1.png) | [Maingun Gem +2](/gem/Maingun Gem_2) | Used to increase Maingun attack | 
+  | 3 | ![Maingun Gem +3](/images/gem/bs1_img1.png) | [Maingun Gem +3](/gem/Maingun Gem_3) | Used to increase Maingun attack | 
+  | 4 | ![Maingun Gem +4](/images/gem/bs1_img1.png) | [Maingun Gem +4](/gem/Maingun Gem_4) | Used to increase Maingun attack | 
+  | 5 | ![Maingun Gem +5](/images/gem/bs1_img1.png) | [Maingun Gem +5](/gem/Maingun Gem_5) | Used to increase Maingun attack | 
+  | 6 | ![Maingun Gem +6](/images/gem/bs1_img1.png) | [Maingun Gem +6](/gem/Maingun Gem_6) | Used to increase Maingun attack | 
+  | 7 | ![Maingun Gem +7](/images/gem/bs1_img1.png) | [Maingun Gem +7](/gem/Maingun Gem_7) | Used to increase Maingun attack | 
+  | 8 | ![Maingun Gem +8](/images/gem/bs1_img1.png) | [Maingun Gem +8](/gem/Maingun Gem_8) | Used to increase Maingun attack | 
+  | 9 | ![Maingun Gem +9](/images/gem/bs1_img1.png) | [Maingun Gem +9](/gem/Maingun Gem_9) | Used to increase Maingun attack | 
+  | 10 | ![Winggun Gem +1](/images/gem/bs1_img2.png) | [Winggun Gem +1](/gem/Winggun Gem_1) | Used to increase Winggun attack | 
+  | 11 | ![Winggun Gem +2](/images/gem/bs1_img2.png) | [Winggun Gem +2](/gem/Winggun Gem_2) | Used to increase Winggun attack | 
+  | 12 | ![Winggun Gem +3](/images/gem/bs1_img2.png) | [Winggun Gem +3](/gem/Winggun Gem_3) | Used to increase Winggun attack | 
+  | 13 | ![Winggun Gem +4](/images/gem/bs1_img2.png) | [Winggun Gem +4](/gem/Winggun Gem_4) | Used to increase Winggun attack | 
+  | 14 | ![Winggun Gem +5](/images/gem/bs1_img2.png) | [Winggun Gem +5](/gem/Winggun Gem_5) | Used to increase Winggun attack | 
+  | 15 | ![Winggun Gem +6](/images/gem/bs1_img2.png) | [Winggun Gem +6](/gem/Winggun Gem_6) | Used to increase Winggun attack | 
+  | 16 | ![Winggun Gem +7](/images/gem/bs1_img2.png) | [Winggun Gem +7](/gem/Winggun Gem_7) | Used to increase Winggun attack | 
+  | 17 | ![Winggun Gem +8](/images/gem/bs1_img2.png) | [Winggun Gem +8](/gem/Winggun Gem_8) | Used to increase Winggun attack | 
+  | 18 | ![Winggun Gem +9](/images/gem/bs1_img2.png) | [Winggun Gem +9](/gem/Winggun Gem_9) | Used to increase Winggun attack | 
+  | 19 | ![Missile Gem +1](/images/gem/bs1_img3.png) | [Missile Gem +1](/gem/Missile Gem_1) | Used to increase Missile attack | 
+  | 20 | ![Missile Gem +2](/images/gem/bs1_img3.png) | [Missile Gem +2](/gem/Missile Gem_2) | Used to increase Missile attack | 
+  | 21 | ![Missile Gem +3](/images/gem/bs1_img3.png) | [Missile Gem +3](/gem/Missile Gem_3) | Used to increase Missile attack | 
+  | 22 | ![Missile Gem +4](/images/gem/bs1_img3.png) | [Missile Gem +4](/gem/Missile Gem_4) | Used to increase Missile attack | 
+  | 23 | ![Missile Gem +5](/images/gem/bs1_img3.png) | [Missile Gem +5](/gem/Missile Gem_5) | Used to increase Missile attack | 
+  | 24 | ![Missile Gem +6](/images/gem/bs1_img3.png) | [Missile Gem +6](/gem/Missile Gem_6) | Used to increase Missile attack | 
+  | 25 | ![Missile Gem +7](/images/gem/bs1_img3.png) | [Missile Gem +7](/gem/Missile Gem_7) | Used to increase Missile attack | 
+  | 26 | ![Missile Gem +8](/images/gem/bs1_img3.png) | [Missile Gem +8](/gem/Missile Gem_8) | Used to increase Missile attack | 
+  | 27 | ![Missile Gem +9](/images/gem/bs1_img3.png) | [Missile Gem +9](/gem/Missile Gem_9) | Used to increase Missile attack | 
+  | 28 | ![HP Gem +1](/images/gem/bs2_img1.png) | [HP Gem +1](/gem/HP Gem_1) | Used to increase Fighter HP | 
+  | 29 | ![HP Gem +2](/images/gem/bs2_img1.png) | [HP Gem +2](/gem/HP Gem_2) | Used to increase Fighter HP | 
+  | 30 | ![HP Gem +3](/images/gem/bs2_img1.png) | [HP Gem +3](/gem/HP Gem_3) | Used to increase Fighter HP | 
+  | 31 | ![HP Gem +4](/images/gem/bs2_img1.png) | [HP Gem +4](/gem/HP Gem_4) | Used to increase Fighter HP | 
+  | 32 | ![HP Gem +5](/images/gem/bs2_img1.png) | [HP Gem +5](/gem/HP Gem_5) | Used to increase Fighter HP | 
+  | 33 | ![HP Gem +6](/images/gem/bs2_img1.png) | [HP Gem +6](/gem/HP Gem_6) | Used to increase Fighter HP | 
+  | 34 | ![HP Gem +7](/images/gem/bs2_img1.png) | [HP Gem +7](/gem/HP Gem_7) | Used to increase Fighter HP | 
+  | 35 | ![HP Gem +8](/images/gem/bs2_img1.png) | [HP Gem +8](/gem/HP Gem_8) | Used to increase Fighter HP | 
+  | 36 | ![HP Gem +9](/images/gem/bs2_img1.png) | [HP Gem +9](/gem/HP Gem_9) | Used to increase Fighter HP | 
+  | 37 | ![Dodge Gem +1](/images/gem/bs2_img2.png) | [Dodge Gem +1](/gem/Dodge Gem_1) | Used to increase Fighter dodge | 
+  | 38 | ![Dodge Gem +2](/images/gem/bs2_img2.png) | [Dodge Gem +2](/gem/Dodge Gem_2) | Used to increase Fighter dodge | 
+  | 39 | ![Dodge Gem +3](/images/gem/bs2_img2.png) | [Dodge Gem +3](/gem/Dodge Gem_3) | Used to increase Fighter dodge | 
+  | 40 | ![Dodge Gem +4](/images/gem/bs2_img2.png) | [Dodge Gem +4](/gem/Dodge Gem_4) | Used to increase Fighter dodge | 
+  | 41 | ![Dodge Gem +5](/images/gem/bs2_img2.png) | [Dodge Gem +5](/gem/Dodge Gem_5) | Used to increase Fighter dodge | 
+  | 42 | ![Dodge Gem +6](/images/gem/bs2_img2.png) | [Dodge Gem +6](/gem/Dodge Gem_6) | Used to increase Fighter dodge | 
+  | 43 | ![Dodge Gem +7](/images/gem/bs2_img2.png) | [Dodge Gem +7](/gem/Dodge Gem_7) | Used to increase Fighter dodge | 
+  | 44 | ![Dodge Gem +8](/images/gem/bs2_img2.png) | [Dodge Gem +8](/gem/Dodge Gem_8) | Used to increase Fighter dodge | 
+  | 45 | ![Dodge Gem +9](/images/gem/bs2_img2.png) | [Dodge Gem +9](/gem/Dodge Gem_9) | Used to increase Fighter dodge | 
+  | 46 | ![Defense Gem +1](/images/gem/bs2_img3.png) | [Defense Gem +1](/gem/Defense Gem_1) | Used to reduce damage taken from enemies | 
+  | 47 | ![Defense Gem +2](/images/gem/bs2_img3.png) | [Defense Gem +2](/gem/Defense Gem_2) | Used to reduce damage taken from enemies | 
+  | 48 | ![Defense Gem +3](/images/gem/bs2_img3.png) | [Defense Gem +3](/gem/Defense Gem_3) | Used to reduce damage taken from enemies | 
+  | 49 | ![Defense Gem +4](/images/gem/bs2_img3.png) | [Defense Gem +4](/gem/Defense Gem_4) | Used to reduce damage taken from enemies | 
+  | 50 | ![Defense Gem +5](/images/gem/bs2_img3.png) | [Defense Gem +5](/gem/Defense Gem_5) | Used to reduce damage taken from enemies | 
+  | 51 | ![Defense Gem +6](/images/gem/bs2_img3.png) | [Defense Gem +6](/gem/Defense Gem_6) | Used to reduce damage taken from enemies | 
+  | 52 | ![Defense Gem +7](/images/gem/bs2_img3.png) | [Defense Gem +7](/gem/Defense Gem_7) | Used to reduce damage taken from enemies | 
+  | 53 | ![Defense Gem +8](/images/gem/bs2_img3.png) | [Defense Gem +8](/gem/Defense Gem_8) | Used to reduce damage taken from enemies | 
+  | 54 | ![Defense Gem +9](/images/gem/bs2_img3.png) | [Defense Gem +9](/gem/Defense Gem_9) | Used to reduce damage taken from enemies | 
+  | 55 | ![Anti-Air Gem +1](/images/gem/bs3_img1.png) | [Anti-Air Gem +1](/gem/Anti-Air Gem_1) | Used to increase damage against flying enemies and reduce their damage | 
+  | 56 | ![Anti-Air Gem +2](/images/gem/bs3_img1.png) | [Anti-Air Gem +2](/gem/Anti-Air Gem_2) | Used to increase damage against flying enemies and reduce their damage | 
+  | 57 | ![Anti-Air Gem +3](/images/gem/bs3_img1.png) | [Anti-Air Gem +3](/gem/Anti-Air Gem_3) | Used to increase damage against flying enemies and reduce their damage | 
+  | 58 | ![Anti-Air Gem +4](/images/gem/bs3_img1.png) | [Anti-Air Gem +4](/gem/Anti-Air Gem_4) | Used to increase damage against flying enemies and reduce their damage | 
+  | 59 | ![Anti-Air Gem +5](/images/gem/bs3_img1.png) | [Anti-Air Gem +5](/gem/Anti-Air Gem_5) | Used to increase damage against flying enemies and reduce their damage | 
+  | 60 | ![Anti-Air Gem +6](/images/gem/bs3_img1.png) | [Anti-Air Gem +6](/gem/Anti-Air Gem_6) | Used to increase damage against flying enemies and reduce their damage | 
+  | 61 | ![Anti-Air Gem +7](/images/gem/bs3_img1.png) | [Anti-Air Gem +7](/gem/Anti-Air Gem_7) | Used to increase damage against flying enemies and reduce their damage | 
+  | 62 | ![Anti-Air Gem +8](/images/gem/bs3_img1.png) | [Anti-Air Gem +8](/gem/Anti-Air Gem_8) | Used to increase damage against flying enemies and reduce their damage | 
+  | 63 | ![Anti-Air Gem +9](/images/gem/bs3_img1.png) | [Anti-Air Gem +9](/gem/Anti-Air Gem_9) | Used to increase damage against flying enemies and reduce their damage | 
+  | 64 | ![Anti-Land Gem +1](/images/gem/bs3_img2.png) | [Anti-Land Gem +1](/gem/Anti-Land Gem_1) | Used to increase damage against ground enemies and reduce their damage | 
+  | 65 | ![Anti-Land Gem +2](/images/gem/bs3_img2.png) | [Anti-Land Gem +2](/gem/Anti-Land Gem_2) | Used to increase damage against ground enemies and reduce their damage | 
+  | 66 | ![Anti-Land Gem +3](/images/gem/bs3_img2.png) | [Anti-Land Gem +3](/gem/Anti-Land Gem_3) | Used to increase damage against ground enemies and reduce their damage | 
+  | 67 | ![Anti-Land Gem +4](/images/gem/bs3_img2.png) | [Anti-Land Gem +4](/gem/Anti-Land Gem_4) | Used to increase damage against ground enemies and reduce their damage | 
+  | 68 | ![Anti-Land Gem +5](/images/gem/bs3_img2.png) | [Anti-Land Gem +5](/gem/Anti-Land Gem_5) | Used to increase damage against ground enemies and reduce their damage | 
+  | 69 | ![Anti-Land Gem +6](/images/gem/bs3_img2.png) | [Anti-Land Gem +6](/gem/Anti-Land Gem_6) | Used to increase damage against ground enemies and reduce their damage | 
+  | 70 | ![Anti-Land Gem +7](/images/gem/bs3_img2.png) | [Anti-Land Gem +7](/gem/Anti-Land Gem_7) | Used to increase damage against ground enemies and reduce their damage | 
+  | 71 | ![Anti-Land Gem +8](/images/gem/bs3_img2.png) | [Anti-Land Gem +8](/gem/Anti-Land Gem_8) | Used to increase damage against ground enemies and reduce their damage | 
+  | 72 | ![Anti-Land Gem +9](/images/gem/bs3_img2.png) | [Anti-Land Gem +9](/gem/Anti-Land Gem_9) | Used to increase damage against ground enemies and reduce their damage | 
+  | 73 | ![Enhancement Gem +1](/images/gem/bs3_img3.png) | [Enhancement Gem +1](/gem/Enhancement Gem_1) | Used to increase damage against strong foes and reduce their damage | 
+  | 74 | ![Enhancement Gem +2](/images/gem/bs3_img3.png) | [Enhancement Gem +2](/gem/Enhancement Gem_2) | Used to increase damage against strong foes and reduce their damage | 
+  | 75 | ![Enhancement Gem +3](/images/gem/bs3_img3.png) | [Enhancement Gem +3](/gem/Enhancement Gem_3) | Used to increase damage against strong foes and reduce their damage | 
+  | 76 | ![Enhancement Gem +4](/images/gem/bs3_img3.png) | [Enhancement Gem +4](/gem/Enhancement Gem_4) | Used to increase damage against strong foes and reduce their damage | 
+  | 77 | ![Enhancement Gem +5](/images/gem/bs3_img3.png) | [Enhancement Gem +5](/gem/Enhancement Gem_5) | Used to increase damage against strong foes and reduce their damage | 
+  | 78 | ![Enhancement Gem +6](/images/gem/bs3_img3.png) | [Enhancement Gem +6](/gem/Enhancement Gem_6) | Used to increase damage against strong foes and reduce their damage | 
+  | 79 | ![Enhancement Gem +7](/images/gem/bs3_img3.png) | [Enhancement Gem +7](/gem/Enhancement Gem_7) | Used to increase damage against strong foes and reduce their damage | 
+  | 80 | ![Enhancement Gem +8](/images/gem/bs3_img3.png) | [Enhancement Gem +8](/gem/Enhancement Gem_8) | Used to increase damage against strong foes and reduce their damage | 
+  | 81 | ![Enhancement Gem +9](/images/gem/bs3_img3.png) | [Enhancement Gem +9](/gem/Enhancement Gem_9) | Used to increase damage against strong foes and reduce their damage | 
