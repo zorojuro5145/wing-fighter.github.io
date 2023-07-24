@@ -37,8 +37,8 @@ classes: wide
 
 ## Collection Center Levels:
 
-  |  CC Level | Upgrade Costs | Max Nano Lvl | Max Star Lvl | Max Lvl Fighter | Max Moduel Lvl | Max Alloy Lvl | Max Pilot Exp Lvl | Max Lvl Diamond |
-  |:-------|:-------------:|:------------:|:-------------|:---------------:|:--------------:|:-------------:|:-----------------:|:----------------|
+  |  CC Level |     Upgrade Costs    | Max Nano Lvl | Max Star Lvl | Max Lvl Fighter | Max Moduel Lvl | Max Alloy Lvl | Max Pilot Exp Lvl | Max Lvl Diamond |
+  |:-------|:-----------------------:|:------------:|:------------:|:------------:|:------------:|:------------:|:------------:|:------------:|
   | 1 | **10x**![Unknown_68](/images/item/bh_img25_p.png)  | **1**  | **1**  | **1**  | **1**  | **1**  | **1**  | **1** |
   | 2 | **50x**![Unknown_68](/images/item/bh_img25_p.png)  | **2**  | **1**  | **1**  | **1**  | **1**  | **1**  | **1** |
   | 3 | **130x**![Unknown_68](/images/item/bh_img25_p.png)  | **2**  | **2**  | **1**  | **1**  | **1**  | **1**  | **1** |
