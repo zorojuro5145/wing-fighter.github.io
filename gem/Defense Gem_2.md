@@ -1,7 +1,7 @@
 ---
-title: "Gem Defense Gem"
+title: "Gem Defense Gem +2"
 permalink: /gem/Defense Gem_2/
-excerpt: "Wing Fighter Gem Defense Gem"
+excerpt: "Wing Fighter Gem Defense Gem +2"
 last_modified_at: 2023-07-24
 locale: en
 ref: "Defense Gem_2.md"

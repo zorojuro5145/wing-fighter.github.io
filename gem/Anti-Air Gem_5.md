@@ -1,7 +1,7 @@
 ---
-title: "Gem Anti-Air Gem"
+title: "Gem Anti-Air Gem +5"
 permalink: /gem/Anti-Air Gem_5/
-excerpt: "Wing Fighter Gem Anti-Air Gem"
+excerpt: "Wing Fighter Gem Anti-Air Gem +5"
 last_modified_at: 2023-07-24
 locale: en
 ref: "Anti-Air Gem_5.md"

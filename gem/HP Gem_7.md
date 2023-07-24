@@ -1,7 +1,7 @@
 ---
-title: "Gem HP Gem"
+title: "Gem HP Gem +7"
 permalink: /gem/HP Gem_7/
-excerpt: "Wing Fighter Gem HP Gem"
+excerpt: "Wing Fighter Gem HP Gem +7"
 last_modified_at: 2023-07-24
 locale: en
 ref: "HP Gem_7.md"

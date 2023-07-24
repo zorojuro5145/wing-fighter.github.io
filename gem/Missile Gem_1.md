@@ -1,7 +1,7 @@
 ---
-title: "Gem Missile Gem"
+title: "Gem Missile Gem +1"
 permalink: /gem/Missile Gem_1/
-excerpt: "Wing Fighter Gem Missile Gem"
+excerpt: "Wing Fighter Gem Missile Gem +1"
 last_modified_at: 2023-07-24
 locale: en
 ref: "Missile Gem_1.md"

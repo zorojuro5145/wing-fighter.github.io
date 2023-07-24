@@ -1,7 +1,7 @@
 ---
-title: "Gem Maingun Gem"
+title: "Gem Maingun Gem +2"
 permalink: /gem/Maingun Gem_2/
-excerpt: "Wing Fighter Gem Maingun Gem"
+excerpt: "Wing Fighter Gem Maingun Gem +2"
 last_modified_at: 2023-07-24
 locale: en
 ref: "Maingun Gem_2.md"
