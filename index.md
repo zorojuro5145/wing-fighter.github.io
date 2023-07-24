@@ -40,8 +40,9 @@ You will find here:
 
 <h1> <img src="/images/common_lobby_icon30.png" alt="Fighters" width="37" height="28"/><a href="/fighter/" hreflang="en">Fighters</a> </h1>
 <h1> <img src="/images/commander/actor_debris_0.png" alt="Commander" width="38" height="44"/><a href="/commander/" hreflang="en">Commanders</a> </h1>
-<h1> <img src="/images/shop.png" alt="Shop" width="31" height="23"/><a href="/shop/" hreflang="en">Shop</a> </h1>
 <h1> <img src="/images/gem_group.png" alt="Shop" width="29" height="28"/><a href="/gem/" hreflang="en">Gems</a> </h1>
+
+<h1> <img src="/images/shop.png" alt="Shop" width="31" height="23"/><a href="/shop/" hreflang="en">Shop</a> </h1>
 
 <h1> <img src="/images/img_2.png" alt="Gear Set Chest" width="34" height="28"/><a href="/shop/Gear%20Set%20Chest_29/" hreflang="en">Gear Set Chest</a> </h1>
 <h1> <img src="/images/mixed_box_2.png" alt="Super Chest" width="34" height="26"/><a href="/shop/Super%20Chest_21/" hreflang="en">Super Chest</a> </h1>
@@ -79,15 +80,6 @@ Extra information:
   <h4 class="no_toc">21 July 2023 Wiki Update: More images, Items published, ...</h4>
   {{ notice-update20230721 | markdownify }}
 </div>
-
-
-
-<!--
-### <i class="fas fa-place-of-worship"/>  Guild
-### <i class="fas fa-store"/>  Stores
-### <i class="fas fa-chess"/>  Auto Chess
-### <i class="fas fa-cogs"/> War Maschines
--->
 
 
 Update History:
