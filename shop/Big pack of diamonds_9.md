@@ -2,7 +2,7 @@
 title: "Shop Big pack of diamonds"
 permalink: /shop/Big pack of diamonds_9/
 excerpt: "Wing Fighter Big pack of diamonds"
-last_modified_at: 2023-07-22
+last_modified_at: 2023-07-24
 locale: en
 ref: "Big pack of diamonds_9.md"
 toc: false
@@ -10,7 +10,7 @@ classes: wide
 ---
 
 
-  [Supreme Care Chest](/shop/Shop Supreme Care Chest/){: .btn .btn--primary}   [Stage X Pack](/shop/Shop Stage X Pack/){: .btn .btn--primary}   [Ad-free](/shop/Shop Ad-free/){: .btn .btn--primary}   [Stars](/shop/Shop Stars/){: .btn .btn--primary}   [Diamonds](/shop/Shop Diamonds/){: .btn .btn--primary}   [Other](/shop/Shop Other/){: .btn .btn--primary} 
+  [Supreme Care Chest](/shop/Shop Supreme Care Chest/){: .btn .btn--primary}   [Stage X Pack](/shop/Shop Stage X Pack/){: .btn .btn--success}   [Ad-free](/shop/Shop Ad-free/){: .btn .btn--warning}   [Stars](/shop/Shop Stars/){: .btn .btn--danger}   [Diamonds](/shop/Shop Diamonds/){: .btn .btn--info}   [Other](/shop/Shop Other/){: .btn .btn--primary} 
 
 ## Details
 
