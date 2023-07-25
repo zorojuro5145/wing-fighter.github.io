@@ -14,9 +14,9 @@ classes: wide
 
 ## Details
 
- **Upgrade costs:** **43636x**![Unknown_68](/images/item/bh_img25_p.png)
+ **Upgrade costs to level 25:** **43636x**![Unknown_68](/images/item/bh_img25_p.png)
 
- **Total upgrade costs:** **139129x**![Unknown_68](/images/item/bh_img25_p.png)
+ **Total upgrade costs to level 25:** **139129x**![Unknown_68](/images/item/bh_img25_p.png)
 
  **Nano Material (max level):** ![Nano Material +5](/images/cc/CC_Nano_Material_5_p.png) [Nano Material +5](/CollectionCenter/Nano Material_5)
 

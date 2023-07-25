@@ -39,8 +39,8 @@ classes: wide
 
  *Note: Click on* **"Collection Center Level XX"** *link to get more information.<br/> The* **Nano**, **Star**, **Fighter**, **Module**, **Alloy**, **Pilot EXP Card** and **Diamond** columns are represent Maximum Level for each Collection Center.
 
-  |  Collection Center Level |     Upgrade Costs    | Nano | Star | Fighter | Module | Alloy | Pilot | Diamond |
-  |:-----------------|:--------------------:|:----:|:----:|:-------:|:------:|:-----:|:-----:|:-------:|
+  |  Collection Center Level | Upgrade Costs to NEXT level | Nano | Star | Fighter | Module | Alloy | Pilot | Diamond |
+  |:-----------------|:---------------------------:|:----:|:----:|:-------:|:------:|:-----:|:-----:|:-------:|
   | [Collection Center Level 1](/CollectionCenter/Collection Center Level 1) | **10x**![Unknown_68](/images/item/bh_img25_p.png)  | **1**  | **1**  | **1**  | **1**  | **1**  | **1**  | **1** |
   | [Collection Center Level 2](/CollectionCenter/Collection Center Level 2) | **50x**![Unknown_68](/images/item/bh_img25_p.png)  | **2**  | **1**  | **1**  | **1**  | **1**  | **1**  | **1** |
   | [Collection Center Level 3](/CollectionCenter/Collection Center Level 3) | **130x**![Unknown_68](/images/item/bh_img25_p.png)  | **2**  | **2**  | **1**  | **1**  | **1**  | **1**  | **1** |
