@@ -14,21 +14,21 @@ classes: wide
 
  **Upgrade costs:** **16581x**![Unknown_68](/images/item/bh_img25_p.png)
 
- **Total upgrade costs:** 76293
+ **Total upgrade costs: 76293x **
 
- **Nano Material (max level):** 5
+ **Nano Material (max level):** ![Nano Material +5](/images/cc/CC Nano Material_5_p.png) [Nano Material +5](/CollectionCenter/Nano Material_5)
 
- **Star (max level):** 5
+ **Star (max level):** ![Star +5](/images/cc/CC Star_5_p.png) [Star +5](/CollectionCenter/Star_5)
 
- **Fighter (max level):** 4
+ **Fighter (max level):** ![Fighter Shard +4](/images/cc/CC Fighter Shard_4_p.png) [Fighter Shard +4](/CollectionCenter/Fighter Shard_4)
 
- **Module (max level):** 4
+ **Module (max level):** ![Module +4](/images/cc/CC Module_4_p.png) [Module +4](/CollectionCenter/Module_4)
 
- **Alloy (max level):** 4
+ **Alloy (max level):** ![Alloy Plate +4](/images/cc/CC Alloy Plate_4_p.png) [Alloy Plate +4](/CollectionCenter/Alloy Plate_4)
 
- **Pilot EXP Card (max level):** 4
+ **Pilot EXP Card (max level):** ![Commander EXP Card +4](/images/cc/CC Pilot EXP Card_4_p.png) [Commander EXP Card +4](/CollectionCenter/Commander EXP Card_4)
 
- **Diamonds (max level):** 3
+ **Diamonds (max level):** ![Diamond +3](/images/cc/CC Diamond_3_p.png) [Diamond +3](/CollectionCenter/Diamond_3)
 
 ## Generated items with drop rate
 
