@@ -35,7 +35,7 @@ classes: wide
 ## Generated items with drop rate
 
   |  Nr |     Item   |    Description   |  Drop Rate,% |
-  |:----|:----------:|:-----------------|:-------------|
+  |:----|:-----------|:-----------------|:-------------|
   | +1 | ![Diamond +1](/images/cc/CC_Diamond_1_p.png) [Diamond +1](/CollectionCenter/Diamond_1) | Diamond×20 | **10.526316** |
   | +2 | ![Nano Material +1](/images/cc/CC_Nano_Material_1_p.png) [Nano Material +1](/CollectionCenter/Nano Material_1) | Nano Material×10 | **15.789474** |
   | +3 | ![Star +1](/images/cc/CC_Star_1_p.png) [Star +1](/CollectionCenter/Star_1) | Star×2500 | **15.789474** |

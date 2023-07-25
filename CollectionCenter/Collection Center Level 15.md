@@ -35,7 +35,7 @@ classes: wide
 ## Generated items with drop rate
 
   |  Nr |     Item   |    Description   |  Drop Rate,% |
-  |:----|:----------:|:-----------------|:-------------|
+  |:----|:-----------|:-----------------|:-------------|
   | +1 | ![Diamond +1](/images/cc/CC_Diamond_1_p.png) [Diamond +1](/CollectionCenter/Diamond_1) | Diamond×20 | **3.5084949** |
   | +2 | ![Diamond +2](/images/cc/CC_Diamond_2_p.png) [Diamond +2](/CollectionCenter/Diamond_2) | Diamond×40 | **3.5084949** |
   | +3 | ![Diamond +3](/images/cc/CC_Diamond_3_p.png) [Diamond +3](/CollectionCenter/Diamond_3) | Diamond×60 | **3.5084949** |
