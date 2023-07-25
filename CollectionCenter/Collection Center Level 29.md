@@ -14,6 +14,8 @@ classes: wide
 
  **Upgrade costs:** **76800x**![Unknown_68](/images/item/bh_img25_p.png)
 
+ **Total upgrade costs:** 437600
+
  **Nano Material (max level):** 6
 
  **Star (max level):** 6

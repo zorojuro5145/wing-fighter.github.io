@@ -14,6 +14,8 @@ classes: wide
 
  **Upgrade costs:** **253x**![Unknown_68](/images/item/bh_img25_p.png)
 
+ **Total upgrade costs:** 835
+
  **Nano Material (max level):** 2
 
  **Star (max level):** 2
