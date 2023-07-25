@@ -37,7 +37,7 @@ classes: wide
 
 ## Collection Center Levels:
 
- *Note:* Click on "Collection Center Level XX" link to get more information. The Nano, Star, Fighter, Module, Alloy, Pilot and Diamon columns are represent Maximum Level for each Collection Center.
+ *Note: Click on* **"Collection Center Level XX"** *link to get more information.<br/> The* **Nano**, **Star**, **Fighter**, **Module**, **Alloy**, **Pilot EXP Card** and **Diamond** columns are represent Maximum Level for each Collection Center.
 
   |  Collection Center Level |     Upgrade Costs    | Nano | Star | Fighter | Module | Alloy | Pilot | Diamond |
   |:-----------------|:--------------------:|:----:|:----:|:-------:|:------:|:-----:|:-----:|:-------:|
