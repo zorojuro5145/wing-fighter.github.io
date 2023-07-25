@@ -2,7 +2,7 @@
 title: "Collection Center"
 permalink: /CollectionCenter/
 excerpt: "Wing Fighter Collection Center"
-last_modified_at: 2023-07-24
+last_modified_at: 2023-07-25
 locale: en
 ref: "index.md"
 toc: false
@@ -37,67 +37,69 @@ classes: wide
 
 ## Collection Center Levels:
 
-  |  CC Level |     Upgrade Costs    | Max Nano Lvl | Max Star Lvl | Max Lvl Fighter | Max Moduel Lvl | Max Alloy Lvl | Max Pilot Exp Lvl | Max Lvl Diamond |
-  |:-------|:-----------------------:|:------------:|:------------:|:------------:|:------------:|:------------:|:------------:|:------------:|
-  | 1 | **10x**![Unknown_68](/images/item/bh_img25_p.png)  | **1**  | **1**  | **1**  | **1**  | **1**  | **1**  | **1** |
-  | 2 | **50x**![Unknown_68](/images/item/bh_img25_p.png)  | **2**  | **1**  | **1**  | **1**  | **1**  | **1**  | **1** |
-  | 3 | **130x**![Unknown_68](/images/item/bh_img25_p.png)  | **2**  | **2**  | **1**  | **1**  | **1**  | **1**  | **1** |
-  | 4 | **174x**![Unknown_68](/images/item/bh_img25_p.png)  | **2**  | **2**  | **2**  | **1**  | **1**  | **1**  | **1** |
-  | 5 | **218x**![Unknown_68](/images/item/bh_img25_p.png)  | **2**  | **2**  | **2**  | **2**  | **1**  | **1**  | **1** |
-  | 6 | **253x**![Unknown_68](/images/item/bh_img25_p.png)  | **2**  | **2**  | **2**  | **2**  | **2**  | **1**  | **1** |
-  | 7 | **288x**![Unknown_68](/images/item/bh_img25_p.png)  | **2**  | **2**  | **2**  | **2**  | **2**  | **2**  | **1** |
-  | 8 | **645x**![Unknown_68](/images/item/bh_img25_p.png)  | **2**  | **2**  | **2**  | **2**  | **2**  | **2**  | **2** |
-  | 9 | **715x**![Unknown_68](/images/item/bh_img25_p.png)  | **3**  | **2**  | **2**  | **2**  | **2**  | **2**  | **2** |
-  | 10 | **785x**![Unknown_68](/images/item/bh_img25_p.png)  | **3**  | **3**  | **2**  | **2**  | **2**  | **2**  | **2** |
-  | 11 | **855x**![Unknown_68](/images/item/bh_img25_p.png)  | **3**  | **3**  | **3**  | **2**  | **2**  | **2**  | **2** |
-  | 12 | **925x**![Unknown_68](/images/item/bh_img25_p.png)  | **3**  | **3**  | **3**  | **3**  | **2**  | **2**  | **2** |
-  | 13 | **994x**![Unknown_68](/images/item/bh_img25_p.png)  | **3**  | **3**  | **3**  | **3**  | **3**  | **2**  | **2** |
-  | 14 | **1309x**![Unknown_68](/images/item/bh_img25_p.png)  | **3**  | **3**  | **3**  | **3**  | **3**  | **3**  | **2** |
-  | 15 | **2618x**![Unknown_68](/images/item/bh_img25_p.png)  | **4**  | **3**  | **3**  | **3**  | **3**  | **3**  | **3** |
-  | 16 | **3927x**![Unknown_68](/images/item/bh_img25_p.png)  | **4**  | **4**  | **3**  | **3**  | **3**  | **3**  | **3** |
-  | 17 | **5236x**![Unknown_68](/images/item/bh_img25_p.png)  | **4**  | **4**  | **4**  | **3**  | **3**  | **3**  | **3** |
-  | 18 | **6545x**![Unknown_68](/images/item/bh_img25_p.png)  | **4**  | **4**  | **4**  | **4**  | **3**  | **3**  | **3** |
-  | 19 | **8727x**![Unknown_68](/images/item/bh_img25_p.png)  | **4**  | **4**  | **4**  | **4**  | **4**  | **3**  | **3** |
-  | 20 | **11345x**![Unknown_68](/images/item/bh_img25_p.png)  | **4**  | **4**  | **4**  | **4**  | **4**  | **4**  | **3** |
-  | 21 | **13963x**![Unknown_68](/images/item/bh_img25_p.png)  | **5**  | **4**  | **4**  | **4**  | **4**  | **4**  | **3** |
-  | 22 | **16581x**![Unknown_68](/images/item/bh_img25_p.png)  | **5**  | **5**  | **4**  | **4**  | **4**  | **4**  | **3** |
-  | 23 | **19200x**![Unknown_68](/images/item/bh_img25_p.png)  | **5**  | **5**  | **5**  | **4**  | **4**  | **4**  | **3** |
-  | 24 | **43636x**![Unknown_68](/images/item/bh_img25_p.png)  | **5**  | **5**  | **5**  | **5**  | **4**  | **4**  | **3** |
-  | 25 | **48872x**![Unknown_68](/images/item/bh_img25_p.png)  | **5**  | **5**  | **5**  | **5**  | **5**  | **4**  | **3** |
-  | 26 | **54109x**![Unknown_68](/images/item/bh_img25_p.png)  | **5**  | **5**  | **5**  | **5**  | **5**  | **5**  | **3** |
-  | 27 | **57600x**![Unknown_68](/images/item/bh_img25_p.png)  | **6**  | **5**  | **5**  | **5**  | **5**  | **5**  | **3** |
-  | 28 | **61090x**![Unknown_68](/images/item/bh_img25_p.png)  | **6**  | **6**  | **5**  | **5**  | **5**  | **5**  | **3** |
-  | 29 | **76800x**![Unknown_68](/images/item/bh_img25_p.png)  | **6**  | **6**  | **6**  | **5**  | **5**  | **5**  | **3** |
-  | 30 | **90763x**![Unknown_68](/images/item/bh_img25_p.png)  | **6**  | **6**  | **6**  | **6**  | **5**  | **5**  | **3** |
-  | 31 | **104727x**![Unknown_68](/images/item/bh_img25_p.png)  | **6**  | **6**  | **6**  | **6**  | **6**  | **5**  | **3** |
-  | 32 | **118690x**![Unknown_68](/images/item/bh_img25_p.png)  | **6**  | **6**  | **6**  | **6**  | **6**  | **6**  | **3** |
-  | 33 | **125672x**![Unknown_68](/images/item/bh_img25_p.png)  | **7**  | **6**  | **6**  | **6**  | **6**  | **6**  | **3** |
-  | 34 | **146618x**![Unknown_68](/images/item/bh_img25_p.png)  | **7**  | **7**  | **6**  | **6**  | **6**  | **6**  | **3** |
-  | 35 | **171752x**![Unknown_68](/images/item/bh_img25_p.png)  | **7**  | **7**  | **7**  | **6**  | **6**  | **6**  | **3** |
-  | 36 | **196887x**![Unknown_68](/images/item/bh_img25_p.png)  | **7**  | **7**  | **7**  | **7**  | **6**  | **6**  | **3** |
-  | 37 | **222021x**![Unknown_68](/images/item/bh_img25_p.png)  | **7**  | **7**  | **7**  | **7**  | **7**  | **6**  | **3** |
-  | 38 | **230400x**![Unknown_68](/images/item/bh_img25_p.png)  | **7**  | **7**  | **7**  | **7**  | **7**  | **7**  | **3** |
-  | 39 | **251345x**![Unknown_68](/images/item/bh_img25_p.png)  | **8**  | **7**  | **7**  | **7**  | **7**  | **7**  | **3** |
-  | 40 | **293236x**![Unknown_68](/images/item/bh_img25_p.png)  | **8**  | **8**  | **7**  | **7**  | **7**  | **7**  | **3** |
-  | 41 | **335127x**![Unknown_68](/images/item/bh_img25_p.png)  | **8**  | **8**  | **8**  | **7**  | **7**  | **7**  | **3** |
-  | 42 | **351883x**![Unknown_68](/images/item/bh_img25_p.png)  | **8**  | **8**  | **8**  | **8**  | **7**  | **7**  | **3** |
-  | 43 | **363054x**![Unknown_68](/images/item/bh_img25_p.png)  | **8**  | **8**  | **8**  | **8**  | **8**  | **7**  | **3** |
-  | 44 | **418909x**![Unknown_68](/images/item/bh_img25_p.png)  | **8**  | **8**  | **8**  | **8**  | **8**  | **8**  | **3** |
-  | 45 | **473367x**![Unknown_68](/images/item/bh_img25_p.png)  | **9**  | **8**  | **8**  | **8**  | **8**  | **8**  | **3** |
-  | 46 | **527825x**![Unknown_68](/images/item/bh_img25_p.png)  | **9**  | **9**  | **8**  | **8**  | **8**  | **8**  | **3** |
-  | 47 | **582283x**![Unknown_68](/images/item/bh_img25_p.png)  | **9**  | **9**  | **9**  | **8**  | **8**  | **8**  | **3** |
-  | 48 | **584378x**![Unknown_68](/images/item/bh_img25_p.png)  | **9**  | **9**  | **9**  | **9**  | **8**  | **8**  | **3** |
-  | 49 | **659781x**![Unknown_68](/images/item/bh_img25_p.png)  | **9**  | **9**  | **9**  | **9**  | **9**  | **8**  | **3** |
-  | 50 | **662138x**![Unknown_68](/images/item/bh_img25_p.png)  | **9**  | **9**  | **9**  | **9**  | **9**  | **9**  | **3** |
-  | 51 | **664494x**![Unknown_68](/images/item/bh_img25_p.png)  | **10**  | **9**  | **9**  | **9**  | **9**  | **9**  | **3** |
-  | 52 | **666850x**![Unknown_68](/images/item/bh_img25_p.png)  | **10**  | **10**  | **9**  | **9**  | **9**  | **9**  | **3** |
-  | 53 | **669207x**![Unknown_68](/images/item/bh_img25_p.png)  | **10**  | **10**  | **10**  | **9**  | **9**  | **9**  | **3** |
-  | 54 | **671563x**![Unknown_68](/images/item/bh_img25_p.png)  | **10**  | **10**  | **10**  | **10**  | **9**  | **9**  | **3** |
-  | 55 | **673919x**![Unknown_68](/images/item/bh_img25_p.png)  | **10**  | **10**  | **10**  | **10**  | **10**  | **9**  | **3** |
-  | 56 | **676275x**![Unknown_68](/images/item/bh_img25_p.png)  | **10**  | **10**  | **10**  | **10**  | **10**  | **10**  | **3** |
-  | 57 | **678631x**![Unknown_68](/images/item/bh_img25_p.png)  | **11**  | **10**  | **10**  | **10**  | **10**  | **10**  | **3** |
-  | 58 | **680987x**![Unknown_68](/images/item/bh_img25_p.png)  | **11**  | **11**  | **10**  | **10**  | **10**  | **10**  | **3** |
-  | 59 | **683343x**![Unknown_68](/images/item/bh_img25_p.png)  | **11**  | **11**  | **11**  | **10**  | **10**  | **10**  | **3** |
-  | 60 | **685699x**![Unknown_68](/images/item/bh_img25_p.png)  | **11**  | **11**  | **11**  | **11**  | **10**  | **10**  | **3** |
-  | 61 | **688055x**![Unknown_68](/images/item/bh_img25_p.png)  | **11**  | **11**  | **11**  | **11**  | **11**  | **10**  | **3** |
-  | 62 | **690411x**![Unknown_68](/images/item/bh_img25_p.png)  | **11**  | **11**  | **11**  | **11**  | **11**  | **11**  | **3** |
+ *Note:* Click on "Collection Center Level XX" link to get more information. The Nano, Star, Fighter, Module, Alloy, Pilot and Diamon columns are represent Maximum Level for each Collection Center.
+
+  |  Collection Center Level |     Upgrade Costs    | Nano | Star | Fighter | Module | Alloy | Pilot | Diamond |
+  |:-----------------|:--------------------:|:----:|:----:|:-------:|:------:|:-----:|:-----:|:-------:|
+  | [Collection Center Level 1](/CollectionCenter/Collection Center Level 1) | **10x**![Unknown_68](/images/item/bh_img25_p.png)  | **1**  | **1**  | **1**  | **1**  | **1**  | **1**  | **1** |
+  | [Collection Center Level 2](/CollectionCenter/Collection Center Level 2) | **50x**![Unknown_68](/images/item/bh_img25_p.png)  | **2**  | **1**  | **1**  | **1**  | **1**  | **1**  | **1** |
+  | [Collection Center Level 3](/CollectionCenter/Collection Center Level 3) | **130x**![Unknown_68](/images/item/bh_img25_p.png)  | **2**  | **2**  | **1**  | **1**  | **1**  | **1**  | **1** |
+  | [Collection Center Level 4](/CollectionCenter/Collection Center Level 4) | **174x**![Unknown_68](/images/item/bh_img25_p.png)  | **2**  | **2**  | **2**  | **1**  | **1**  | **1**  | **1** |
+  | [Collection Center Level 5](/CollectionCenter/Collection Center Level 5) | **218x**![Unknown_68](/images/item/bh_img25_p.png)  | **2**  | **2**  | **2**  | **2**  | **1**  | **1**  | **1** |
+  | [Collection Center Level 6](/CollectionCenter/Collection Center Level 6) | **253x**![Unknown_68](/images/item/bh_img25_p.png)  | **2**  | **2**  | **2**  | **2**  | **2**  | **1**  | **1** |
+  | [Collection Center Level 7](/CollectionCenter/Collection Center Level 7) | **288x**![Unknown_68](/images/item/bh_img25_p.png)  | **2**  | **2**  | **2**  | **2**  | **2**  | **2**  | **1** |
+  | [Collection Center Level 8](/CollectionCenter/Collection Center Level 8) | **645x**![Unknown_68](/images/item/bh_img25_p.png)  | **2**  | **2**  | **2**  | **2**  | **2**  | **2**  | **2** |
+  | [Collection Center Level 9](/CollectionCenter/Collection Center Level 9) | **715x**![Unknown_68](/images/item/bh_img25_p.png)  | **3**  | **2**  | **2**  | **2**  | **2**  | **2**  | **2** |
+  | [Collection Center Level 10](/CollectionCenter/Collection Center Level 10) | **785x**![Unknown_68](/images/item/bh_img25_p.png)  | **3**  | **3**  | **2**  | **2**  | **2**  | **2**  | **2** |
+  | [Collection Center Level 11](/CollectionCenter/Collection Center Level 11) | **855x**![Unknown_68](/images/item/bh_img25_p.png)  | **3**  | **3**  | **3**  | **2**  | **2**  | **2**  | **2** |
+  | [Collection Center Level 12](/CollectionCenter/Collection Center Level 12) | **925x**![Unknown_68](/images/item/bh_img25_p.png)  | **3**  | **3**  | **3**  | **3**  | **2**  | **2**  | **2** |
+  | [Collection Center Level 13](/CollectionCenter/Collection Center Level 13) | **994x**![Unknown_68](/images/item/bh_img25_p.png)  | **3**  | **3**  | **3**  | **3**  | **3**  | **2**  | **2** |
+  | [Collection Center Level 14](/CollectionCenter/Collection Center Level 14) | **1309x**![Unknown_68](/images/item/bh_img25_p.png)  | **3**  | **3**  | **3**  | **3**  | **3**  | **3**  | **2** |
+  | [Collection Center Level 15](/CollectionCenter/Collection Center Level 15) | **2618x**![Unknown_68](/images/item/bh_img25_p.png)  | **4**  | **3**  | **3**  | **3**  | **3**  | **3**  | **3** |
+  | [Collection Center Level 16](/CollectionCenter/Collection Center Level 16) | **3927x**![Unknown_68](/images/item/bh_img25_p.png)  | **4**  | **4**  | **3**  | **3**  | **3**  | **3**  | **3** |
+  | [Collection Center Level 17](/CollectionCenter/Collection Center Level 17) | **5236x**![Unknown_68](/images/item/bh_img25_p.png)  | **4**  | **4**  | **4**  | **3**  | **3**  | **3**  | **3** |
+  | [Collection Center Level 18](/CollectionCenter/Collection Center Level 18) | **6545x**![Unknown_68](/images/item/bh_img25_p.png)  | **4**  | **4**  | **4**  | **4**  | **3**  | **3**  | **3** |
+  | [Collection Center Level 19](/CollectionCenter/Collection Center Level 19) | **8727x**![Unknown_68](/images/item/bh_img25_p.png)  | **4**  | **4**  | **4**  | **4**  | **4**  | **3**  | **3** |
+  | [Collection Center Level 20](/CollectionCenter/Collection Center Level 20) | **11345x**![Unknown_68](/images/item/bh_img25_p.png)  | **4**  | **4**  | **4**  | **4**  | **4**  | **4**  | **3** |
+  | [Collection Center Level 21](/CollectionCenter/Collection Center Level 21) | **13963x**![Unknown_68](/images/item/bh_img25_p.png)  | **5**  | **4**  | **4**  | **4**  | **4**  | **4**  | **3** |
+  | [Collection Center Level 22](/CollectionCenter/Collection Center Level 22) | **16581x**![Unknown_68](/images/item/bh_img25_p.png)  | **5**  | **5**  | **4**  | **4**  | **4**  | **4**  | **3** |
+  | [Collection Center Level 23](/CollectionCenter/Collection Center Level 23) | **19200x**![Unknown_68](/images/item/bh_img25_p.png)  | **5**  | **5**  | **5**  | **4**  | **4**  | **4**  | **3** |
+  | [Collection Center Level 24](/CollectionCenter/Collection Center Level 24) | **43636x**![Unknown_68](/images/item/bh_img25_p.png)  | **5**  | **5**  | **5**  | **5**  | **4**  | **4**  | **3** |
+  | [Collection Center Level 25](/CollectionCenter/Collection Center Level 25) | **48872x**![Unknown_68](/images/item/bh_img25_p.png)  | **5**  | **5**  | **5**  | **5**  | **5**  | **4**  | **3** |
+  | [Collection Center Level 26](/CollectionCenter/Collection Center Level 26) | **54109x**![Unknown_68](/images/item/bh_img25_p.png)  | **5**  | **5**  | **5**  | **5**  | **5**  | **5**  | **3** |
+  | [Collection Center Level 27](/CollectionCenter/Collection Center Level 27) | **57600x**![Unknown_68](/images/item/bh_img25_p.png)  | **6**  | **5**  | **5**  | **5**  | **5**  | **5**  | **3** |
+  | [Collection Center Level 28](/CollectionCenter/Collection Center Level 28) | **61090x**![Unknown_68](/images/item/bh_img25_p.png)  | **6**  | **6**  | **5**  | **5**  | **5**  | **5**  | **3** |
+  | [Collection Center Level 29](/CollectionCenter/Collection Center Level 29) | **76800x**![Unknown_68](/images/item/bh_img25_p.png)  | **6**  | **6**  | **6**  | **5**  | **5**  | **5**  | **3** |
+  | [Collection Center Level 30](/CollectionCenter/Collection Center Level 30) | **90763x**![Unknown_68](/images/item/bh_img25_p.png)  | **6**  | **6**  | **6**  | **6**  | **5**  | **5**  | **3** |
+  | [Collection Center Level 31](/CollectionCenter/Collection Center Level 31) | **104727x**![Unknown_68](/images/item/bh_img25_p.png)  | **6**  | **6**  | **6**  | **6**  | **6**  | **5**  | **3** |
+  | [Collection Center Level 32](/CollectionCenter/Collection Center Level 32) | **118690x**![Unknown_68](/images/item/bh_img25_p.png)  | **6**  | **6**  | **6**  | **6**  | **6**  | **6**  | **3** |
+  | [Collection Center Level 33](/CollectionCenter/Collection Center Level 33) | **125672x**![Unknown_68](/images/item/bh_img25_p.png)  | **7**  | **6**  | **6**  | **6**  | **6**  | **6**  | **3** |
+  | [Collection Center Level 34](/CollectionCenter/Collection Center Level 34) | **146618x**![Unknown_68](/images/item/bh_img25_p.png)  | **7**  | **7**  | **6**  | **6**  | **6**  | **6**  | **3** |
+  | [Collection Center Level 35](/CollectionCenter/Collection Center Level 35) | **171752x**![Unknown_68](/images/item/bh_img25_p.png)  | **7**  | **7**  | **7**  | **6**  | **6**  | **6**  | **3** |
+  | [Collection Center Level 36](/CollectionCenter/Collection Center Level 36) | **196887x**![Unknown_68](/images/item/bh_img25_p.png)  | **7**  | **7**  | **7**  | **7**  | **6**  | **6**  | **3** |
+  | [Collection Center Level 37](/CollectionCenter/Collection Center Level 37) | **222021x**![Unknown_68](/images/item/bh_img25_p.png)  | **7**  | **7**  | **7**  | **7**  | **7**  | **6**  | **3** |
+  | [Collection Center Level 38](/CollectionCenter/Collection Center Level 38) | **230400x**![Unknown_68](/images/item/bh_img25_p.png)  | **7**  | **7**  | **7**  | **7**  | **7**  | **7**  | **3** |
+  | [Collection Center Level 39](/CollectionCenter/Collection Center Level 39) | **251345x**![Unknown_68](/images/item/bh_img25_p.png)  | **8**  | **7**  | **7**  | **7**  | **7**  | **7**  | **3** |
+  | [Collection Center Level 40](/CollectionCenter/Collection Center Level 40) | **293236x**![Unknown_68](/images/item/bh_img25_p.png)  | **8**  | **8**  | **7**  | **7**  | **7**  | **7**  | **3** |
+  | [Collection Center Level 41](/CollectionCenter/Collection Center Level 41) | **335127x**![Unknown_68](/images/item/bh_img25_p.png)  | **8**  | **8**  | **8**  | **7**  | **7**  | **7**  | **3** |
+  | [Collection Center Level 42](/CollectionCenter/Collection Center Level 42) | **351883x**![Unknown_68](/images/item/bh_img25_p.png)  | **8**  | **8**  | **8**  | **8**  | **7**  | **7**  | **3** |
+  | [Collection Center Level 43](/CollectionCenter/Collection Center Level 43) | **363054x**![Unknown_68](/images/item/bh_img25_p.png)  | **8**  | **8**  | **8**  | **8**  | **8**  | **7**  | **3** |
+  | [Collection Center Level 44](/CollectionCenter/Collection Center Level 44) | **418909x**![Unknown_68](/images/item/bh_img25_p.png)  | **8**  | **8**  | **8**  | **8**  | **8**  | **8**  | **3** |
+  | [Collection Center Level 45](/CollectionCenter/Collection Center Level 45) | **473367x**![Unknown_68](/images/item/bh_img25_p.png)  | **9**  | **8**  | **8**  | **8**  | **8**  | **8**  | **3** |
+  | [Collection Center Level 46](/CollectionCenter/Collection Center Level 46) | **527825x**![Unknown_68](/images/item/bh_img25_p.png)  | **9**  | **9**  | **8**  | **8**  | **8**  | **8**  | **3** |
+  | [Collection Center Level 47](/CollectionCenter/Collection Center Level 47) | **582283x**![Unknown_68](/images/item/bh_img25_p.png)  | **9**  | **9**  | **9**  | **8**  | **8**  | **8**  | **3** |
+  | [Collection Center Level 48](/CollectionCenter/Collection Center Level 48) | **584378x**![Unknown_68](/images/item/bh_img25_p.png)  | **9**  | **9**  | **9**  | **9**  | **8**  | **8**  | **3** |
+  | [Collection Center Level 49](/CollectionCenter/Collection Center Level 49) | **659781x**![Unknown_68](/images/item/bh_img25_p.png)  | **9**  | **9**  | **9**  | **9**  | **9**  | **8**  | **3** |
+  | [Collection Center Level 50](/CollectionCenter/Collection Center Level 50) | **662138x**![Unknown_68](/images/item/bh_img25_p.png)  | **9**  | **9**  | **9**  | **9**  | **9**  | **9**  | **3** |
+  | [Collection Center Level 51](/CollectionCenter/Collection Center Level 51) | **664494x**![Unknown_68](/images/item/bh_img25_p.png)  | **10**  | **9**  | **9**  | **9**  | **9**  | **9**  | **3** |
+  | [Collection Center Level 52](/CollectionCenter/Collection Center Level 52) | **666850x**![Unknown_68](/images/item/bh_img25_p.png)  | **10**  | **10**  | **9**  | **9**  | **9**  | **9**  | **3** |
+  | [Collection Center Level 53](/CollectionCenter/Collection Center Level 53) | **669207x**![Unknown_68](/images/item/bh_img25_p.png)  | **10**  | **10**  | **10**  | **9**  | **9**  | **9**  | **3** |
+  | [Collection Center Level 54](/CollectionCenter/Collection Center Level 54) | **671563x**![Unknown_68](/images/item/bh_img25_p.png)  | **10**  | **10**  | **10**  | **10**  | **9**  | **9**  | **3** |
+  | [Collection Center Level 55](/CollectionCenter/Collection Center Level 55) | **673919x**![Unknown_68](/images/item/bh_img25_p.png)  | **10**  | **10**  | **10**  | **10**  | **10**  | **9**  | **3** |
+  | [Collection Center Level 56](/CollectionCenter/Collection Center Level 56) | **676275x**![Unknown_68](/images/item/bh_img25_p.png)  | **10**  | **10**  | **10**  | **10**  | **10**  | **10**  | **3** |
+  | [Collection Center Level 57](/CollectionCenter/Collection Center Level 57) | **678631x**![Unknown_68](/images/item/bh_img25_p.png)  | **11**  | **10**  | **10**  | **10**  | **10**  | **10**  | **3** |
+  | [Collection Center Level 58](/CollectionCenter/Collection Center Level 58) | **680987x**![Unknown_68](/images/item/bh_img25_p.png)  | **11**  | **11**  | **10**  | **10**  | **10**  | **10**  | **3** |
+  | [Collection Center Level 59](/CollectionCenter/Collection Center Level 59) | **683343x**![Unknown_68](/images/item/bh_img25_p.png)  | **11**  | **11**  | **11**  | **10**  | **10**  | **10**  | **3** |
+  | [Collection Center Level 60](/CollectionCenter/Collection Center Level 60) | **685699x**![Unknown_68](/images/item/bh_img25_p.png)  | **11**  | **11**  | **11**  | **11**  | **10**  | **10**  | **3** |
+  | [Collection Center Level 61](/CollectionCenter/Collection Center Level 61) | **688055x**![Unknown_68](/images/item/bh_img25_p.png)  | **11**  | **11**  | **11**  | **11**  | **11**  | **10**  | **3** |
+  | [Collection Center Level 62](/CollectionCenter/Collection Center Level 62) | **690411x**![Unknown_68](/images/item/bh_img25_p.png)  | **11**  | **11**  | **11**  | **11**  | **11**  | **11**  | **3** |
