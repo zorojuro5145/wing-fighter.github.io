@@ -12,6 +12,8 @@ classes: wide
 
   ![Collection Center](/images/bh_img6.png)
 
+  [Collection Center Levels](/CollectionCenter/#collection-center-levels){: .btn .btn--info}
+
 ## Rules
 
   1. Rich mineral resources have been found in the Asteroid Belt. Each player can build a collection center and have its own mining area here.<br/>
