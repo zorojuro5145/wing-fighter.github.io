@@ -16,19 +16,19 @@ classes: wide
 
  **Total upgrade costs: 364x **
 
- **Nano Material (max level):** ![Nano Material +2](/images/cc/CC Nano Material_2_p.png) [Nano Material +2](/CollectionCenter/Nano Material_2)
+ **Nano Material (max level):** ![Nano Material +2](/images/cc/CC_Nano_Material_2_p.png) [Nano Material +2](/CollectionCenter/Nano Material_2)
 
- **Star (max level):** ![Star +2](/images/cc/CC Star_2_p.png) [Star +2](/CollectionCenter/Star_2)
+ **Star (max level):** ![Star +2](/images/cc/CC_Star_2_p.png) [Star +2](/CollectionCenter/Star_2)
 
- **Fighter (max level):** ![Fighter Shard +2](/images/cc/CC Fighter Shard_2_p.png) [Fighter Shard +2](/CollectionCenter/Fighter Shard_2)
+ **Fighter (max level):** ![Fighter Shard +2](/images/cc/CC_Fighter_Shard_2_p.png) [Fighter Shard +2](/CollectionCenter/Fighter Shard_2)
 
- **Module (max level):** ![Module +1](/images/cc/CC Module_1_p.png) [Module +1](/CollectionCenter/Module_1)
+ **Module (max level):** ![Module +1](/images/cc/CC_Module_1_p.png) [Module +1](/CollectionCenter/Module_1)
 
- **Alloy (max level):** ![Alloy Plate +1](/images/cc/CC Alloy Plate_1_p.png) [Alloy Plate +1](/CollectionCenter/Alloy Plate_1)
+ **Alloy (max level):** ![Alloy Plate +1](/images/cc/CC_Alloy_Plate_1_p.png) [Alloy Plate +1](/CollectionCenter/Alloy Plate_1)
 
- **Pilot EXP Card (max level):** ![Commander EXP Card +1](/images/cc/CC Pilot EXP Card_1_p.png) [Commander EXP Card +1](/CollectionCenter/Commander EXP Card_1)
+ **Pilot EXP Card (max level):** ![Commander EXP Card +1](/images/cc/CC_Pilot_EXP_Card_1_p.png) [Commander EXP Card +1](/CollectionCenter/Commander EXP Card_1)
 
- **Diamonds (max level):** ![Diamond +1](/images/cc/CC Diamond_1_p.png) [Diamond +1](/CollectionCenter/Diamond_1)
+ **Diamonds (max level):** ![Diamond +1](/images/cc/CC_Diamond_1_p.png) [Diamond +1](/CollectionCenter/Diamond_1)
 
 ## Generated items with drop rate
 
