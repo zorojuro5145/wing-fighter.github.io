@@ -16,7 +16,7 @@ classes: wide
 
  **Upgrade costs:** **104727x**![Unknown_68](/images/item/bh_img25_p.png)
 
- **Total upgrade costs: 633090x**
+ **Total upgrade costs:** **633090x**![Unknown_68](/images/item/bh_img25_p.png)
 
  **Nano Material (max level):** ![Nano Material +6](/images/cc/CC_Nano_Material_5_p.png) [Nano Material +6](/CollectionCenter/Nano Material_6)
 
