@@ -255,6 +255,72 @@ defaults:
       sidebar:
         nav: "docs"
   - scope:
+      path: "it"
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      comments: true
+      share: true
+      sidebar:
+        nav: "docs"
+  - scope:
+      path: "fr"
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      comments: true
+      share: true
+      sidebar:
+        nav: "docs"
+  - scope:
+      path: "de"
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      comments: true
+      share: true
+      sidebar:
+        nav: "docs"
+  - scope:
+      path: "cn"
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      comments: true
+      share: true
+      sidebar:
+        nav: "docs"
+  - scope:
+      path: "ru"
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      comments: true
+      share: true
+      sidebar:
+        nav: "docs"
+  - scope:
+      path: "es"
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      comments: true
+      share: true
+      sidebar:
+        nav: "docs"
+  - scope:
       path: ""
       type: docs
     values:
