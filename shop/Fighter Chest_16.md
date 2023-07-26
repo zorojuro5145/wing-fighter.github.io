@@ -2,7 +2,7 @@
 title: "Shop Fighter Chest"
 permalink: /shop/Fighter Chest_16/
 excerpt: "Wing Fighter Fighter Chest"
-last_modified_at: 2023-07-24
+last_modified_at: 2023-07-26
 locale: en
 ref: "Fighter Chest_16.md"
 toc: false
@@ -28,18 +28,18 @@ classes: wide
 
   |  Nr | Item Amount  |       Item       |
   |:----|:------------:|:-----------------|
-  | 1 | **1**  | ![Arrow](/images/ship/fj_img14.png) [Arrow](/fighter/Arrow) | 
-  | 2 | **1**  | ![Rock](/images/ship/fj_img12.png) [Rock](/fighter/Rock) | 
-  | 3 | **1**  | ![NightWing](/images/ship/fj_img11.png) [NightWing](/fighter/NightWing) | 
-  | 4 | **1**  | ![WindTunnel](/images/ship/fj_img8.png) [WindTunnel](/fighter/WindTunnel) | 
-  | 5 | **1**  | ![Glacier](/images/ship/fj_img6.png) [Glacier](/fighter/Glacier) | 
-  | 6 | **1**  | ![Rattlesnake](/images/ship/fj_img13.png) [Rattlesnake](/fighter/Rattlesnake) | 
-  | 7 | **1**  | ![Totem](/images/ship/fj_img10.png) [Totem](/fighter/Totem) | 
-  | 8 | **1**  | ![Thunder](/images/ship/fj_img9.png) [Thunder](/fighter/Thunder) | 
-  | 9 | **1**  | ![Inferno](/images/ship/fj_img4.png) [Inferno](/fighter/Inferno) | 
-  | 10 | **1**  | ![Killer Hornet](/images/ship/fj_img3.png) [Killer Hornet](/fighter/Killer Hornet) | 
-  | 11 | **1**  | ![Crimson Dragon](/images/ship/fj_img2.png) [Crimson Dragon](/fighter/Crimson Dragon) | 
-  | 12 | **1**  | ![Red Phantom](/images/ship/fj_img1.png) [Red Phantom](/fighter/Red Phantom) | 
+  | 1 | **1**  | ![Arrow](/images/ship/fj_img14_p.png) [Arrow](/fighter/Arrow) | 
+  | 2 | **1**  | ![Rock](/images/ship/fj_img12_p.png) [Rock](/fighter/Rock) | 
+  | 3 | **1**  | ![NightWing](/images/ship/fj_img11_p.png) [NightWing](/fighter/NightWing) | 
+  | 4 | **1**  | ![WindTunnel](/images/ship/fj_img8_p.png) [WindTunnel](/fighter/WindTunnel) | 
+  | 5 | **1**  | ![Glacier](/images/ship/fj_img6_p.png) [Glacier](/fighter/Glacier) | 
+  | 6 | **1**  | ![Rattlesnake](/images/ship/fj_img13_p.png) [Rattlesnake](/fighter/Rattlesnake) | 
+  | 7 | **1**  | ![Totem](/images/ship/fj_img10_p.png) [Totem](/fighter/Totem) | 
+  | 8 | **1**  | ![Thunder](/images/ship/fj_img9_p.png) [Thunder](/fighter/Thunder) | 
+  | 9 | **1**  | ![Inferno](/images/ship/fj_img4_p.png) [Inferno](/fighter/Inferno) | 
+  | 10 | **1**  | ![Killer Hornet](/images/ship/fj_img3_p.png) [Killer Hornet](/fighter/Killer Hornet) | 
+  | 11 | **1**  | ![Crimson Dragon](/images/ship/fj_img2_p.png) [Crimson Dragon](/fighter/Crimson Dragon) | 
+  | 12 | **1**  | ![Red Phantom](/images/ship/fj_img1_p.png) [Red Phantom](/fighter/Red Phantom) | 
   | 13 | **2**  | ![Syren Shards](/images/item/Syren_Shards_p.png) [Syren Shards](/item/Syren Shards_34/) | 
   | 14 | **2**  | ![Phantom Shards](/images/item/Phantom_Shards_p.png) [Phantom Shards](/item/Phantom Shards_32/) | 
   | 15 | **2**  | ![Arrow Shards](/images/item/Arrow_Shards_p.png) [Arrow Shards](/item/Arrow Shards_42/) | 

@@ -2,7 +2,7 @@
 title: "Shop Super Chest×10"
 permalink: /shop/Super Chest×10_22/
 excerpt: "Wing Fighter Super Chest×10"
-last_modified_at: 2023-07-24
+last_modified_at: 2023-07-26
 locale: en
 ref: "Super Chest×10_22.md"
 toc: false
@@ -51,26 +51,26 @@ classes: wide
 
   |  Nr | Item Amount  |       Item       |
   |:----|:------------:|:-----------------|
-  | 1 | **1**  | ![Phantom](/images/ship/fj_img5.png) [Phantom](/fighter/Phantom) | 
-  | 2 | **1**  | ![Syren](/images/ship/fj_img7.png) [Syren](/fighter/Syren) | 
-  | 3 | **1**  | ![Crow](/images/ship/fj_img16.png) [Crow](/fighter/Crow) | 
-  | 4 | **1**  | ![Thane](/images/ship/fj_img21.png) [Thane](/fighter/Thane) | 
-  | 5 | **1**  | ![Killer Hornet](/images/ship/fj_img3.png) [Killer Hornet](/fighter/Killer Hornet) | 
-  | 6 | **1**  | ![Glacier](/images/ship/fj_img6.png) [Glacier](/fighter/Glacier) | 
-  | 7 | **1**  | ![WindTunnel](/images/ship/fj_img8.png) [WindTunnel](/fighter/WindTunnel) | 
-  | 8 | **1**  | ![Thunder](/images/ship/fj_img9.png) [Thunder](/fighter/Thunder) | 
-  | 9 | **1**  | ![Totem](/images/ship/fj_img10.png) [Totem](/fighter/Totem) | 
-  | 10 | **1**  | ![NightWing](/images/ship/fj_img11.png) [NightWing](/fighter/NightWing) | 
-  | 11 | **1**  | ![Rock](/images/ship/fj_img12.png) [Rock](/fighter/Rock) | 
-  | 12 | **1**  | ![Rattlesnake](/images/ship/fj_img13.png) [Rattlesnake](/fighter/Rattlesnake) | 
-  | 13 | **1**  | ![Arrow](/images/ship/fj_img14.png) [Arrow](/fighter/Arrow) | 
-  | 14 | **1**  | ![Foehn](/images/ship/fj_img17.png) [Foehn](/fighter/Foehn) | 
-  | 15 | **1**  | ![Flash](/images/ship/fj_img18.png) [Flash](/fighter/Flash) | 
-  | 16 | **1**  | ![Eschaton](/images/ship/fj_img19.png) [Eschaton](/fighter/Eschaton) | 
-  | 17 | **1**  | ![Hardrock](/images/ship/fj_img20.png) [Hardrock](/fighter/Hardrock) | 
-  | 18 | **1**  | ![Crimson Dragon](/images/ship/fj_img2.png) [Crimson Dragon](/fighter/Crimson Dragon) | 
-  | 19 | **1**  | ![Inferno](/images/ship/fj_img4.png) [Inferno](/fighter/Inferno) | 
-  | 20 | **1**  | ![Red Phantom](/images/ship/fj_img1.png) [Red Phantom](/fighter/Red Phantom) | 
+  | 1 | **1**  | ![Phantom](/images/ship/fj_img5_p.png) [Phantom](/fighter/Phantom) | 
+  | 2 | **1**  | ![Syren](/images/ship/fj_img7_p.png) [Syren](/fighter/Syren) | 
+  | 3 | **1**  | ![Crow](/images/ship/fj_img16_p.png) [Crow](/fighter/Crow) | 
+  | 4 | **1**  | ![Thane](/images/ship/fj_img21_p.png) [Thane](/fighter/Thane) | 
+  | 5 | **1**  | ![Killer Hornet](/images/ship/fj_img3_p.png) [Killer Hornet](/fighter/Killer Hornet) | 
+  | 6 | **1**  | ![Glacier](/images/ship/fj_img6_p.png) [Glacier](/fighter/Glacier) | 
+  | 7 | **1**  | ![WindTunnel](/images/ship/fj_img8_p.png) [WindTunnel](/fighter/WindTunnel) | 
+  | 8 | **1**  | ![Thunder](/images/ship/fj_img9_p.png) [Thunder](/fighter/Thunder) | 
+  | 9 | **1**  | ![Totem](/images/ship/fj_img10_p.png) [Totem](/fighter/Totem) | 
+  | 10 | **1**  | ![NightWing](/images/ship/fj_img11_p.png) [NightWing](/fighter/NightWing) | 
+  | 11 | **1**  | ![Rock](/images/ship/fj_img12_p.png) [Rock](/fighter/Rock) | 
+  | 12 | **1**  | ![Rattlesnake](/images/ship/fj_img13_p.png) [Rattlesnake](/fighter/Rattlesnake) | 
+  | 13 | **1**  | ![Arrow](/images/ship/fj_img14_p.png) [Arrow](/fighter/Arrow) | 
+  | 14 | **1**  | ![Foehn](/images/ship/fj_img17_p.png) [Foehn](/fighter/Foehn) | 
+  | 15 | **1**  | ![Flash](/images/ship/fj_img18_p.png) [Flash](/fighter/Flash) | 
+  | 16 | **1**  | ![Eschaton](/images/ship/fj_img19_p.png) [Eschaton](/fighter/Eschaton) | 
+  | 17 | **1**  | ![Hardrock](/images/ship/fj_img20_p.png) [Hardrock](/fighter/Hardrock) | 
+  | 18 | **1**  | ![Crimson Dragon](/images/ship/fj_img2_p.png) [Crimson Dragon](/fighter/Crimson Dragon) | 
+  | 19 | **1**  | ![Inferno](/images/ship/fj_img4_p.png) [Inferno](/fighter/Inferno) | 
+  | 20 | **1**  | ![Red Phantom](/images/ship/fj_img1_p.png) [Red Phantom](/fighter/Red Phantom) | 
   | 21 | **1**  | equipment:100, level = 1, gr=4 | 
   | 22 | **1**  | equipment:101, level = 1, gr=4 | 
   | 23 | **1**  | equipment:102, level = 1, gr=4 | 

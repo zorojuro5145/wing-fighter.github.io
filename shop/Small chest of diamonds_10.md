@@ -2,7 +2,7 @@
 title: "Shop Small chest of diamonds"
 permalink: /shop/Small chest of diamonds_10/
 excerpt: "Wing Fighter Small chest of diamonds"
-last_modified_at: 2023-07-24
+last_modified_at: 2023-07-26
 locale: en
 ref: "Small chest of diamonds_10.md"
 toc: false

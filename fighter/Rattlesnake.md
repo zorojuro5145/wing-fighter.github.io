@@ -2,7 +2,7 @@
 title: "Fighter Rattlesnake"
 permalink: /fighter/Rattlesnake/
 excerpt: "Wing Fighter Rattlesnake"
-last_modified_at: 2023-07-22
+last_modified_at: 2023-07-26
 locale: en
 ref: "Rattlesnake.md"
 toc: false

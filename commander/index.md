@@ -2,7 +2,7 @@
 title: "Commanders"
 permalink: /commander/
 excerpt: "Wing Fighter Commander"
-last_modified_at: 2023-07-23
+last_modified_at: 2023-07-26
 locale: en
 ref: "index.md"
 toc: false

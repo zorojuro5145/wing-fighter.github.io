@@ -2,7 +2,7 @@
 title: "Inferno Shards"
 permalink: /item/Inferno Shards_26/
 excerpt: "Wing Fighter Inferno Shards"
-last_modified_at: 2023-07-22
+last_modified_at: 2023-07-26
 locale: en
 ref: "Inferno Shards_26.md"
 toc: false

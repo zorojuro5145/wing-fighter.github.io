@@ -2,7 +2,7 @@
 title: "Commander Shard - Chris"
 permalink: /commander/Commander Shard - Chris/
 excerpt: "Wing Fighter Commander Shard - Chris"
-last_modified_at: 2023-07-23
+last_modified_at: 2023-07-26
 locale: en
 ref: "Commander Shard - Chris.md"
 toc: false

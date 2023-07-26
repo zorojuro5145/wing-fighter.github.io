@@ -2,7 +2,7 @@
 title: "Fighter Thor"
 permalink: /fighter/Thor/
 excerpt: "Wing Fighter Thor"
-last_modified_at: 2023-07-22
+last_modified_at: 2023-07-26
 locale: en
 ref: "Thor.md"
 toc: false

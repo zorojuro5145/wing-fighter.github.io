@@ -2,7 +2,7 @@
 title: "Stargate Challenge Ticket"
 permalink: /item/Stargate Challenge Ticket_82/
 excerpt: "Wing Fighter Stargate Challenge Ticket"
-last_modified_at: 2023-07-22
+last_modified_at: 2023-07-26
 locale: en
 ref: "Stargate Challenge Ticket_82.md"
 toc: false

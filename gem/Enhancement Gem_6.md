@@ -2,7 +2,7 @@
 title: "Gem Enhancement Gem +6"
 permalink: /gem/Enhancement Gem_6/
 excerpt: "Wing Fighter Gem Enhancement Gem +6"
-last_modified_at: 2023-07-24
+last_modified_at: 2023-07-26
 locale: en
 ref: "Enhancement Gem_6.md"
 toc: false
