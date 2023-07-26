@@ -38,22 +38,22 @@ classes: wide
 
   |  Nr | Item Amount  |       Item       |
   |:----|:------------:|:-----------------|
-  | 1 | **1**  | gem:1002  | 
-  | 2 | **1**  | gem:2002  | 
-  | 3 | **1**  | gem:3002  | 
-  | 4 | **1**  | gem:4002  | 
-  | 5 | **1**  | gem:5002  | 
-  | 6 | **1**  | gem:6002  | 
-  | 7 | **1**  | gem:7002  | 
-  | 8 | **1**  | gem:8002  | 
-  | 9 | **1**  | gem:9002  | 
-  | 10 | **1**  | gem:1001  | 
-  | 11 | **1**  | gem:2001  | 
-  | 12 | **1**  | gem:3001  | 
-  | 13 | **1**  | gem:4001  | 
-  | 14 | **1**  | gem:5001  | 
-  | 15 | **1**  | gem:6001  | 
-  | 16 | **1**  | gem:7001  | 
-  | 17 | **1**  | gem:8001  | 
-  | 18 | **1**  | gem:9001  | 
+  | 1 | **1**  | ![Maingun Gem +2](/images/gem/bs1_img1.png) [Maingun Gem +2](/gem/Maingun Gem_2) | 
+  | 2 | **1**  | ![Winggun Gem +2](/images/gem/bs1_img2.png) [Winggun Gem +2](/gem/Winggun Gem_2) | 
+  | 3 | **1**  | ![Missile Gem +2](/images/gem/bs1_img3.png) [Missile Gem +2](/gem/Missile Gem_2) | 
+  | 4 | **1**  | ![HP Gem +2](/images/gem/bs2_img1.png) [HP Gem +2](/gem/HP Gem_2) | 
+  | 5 | **1**  | ![Dodge Gem +2](/images/gem/bs2_img2.png) [Dodge Gem +2](/gem/Dodge Gem_2) | 
+  | 6 | **1**  | ![Defense Gem +2](/images/gem/bs2_img3.png) [Defense Gem +2](/gem/Defense Gem_2) | 
+  | 7 | **1**  | ![Anti-Air Gem +2](/images/gem/bs3_img1.png) [Anti-Air Gem +2](/gem/Anti-Air Gem_2) | 
+  | 8 | **1**  | ![Anti-Land Gem +2](/images/gem/bs3_img2.png) [Anti-Land Gem +2](/gem/Anti-Land Gem_2) | 
+  | 9 | **1**  | ![Enhancement Gem +2](/images/gem/bs3_img3.png) [Enhancement Gem +2](/gem/Enhancement Gem_2) | 
+  | 10 | **1**  | ![Maingun Gem +1](/images/gem/bs1_img1.png) [Maingun Gem +1](/gem/Maingun Gem_1) | 
+  | 11 | **1**  | ![Winggun Gem +1](/images/gem/bs1_img2.png) [Winggun Gem +1](/gem/Winggun Gem_1) | 
+  | 12 | **1**  | ![Missile Gem +1](/images/gem/bs1_img3.png) [Missile Gem +1](/gem/Missile Gem_1) | 
+  | 13 | **1**  | ![HP Gem +1](/images/gem/bs2_img1.png) [HP Gem +1](/gem/HP Gem_1) | 
+  | 14 | **1**  | ![Dodge Gem +1](/images/gem/bs2_img2.png) [Dodge Gem +1](/gem/Dodge Gem_1) | 
+  | 15 | **1**  | ![Defense Gem +1](/images/gem/bs2_img3.png) [Defense Gem +1](/gem/Defense Gem_1) | 
+  | 16 | **1**  | ![Anti-Air Gem +1](/images/gem/bs3_img1.png) [Anti-Air Gem +1](/gem/Anti-Air Gem_1) | 
+  | 17 | **1**  | ![Anti-Land Gem +1](/images/gem/bs3_img2.png) [Anti-Land Gem +1](/gem/Anti-Land Gem_1) | 
+  | 18 | **1**  | ![Enhancement Gem +1](/images/gem/bs3_img3.png) [Enhancement Gem +1](/gem/Enhancement Gem_1) | 
 
