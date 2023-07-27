@@ -41,13 +41,13 @@ classes: wide
 
   |  Nr |     Grade     |   PvP Damage Coefficient  |
   |:----|:-------------:|:-------------------------:|
-  | 1  | ![+1](/images/sp_grade_1.png)  | 0.0768 |
-  | 2  | ![+2](/images/sp_grade_2.png)  | 0.1536 |
-  | 3  | ![+3](/images/sp_grade_3.png)  | 0.2304 |
-  | 4  | ![+4](/images/sp_grade_4.png)  | 0.3072 |
-  | 5  | ![+5](/images/sp_grade_5.png)  | 0.38399999999999995 |
-  | 6  | ![+6](/images/sp_grade_6.png)  | 0.46079999999999993 |
-  | 7  | ![+7](/images/sp_grade_7.png)  | 0.5376 |
+  | 1  |   | 0.0768 |
+  | 2  | ![+1](/images/sp_grade_1.png)  | 0.1536 |
+  | 3  | ![+2](/images/sp_grade_2.png)  | 0.2304 |
+  | 4  | ![+3](/images/sp_grade_3.png)  | 0.3072 |
+  | 5  | ![+4](/images/sp_grade_4.png)  | 0.38399999999999995 |
+  | 6  | ![+5](/images/sp_grade_5.png)  | 0.46079999999999993 |
+  | 7  | ![+6](/images/sp_grade_6.png)  | 0.5376 |
 
 
 ## Upgrade
