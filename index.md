@@ -11,21 +11,19 @@ sidebar:
 ---
 
 
-{% capture notice-update20230724 %}
+{% capture notice-update20230727 %}
 
-* Added <img src="/images/gem_group.png" alt="Shop" width="29" height="28"/><a href="/gem/" hreflang="en">Gems</a>
+* Added <img src="/images/equipment/zhupao7_p.png" alt="Equipment" width="32" height="29"/><a href="/equipment/" hreflang="en">Equipment</a>
 
-* Added [Collection Center](/CollectionCenter/)
-
-* Next in progress: Equipment and Talents
+* Next in progress: Talents, Stages, Sets, Guild Boss damage and rewards
 
 * If You have a game content -> How To guide(s), Tricks and Tips, Fun info, etc. I'll be happy to publish it on Wiki, [Please contact me via Discord](https://discordapp.com/users/351705203038224385/)
 
 {% endcapture %}
 
 <div class="notice--danger">
-  <h4 class="no_toc">24 July 2023 Wiki Update: Added Gems, extended info in Commanders, Flights and Chests, ...</h4>
-  {{ notice-update20230724 | markdownify }}
+  <h4 class="no_toc">27 July 2023 Wiki Update: Added Equipment, extended info in Flights, Gems and Chests, ...</h4>
+  {{ notice-update20230727 | markdownify }}
 </div>
 
 
@@ -64,6 +62,24 @@ Extra information:
 [Please contact me via Discord](https://discordapp.com/users/351705203038224385/)
 
 
+{% capture notice-update20230724 %}
+
+* Added <img src="/images/gem_group.png" alt="Shop" width="29" height="28"/><a href="/gem/" hreflang="en">Gems</a>
+
+* Added [Collection Center](/CollectionCenter/)
+
+* Next in progress: Equipment and Talents
+
+* If You have a game content -> How To guide(s), Tricks and Tips, Fun info, etc. I'll be happy to publish it on Wiki, [Please contact me via Discord](https://discordapp.com/users/351705203038224385/)
+
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">24 July 2023 Wiki Update: Added Gems, extended info in Commanders, Flights and Chests, ...</h4>
+  {{ notice-update20230724 | markdownify }}
+</div>
+
+
 {% capture notice-update20230721 %}
 
 * Added [Items](/item/)
@@ -92,9 +108,5 @@ Update History:
 ![Wing Fighter Wiki](https://wing-fighter.github.io/images/xqdz_img40.png)
 
 
-<br/>
-<h1> <img src="/images/common_lobby_icon30.png" alt="Fighters" width="37" height="28"/><a href="/fighter/" hreflang="en">Fighters</a> </h1>
-<h1> <img src="/images/commander/actor_debris_0.png" alt="Commander" width="38" height="44"/><a href="/commander/" hreflang="en">Commanders</a> </h1>
-<h1> <img src="/images/shop.png" alt="Shop" width="31" height="23"/><a href="/shop/" hreflang="en">Shop</a> </h1>
 
 {: .notice--danger}
