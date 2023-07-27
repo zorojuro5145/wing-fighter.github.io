@@ -19,6 +19,6 @@ classes: wide
 
   |  Nr | Icon |      Equipment        |   Description   |
   |:----|:----:|:---------------:|:---------------:|
-  | 20 | ![Rapid Fire Drone](/images/equipment/wurenji1.png) | [Rapid Fire Drone](/equipment/Rapid Fire Drone) | Equipped with a rapid-firing weapon, good for offensive support | 
-  | 21 | ![Laser Drone](/images/equipment/wurenji3.png) | [Laser Drone](/equipment/Laser Drone) | Laser can shoot through enemies | 
-  | 23 | ![Rocket Drone](/images/equipment/wurenji2.png) | [Rocket Drone](/equipment/Rocket Drone) | Launch a mini missile that seeks targets automatically | 
+  | 21 | ![Rapid Fire Drone](/images/equipment/wurenji1_p.png) | [Rapid Fire Drone](/equipment/Rapid Fire Drone) | Equipped with a rapid-firing weapon, good for offensive support | 
+  | 22 | ![Laser Drone](/images/equipment/wurenji3_p.png) | [Laser Drone](/equipment/Laser Drone) | Laser can shoot through enemies | 
+  | 24 | ![Rocket Drone](/images/equipment/wurenji2_p.png) | [Rocket Drone](/equipment/Rocket Drone) | Launch a mini missile that seeks targets automatically | 

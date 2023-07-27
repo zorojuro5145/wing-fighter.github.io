@@ -19,10 +19,10 @@ classes: wide
 
   |  Nr | Icon |      Equipment        |   Description   |
   |:----|:----:|:---------------:|:---------------:|
-  | 17 | ![Thor Maingun](/images/equipment/zhupao7.png) | [Thor Maingun](/equipment/Thor Maingun) | Continuously launch lightning towards the front fan-shaped area | 
-  | 19 | ![Conqueror Maingun](/images/equipment/zhupao6.png) | [Conqueror Maingun](/equipment/Conqueror Maingun) | High attack rate with high damage | 
-  | 25 | ![Heavy Machine Gun](/images/equipment/zhupao1.png) | [Heavy Machine Gun](/equipment/Heavy Machine Gun) | Wide firing range. | 
-  | 27 | ![Laser Gun](/images/equipment/zhupao2.png) | [Laser Gun](/equipment/Laser Gun) | Focused damage straight ahead | 
-  | 29 | ![Railgun](/images/equipment/zhupao3.png) | [Railgun](/equipment/Railgun) | Low attack rate but insane damage | 
-  | 30 | ![Batarang Gun](/images/equipment/zhupao4.png) | [Batarang Gun](/equipment/Batarang Gun) | Mid attack rate. Deal damage to multiple enemies | 
-  | 31 | ![Blast Shotgun](/images/equipment/zhupao5.png) | [Blast Shotgun](/equipment/Blast Shotgun) | Increase damage against closer targets | 
+  | 18 | ![Thor Maingun](/images/equipment/zhupao7_p.png) | [Thor Maingun](/equipment/Thor Maingun) | Continuously launch lightning towards the front fan-shaped area | 
+  | 20 | ![Conqueror Maingun](/images/equipment/zhupao6_p.png) | [Conqueror Maingun](/equipment/Conqueror Maingun) | High attack rate with high damage | 
+  | 26 | ![Heavy Machine Gun](/images/equipment/zhupao1_p.png) | [Heavy Machine Gun](/equipment/Heavy Machine Gun) | Wide firing range. | 
+  | 28 | ![Laser Gun](/images/equipment/zhupao2_p.png) | [Laser Gun](/equipment/Laser Gun) | Focused damage straight ahead | 
+  | 30 | ![Railgun](/images/equipment/zhupao3_p.png) | [Railgun](/equipment/Railgun) | Low attack rate but insane damage | 
+  | 31 | ![Batarang Gun](/images/equipment/zhupao4_p.png) | [Batarang Gun](/equipment/Batarang Gun) | Mid attack rate. Deal damage to multiple enemies | 
+  | 32 | ![Blast Shotgun](/images/equipment/zhupao5_p.png) | [Blast Shotgun](/equipment/Blast Shotgun) | Increase damage against closer targets | 

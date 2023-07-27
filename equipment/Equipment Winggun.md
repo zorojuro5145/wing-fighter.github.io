@@ -19,8 +19,8 @@ classes: wide
 
   |  Nr | Icon |      Equipment        |   Description   |
   |:----|:----:|:---------------:|:---------------:|
-  | 4 | ![Winggun Cannon](/images/equipment/fupao1.png) | [Winggun Cannon](/equipment/Winggun Cannon) | Low attack rate but high damage | 
-  | 6 | ![Lightning Winggun](/images/equipment/fupao2.png) | [Lightning Winggun](/equipment/Lightning Winggun) | Splash effect after hitting a target | 
-  | 8 | ![Blazing Winggun](/images/equipment/fupao3.png) | [Blazing Winggun](/equipment/Blazing Winggun) | Deal continuous burning damage to the target | 
-  | 10 | ![Prism Winggun](/images/equipment/fupao4.png) | [Prism Winggun](/equipment/Prism Winggun) | Deal laser damage to the locked target and all enemies along the path. | 
-  | 11 | ![Crescent Winggun](/images/equipment/fupao5.png) | [Crescent Winggun](/equipment/Crescent Winggun) | Crescent-shaped barrage, gradually enlarging with the firing distance. | 
+  | 5 | ![Winggun Cannon](/images/equipment/fupao1_p.png) | [Winggun Cannon](/equipment/Winggun Cannon) | Low attack rate but high damage | 
+  | 7 | ![Lightning Winggun](/images/equipment/fupao2_p.png) | [Lightning Winggun](/equipment/Lightning Winggun) | Splash effect after hitting a target | 
+  | 9 | ![Blazing Winggun](/images/equipment/fupao3_p.png) | [Blazing Winggun](/equipment/Blazing Winggun) | Deal continuous burning damage to the target | 
+  | 11 | ![Prism Winggun](/images/equipment/fupao4_p.png) | [Prism Winggun](/equipment/Prism Winggun) | Deal laser damage to the locked target and all enemies along the path. | 
+  | 12 | ![Crescent Winggun](/images/equipment/fupao5_p.png) | [Crescent Winggun](/equipment/Crescent Winggun) | Crescent-shaped barrage, gradually enlarging with the firing distance. | 

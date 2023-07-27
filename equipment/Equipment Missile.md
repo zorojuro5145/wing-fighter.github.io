@@ -19,7 +19,7 @@ classes: wide
 
   |  Nr | Icon |      Equipment        |   Description   |
   |:----|:----:|:---------------:|:---------------:|
-  | 22 | ![Standard Missile](/images/equipment/daodan1.png) | [Standard Missile](/equipment/Standard Missile) | Automatically track enemies | 
-  | 24 | ![High-Explosive Missile](/images/equipment/daodan2.png) | [High-Explosive Missile](/equipment/High-Explosive Missile) | Blast after hitting the target, dealing splash damage to surrounding enemies | 
-  | 26 | ![Lightning Missile](/images/equipment/daodan3.png) | [Lightning Missile](/equipment/Lightning Missile) | Shoot a lighting ball, dealing damage to all enemies in its path | 
-  | 28 | ![Energy-Gathered Missile](/images/equipment/daodan4.png) | [Energy-Gathered Missile](/equipment/Energy-Gathered Missile) | Launch energy missiles capable of tracking and penetrating targets. | 
+  | 23 | ![Standard Missile](/images/equipment/daodan1_p.png) | [Standard Missile](/equipment/Standard Missile) | Automatically track enemies | 
+  | 25 | ![High-Explosive Missile](/images/equipment/daodan2_p.png) | [High-Explosive Missile](/equipment/High-Explosive Missile) | Blast after hitting the target, dealing splash damage to surrounding enemies | 
+  | 27 | ![Lightning Missile](/images/equipment/daodan3_p.png) | [Lightning Missile](/equipment/Lightning Missile) | Shoot a lighting ball, dealing damage to all enemies in its path | 
+  | 29 | ![Energy-Gathered Missile](/images/equipment/daodan4_p.png) | [Energy-Gathered Missile](/equipment/Energy-Gathered Missile) | Launch energy missiles capable of tracking and penetrating targets. | 

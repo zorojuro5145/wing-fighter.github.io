@@ -19,5 +19,5 @@ classes: wide
 
   |  Nr | Icon |      Equipment        |   Description   |
   |:----|:----:|:---------------:|:---------------:|
-  | 17 | ![Thor Maingun](/images/equipment/zhupao7.png) | [Thor Maingun](/equipment/Thor Maingun) | Continuously launch lightning towards the front fan-shaped area | 
-  | 19 | ![Conqueror Maingun](/images/equipment/zhupao6.png) | [Conqueror Maingun](/equipment/Conqueror Maingun) | High attack rate with high damage | 
+  | 18 | ![Thor Maingun](/images/equipment/zhupao7_p.png) | [Thor Maingun](/equipment/Thor Maingun) | Continuously launch lightning towards the front fan-shaped area | 
+  | 20 | ![Conqueror Maingun](/images/equipment/zhupao6_p.png) | [Conqueror Maingun](/equipment/Conqueror Maingun) | High attack rate with high damage | 

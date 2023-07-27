@@ -19,5 +19,5 @@ classes: wide
 
   |  Nr | Icon |      Equipment        |   Description   |
   |:----|:----:|:---------------:|:---------------:|
-  | 13 | ![Thor Missile](/images/equipment/daodan6.png) | [Thor Missile](/equipment/Thor Missile) | Attract thunder from the atmosphere after hitting the enemy, dealing a heavy blow to the enemy | 
-  | 16 | ![Conqueror Missile](/images/equipment/daodan5.png) | [Conqueror Missile](/equipment/Conqueror Missile) | Cluster missiles that can release many homing missiles after exploding | 
+  | 14 | ![Thor Missile](/images/equipment/daodan6_p.png) | [Thor Missile](/equipment/Thor Missile) | Attract thunder from the atmosphere after hitting the enemy, dealing a heavy blow to the enemy | 
+  | 17 | ![Conqueror Missile](/images/equipment/daodan5_p.png) | [Conqueror Missile](/equipment/Conqueror Missile) | Cluster missiles that can release many homing missiles after exploding | 
