@@ -31,4 +31,16 @@ classes: wide
 
  **Type:** HP 
 
+ **Damage coefficient:** 1 
+
+## PvP information
+
+
+ NONE
+
+## Upgrade
+
+
+ NONE
+
 

@@ -2,7 +2,7 @@
 title: "Wing Fighter Items"
 permalink: /item/
 excerpt: "Wing Fighter item"
-last_modified_at: 2023-07-26
+last_modified_at: 2023-07-27
 locale: en
 ref: "index.md"
 toc: false

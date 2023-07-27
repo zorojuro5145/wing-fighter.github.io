@@ -2,7 +2,7 @@
 title: "Titan Key"
 permalink: /item/Titan Key_70/
 excerpt: "Wing Fighter Titan Key"
-last_modified_at: 2023-07-26
+last_modified_at: 2023-07-27
 locale: en
 ref: "Titan Key_70.md"
 toc: false

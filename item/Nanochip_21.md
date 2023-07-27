@@ -2,7 +2,7 @@
 title: "Nanochip"
 permalink: /item/Nanochip_21/
 excerpt: "Wing Fighter Nanochip"
-last_modified_at: 2023-07-26
+last_modified_at: 2023-07-27
 locale: en
 ref: "Nanochip_21.md"
 toc: false
