@@ -38,7 +38,11 @@ classes: wide
 
  NONE
 
+
+
 ## Upgrade
+
+
 
   |  Level |     Grade     |   Attack  |    HP    | Upgrade costs  |
   |:-------|:-------------:|:---------:|:--------:|:---------------|

@@ -37,6 +37,8 @@ classes: wide
 
  **PvP Attack Rate:** 3000 
 
+
+
   |  Nr |     Grade     |   PvP Damage Coefficient  |
   |:----|:-------------:|:-------------------------:|
   | 1  | ![+1](/images/sp_grade_1.png)  | 0.18 |
@@ -46,7 +48,11 @@ classes: wide
   | 5  | ![+5](/images/sp_grade_5.png)  | 0.8999999999999999 |
   | 6  | ![+6](/images/sp_grade_6.png)  | 1.0799999999999998 |
   | 7  | ![+7](/images/sp_grade_7.png)  | 1.2599999999999998 |
+
+
 ## Upgrade
+
+
 
   |  Level |     Grade     |   Attack  |    HP    | Upgrade costs  |
   |:-------|:-------------:|:---------:|:--------:|:---------------|
