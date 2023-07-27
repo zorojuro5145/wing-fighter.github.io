@@ -33,6 +33,17 @@ classes: wide
 
  **Damage coefficient:** 1.5 
 
+
+
+  |  Nr |     Grade     |       Bonus       |
+  |:----|:-------------:|:-------------------------:|
+  | 1  | ![+2](/images/sp_grade_2.png)  | Attack of Conqueror Missile +10% |
+  | 2  | ![+3](/images/sp_grade_3.png)  | Attack rate of Conqueror Missile +10% |
+  | 3  | ![+4](/images/sp_grade_4.png)  | Miniature missile +2 |
+  | 4  | ![+5](/images/sp_grade_5.png)  | Attack +100% |
+  | 5  | ![+6](/images/sp_grade_6.png)  | Miniature missile +2 |
+
+
 ## PvP information
 
  **PvP Attack Rate:** 4000 

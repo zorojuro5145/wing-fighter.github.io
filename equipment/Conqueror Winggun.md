@@ -33,6 +33,17 @@ classes: wide
 
  **Damage coefficient:** 0.7 
 
+
+
+  |  Nr |     Grade     |       Bonus       |
+  |:----|:-------------:|:-------------------------:|
+  | 1  | ![+2](/images/sp_grade_2.png)  | Attack can penetrate the enemy once |
+  | 2  | ![+3](/images/sp_grade_3.png)  | Attack +10% |
+  | 3  | ![+4](/images/sp_grade_4.png)  | Attack can penetrate the enemy twice |
+  | 4  | ![+5](/images/sp_grade_5.png)  | Attack +100% |
+  | 5  | ![+6](/images/sp_grade_6.png)  | Trajectory +2 |
+
+
 ## PvP information
 
  **PvP Attack Rate:** 1600 

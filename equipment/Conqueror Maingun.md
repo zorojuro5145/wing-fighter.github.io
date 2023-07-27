@@ -33,6 +33,17 @@ classes: wide
 
  **Damage coefficient:** 1 
 
+
+
+  |  Nr |     Grade     |       Bonus       |
+  |:----|:-------------:|:-------------------------:|
+  | 1  | ![+2](/images/sp_grade_2.png)  | 10% chance to penetrate the target once |
+  | 2  | ![+3](/images/sp_grade_3.png)  | Attack +10% |
+  | 3  | ![+4](/images/sp_grade_4.png)  | 1% chance to deal 10 times damage |
+  | 4  | ![+5](/images/sp_grade_5.png)  | Attack rate +10% |
+  | 5  | ![+6](/images/sp_grade_6.png)  | Attack against boss +30% |
+
+
 ## PvP information
 
  **PvP Attack Rate:** 960 

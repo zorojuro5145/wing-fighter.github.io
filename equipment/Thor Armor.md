@@ -33,6 +33,17 @@ classes: wide
 
  **Damage coefficient:** 1 
 
+
+
+  |  Nr |     Grade     |       Bonus       |
+  |:----|:-------------:|:-------------------------:|
+  | 1  | ![+2](/images/sp_grade_2.png)  | HP +10% |
+  | 2  | ![+3](/images/sp_grade_3.png)  | HP +20% |
+  | 3  | ![+4](/images/sp_grade_4.png)  | Recharge time of the ring lightning reduced by 50% |
+  | 4  | ![+5](/images/sp_grade_5.png)  | HP +30% |
+  | 5  | ![+6](/images/sp_grade_6.png)  | Number of times ring lightning can attack +3 |
+
+
 ## PvP information
 
 

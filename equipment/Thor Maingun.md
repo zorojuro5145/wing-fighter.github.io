@@ -33,6 +33,17 @@ classes: wide
 
  **Damage coefficient:** 1 
 
+
+
+  |  Nr |     Grade     |       Bonus       |
+  |:----|:-------------:|:-------------------------:|
+  | 1  | ![+2](/images/sp_grade_2.png)  | Attack +10% |
+  | 2  | ![+3](/images/sp_grade_3.png)  | Attack rate +10% |
+  | 3  | ![+4](/images/sp_grade_4.png)  | Expand attack range |
+  | 4  | ![+5](/images/sp_grade_5.png)  | Attack +10% |
+  | 5  | ![+6](/images/sp_grade_6.png)  | Expand attack range |
+
+
 ## PvP information
 
  **PvP Attack Rate:** 1000 

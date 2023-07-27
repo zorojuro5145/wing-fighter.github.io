@@ -33,6 +33,17 @@ classes: wide
 
  **Damage coefficient:** 0.7 
 
+
+
+  |  Nr |     Grade     |       Bonus       |
+  |:----|:-------------:|:-------------------------:|
+  | 1  | ![+2](/images/sp_grade_2.png)  | Attack +10% |
+  | 2  | ![+3](/images/sp_grade_3.png)  | Attack rate +10% |
+  | 3  | ![+4](/images/sp_grade_4.png)  | Increase the number of lightning ball |
+  | 4  | ![+5](/images/sp_grade_5.png)  | Attack +100% |
+  | 5  | ![+6](/images/sp_grade_6.png)  | Lightning balls explode after 2 seconds |
+
+
 ## PvP information
 
  **PvP Attack Rate:** 1600 
