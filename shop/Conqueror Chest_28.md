@@ -58,14 +58,14 @@ classes: wide
   |  Nr | Item Amount  |       Item       |
   |:----|:------------:|:-----------------|
   | 1 | **1**  | ![Conqueror](/images/ship/fj_img101_p.png) [Conqueror](/fighter/Conqueror) | 
-  | 2 | **1**  | ![Conqueror Maingun](/images/equipment/zhupao6_p.png) [Conqueror Maingun](/equipment/Conqueror Maingun) ![+1](/images/sp_grade_1.png) | 
-  | 3 | **1**  | ![Conqueror Winggun](/images/equipment/fupao6_p.png) [Conqueror Winggun](/equipment/Conqueror Winggun) ![+1](/images/sp_grade_1.png) | 
-  | 4 | **1**  | ![Conqueror Missile](/images/equipment/daodan5_p.png) [Conqueror Missile](/equipment/Conqueror Missile) ![+1](/images/sp_grade_1.png) | 
-  | 5 | **1**  | ![Conqueror Armor](/images/equipment/zhuangjia6_p.png) [Conqueror Armor](/equipment/Conqueror Armor) ![+1](/images/sp_grade_1.png) | 
-  | 6 | **1**  | ![Conqueror Maingun](/images/equipment/zhupao6_p.png) [Conqueror Maingun](/equipment/Conqueror Maingun) ![+1](/images/sp_grade_1.png) | 
-  | 7 | **1**  | ![Conqueror Winggun](/images/equipment/fupao6_p.png) [Conqueror Winggun](/equipment/Conqueror Winggun) ![+1](/images/sp_grade_1.png) | 
-  | 8 | **1**  | ![Conqueror Missile](/images/equipment/daodan5_p.png) [Conqueror Missile](/equipment/Conqueror Missile) ![+1](/images/sp_grade_1.png) | 
-  | 9 | **1**  | ![Conqueror Armor](/images/equipment/zhuangjia6_p.png) [Conqueror Armor](/equipment/Conqueror Armor) ![+1](/images/sp_grade_1.png) | 
+  | 2 | **1**  | ![Conqueror Maingun](/images/equipment/zhupao6_p.png) [Conqueror Maingun](/equipment/Conqueror Maingun) ![+2](/images/sp_grade_2.png) | 
+  | 3 | **1**  | ![Conqueror Winggun](/images/equipment/fupao6_p.png) [Conqueror Winggun](/equipment/Conqueror Winggun) ![+2](/images/sp_grade_2.png) | 
+  | 4 | **1**  | ![Conqueror Missile](/images/equipment/daodan5_p.png) [Conqueror Missile](/equipment/Conqueror Missile) ![+2](/images/sp_grade_2.png) | 
+  | 5 | **1**  | ![Conqueror Armor](/images/equipment/zhuangjia6_p.png) [Conqueror Armor](/equipment/Conqueror Armor) ![+2](/images/sp_grade_2.png) | 
+  | 6 | **1**  | ![Conqueror Maingun](/images/equipment/zhupao6_p.png) [Conqueror Maingun](/equipment/Conqueror Maingun) ![+2](/images/sp_grade_2.png) | 
+  | 7 | **1**  | ![Conqueror Winggun](/images/equipment/fupao6_p.png) [Conqueror Winggun](/equipment/Conqueror Winggun) ![+2](/images/sp_grade_2.png) | 
+  | 8 | **1**  | ![Conqueror Missile](/images/equipment/daodan5_p.png) [Conqueror Missile](/equipment/Conqueror Missile) ![+2](/images/sp_grade_2.png) | 
+  | 9 | **1**  | ![Conqueror Armor](/images/equipment/zhuangjia6_p.png) [Conqueror Armor](/equipment/Conqueror Armor) ![+2](/images/sp_grade_2.png) | 
   | 10 | **5**  | ![Conqueror Shard](/images/item/Conqueror_Shard_p.png) [Conqueror Shard](/item/Conqueror Shard_101/) | 
   | 11 | **2**  | ![Conqueror Shard](/images/item/Conqueror_Shard_p.png) [Conqueror Shard](/item/Conqueror Shard_101/) | 
   | 12 | **1**  | ![Phantom](/images/ship/fj_img5_p.png) [Phantom](/fighter/Phantom) | 
