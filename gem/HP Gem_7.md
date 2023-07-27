@@ -2,7 +2,7 @@
 title: "Gem HP Gem +7"
 permalink: /gem/HP Gem_7/
 excerpt: "Wing Fighter Gem HP Gem +7"
-last_modified_at: 2023-07-26
+last_modified_at: 2023-07-27
 locale: en
 ref: "HP Gem_7.md"
 toc: false

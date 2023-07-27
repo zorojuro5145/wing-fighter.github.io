@@ -2,7 +2,7 @@
 title: "Fighter Crimson Dragon"
 permalink: /fighter/Crimson Dragon/
 excerpt: "Wing Fighter Crimson Dragon"
-last_modified_at: 2023-07-26
+last_modified_at: 2023-07-27
 locale: en
 ref: "Crimson Dragon.md"
 toc: false

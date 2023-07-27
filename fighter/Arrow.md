@@ -2,7 +2,7 @@
 title: "Fighter Arrow"
 permalink: /fighter/Arrow/
 excerpt: "Wing Fighter Arrow"
-last_modified_at: 2023-07-26
+last_modified_at: 2023-07-27
 locale: en
 ref: "Arrow.md"
 toc: false

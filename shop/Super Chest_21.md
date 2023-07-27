@@ -2,7 +2,7 @@
 title: "Shop Super Chest"
 permalink: /shop/Super Chest_21/
 excerpt: "Wing Fighter Super Chest"
-last_modified_at: 2023-07-26
+last_modified_at: 2023-07-27
 locale: en
 ref: "Super Chest_21.md"
 toc: false
@@ -71,27 +71,27 @@ classes: wide
   | 18 | **1**  | ![Crimson Dragon](/images/ship/fj_img2_p.png) [Crimson Dragon](/fighter/Crimson Dragon) | 
   | 19 | **1**  | ![Inferno](/images/ship/fj_img4_p.png) [Inferno](/fighter/Inferno) | 
   | 20 | **1**  | ![Red Phantom](/images/ship/fj_img1_p.png) [Red Phantom](/fighter/Red Phantom) | 
-  | 21 | **1**  | equipment:100, level = 1, gr=4 | 
-  | 22 | **1**  | equipment:101, level = 1, gr=4 | 
-  | 23 | **1**  | equipment:102, level = 1, gr=4 | 
-  | 24 | **1**  | equipment:103, level = 1, gr=4 | 
-  | 25 | **1**  | equipment:104, level = 1, gr=4 | 
-  | 26 | **1**  | equipment:110, level = 1, gr=4 | 
-  | 27 | **1**  | equipment:111, level = 1, gr=4 | 
-  | 28 | **1**  | equipment:112, level = 1, gr=4 | 
-  | 29 | **1**  | equipment:113, level = 1, gr=4 | 
-  | 30 | **1**  | equipment:114, level = 1, gr=4 | 
-  | 31 | **1**  | equipment:120, level = 1, gr=4 | 
-  | 32 | **1**  | equipment:121, level = 1, gr=4 | 
-  | 33 | **1**  | equipment:122, level = 1, gr=4 | 
-  | 34 | **1**  | equipment:123, level = 1, gr=4 | 
-  | 35 | **1**  | equipment:130, level = 1, gr=4 | 
-  | 36 | **1**  | equipment:131, level = 1, gr=4 | 
-  | 37 | **1**  | equipment:132, level = 1, gr=4 | 
-  | 38 | **1**  | equipment:133, level = 1, gr=4 | 
-  | 39 | **1**  | equipment:134, level = 1, gr=4 | 
-  | 40 | **1**  | equipment:151, level = 1, gr=4 | 
-  | 41 | **1**  | equipment:152, level = 1, gr=4 | 
+  | 21 | **1**  | ![Heavy Machine Gun](/images/equipment/zhupao1_p.png) [Heavy Machine Gun](/equipment/Heavy Machine Gun) ![+1](/images/sp_grade_1.png) | 
+  | 22 | **1**  | ![Laser Gun](/images/equipment/zhupao2_p.png) [Laser Gun](/equipment/Laser Gun) ![+1](/images/sp_grade_1.png) | 
+  | 23 | **1**  | ![Railgun](/images/equipment/zhupao3_p.png) [Railgun](/equipment/Railgun) ![+1](/images/sp_grade_1.png) | 
+  | 24 | **1**  | ![Batarang Gun](/images/equipment/zhupao4_p.png) [Batarang Gun](/equipment/Batarang Gun) ![+1](/images/sp_grade_1.png) | 
+  | 25 | **1**  | ![Blast Shotgun](/images/equipment/zhupao5_p.png) [Blast Shotgun](/equipment/Blast Shotgun) ![+1](/images/sp_grade_1.png) | 
+  | 26 | **1**  | ![Winggun Cannon](/images/equipment/fupao1_p.png) [Winggun Cannon](/equipment/Winggun Cannon) ![+1](/images/sp_grade_1.png) | 
+  | 27 | **1**  | ![Lightning Winggun](/images/equipment/fupao2_p.png) [Lightning Winggun](/equipment/Lightning Winggun) ![+1](/images/sp_grade_1.png) | 
+  | 28 | **1**  | ![Blazing Winggun](/images/equipment/fupao3_p.png) [Blazing Winggun](/equipment/Blazing Winggun) ![+1](/images/sp_grade_1.png) | 
+  | 29 | **1**  | ![Prism Winggun](/images/equipment/fupao4_p.png) [Prism Winggun](/equipment/Prism Winggun) ![+1](/images/sp_grade_1.png) | 
+  | 30 | **1**  | ![Crescent Winggun](/images/equipment/fupao5_p.png) [Crescent Winggun](/equipment/Crescent Winggun) ![+1](/images/sp_grade_1.png) | 
+  | 31 | **1**  | ![Standard Missile](/images/equipment/daodan1_p.png) [Standard Missile](/equipment/Standard Missile) ![+1](/images/sp_grade_1.png) | 
+  | 32 | **1**  | ![High-Explosive Missile](/images/equipment/daodan2_p.png) [High-Explosive Missile](/equipment/High-Explosive Missile) ![+1](/images/sp_grade_1.png) | 
+  | 33 | **1**  | ![Lightning Missile](/images/equipment/daodan3_p.png) [Lightning Missile](/equipment/Lightning Missile) ![+1](/images/sp_grade_1.png) | 
+  | 34 | **1**  | ![Energy-Gathered Missile](/images/equipment/daodan4_p.png) [Energy-Gathered Missile](/equipment/Energy-Gathered Missile) ![+1](/images/sp_grade_1.png) | 
+  | 35 | **1**  | ![Hardened Armor](/images/equipment/zhuangjia1_p.png) [Hardened Armor](/equipment/Hardened Armor) ![+1](/images/sp_grade_1.png) | 
+  | 36 | **1**  | ![Electrical Armor](/images/equipment/zhuangjia2_p.png) [Electrical Armor](/equipment/Electrical Armor) ![+1](/images/sp_grade_1.png) | 
+  | 37 | **1**  | ![Forcefield Armor](/images/equipment/zhuangjia3_p.png) [Forcefield Armor](/equipment/Forcefield Armor) ![+1](/images/sp_grade_1.png) | 
+  | 38 | **1**  | ![HP Restore Armor](/images/equipment/zhuangjia4_p.png) [HP Restore Armor](/equipment/HP Restore Armor) ![+1](/images/sp_grade_1.png) | 
+  | 39 | **1**  | ![Shock Armor](/images/equipment/zhuangjia5_p.png) [Shock Armor](/equipment/Shock Armor) ![+1](/images/sp_grade_1.png) | 
+  | 40 | **1**  | ![Ultimate - Ultimate Laser](/images/equipment/bs_icon_jg_p.png) [Ultimate - Ultimate Laser](/equipment/Ultimate - Ultimate Laser) ![+1](/images/sp_grade_1.png) | 
+  | 41 | **1**  | ![Ultimate - Ultimate Bomb](/images/equipment/bs_icon_zd_p.png) [Ultimate - Ultimate Bomb](/equipment/Ultimate - Ultimate Bomb) ![+1](/images/sp_grade_1.png) | 
   | 42 | **5**  | ![Phantom Shards](/images/item/Phantom_Shards_p.png) [Phantom Shards](/item/Phantom Shards_32/) | 
   | 43 | **5**  | ![Syren Shards](/images/item/Syren_Shards_p.png) [Syren Shards](/item/Syren Shards_34/) | 
   | 44 | **5**  | ![Crow Shards](/images/item/Crow_Shards_p.png) [Crow Shards](/item/Crow Shards_44/) | 
@@ -112,27 +112,27 @@ classes: wide
   | 59 | **5**  | ![Crimson Dragon Shards](/images/item/Crimson_Dragon_Shards_p.png) [Crimson Dragon Shards](/item/Crimson Dragon Shards_23/) | 
   | 60 | **5**  | ![Inferno Shards](/images/item/Inferno_Shards_p.png) [Inferno Shards](/item/Inferno Shards_26/) | 
   | 61 | **5**  | ![Red Phantom Shards](/images/item/Red_Phantom_Shards_p.png) [Red Phantom Shards](/item/Red Phantom Shards_22/) | 
-  | 62 | **1**  | equipment:100, level = 1, gr=3 | 
-  | 63 | **1**  | equipment:101, level = 1, gr=3 | 
-  | 64 | **1**  | equipment:102, level = 1, gr=3 | 
-  | 65 | **1**  | equipment:103, level = 1, gr=3 | 
-  | 66 | **1**  | equipment:104, level = 1, gr=3 | 
-  | 67 | **1**  | equipment:110, level = 1, gr=3 | 
-  | 68 | **1**  | equipment:111, level = 1, gr=3 | 
-  | 69 | **1**  | equipment:112, level = 1, gr=3 | 
-  | 70 | **1**  | equipment:113, level = 1, gr=3 | 
-  | 71 | **1**  | equipment:114, level = 1, gr=3 | 
-  | 72 | **1**  | equipment:120, level = 1, gr=3 | 
-  | 73 | **1**  | equipment:121, level = 1, gr=3 | 
-  | 74 | **1**  | equipment:122, level = 1, gr=3 | 
-  | 75 | **1**  | equipment:123, level = 1, gr=3 | 
-  | 76 | **1**  | equipment:130, level = 1, gr=3 | 
-  | 77 | **1**  | equipment:131, level = 1, gr=3 | 
-  | 78 | **1**  | equipment:132, level = 1, gr=3 | 
-  | 79 | **1**  | equipment:133, level = 1, gr=3 | 
-  | 80 | **1**  | equipment:134, level = 1, gr=3 | 
-  | 81 | **1**  | equipment:151, level = 1, gr=3 | 
-  | 82 | **1**  | equipment:152, level = 1, gr=3 | 
+  | 62 | **1**  | ![Heavy Machine Gun](/images/equipment/zhupao1_p.png) [Heavy Machine Gun](/equipment/Heavy Machine Gun) ![+1](/images/sp_grade_1.png) | 
+  | 63 | **1**  | ![Laser Gun](/images/equipment/zhupao2_p.png) [Laser Gun](/equipment/Laser Gun) ![+1](/images/sp_grade_1.png) | 
+  | 64 | **1**  | ![Railgun](/images/equipment/zhupao3_p.png) [Railgun](/equipment/Railgun) ![+1](/images/sp_grade_1.png) | 
+  | 65 | **1**  | ![Batarang Gun](/images/equipment/zhupao4_p.png) [Batarang Gun](/equipment/Batarang Gun) ![+1](/images/sp_grade_1.png) | 
+  | 66 | **1**  | ![Blast Shotgun](/images/equipment/zhupao5_p.png) [Blast Shotgun](/equipment/Blast Shotgun) ![+1](/images/sp_grade_1.png) | 
+  | 67 | **1**  | ![Winggun Cannon](/images/equipment/fupao1_p.png) [Winggun Cannon](/equipment/Winggun Cannon) ![+1](/images/sp_grade_1.png) | 
+  | 68 | **1**  | ![Lightning Winggun](/images/equipment/fupao2_p.png) [Lightning Winggun](/equipment/Lightning Winggun) ![+1](/images/sp_grade_1.png) | 
+  | 69 | **1**  | ![Blazing Winggun](/images/equipment/fupao3_p.png) [Blazing Winggun](/equipment/Blazing Winggun) ![+1](/images/sp_grade_1.png) | 
+  | 70 | **1**  | ![Prism Winggun](/images/equipment/fupao4_p.png) [Prism Winggun](/equipment/Prism Winggun) ![+1](/images/sp_grade_1.png) | 
+  | 71 | **1**  | ![Crescent Winggun](/images/equipment/fupao5_p.png) [Crescent Winggun](/equipment/Crescent Winggun) ![+1](/images/sp_grade_1.png) | 
+  | 72 | **1**  | ![Standard Missile](/images/equipment/daodan1_p.png) [Standard Missile](/equipment/Standard Missile) ![+1](/images/sp_grade_1.png) | 
+  | 73 | **1**  | ![High-Explosive Missile](/images/equipment/daodan2_p.png) [High-Explosive Missile](/equipment/High-Explosive Missile) ![+1](/images/sp_grade_1.png) | 
+  | 74 | **1**  | ![Lightning Missile](/images/equipment/daodan3_p.png) [Lightning Missile](/equipment/Lightning Missile) ![+1](/images/sp_grade_1.png) | 
+  | 75 | **1**  | ![Energy-Gathered Missile](/images/equipment/daodan4_p.png) [Energy-Gathered Missile](/equipment/Energy-Gathered Missile) ![+1](/images/sp_grade_1.png) | 
+  | 76 | **1**  | ![Hardened Armor](/images/equipment/zhuangjia1_p.png) [Hardened Armor](/equipment/Hardened Armor) ![+1](/images/sp_grade_1.png) | 
+  | 77 | **1**  | ![Electrical Armor](/images/equipment/zhuangjia2_p.png) [Electrical Armor](/equipment/Electrical Armor) ![+1](/images/sp_grade_1.png) | 
+  | 78 | **1**  | ![Forcefield Armor](/images/equipment/zhuangjia3_p.png) [Forcefield Armor](/equipment/Forcefield Armor) ![+1](/images/sp_grade_1.png) | 
+  | 79 | **1**  | ![HP Restore Armor](/images/equipment/zhuangjia4_p.png) [HP Restore Armor](/equipment/HP Restore Armor) ![+1](/images/sp_grade_1.png) | 
+  | 80 | **1**  | ![Shock Armor](/images/equipment/zhuangjia5_p.png) [Shock Armor](/equipment/Shock Armor) ![+1](/images/sp_grade_1.png) | 
+  | 81 | **1**  | ![Ultimate - Ultimate Laser](/images/equipment/bs_icon_jg_p.png) [Ultimate - Ultimate Laser](/equipment/Ultimate - Ultimate Laser) ![+1](/images/sp_grade_1.png) | 
+  | 82 | **1**  | ![Ultimate - Ultimate Bomb](/images/equipment/bs_icon_zd_p.png) [Ultimate - Ultimate Bomb](/equipment/Ultimate - Ultimate Bomb) ![+1](/images/sp_grade_1.png) | 
   | 83 | **2**  | ![Phantom Shards](/images/item/Phantom_Shards_p.png) [Phantom Shards](/item/Phantom Shards_32/) | 
   | 84 | **2**  | ![Syren Shards](/images/item/Syren_Shards_p.png) [Syren Shards](/item/Syren Shards_34/) | 
   | 85 | **2**  | ![Crow Shards](/images/item/Crow_Shards_p.png) [Crow Shards](/item/Crow Shards_44/) | 
@@ -153,27 +153,27 @@ classes: wide
   | 100 | **2**  | ![Crimson Dragon Shards](/images/item/Crimson_Dragon_Shards_p.png) [Crimson Dragon Shards](/item/Crimson Dragon Shards_23/) | 
   | 101 | **2**  | ![Inferno Shards](/images/item/Inferno_Shards_p.png) [Inferno Shards](/item/Inferno Shards_26/) | 
   | 102 | **2**  | ![Red Phantom Shards](/images/item/Red_Phantom_Shards_p.png) [Red Phantom Shards](/item/Red Phantom Shards_22/) | 
-  | 103 | **1**  | equipment:100, level = 1, gr=2 | 
-  | 104 | **1**  | equipment:101, level = 1, gr=2 | 
-  | 105 | **1**  | equipment:102, level = 1, gr=2 | 
-  | 106 | **1**  | equipment:103, level = 1, gr=2 | 
-  | 107 | **1**  | equipment:104, level = 1, gr=2 | 
-  | 108 | **1**  | equipment:110, level = 1, gr=2 | 
-  | 109 | **1**  | equipment:111, level = 1, gr=2 | 
-  | 110 | **1**  | equipment:112, level = 1, gr=2 | 
-  | 111 | **1**  | equipment:113, level = 1, gr=2 | 
-  | 112 | **1**  | equipment:114, level = 1, gr=2 | 
-  | 113 | **1**  | equipment:120, level = 1, gr=2 | 
-  | 114 | **1**  | equipment:121, level = 1, gr=2 | 
-  | 115 | **1**  | equipment:122, level = 1, gr=2 | 
-  | 116 | **1**  | equipment:123, level = 1, gr=2 | 
-  | 117 | **1**  | equipment:130, level = 1, gr=2 | 
-  | 118 | **1**  | equipment:131, level = 1, gr=2 | 
-  | 119 | **1**  | equipment:132, level = 1, gr=2 | 
-  | 120 | **1**  | equipment:133, level = 1, gr=2 | 
-  | 121 | **1**  | equipment:134, level = 1, gr=2 | 
-  | 122 | **1**  | equipment:151, level = 1, gr=2 | 
-  | 123 | **1**  | equipment:152, level = 1, gr=2 | 
+  | 103 | **1**  | ![Heavy Machine Gun](/images/equipment/zhupao1_p.png) [Heavy Machine Gun](/equipment/Heavy Machine Gun) ![+1](/images/sp_grade_1.png) | 
+  | 104 | **1**  | ![Laser Gun](/images/equipment/zhupao2_p.png) [Laser Gun](/equipment/Laser Gun) ![+1](/images/sp_grade_1.png) | 
+  | 105 | **1**  | ![Railgun](/images/equipment/zhupao3_p.png) [Railgun](/equipment/Railgun) ![+1](/images/sp_grade_1.png) | 
+  | 106 | **1**  | ![Batarang Gun](/images/equipment/zhupao4_p.png) [Batarang Gun](/equipment/Batarang Gun) ![+1](/images/sp_grade_1.png) | 
+  | 107 | **1**  | ![Blast Shotgun](/images/equipment/zhupao5_p.png) [Blast Shotgun](/equipment/Blast Shotgun) ![+1](/images/sp_grade_1.png) | 
+  | 108 | **1**  | ![Winggun Cannon](/images/equipment/fupao1_p.png) [Winggun Cannon](/equipment/Winggun Cannon) ![+1](/images/sp_grade_1.png) | 
+  | 109 | **1**  | ![Lightning Winggun](/images/equipment/fupao2_p.png) [Lightning Winggun](/equipment/Lightning Winggun) ![+1](/images/sp_grade_1.png) | 
+  | 110 | **1**  | ![Blazing Winggun](/images/equipment/fupao3_p.png) [Blazing Winggun](/equipment/Blazing Winggun) ![+1](/images/sp_grade_1.png) | 
+  | 111 | **1**  | ![Prism Winggun](/images/equipment/fupao4_p.png) [Prism Winggun](/equipment/Prism Winggun) ![+1](/images/sp_grade_1.png) | 
+  | 112 | **1**  | ![Crescent Winggun](/images/equipment/fupao5_p.png) [Crescent Winggun](/equipment/Crescent Winggun) ![+1](/images/sp_grade_1.png) | 
+  | 113 | **1**  | ![Standard Missile](/images/equipment/daodan1_p.png) [Standard Missile](/equipment/Standard Missile) ![+1](/images/sp_grade_1.png) | 
+  | 114 | **1**  | ![High-Explosive Missile](/images/equipment/daodan2_p.png) [High-Explosive Missile](/equipment/High-Explosive Missile) ![+1](/images/sp_grade_1.png) | 
+  | 115 | **1**  | ![Lightning Missile](/images/equipment/daodan3_p.png) [Lightning Missile](/equipment/Lightning Missile) ![+1](/images/sp_grade_1.png) | 
+  | 116 | **1**  | ![Energy-Gathered Missile](/images/equipment/daodan4_p.png) [Energy-Gathered Missile](/equipment/Energy-Gathered Missile) ![+1](/images/sp_grade_1.png) | 
+  | 117 | **1**  | ![Hardened Armor](/images/equipment/zhuangjia1_p.png) [Hardened Armor](/equipment/Hardened Armor) ![+1](/images/sp_grade_1.png) | 
+  | 118 | **1**  | ![Electrical Armor](/images/equipment/zhuangjia2_p.png) [Electrical Armor](/equipment/Electrical Armor) ![+1](/images/sp_grade_1.png) | 
+  | 119 | **1**  | ![Forcefield Armor](/images/equipment/zhuangjia3_p.png) [Forcefield Armor](/equipment/Forcefield Armor) ![+1](/images/sp_grade_1.png) | 
+  | 120 | **1**  | ![HP Restore Armor](/images/equipment/zhuangjia4_p.png) [HP Restore Armor](/equipment/HP Restore Armor) ![+1](/images/sp_grade_1.png) | 
+  | 121 | **1**  | ![Shock Armor](/images/equipment/zhuangjia5_p.png) [Shock Armor](/equipment/Shock Armor) ![+1](/images/sp_grade_1.png) | 
+  | 122 | **1**  | ![Ultimate - Ultimate Laser](/images/equipment/bs_icon_jg_p.png) [Ultimate - Ultimate Laser](/equipment/Ultimate - Ultimate Laser) ![+1](/images/sp_grade_1.png) | 
+  | 123 | **1**  | ![Ultimate - Ultimate Bomb](/images/equipment/bs_icon_zd_p.png) [Ultimate - Ultimate Bomb](/equipment/Ultimate - Ultimate Bomb) ![+1](/images/sp_grade_1.png) | 
   | 124 | **20**  | ![Alloy Plate](/images/item/Alloy_Plate_p.png) [Alloy Plate](/item/Alloy Plate_20/) | 
   | 125 | **10**  | ![Alloy Plate](/images/item/Alloy_Plate_p.png) [Alloy Plate](/item/Alloy Plate_20/) | 
 

@@ -2,7 +2,7 @@
 title: "Shop 72h Reward"
 permalink: /shop/72h Reward_14/
 excerpt: "Wing Fighter 72h Reward"
-last_modified_at: 2023-07-26
+last_modified_at: 2023-07-27
 locale: en
 ref: "72h Reward_14.md"
 toc: false

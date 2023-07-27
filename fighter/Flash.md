@@ -2,7 +2,7 @@
 title: "Fighter Flash"
 permalink: /fighter/Flash/
 excerpt: "Wing Fighter Flash"
-last_modified_at: 2023-07-26
+last_modified_at: 2023-07-27
 locale: en
 ref: "Flash.md"
 toc: false

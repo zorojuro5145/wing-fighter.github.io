@@ -2,7 +2,7 @@
 title: "Fighter Foehn"
 permalink: /fighter/Foehn/
 excerpt: "Wing Fighter Foehn"
-last_modified_at: 2023-07-26
+last_modified_at: 2023-07-27
 locale: en
 ref: "Foehn.md"
 toc: false
