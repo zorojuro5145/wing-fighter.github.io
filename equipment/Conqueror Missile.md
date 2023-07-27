@@ -36,7 +36,7 @@ classes: wide
 
 
   |  Nr |     Grade     |       Bonus       |
-  |:----|:-------------:|:-------------------------:|
+  |:----|:-------------:|:--------------------------|
   | 1  | ![+2](/images/sp_grade_2.png)  | Attack of Conqueror Missile +10% |
   | 2  | ![+3](/images/sp_grade_3.png)  | Attack rate of Conqueror Missile +10% |
   | 3  | ![+4](/images/sp_grade_4.png)  | Miniature missile +2 |

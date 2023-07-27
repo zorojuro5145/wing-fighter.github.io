@@ -36,7 +36,7 @@ classes: wide
 
 
   |  Nr |     Grade     |       Bonus       |
-  |:----|:-------------:|:-------------------------:|
+  |:----|:-------------:|:--------------------------|
   | 1  | ![+2](/images/sp_grade_2.png)  | 10% chance to penetrate the target once |
   | 2  | ![+3](/images/sp_grade_3.png)  | Attack +10% |
   | 3  | ![+4](/images/sp_grade_4.png)  | 1% chance to deal 10 times damage |

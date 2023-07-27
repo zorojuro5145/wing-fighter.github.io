@@ -36,7 +36,7 @@ classes: wide
 
 
   |  Nr |     Grade     |       Bonus       |
-  |:----|:-------------:|:-------------------------:|
+  |:----|:-------------:|:--------------------------|
   | 1  | ![+2](/images/sp_grade_2.png)  | HP +10% |
   | 2  | ![+3](/images/sp_grade_3.png)  | HP +20% |
   | 3  | ![+4](/images/sp_grade_4.png)  | Recharge time of the ring lightning reduced by 50% |

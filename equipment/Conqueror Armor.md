@@ -36,7 +36,7 @@ classes: wide
 
 
   |  Nr |     Grade     |       Bonus       |
-  |:----|:-------------:|:-------------------------:|
+  |:----|:-------------:|:--------------------------|
   | 1  | ![+2](/images/sp_grade_2.png)  | HP +10% |
   | 2  | ![+3](/images/sp_grade_3.png)  | HP +20% |
   | 3  | ![+4](/images/sp_grade_4.png)  | Restoration time of blade shields reduced by 10% |
