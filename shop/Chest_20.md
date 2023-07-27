@@ -98,48 +98,48 @@ classes: wide
   | 46 | **1**  | ![Crimson Dragon Shards](/images/item/Crimson_Dragon_Shards_p.png) [Crimson Dragon Shards](/item/Crimson Dragon Shards_23/) | 
   | 47 | **1**  | ![Inferno Shards](/images/item/Inferno_Shards_p.png) [Inferno Shards](/item/Inferno Shards_26/) | 
   | 48 | **1**  | ![Red Phantom Shards](/images/item/Red_Phantom_Shards_p.png) [Red Phantom Shards](/item/Red Phantom Shards_22/) | 
-  | 49 | **1**  | ![Heavy Machine Gun](/images/equipment/zhupao1_p.png) [Heavy Machine Gun](/equipment/Heavy Machine Gun) ![+1](/images/sp_grade_1.png) | 
-  | 50 | **1**  | ![Laser Gun](/images/equipment/zhupao2_p.png) [Laser Gun](/equipment/Laser Gun) ![+1](/images/sp_grade_1.png) | 
-  | 51 | **1**  | ![Railgun](/images/equipment/zhupao3_p.png) [Railgun](/equipment/Railgun) ![+1](/images/sp_grade_1.png) | 
-  | 52 | **1**  | ![Batarang Gun](/images/equipment/zhupao4_p.png) [Batarang Gun](/equipment/Batarang Gun) ![+1](/images/sp_grade_1.png) | 
-  | 53 | **1**  | ![Blast Shotgun](/images/equipment/zhupao5_p.png) [Blast Shotgun](/equipment/Blast Shotgun) ![+1](/images/sp_grade_1.png) | 
-  | 54 | **1**  | ![Winggun Cannon](/images/equipment/fupao1_p.png) [Winggun Cannon](/equipment/Winggun Cannon) ![+1](/images/sp_grade_1.png) | 
-  | 55 | **1**  | ![Lightning Winggun](/images/equipment/fupao2_p.png) [Lightning Winggun](/equipment/Lightning Winggun) ![+1](/images/sp_grade_1.png) | 
-  | 56 | **1**  | ![Blazing Winggun](/images/equipment/fupao3_p.png) [Blazing Winggun](/equipment/Blazing Winggun) ![+1](/images/sp_grade_1.png) | 
-  | 57 | **1**  | ![Prism Winggun](/images/equipment/fupao4_p.png) [Prism Winggun](/equipment/Prism Winggun) ![+1](/images/sp_grade_1.png) | 
-  | 58 | **1**  | ![Crescent Winggun](/images/equipment/fupao5_p.png) [Crescent Winggun](/equipment/Crescent Winggun) ![+1](/images/sp_grade_1.png) | 
-  | 59 | **1**  | ![Standard Missile](/images/equipment/daodan1_p.png) [Standard Missile](/equipment/Standard Missile) ![+1](/images/sp_grade_1.png) | 
-  | 60 | **1**  | ![High-Explosive Missile](/images/equipment/daodan2_p.png) [High-Explosive Missile](/equipment/High-Explosive Missile) ![+1](/images/sp_grade_1.png) | 
-  | 61 | **1**  | ![Lightning Missile](/images/equipment/daodan3_p.png) [Lightning Missile](/equipment/Lightning Missile) ![+1](/images/sp_grade_1.png) | 
-  | 62 | **1**  | ![Energy-Gathered Missile](/images/equipment/daodan4_p.png) [Energy-Gathered Missile](/equipment/Energy-Gathered Missile) ![+1](/images/sp_grade_1.png) | 
-  | 63 | **1**  | ![Hardened Armor](/images/equipment/zhuangjia1_p.png) [Hardened Armor](/equipment/Hardened Armor) ![+1](/images/sp_grade_1.png) | 
-  | 64 | **1**  | ![Electrical Armor](/images/equipment/zhuangjia2_p.png) [Electrical Armor](/equipment/Electrical Armor) ![+1](/images/sp_grade_1.png) | 
-  | 65 | **1**  | ![Forcefield Armor](/images/equipment/zhuangjia3_p.png) [Forcefield Armor](/equipment/Forcefield Armor) ![+1](/images/sp_grade_1.png) | 
-  | 66 | **1**  | ![HP Restore Armor](/images/equipment/zhuangjia4_p.png) [HP Restore Armor](/equipment/HP Restore Armor) ![+1](/images/sp_grade_1.png) | 
-  | 67 | **1**  | ![Shock Armor](/images/equipment/zhuangjia5_p.png) [Shock Armor](/equipment/Shock Armor) ![+1](/images/sp_grade_1.png) | 
-  | 68 | **1**  | ![Ultimate - Ultimate Laser](/images/equipment/bs_icon_jg_p.png) [Ultimate - Ultimate Laser](/equipment/Ultimate - Ultimate Laser) ![+1](/images/sp_grade_1.png) | 
-  | 69 | **1**  | ![Ultimate - Ultimate Bomb](/images/equipment/bs_icon_zd_p.png) [Ultimate - Ultimate Bomb](/equipment/Ultimate - Ultimate Bomb) ![+1](/images/sp_grade_1.png) | 
-  | 70 | **1**  | ![Heavy Machine Gun](/images/equipment/zhupao1_p.png) [Heavy Machine Gun](/equipment/Heavy Machine Gun)  | 
-  | 71 | **1**  | ![Laser Gun](/images/equipment/zhupao2_p.png) [Laser Gun](/equipment/Laser Gun)  | 
-  | 72 | **1**  | ![Railgun](/images/equipment/zhupao3_p.png) [Railgun](/equipment/Railgun)  | 
-  | 73 | **1**  | ![Batarang Gun](/images/equipment/zhupao4_p.png) [Batarang Gun](/equipment/Batarang Gun)  | 
-  | 74 | **1**  | ![Blast Shotgun](/images/equipment/zhupao5_p.png) [Blast Shotgun](/equipment/Blast Shotgun)  | 
-  | 75 | **1**  | ![Winggun Cannon](/images/equipment/fupao1_p.png) [Winggun Cannon](/equipment/Winggun Cannon)  | 
-  | 76 | **1**  | ![Lightning Winggun](/images/equipment/fupao2_p.png) [Lightning Winggun](/equipment/Lightning Winggun)  | 
-  | 77 | **1**  | ![Blazing Winggun](/images/equipment/fupao3_p.png) [Blazing Winggun](/equipment/Blazing Winggun)  | 
-  | 78 | **1**  | ![Prism Winggun](/images/equipment/fupao4_p.png) [Prism Winggun](/equipment/Prism Winggun)  | 
-  | 79 | **1**  | ![Crescent Winggun](/images/equipment/fupao5_p.png) [Crescent Winggun](/equipment/Crescent Winggun)  | 
-  | 80 | **1**  | ![Standard Missile](/images/equipment/daodan1_p.png) [Standard Missile](/equipment/Standard Missile)  | 
-  | 81 | **1**  | ![High-Explosive Missile](/images/equipment/daodan2_p.png) [High-Explosive Missile](/equipment/High-Explosive Missile)  | 
-  | 82 | **1**  | ![Lightning Missile](/images/equipment/daodan3_p.png) [Lightning Missile](/equipment/Lightning Missile)  | 
-  | 83 | **1**  | ![Energy-Gathered Missile](/images/equipment/daodan4_p.png) [Energy-Gathered Missile](/equipment/Energy-Gathered Missile)  | 
-  | 84 | **1**  | ![Hardened Armor](/images/equipment/zhuangjia1_p.png) [Hardened Armor](/equipment/Hardened Armor)  | 
-  | 85 | **1**  | ![Electrical Armor](/images/equipment/zhuangjia2_p.png) [Electrical Armor](/equipment/Electrical Armor)  | 
-  | 86 | **1**  | ![Forcefield Armor](/images/equipment/zhuangjia3_p.png) [Forcefield Armor](/equipment/Forcefield Armor)  | 
-  | 87 | **1**  | ![HP Restore Armor](/images/equipment/zhuangjia4_p.png) [HP Restore Armor](/equipment/HP Restore Armor)  | 
-  | 88 | **1**  | ![Shock Armor](/images/equipment/zhuangjia5_p.png) [Shock Armor](/equipment/Shock Armor)  | 
-  | 89 | **1**  | ![Ultimate - Ultimate Laser](/images/equipment/bs_icon_jg_p.png) [Ultimate - Ultimate Laser](/equipment/Ultimate - Ultimate Laser)  | 
-  | 90 | **1**  | ![Ultimate - Ultimate Bomb](/images/equipment/bs_icon_zd_p.png) [Ultimate - Ultimate Bomb](/equipment/Ultimate - Ultimate Bomb)  | 
+  | 49 | **1**  | ![+1](/images/sp_grade_1.png) ![Heavy Machine Gun](/images/equipment/zhupao1_p.png) [Heavy Machine Gun](/equipment/Heavy Machine Gun) | 
+  | 50 | **1**  | ![+1](/images/sp_grade_1.png) ![Laser Gun](/images/equipment/zhupao2_p.png) [Laser Gun](/equipment/Laser Gun) | 
+  | 51 | **1**  | ![+1](/images/sp_grade_1.png) ![Railgun](/images/equipment/zhupao3_p.png) [Railgun](/equipment/Railgun) | 
+  | 52 | **1**  | ![+1](/images/sp_grade_1.png) ![Batarang Gun](/images/equipment/zhupao4_p.png) [Batarang Gun](/equipment/Batarang Gun) | 
+  | 53 | **1**  | ![+1](/images/sp_grade_1.png) ![Blast Shotgun](/images/equipment/zhupao5_p.png) [Blast Shotgun](/equipment/Blast Shotgun) | 
+  | 54 | **1**  | ![+1](/images/sp_grade_1.png) ![Winggun Cannon](/images/equipment/fupao1_p.png) [Winggun Cannon](/equipment/Winggun Cannon) | 
+  | 55 | **1**  | ![+1](/images/sp_grade_1.png) ![Lightning Winggun](/images/equipment/fupao2_p.png) [Lightning Winggun](/equipment/Lightning Winggun) | 
+  | 56 | **1**  | ![+1](/images/sp_grade_1.png) ![Blazing Winggun](/images/equipment/fupao3_p.png) [Blazing Winggun](/equipment/Blazing Winggun) | 
+  | 57 | **1**  | ![+1](/images/sp_grade_1.png) ![Prism Winggun](/images/equipment/fupao4_p.png) [Prism Winggun](/equipment/Prism Winggun) | 
+  | 58 | **1**  | ![+1](/images/sp_grade_1.png) ![Crescent Winggun](/images/equipment/fupao5_p.png) [Crescent Winggun](/equipment/Crescent Winggun) | 
+  | 59 | **1**  | ![+1](/images/sp_grade_1.png) ![Standard Missile](/images/equipment/daodan1_p.png) [Standard Missile](/equipment/Standard Missile) | 
+  | 60 | **1**  | ![+1](/images/sp_grade_1.png) ![High-Explosive Missile](/images/equipment/daodan2_p.png) [High-Explosive Missile](/equipment/High-Explosive Missile) | 
+  | 61 | **1**  | ![+1](/images/sp_grade_1.png) ![Lightning Missile](/images/equipment/daodan3_p.png) [Lightning Missile](/equipment/Lightning Missile) | 
+  | 62 | **1**  | ![+1](/images/sp_grade_1.png) ![Energy-Gathered Missile](/images/equipment/daodan4_p.png) [Energy-Gathered Missile](/equipment/Energy-Gathered Missile) | 
+  | 63 | **1**  | ![+1](/images/sp_grade_1.png) ![Hardened Armor](/images/equipment/zhuangjia1_p.png) [Hardened Armor](/equipment/Hardened Armor) | 
+  | 64 | **1**  | ![+1](/images/sp_grade_1.png) ![Electrical Armor](/images/equipment/zhuangjia2_p.png) [Electrical Armor](/equipment/Electrical Armor) | 
+  | 65 | **1**  | ![+1](/images/sp_grade_1.png) ![Forcefield Armor](/images/equipment/zhuangjia3_p.png) [Forcefield Armor](/equipment/Forcefield Armor) | 
+  | 66 | **1**  | ![+1](/images/sp_grade_1.png) ![HP Restore Armor](/images/equipment/zhuangjia4_p.png) [HP Restore Armor](/equipment/HP Restore Armor) | 
+  | 67 | **1**  | ![+1](/images/sp_grade_1.png) ![Shock Armor](/images/equipment/zhuangjia5_p.png) [Shock Armor](/equipment/Shock Armor) | 
+  | 68 | **1**  | ![+1](/images/sp_grade_1.png) ![Ultimate - Ultimate Laser](/images/equipment/bs_icon_jg_p.png) [Ultimate - Ultimate Laser](/equipment/Ultimate - Ultimate Laser) | 
+  | 69 | **1**  | ![+1](/images/sp_grade_1.png) ![Ultimate - Ultimate Bomb](/images/equipment/bs_icon_zd_p.png) [Ultimate - Ultimate Bomb](/equipment/Ultimate - Ultimate Bomb) | 
+  | 70 | **1**  |  ![Heavy Machine Gun](/images/equipment/zhupao1_p.png) [Heavy Machine Gun](/equipment/Heavy Machine Gun) | 
+  | 71 | **1**  |  ![Laser Gun](/images/equipment/zhupao2_p.png) [Laser Gun](/equipment/Laser Gun) | 
+  | 72 | **1**  |  ![Railgun](/images/equipment/zhupao3_p.png) [Railgun](/equipment/Railgun) | 
+  | 73 | **1**  |  ![Batarang Gun](/images/equipment/zhupao4_p.png) [Batarang Gun](/equipment/Batarang Gun) | 
+  | 74 | **1**  |  ![Blast Shotgun](/images/equipment/zhupao5_p.png) [Blast Shotgun](/equipment/Blast Shotgun) | 
+  | 75 | **1**  |  ![Winggun Cannon](/images/equipment/fupao1_p.png) [Winggun Cannon](/equipment/Winggun Cannon) | 
+  | 76 | **1**  |  ![Lightning Winggun](/images/equipment/fupao2_p.png) [Lightning Winggun](/equipment/Lightning Winggun) | 
+  | 77 | **1**  |  ![Blazing Winggun](/images/equipment/fupao3_p.png) [Blazing Winggun](/equipment/Blazing Winggun) | 
+  | 78 | **1**  |  ![Prism Winggun](/images/equipment/fupao4_p.png) [Prism Winggun](/equipment/Prism Winggun) | 
+  | 79 | **1**  |  ![Crescent Winggun](/images/equipment/fupao5_p.png) [Crescent Winggun](/equipment/Crescent Winggun) | 
+  | 80 | **1**  |  ![Standard Missile](/images/equipment/daodan1_p.png) [Standard Missile](/equipment/Standard Missile) | 
+  | 81 | **1**  |  ![High-Explosive Missile](/images/equipment/daodan2_p.png) [High-Explosive Missile](/equipment/High-Explosive Missile) | 
+  | 82 | **1**  |  ![Lightning Missile](/images/equipment/daodan3_p.png) [Lightning Missile](/equipment/Lightning Missile) | 
+  | 83 | **1**  |  ![Energy-Gathered Missile](/images/equipment/daodan4_p.png) [Energy-Gathered Missile](/equipment/Energy-Gathered Missile) | 
+  | 84 | **1**  |  ![Hardened Armor](/images/equipment/zhuangjia1_p.png) [Hardened Armor](/equipment/Hardened Armor) | 
+  | 85 | **1**  |  ![Electrical Armor](/images/equipment/zhuangjia2_p.png) [Electrical Armor](/equipment/Electrical Armor) | 
+  | 86 | **1**  |  ![Forcefield Armor](/images/equipment/zhuangjia3_p.png) [Forcefield Armor](/equipment/Forcefield Armor) | 
+  | 87 | **1**  |  ![HP Restore Armor](/images/equipment/zhuangjia4_p.png) [HP Restore Armor](/equipment/HP Restore Armor) | 
+  | 88 | **1**  |  ![Shock Armor](/images/equipment/zhuangjia5_p.png) [Shock Armor](/equipment/Shock Armor) | 
+  | 89 | **1**  |  ![Ultimate - Ultimate Laser](/images/equipment/bs_icon_jg_p.png) [Ultimate - Ultimate Laser](/equipment/Ultimate - Ultimate Laser) | 
+  | 90 | **1**  |  ![Ultimate - Ultimate Bomb](/images/equipment/bs_icon_zd_p.png) [Ultimate - Ultimate Bomb](/equipment/Ultimate - Ultimate Bomb) | 
   | 91 | **4**  | ![Alloy Plate](/images/item/Alloy_Plate_p.png) [Alloy Plate](/item/Alloy Plate_20/) | 
   | 92 | **2**  | ![Alloy Plate](/images/item/Alloy_Plate_p.png) [Alloy Plate](/item/Alloy Plate_20/) | 
 
