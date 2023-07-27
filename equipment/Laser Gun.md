@@ -52,6 +52,8 @@ classes: wide
 
 ## Upgrade
 
+ **Total Upgrade Costs:** **1654000x**![Stars](/images/item/Stars_p.png)[Stars](/item/Stars_2/), **7691x**![Maingun Module](/images/item/Maingun_Module_p.png)[Maingun Module](/item/Maingun Module_9/) 
+
 
 
   |  Level |     Grade     |   Attack  |    HP    | Upgrade costs  |

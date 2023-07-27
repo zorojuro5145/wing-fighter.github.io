@@ -42,6 +42,8 @@ classes: wide
 
 ## Upgrade
 
+ **Total Upgrade Costs:** **1654000x**![Stars](/images/item/Stars_p.png)[Stars](/item/Stars_2/), **7691x**![Ultimate Module](/images/item/Ultimate_Module_p.png)[Ultimate Module](/item/Ultimate Module_16/) 
+
 
 
   |  Level |     Grade     |   Attack  |    HP    | Upgrade costs  |

@@ -52,6 +52,8 @@ classes: wide
 
 ## Upgrade
 
+ **Total Upgrade Costs:** **1654000x**![Stars](/images/item/Stars_p.png)[Stars](/item/Stars_2/), **7691x**![Missile Module](/images/item/Missile_Module_p.png)[Missile Module](/item/Missile Module_11/) 
+
 
 
   |  Level |     Grade     |   Attack  |    HP    | Upgrade costs  |

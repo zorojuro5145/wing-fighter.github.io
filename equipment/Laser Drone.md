@@ -42,6 +42,8 @@ classes: wide
 
 ## Upgrade
 
+ **Total Upgrade Costs:** **1654000x**![Stars](/images/item/Stars_p.png)[Stars](/item/Stars_2/), **7691x**![Drone Module](/images/item/Drone_Module_p.png)[Drone Module](/item/Drone Module_13/) 
+
 
 
   |  Level |     Grade     |   Attack  |    HP    | Upgrade costs  |
