@@ -1,10 +1,10 @@
 ---
-title: "Talents"
-permalink: /talent/
-excerpt: "Wing Fighter Talent"
+title: "Talent +1"
+permalink: /talent/Talent +1/
+excerpt: "Wing Fighter Talent +1"
 last_modified_at: 2023-07-29
 locale: en
-ref: "index.md"
+ref: "Talent +1.md"
 toc: false
 classes: wide
 ---

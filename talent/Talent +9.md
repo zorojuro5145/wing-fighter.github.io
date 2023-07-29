@@ -1,10 +1,10 @@
 ---
-title: "Talents"
-permalink: /talent/
-excerpt: "Wing Fighter Talent"
+title: "Talent +9"
+permalink: /talent/Talent +9/
+excerpt: "Wing Fighter Talent +9"
 last_modified_at: 2023-07-29
 locale: en
-ref: "index.md"
+ref: "Talent +9.md"
 toc: false
 classes: wide
 ---
@@ -21,7 +21,6 @@ classes: wide
   | 2 | ![Firepower](/images/talent/Talent_2_p.png) | [Firepower](/talent/Firepower) | Increase Attack | 
   | 3 | ![Field Repair](/images/talent/Talent_3_p.png) | [Field Repair](/talent/Field Repair) | Level-Up Heal in Battle | 
   | 4 | ![Attack Rate](/images/talent/Talent_4_p.png) | [Attack Rate](/talent/Attack Rate) | Increase Attack Rate | 
-  | 5 | ![Pre-Battle Skill](/images/talent/Talent_5_p.png) | [Pre-Battle Skill](/talent/Pre-Battle Skill) | Get One Skill When Entering the Field | 
   | 6 | ![Idle Reward](/images/talent/Talent_6_p.png) | [Idle Reward](/talent/Idle Reward) | Get More Stars From Idling | 
   | 7 | ![Healing Heart](/images/talent/Talent_7_p.png) | [Healing Heart](/talent/Healing Heart) | Increase the effect of Healing Heart | 
   | 8 | ![Equipment](/images/talent/Talent_8_p.png) | [Equipment](/talent/Equipment) | Improve Equipment Attributes | 
