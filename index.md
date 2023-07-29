@@ -11,19 +11,21 @@ sidebar:
 ---
 
 
-{% capture notice-update20230727 %}
+{% capture notice-update20230729 %}
 
-* Added <img src="/images/equipment/zhupao7_p.png" alt="Equipment" width="32" height="29"/><a href="/equipment/" hreflang="en">Equipment</a>
+* Added <img src="/images/talent/Talent_5_p.png" alt="Talents" width="26" height="30"/><a href="/talent/" hreflang="en">Talents</a>
 
-* Next in progress: <img src="/images/talent/Talent_5_p.png" alt="Talents" width="26" height="30"/><a href="/talent/" hreflang="en">Talents</a>, Stages, Sets, Guild Boss damage and rewards
+* Next in progress: Stages, Sets, Guild Boss damage and rewards
+
+* I'm not a hacker ;) do not provide a game content to all and do not describe how to get in-game information. Please ask the Minigames team for it.
 
 * If You have a game content -> How To guide(s), Tricks and Tips, Fun info, etc. I'll be happy to publish it on Wiki, [Please contact me via Discord](https://discordapp.com/users/351705203038224385/)
 
 {% endcapture %}
 
 <div class="notice--danger">
-  <h4 class="no_toc">27 July 2023 Wiki Update: Added Equipment, extended info in Flights, Gems and Chests, ...</h4>
-  {{ notice-update20230727 | markdownify }}
+  <h4 class="no_toc">29 July 2023 Wiki Update: Added Equipment, extended info in Flights, Gems and Chests, ...</h4>
+  {{ notice-update20230729 | markdownify }}
 </div>
 
 
@@ -62,6 +64,22 @@ Extra information:
 <br/>
 **YOUR feedback is welcome!**
 [Please contact me via Discord](https://discordapp.com/users/351705203038224385/)
+
+
+{% capture notice-update20230727 %}
+
+* Added <img src="/images/equipment/zhupao7_p.png" alt="Equipment" width="32" height="29"/><a href="/equipment/" hreflang="en">Equipment</a>
+
+* Next in progress: <img src="/images/talent/Talent_5_p.png" alt="Talents" width="26" height="30"/><a href="/talent/" hreflang="en">Talents</a>, Stages, Sets, Guild Boss damage and rewards
+
+* If You have a game content -> How To guide(s), Tricks and Tips, Fun info, etc. I'll be happy to publish it on Wiki, [Please contact me via Discord](https://discordapp.com/users/351705203038224385/)
+
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">27 July 2023 Wiki Update: Added Equipment, extended info in Flights, Gems and Chests, ...</h4>
+  {{ notice-update20230727 | markdownify }}
+</div>
 
 
 {% capture notice-update20230724 %}
