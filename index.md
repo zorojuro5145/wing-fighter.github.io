@@ -15,7 +15,7 @@ sidebar:
 
 * Added <img src="/images/equipment/zhupao7_p.png" alt="Equipment" width="32" height="29"/><a href="/equipment/" hreflang="en">Equipment</a>
 
-* Next in progress: Talents, Stages, Sets, Guild Boss damage and rewards
+* Next in progress: <img src="/images/talent/Talent_5_p.png" alt="Talents" width="26" height="30"/><a href="/talent/" hreflang="en">Talents</a>, Stages, Sets, Guild Boss damage and rewards
 
 * If You have a game content -> How To guide(s), Tricks and Tips, Fun info, etc. I'll be happy to publish it on Wiki, [Please contact me via Discord](https://discordapp.com/users/351705203038224385/)
 
@@ -43,6 +43,7 @@ You will find here:
 <h1> <img src="/images/gem_group.png" alt="Shop" width="29" height="28"/><a href="/gem/" hreflang="en">Gems</a> </h1>
 <h1> <img src="/images/equipment/zhupao7_p.png" alt="Equipment" width="32" height="29"/><a href="/equipment/" hreflang="en">Equipment</a></h1>
 <h1> <img src="/images/cc_p.png" alt="Collection Center" width="32" height="29"/><a href="/CollectionCenter/" hreflang="en">Collection Center</a></h1>
+<h1> <img src="/images/talent/Talent_5_p.png" alt="Talents" width="26" height="30"/><a href="/talent/" hreflang="en">Talents</a> </h1>
 <h1> <img src="/images/shop.png" alt="Shop" width="31" height="23"/><a href="/shop/" hreflang="en">Shop</a> </h1>
 
 <h1> <img src="/images/img_2.png" alt="Gear Set Chest" width="34" height="28"/><a href="/shop/Gear%20Set%20Chest_29/" hreflang="en">Gear Set Chest</a> </h1>
@@ -69,7 +70,7 @@ Extra information:
 
 * Added [Collection Center](/CollectionCenter/)
 
-* Next in progress: Equipment and Talents
+* Next in progress: <img src="/images/equipment/zhupao7_p.png" alt="Equipment" width="32" height="29"/><a href="/equipment/" hreflang="en">Equipment</a> and <img src="/images/talent/Talent_5_p.png" alt="Talents" width="26" height="30"/><a href="/talent/" hreflang="en">Talents</a>
 
 * If You have a game content -> How To guide(s), Tricks and Tips, Fun info, etc. I'll be happy to publish it on Wiki, [Please contact me via Discord](https://discordapp.com/users/351705203038224385/)
 
