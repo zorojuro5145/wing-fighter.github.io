@@ -25,18 +25,18 @@ classes: wide
 
  **Type:** Strength 
 
-## Gem attributes
+## Talent attributes
 
   |  Level |     Bonus     |   Value   | Extra Power |
   |:-------|:-------------:|:---------:|:---------|
-  | 1  | Increase Max HP  | **200**  | ? |
-  | 2  | Increase Max HP  | **300**  | ? |
-  | 3  | Increase Max HP  | **400**  | ? |
-  | 4  | Increase Max HP  | **500**  | ? |
-  | 5  | Increase Max HP  | **600**  | ? |
-  | 6  | Increase Max HP  | **700**  | ? |
-  | 7  | Increase Max HP  | **800**  | ? |
-  | 8  | Increase Max HP  | **900**  | ? |
-  | 9  | Increase Max HP  | **1000**  | ? |
-  | MAX  | Increase Max HP  | **1100**  | ? |
+  | 1  | Increase Max HP  | **+200**  |  |
+  | 2  | Increase Max HP  | **+300**  |  |
+  | 3  | Increase Max HP  | **+400**  |  |
+  | 4  | Increase Max HP  | **+500**  |  |
+  | 5  | Increase Max HP  | **+600**  |  |
+  | 6  | Increase Max HP  | **+700**  |  |
+  | 7  | Increase Max HP  | **+800**  |  |
+  | 8  | Increase Max HP  | **+900**  |  |
+  | 9  | Increase Max HP  | **+1000**  |  |
+  | MAX  | Increase Max HP  | **+1100**  |  |
 

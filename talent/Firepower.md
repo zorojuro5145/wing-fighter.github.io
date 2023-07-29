@@ -25,18 +25,18 @@ classes: wide
 
  **Type:** Firepower 
 
-## Gem attributes
+## Talent attributes
 
   |  Level |     Bonus     |   Value   | Extra Power |
   |:-------|:-------------:|:---------:|:---------|
-  | 1  | Increase Attack  | **50**  | ? |
-  | 2  | Increase Attack  | **75**  | ? |
-  | 3  | Increase Attack  | **100**  | ? |
-  | 4  | Increase Attack  | **125**  | ? |
-  | 5  | Increase Attack  | **150**  | ? |
-  | 6  | Increase Attack  | **175**  | ? |
-  | 7  | Increase Attack  | **200**  | ? |
-  | 8  | Increase Attack  | **225**  | ? |
-  | 9  | Increase Attack  | **250**  | ? |
-  | MAX  | Increase Attack  | **275**  | ? |
+  | 1  | Increase Attack  | **+50**  |  |
+  | 2  | Increase Attack  | **+75**  |  |
+  | 3  | Increase Attack  | **+100**  |  |
+  | 4  | Increase Attack  | **+125**  |  |
+  | 5  | Increase Attack  | **+150**  |  |
+  | 6  | Increase Attack  | **+175**  |  |
+  | 7  | Increase Attack  | **+200**  |  |
+  | 8  | Increase Attack  | **+225**  |  |
+  | 9  | Increase Attack  | **+250**  |  |
+  | MAX  | Increase Attack  | **+275**  |  |
 

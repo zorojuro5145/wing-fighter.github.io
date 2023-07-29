@@ -25,18 +25,18 @@ classes: wide
 
  **Type:** Equipment 
 
-## Gem attributes
+## Talent attributes
 
   |  Level |     Bonus     |   Value, %   | Extra Power |
   |:-------|:-------------:|:---------:|:---------|
-  | 1  | Improve Equipment Attributes  | **3.0**  | ? |
-  | 2  | Improve Equipment Attributes  | **6.0**  | ? |
-  | 3  | Improve Equipment Attributes  | **9.0**  | ? |
-  | 4  | Improve Equipment Attributes  | **12.0**  | ? |
-  | 5  | Improve Equipment Attributes  | **15.000001**  | ? |
-  | 6  | Improve Equipment Attributes  | **18.0**  | ? |
-  | 7  | Improve Equipment Attributes  | **21.0**  | ? |
-  | 8  | Improve Equipment Attributes  | **24.0**  | ? |
-  | 9  | Improve Equipment Attributes  | **27.000002**  | ? |
-  | MAX  | Improve Equipment Attributes  | **30.000002**  | ? |
+  | 1  | Improve Equipment Attributes  | **+3.0**  |  |
+  | 2  | Improve Equipment Attributes  | **+6.0**  |  |
+  | 3  | Improve Equipment Attributes  | **+9.0**  |  |
+  | 4  | Improve Equipment Attributes  | **+12.0**  |  |
+  | 5  | Improve Equipment Attributes  | **+15.000001**  |  |
+  | 6  | Improve Equipment Attributes  | **+18.0**  |  |
+  | 7  | Improve Equipment Attributes  | **+21.0**  |  |
+  | 8  | Improve Equipment Attributes  | **+24.0**  |  |
+  | 9  | Improve Equipment Attributes  | **+27.000002**  |  |
+  | MAX  | Improve Equipment Attributes  | **+30.000002**  |  |
 

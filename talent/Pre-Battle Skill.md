@@ -25,9 +25,9 @@ classes: wide
 
  **Type:** Pre-Battle Skill 
 
-## Gem attributes
+## Talent attributes
 
   |  Level |     Bonus     |   Value   | Extra Power |
   |:-------|:-------------:|:---------:|:---------|
-  | 1  | Get One Skill When Entering the Field  | **1**  | 500 |
+  | 1  | Get One Skill When Entering the Field  | **+1**  | **500** |
 
