@@ -29,14 +29,14 @@ classes: wide
 
   |  Level |     Bonus     |   Value   | Extra Power |
   |:-------|:-------------:|:---------:|:---------|
-  | 1  | Level-Up Heal in Battle **50**  | 100 |
-  | 2  | Level-Up Heal in Battle **100**  | 200 |
-  | 3  | Level-Up Heal in Battle **150**  | 300 |
-  | 4  | Level-Up Heal in Battle **200**  | 400 |
-  | 5  | Level-Up Heal in Battle **250**  | 500 |
-  | 6  | Level-Up Heal in Battle **300**  | 600 |
-  | 7  | Level-Up Heal in Battle **350**  | 700 |
-  | 8  | Level-Up Heal in Battle **400**  | 800 |
-  | 9  | Level-Up Heal in Battle **450**  | 900 |
-  | MAX  | Level-Up Heal in Battle **500**  | 1000 |
+  | 1  | Level-Up Heal in Battle  | **50**  | 100 |
+  | 2  | Level-Up Heal in Battle  | **100**  | 200 |
+  | 3  | Level-Up Heal in Battle  | **150**  | 300 |
+  | 4  | Level-Up Heal in Battle  | **200**  | 400 |
+  | 5  | Level-Up Heal in Battle  | **250**  | 500 |
+  | 6  | Level-Up Heal in Battle  | **300**  | 600 |
+  | 7  | Level-Up Heal in Battle  | **350**  | 700 |
+  | 8  | Level-Up Heal in Battle  | **400**  | 800 |
+  | 9  | Level-Up Heal in Battle  | **450**  | 900 |
+  | MAX  | Level-Up Heal in Battle  | **500**  | 1000 |
 

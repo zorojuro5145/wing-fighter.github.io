@@ -29,14 +29,14 @@ classes: wide
 
   |  Level |     Bonus     |   Value   | Extra Power |
   |:-------|:-------------:|:---------:|:---------|
-  | 1  | Increase the effect of Healing Heart **50**  | 100 |
-  | 2  | Increase the effect of Healing Heart **100**  | 200 |
-  | 3  | Increase the effect of Healing Heart **150**  | 300 |
-  | 4  | Increase the effect of Healing Heart **200**  | 400 |
-  | 5  | Increase the effect of Healing Heart **250**  | 500 |
-  | 6  | Increase the effect of Healing Heart **300**  | 600 |
-  | 7  | Increase the effect of Healing Heart **350**  | 700 |
-  | 8  | Increase the effect of Healing Heart **400**  | 800 |
-  | 9  | Increase the effect of Healing Heart **450**  | 900 |
-  | MAX  | Increase the effect of Healing Heart **500**  | 1000 |
+  | 1  | Increase the effect of Healing Heart  | **50**  | 100 |
+  | 2  | Increase the effect of Healing Heart  | **100**  | 200 |
+  | 3  | Increase the effect of Healing Heart  | **150**  | 300 |
+  | 4  | Increase the effect of Healing Heart  | **200**  | 400 |
+  | 5  | Increase the effect of Healing Heart  | **250**  | 500 |
+  | 6  | Increase the effect of Healing Heart  | **300**  | 600 |
+  | 7  | Increase the effect of Healing Heart  | **350**  | 700 |
+  | 8  | Increase the effect of Healing Heart  | **400**  | 800 |
+  | 9  | Increase the effect of Healing Heart  | **450**  | 900 |
+  | MAX  | Increase the effect of Healing Heart  | **500**  | 1000 |
 

@@ -29,5 +29,5 @@ classes: wide
 
   |  Level |     Bonus     |   Value   | Extra Power |
   |:-------|:-------------:|:---------:|:---------|
-  | 1  | Get One Skill When Entering the Field **1**  | 500 |
+  | 1  | Get One Skill When Entering the Field  | **1**  | 500 |
 

@@ -29,14 +29,14 @@ classes: wide
 
   |  Level |     Bonus     |   Value   | Extra Power |
   |:-------|:-------------:|:---------:|:---------|
-  | 1  | Get More Stars From Idling **4**  | 100 |
-  | 2  | Get More Stars From Idling **5**  | 200 |
-  | 3  | Get More Stars From Idling **6**  | 300 |
-  | 4  | Get More Stars From Idling **8**  | 400 |
-  | 5  | Get More Stars From Idling **10**  | 500 |
-  | 6  | Get More Stars From Idling **12**  | 600 |
-  | 7  | Get More Stars From Idling **14**  | 700 |
-  | 8  | Get More Stars From Idling **17**  | 800 |
-  | 9  | Get More Stars From Idling **20**  | 900 |
-  | MAX  | Get More Stars From Idling **23**  | 1000 |
+  | 1  | Get More Stars From Idling  | **4**  | 100 |
+  | 2  | Get More Stars From Idling  | **5**  | 200 |
+  | 3  | Get More Stars From Idling  | **6**  | 300 |
+  | 4  | Get More Stars From Idling  | **8**  | 400 |
+  | 5  | Get More Stars From Idling  | **10**  | 500 |
+  | 6  | Get More Stars From Idling  | **12**  | 600 |
+  | 7  | Get More Stars From Idling  | **14**  | 700 |
+  | 8  | Get More Stars From Idling  | **17**  | 800 |
+  | 9  | Get More Stars From Idling  | **20**  | 900 |
+  | MAX  | Get More Stars From Idling  | **23**  | 1000 |
 

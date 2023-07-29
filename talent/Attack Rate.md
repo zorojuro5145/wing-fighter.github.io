@@ -29,14 +29,14 @@ classes: wide
 
   |  Level |     Bonus     |   Value, %   | Extra Power |
   |:-------|:-------------:|:---------:|:---------|
-  | 1  | Increase Attack Rate **2.0**  | 100 |
-  | 2  | Increase Attack Rate **3.0**  | 200 |
-  | 3  | Increase Attack Rate **4.0**  | 300 |
-  | 4  | Increase Attack Rate **5.0**  | 400 |
-  | 5  | Increase Attack Rate **6.0**  | 500 |
-  | 6  | Increase Attack Rate **7.0**  | 600 |
-  | 7  | Increase Attack Rate **8.0**  | 700 |
-  | 8  | Increase Attack Rate **9.0**  | 800 |
-  | 9  | Increase Attack Rate **10.0**  | 900 |
-  | MAX  | Increase Attack Rate **11.0**  | 1000 |
+  | 1  | Increase Attack Rate  | **2.0**  | 100 |
+  | 2  | Increase Attack Rate  | **3.0**  | 200 |
+  | 3  | Increase Attack Rate  | **4.0**  | 300 |
+  | 4  | Increase Attack Rate  | **5.0**  | 400 |
+  | 5  | Increase Attack Rate  | **6.0**  | 500 |
+  | 6  | Increase Attack Rate  | **7.0**  | 600 |
+  | 7  | Increase Attack Rate  | **8.0**  | 700 |
+  | 8  | Increase Attack Rate  | **9.0**  | 800 |
+  | 9  | Increase Attack Rate  | **10.0**  | 900 |
+  | MAX  | Increase Attack Rate  | **11.0**  | 1000 |
 
