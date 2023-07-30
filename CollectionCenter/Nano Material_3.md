@@ -20,7 +20,7 @@ classes: wide
 
   **Maximum BP in time calculation:** 30000
 
-  **Resource Level:** [3](/CollectionCenter/CC Resource +3/){: .btn .btn--primary}
+  **Resource Level:** [3](/CollectionCenter/CC Resource +3/){: .btn .btn--info}
 
-  **Resource Type:** [Nano Material](/CollectionCenter/CC Resource Nano Material/){: .btn .btn--primary}
+  **Resource Type:** [Nano Material](/CollectionCenter/CC Resource Nano Material/){: .btn .btn--info}
 

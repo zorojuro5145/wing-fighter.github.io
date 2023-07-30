@@ -20,7 +20,7 @@ classes: wide
 
   **Maximum BP in time calculation:** 130000
 
-  **Resource Level:** [6](/CollectionCenter/CC Resource +6/){: .btn .btn--primary}
+  **Resource Level:** [6](/CollectionCenter/CC Resource +6/){: .btn .btn--info}
 
-  **Resource Type:** [Pilot EXP Card](/CollectionCenter/CC Resource Pilot EXP Card/){: .btn .btn--primary}
+  **Resource Type:** [Pilot EXP Card](/CollectionCenter/CC Resource Pilot EXP Card/){: .btn .btn--info}
 

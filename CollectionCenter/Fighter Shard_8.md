@@ -20,7 +20,7 @@ classes: wide
 
   **Maximum BP in time calculation:** 180000
 
-  **Resource Level:** [8](/CollectionCenter/CC Resource +8/){: .btn .btn--primary}
+  **Resource Level:** [8](/CollectionCenter/CC Resource +8/){: .btn .btn--info}
 
-  **Resource Type:** [Fighter Shard](/CollectionCenter/CC Resource Fighter Shard/){: .btn .btn--primary}
+  **Resource Type:** [Fighter Shard](/CollectionCenter/CC Resource Fighter Shard/){: .btn .btn--info}
 

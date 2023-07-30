@@ -20,7 +20,7 @@ classes: wide
 
   **Maximum BP in time calculation:** 240000
 
-  **Resource Level:** [10](/CollectionCenter/CC Resource +10/){: .btn .btn--primary}
+  **Resource Level:** [10](/CollectionCenter/CC Resource +10/){: .btn .btn--info}
 
-  **Resource Type:** [Star](/CollectionCenter/CC Resource Star/){: .btn .btn--primary}
+  **Resource Type:** [Star](/CollectionCenter/CC Resource Star/){: .btn .btn--info}
 

@@ -20,7 +20,7 @@ classes: wide
 
   **Maximum BP in time calculation:** 240000
 
-  **Resource Level:** [10](/CollectionCenter/CC Resource +10/){: .btn .btn--primary}
+  **Resource Level:** [10](/CollectionCenter/CC Resource +10/){: .btn .btn--info}
 
-  **Resource Type:** [Alloy Plate](/CollectionCenter/CC Resource Alloy Plate/){: .btn .btn--primary}
+  **Resource Type:** [Alloy Plate](/CollectionCenter/CC Resource Alloy Plate/){: .btn .btn--info}
 
