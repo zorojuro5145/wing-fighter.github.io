@@ -2,7 +2,7 @@
 title: "Collection Center Commander EXP Card +2"
 permalink: /CollectionCenter/Commander EXP Card_2/
 excerpt: "Wing Fighter Collection CenterCommander EXP Card +2"
-last_modified_at: 2023-07-26
+last_modified_at: 2023-07-30
 locale: en
 ref: "Commander EXP Card_2.md"
 toc: false
@@ -19,4 +19,8 @@ classes: wide
   **Transport time:** 720
 
   **Maximum BP in time calculation:** 14000
+
+  **Resource Level:** [2](/CollectionCenter/CC Resource +2/){: .btn .btn--primary}
+
+  **Resource Type:** [Pilot EXP Card](/CollectionCenter/CC Resource Pilot EXP Card/){: .btn .btn--primary}
 
