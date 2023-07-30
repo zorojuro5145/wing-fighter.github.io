@@ -2,7 +2,7 @@
 title: "Collection Center Star +9"
 permalink: /CollectionCenter/Star_9/
 excerpt: "Wing Fighter Collection CenterStar +9"
-last_modified_at: 2023-07-26
+last_modified_at: 2023-07-30
 locale: en
 ref: "Star_9.md"
 toc: false
@@ -19,4 +19,8 @@ classes: wide
   **Transport time:** 20800
 
   **Maximum BP in time calculation:** 200000
+
+  **Resource Level:** [9](/CollectionCenter/CC Resource +9/){: .btn .btn--primary}
+
+  **Resource Type:** [Star](/CollectionCenter/CC Resource Star/){: .btn .btn--primary}
 

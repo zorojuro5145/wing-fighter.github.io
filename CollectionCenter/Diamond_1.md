@@ -2,7 +2,7 @@
 title: "Collection Center Diamond +1"
 permalink: /CollectionCenter/Diamond_1/
 excerpt: "Wing Fighter Collection CenterDiamond +1"
-last_modified_at: 2023-07-26
+last_modified_at: 2023-07-30
 locale: en
 ref: "Diamond_1.md"
 toc: false
@@ -19,4 +19,8 @@ classes: wide
   **Transport time:** 3600
 
   **Maximum BP in time calculation:** 60000
+
+  **Resource Level:** [1](/CollectionCenter/CC Resource +1/){: .btn .btn--primary}
+
+  **Resource Type:** [Diamond](/CollectionCenter/CC Resource Diamond/){: .btn .btn--primary}
 

@@ -2,7 +2,7 @@
 title: "Collection Center Level +38"
 permalink: /CollectionCenter/Collection Center Level 38/
 excerpt: "Wing Fighter Collection CenterLevel +38"
-last_modified_at: 2023-07-26
+last_modified_at: 2023-07-30
 locale: en
 ref: "Collection Center Level 38.md"
 toc: false

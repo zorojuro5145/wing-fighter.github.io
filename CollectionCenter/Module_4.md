@@ -2,7 +2,7 @@
 title: "Collection Center Module +4"
 permalink: /CollectionCenter/Module_4/
 excerpt: "Wing Fighter Collection CenterModule +4"
-last_modified_at: 2023-07-26
+last_modified_at: 2023-07-30
 locale: en
 ref: "Module_4.md"
 toc: false
@@ -19,4 +19,8 @@ classes: wide
   **Transport time:** 3600
 
   **Maximum BP in time calculation:** 60000
+
+  **Resource Level:** [4](/CollectionCenter/CC Resource +4/){: .btn .btn--primary}
+
+  **Resource Type:** [Module](/CollectionCenter/CC Resource Module/){: .btn .btn--primary}
 

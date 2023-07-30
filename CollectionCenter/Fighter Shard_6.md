@@ -2,7 +2,7 @@
 title: "Collection Center Fighter Shard +6"
 permalink: /CollectionCenter/Fighter Shard_6/
 excerpt: "Wing Fighter Collection CenterFighter Shard +6"
-last_modified_at: 2023-07-26
+last_modified_at: 2023-07-30
 locale: en
 ref: "Fighter Shard_6.md"
 toc: false
@@ -19,4 +19,8 @@ classes: wide
   **Transport time:** 7200
 
   **Maximum BP in time calculation:** 130000
+
+  **Resource Level:** [6](/CollectionCenter/CC Resource +6/){: .btn .btn--primary}
+
+  **Resource Type:** [Fighter Shard](/CollectionCenter/CC Resource Fighter Shard/){: .btn .btn--primary}
 

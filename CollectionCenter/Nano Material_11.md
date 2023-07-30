@@ -2,7 +2,7 @@
 title: "Collection Center Nano Material +11"
 permalink: /CollectionCenter/Nano Material_11/
 excerpt: "Wing Fighter Collection CenterNano Material +11"
-last_modified_at: 2023-07-26
+last_modified_at: 2023-07-30
 locale: en
 ref: "Nano Material_11.md"
 toc: false
@@ -19,4 +19,8 @@ classes: wide
   **Transport time:** 33000
 
   **Maximum BP in time calculation:** 270000
+
+  **Resource Level:** [11](/CollectionCenter/CC Resource +11/){: .btn .btn--primary}
+
+  **Resource Type:** [Nano Material](/CollectionCenter/CC Resource Nano Material/){: .btn .btn--primary}
 

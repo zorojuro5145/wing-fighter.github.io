@@ -2,7 +2,7 @@
 title: "Collection Center Alloy Plate +8"
 permalink: /CollectionCenter/Alloy Plate_8/
 excerpt: "Wing Fighter Collection CenterAlloy Plate +8"
-last_modified_at: 2023-07-26
+last_modified_at: 2023-07-30
 locale: en
 ref: "Alloy Plate_8.md"
 toc: false
@@ -19,4 +19,8 @@ classes: wide
   **Transport time:** 14000
 
   **Maximum BP in time calculation:** 180000
+
+  **Resource Level:** [8](/CollectionCenter/CC Resource +8/){: .btn .btn--primary}
+
+  **Resource Type:** [Alloy Plate](/CollectionCenter/CC Resource Alloy Plate/){: .btn .btn--primary}
 
