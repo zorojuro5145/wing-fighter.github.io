@@ -35,3 +35,9 @@ sidebar:
 
 ## Effects
 
+  |  Icon  |      Skill   | Skill Description | Extra Combat Power |
+  |:-------|:------------:|:------------------|:-------------------|
+  |  | Conqueror Strike | Attack of all Conqueror gears +15% |  |
+  |  | Conqueror Transform | Transform into Conqueror Titan and unleash full firepower upon enemies! |  |
+
+
