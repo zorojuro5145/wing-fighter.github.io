@@ -12,6 +12,10 @@ sidebar:
   nav: "docs"
 ---
 
+  [Gear Set Conqueror](/geat_set/#Conqueror){: .btn .btn--warning}
+
+  [Gear Set Thor](/geat_set/#Thor){: .btn .btn--info}
+
 
 ## Conqueror
 
