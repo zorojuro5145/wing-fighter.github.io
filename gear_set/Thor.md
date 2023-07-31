@@ -35,9 +35,9 @@ sidebar:
 
 ## Effects
 
-  |  Icon  |      Skill   | Skill Description | Extra Combat Power |
-  |:-------|:------------:|:------------------|:-------------------|
-  |  | Thor Strike | Attack of all Thor gears +15% |  |
-  |  | Thor Transform | Transform into Thor Titan and unleash full firepower upon enemies! |  |
+  |  Icon  |      Skill   | Skill Description | Cooldown | Extra Combat Power |
+  |:-------|:------------:|:------------------|:---------|:-------------------|
+  |  | **Thor Strike** | Attack of all Thor gears +15% | 2 mins | 2000 |
+  |  | **Thor Transform** | Transform into Thor Titan and unleash full firepower upon enemies! | 2 mins | 6000 |
 
 

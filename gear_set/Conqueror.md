@@ -35,9 +35,9 @@ sidebar:
 
 ## Effects
 
-  |  Icon  |      Skill   | Skill Description | Extra Combat Power |
-  |:-------|:------------:|:------------------|:-------------------|
-  |  | Conqueror Strike | Attack of all Conqueror gears +15% |  |
-  |  | Conqueror Transform | Transform into Conqueror Titan and unleash full firepower upon enemies! |  |
+  |  Icon  |      Skill   | Skill Description | Cooldown | Extra Combat Power |
+  |:-------|:------------:|:------------------|:---------|:-------------------|
+  |  | **Conqueror Strike** | Attack of all Conqueror gears +15% | 2 mins | 2000 |
+  |  | **Conqueror Transform** | Transform into Conqueror Titan and unleash full firepower upon enemies! | 2 mins | 6000 |
 
 
