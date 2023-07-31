@@ -11,21 +11,20 @@ sidebar:
 ---
 
 
-{% capture notice-update20230729 %}
+{% capture notice-update20230731 %}
 
-* Added <img src="/images/talent/Talent_5_p.png" alt="Talents" width="26" height="30"/><a href="/talent/" hreflang="en">Talents</a>
+* Great news! [Conqueror Chest](https://wing-fighter.github.io/shop/Unknown_40/). Spend ALL your diamonds! Goodluck with Conqueror items/fighter!
+
+* Added <img src="/images/suit_icon_1_p_.png" alt="Gear Sets" width="28" height="32"/><a href="/gear_set/" hreflang="en">Gear Sets</a>
 
 * Next in progress: Stages, Sets, Guild Boss damage and rewards
 
-* I'm not a hacker ;) do not provide a game content to all and do not describe how to get in-game information. Please ask the Minigames team for it.
-
-* If You have a game content -> How To guide(s), Tricks and Tips, Fun info, etc. I'll be happy to publish it on Wiki, [Please contact me via Discord](https://discordapp.com/users/351705203038224385/)
 
 {% endcapture %}
 
 <div class="notice--danger">
-  <h4 class="no_toc">29 July 2023 Wiki Update: Added Equipment, extended info in Flights, Gems and Chests, ...</h4>
-  {{ notice-update20230729 | markdownify }}
+  <h4 class="no_toc">31 July 2023 Wiki Update: Gear Sets, Conqueror Chest is OPEN, ...</h4>
+  {{ notice-update20230731 | markdownify }}
 </div>
 
 
@@ -46,6 +45,7 @@ You will find here:
 <h1> <img src="/images/equipment/zhupao7_p.png" alt="Equipment" width="32" height="29"/><a href="/equipment/" hreflang="en">Equipment</a></h1>
 <h1> <img src="/images/cc_p.png" alt="Collection Center" width="32" height="29"/><a href="/CollectionCenter/" hreflang="en">Collection Center</a></h1>
 <h1> <img src="/images/talent/Talent_5_p.png" alt="Talents" width="26" height="30"/><a href="/talent/" hreflang="en">Talents</a> </h1>
+<h1> <img src="/images/suit_icon_1_p_.png" alt="Gear Sets" width="28" height="32"/><a href="/gear_set/" hreflang="en">Gear Sets</a> </h1>
 <h1> <img src="/images/shop.png" alt="Shop" width="31" height="23"/><a href="/shop/" hreflang="en">Shop</a> </h1>
 
 <h1> <img src="/images/img_2.png" alt="Gear Set Chest" width="34" height="28"/><a href="/shop/Gear%20Set%20Chest_29/" hreflang="en">Gear Set Chest</a> </h1>
@@ -65,6 +65,23 @@ Extra information:
 **YOUR feedback is welcome!**
 [Please contact me via Discord](https://discordapp.com/users/351705203038224385/)
 
+
+{% capture notice-update20230729 %}
+
+* Added <img src="/images/talent/Talent_5_p.png" alt="Talents" width="26" height="30"/><a href="/talent/" hreflang="en">Talents</a>
+
+* Next in progress: Stages, Sets, Guild Boss damage and rewards
+
+* I'm not a hacker ;) do not provide a game content to all and do not describe how to get in-game information. Please ask the Minigames team for it.
+
+* If You have a game content -> How To guide(s), Tricks and Tips, Fun info, etc. I'll be happy to publish it on Wiki, [Please contact me via Discord](https://discordapp.com/users/351705203038224385/)
+
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">29 July 2023 Wiki Update: Added Equipment, extended info in Flights, Gems and Chests, ...</h4>
+  {{ notice-update20230729 | markdownify }}
+</div>
 
 {% capture notice-update20230727 %}
 
