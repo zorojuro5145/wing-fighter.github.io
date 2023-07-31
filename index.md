@@ -15,7 +15,7 @@ sidebar:
 
 * Great news! [Conqueror Chest](https://wing-fighter.github.io/shop/Unknown_40/). Spend ALL your diamonds! Goodluck with Conqueror items/fighter!
 
-* Added <img src="/images/suit_icon_1_p_.png" alt="Gear Sets" width="28" height="32"/><a href="/gear_set/" hreflang="en">Gear Sets</a>
+* Added <img src="/images/suit_icon_1_p.png" alt="Gear Sets" width="28" height="32"/><a href="/gear_set/" hreflang="en">Gear Sets</a>
 
 * Next in progress: Stages, Sets, Guild Boss damage and rewards
 
@@ -45,7 +45,7 @@ You will find here:
 <h1> <img src="/images/equipment/zhupao7_p.png" alt="Equipment" width="32" height="29"/><a href="/equipment/" hreflang="en">Equipment</a></h1>
 <h1> <img src="/images/cc_p.png" alt="Collection Center" width="32" height="29"/><a href="/CollectionCenter/" hreflang="en">Collection Center</a></h1>
 <h1> <img src="/images/talent/Talent_5_p.png" alt="Talents" width="26" height="30"/><a href="/talent/" hreflang="en">Talents</a> </h1>
-<h1> <img src="/images/suit_icon_1_p_.png" alt="Gear Sets" width="28" height="32"/><a href="/gear_set/" hreflang="en">Gear Sets</a> </h1>
+<h1> <img src="/images/suit_icon_1_p.png" alt="Gear Sets" width="28" height="32"/><a href="/gear_set/" hreflang="en">Gear Sets</a> </h1>
 <h1> <img src="/images/shop.png" alt="Shop" width="31" height="23"/><a href="/shop/" hreflang="en">Shop</a> </h1>
 
 <h1> <img src="/images/img_2.png" alt="Gear Set Chest" width="34" height="28"/><a href="/shop/Gear%20Set%20Chest_29/" hreflang="en">Gear Set Chest</a> </h1>
