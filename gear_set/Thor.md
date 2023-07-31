@@ -19,7 +19,7 @@ sidebar:
 
  **Name:** [Thor](/gear_set/Thor) 
 
- **Description:** Equip all five Thor gears can <span style="color: #FF502E">transform into</span><br/><span style="color: #ffffff;"> Thor Titan in battle!</span> 
+ **Description:** Equip all five Thor gears can <span style="color: #FF502E">transform into</span><br/><span style="color: #000000;"> Thor Titan in battle!</span> 
 
  **Fighter:** ![Thor](/images/ship/fj_img102_p.png) [Thor](/fighter/Thor) 
 

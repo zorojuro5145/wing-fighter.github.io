@@ -19,7 +19,7 @@ sidebar:
 
  **Name:** [Conqueror](/gear_set/Conqueror) 
 
- **Description:** Equip all five Conqueror gears can <span style="color: #FF502E">transform into</span><br/><span style="color: #ffffff;"> Conqueror Titan in battle!</span> 
+ **Description:** Equip all five Conqueror gears can <span style="color: #FF502E">transform into</span><br/><span style="color: #000000;"> Conqueror Titan in battle!</span> 
 
  **Fighter:** ![Conqueror](/images/ship/fj_img101_p.png) [Conqueror](/fighter/Conqueror) 
 
