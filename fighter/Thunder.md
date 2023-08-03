@@ -2,7 +2,7 @@
 title: "Fighter Thunder"
 permalink: /fighter/Thunder/
 excerpt: "Wing Fighter Thunder"
-last_modified_at: 2023-07-27
+last_modified_at: 2023-08-03
 locale: en
 ref: "Thunder.md"
 toc: false
@@ -24,9 +24,11 @@ classes: wide
 
  **Critical damage:** +200%
 
- **Skill:** Lightning Winggun Boost
+ **Skill:** ![Lightning Winggun Boost](/images/skill/skill_37_p.png) Lightning Winggun Boost
 
- **Skill Description:**  Passive Skill
+ **Skill Type:**  Passive Skill
+
+ **Skill Description:**  Lightning Winggun Damage + 80%
 
 ## Attributes
 

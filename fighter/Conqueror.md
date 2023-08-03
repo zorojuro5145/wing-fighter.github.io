@@ -2,7 +2,7 @@
 title: "Fighter Conqueror"
 permalink: /fighter/Conqueror/
 excerpt: "Wing Fighter Conqueror"
-last_modified_at: 2023-07-27
+last_modified_at: 2023-08-03
 locale: en
 ref: "Conqueror.md"
 toc: false
@@ -24,9 +24,11 @@ classes: wide
 
  **Critical damage:** +200%
 
- **Skill:** null
+ **Skill:** ![High Velocity Vulcan Cannon](/images/skill/skill_58_p.png) High Velocity Vulcan Cannon
 
- **Skill Description:**  Passive Skill
+ **Skill Type:**  Passive Skill
+
+ **Skill Description:**  Carry a high velocity Vulcan cannon
 
 ## Attributes
 

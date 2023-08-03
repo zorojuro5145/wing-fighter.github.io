@@ -2,7 +2,7 @@
 title: "Fighter Killer Hornet"
 permalink: /fighter/Killer Hornet/
 excerpt: "Wing Fighter Killer Hornet"
-last_modified_at: 2023-07-27
+last_modified_at: 2023-08-03
 locale: en
 ref: "Killer Hornet.md"
 toc: false
@@ -24,9 +24,11 @@ classes: wide
 
  **Critical damage:** +200%
 
- **Skill:** Summon Hive
+ **Skill:** ![Summon Hive](/images/skill/skill_25_p.png) Summon Hive
 
- **Skill Description:**  Passive Skill
+ **Skill Type:**  Passive Skill
+
+ **Skill Description:**  Summon 8 invincible drones that will attack enemies
 
 ## Attributes
 

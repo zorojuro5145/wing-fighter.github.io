@@ -2,7 +2,7 @@
 title: "Fighter Arrow"
 permalink: /fighter/Arrow/
 excerpt: "Wing Fighter Arrow"
-last_modified_at: 2023-07-27
+last_modified_at: 2023-08-03
 locale: en
 ref: "Arrow.md"
 toc: false
@@ -24,9 +24,11 @@ classes: wide
 
  **Critical damage:** +200%
 
- **Skill:** Heavy Machine Gun Boost
+ **Skill:** ![Heavy Machine Gun Boost](/images/skill/skill_42_p.png) Heavy Machine Gun Boost
 
- **Skill Description:**  Passive Skill
+ **Skill Type:**  Passive Skill
+
+ **Skill Description:**  Heavy Machine Gun Damage + 20%
 
 ## Attributes
 

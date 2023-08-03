@@ -2,7 +2,7 @@
 title: "Fighter Inferno"
 permalink: /fighter/Inferno/
 excerpt: "Wing Fighter Inferno"
-last_modified_at: 2023-07-27
+last_modified_at: 2023-08-03
 locale: en
 ref: "Inferno.md"
 toc: false
@@ -24,9 +24,11 @@ classes: wide
 
  **Critical damage:** +200%
 
- **Skill:** Power of Hell
+ **Skill:** ![Power of Hell](/images/skill/skill_32_p.png) Power of Hell
 
- **Skill Description:**  Passive Skill
+ **Skill Type:**  Passive Skill
+
+ **Skill Description:**  Missile damage+50%
 
 ## Attributes
 

@@ -2,7 +2,7 @@
 title: "Fighter Phantom"
 permalink: /fighter/Phantom/
 excerpt: "Wing Fighter Phantom"
-last_modified_at: 2023-07-27
+last_modified_at: 2023-08-03
 locale: en
 ref: "Phantom.md"
 toc: false
@@ -24,9 +24,11 @@ classes: wide
 
  **Critical damage:** +200%
 
- **Skill:** Summon Mirror
+ **Skill:** ![Summon Mirror](/images/skill/skill_33_p.png) Summon Mirror
 
- **Skill Description:**  Active Skill
+ **Skill Type:**  Active Skill
+
+ **Skill Description:**  Summon a mirror fighter to battle for some time. The mirror inherits the barrage and part of the attack of phantom fighter, and immune to damage.
 
 ## Attributes
 

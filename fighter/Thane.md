@@ -2,7 +2,7 @@
 title: "Fighter Thane"
 permalink: /fighter/Thane/
 excerpt: "Wing Fighter Thane"
-last_modified_at: 2023-07-27
+last_modified_at: 2023-08-03
 locale: en
 ref: "Thane.md"
 toc: false
@@ -24,9 +24,11 @@ classes: wide
 
  **Critical damage:** +200%
 
- **Skill:** Death Vortex
+ **Skill:** ![Death Vortex](/images/skill/skill_47_p.png) Death Vortex
 
- **Skill Description:**  Active Skill
+ **Skill Type:**  Active Skill
+
+ **Skill Description:**  Release massive skull bullets causing continuous damage
 
 ## Attributes
 

@@ -2,7 +2,7 @@
 title: "Fighter Crimson Dragon"
 permalink: /fighter/Crimson Dragon/
 excerpt: "Wing Fighter Crimson Dragon"
-last_modified_at: 2023-07-27
+last_modified_at: 2023-08-03
 locale: en
 ref: "Crimson Dragon.md"
 toc: false
@@ -24,9 +24,11 @@ classes: wide
 
  **Critical damage:** +200%
 
- **Skill:** Dragon Roar
+ **Skill:** ![Dragon Roar](/images/skill/skill_09_p.png) Dragon Roar
 
- **Skill Description:**  Passive Skill
+ **Skill Type:**  Passive Skill
+
+ **Skill Description:**  Winggun damage +50%
 
 ## Attributes
 

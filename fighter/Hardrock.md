@@ -2,7 +2,7 @@
 title: "Fighter Hardrock"
 permalink: /fighter/Hardrock/
 excerpt: "Wing Fighter Hardrock"
-last_modified_at: 2023-07-27
+last_modified_at: 2023-08-03
 locale: en
 ref: "Hardrock.md"
 toc: false
@@ -24,9 +24,11 @@ classes: wide
 
  **Critical damage:** +200%
 
- **Skill:** Hardened Armor Boost
+ **Skill:** ![Hardened Armor Boost](/images/skill/skill_46_p.png) Hardened Armor Boost
 
- **Skill Description:**  Passive Skill
+ **Skill Type:**  Passive Skill
+
+ **Skill Description:**  HP + 30%
 
 ## Attributes
 

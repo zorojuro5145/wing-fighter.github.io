@@ -2,7 +2,7 @@
 title: "Fighter Eschaton"
 permalink: /fighter/Eschaton/
 excerpt: "Wing Fighter Eschaton"
-last_modified_at: 2023-07-27
+last_modified_at: 2023-08-03
 locale: en
 ref: "Eschaton.md"
 toc: false
@@ -24,9 +24,11 @@ classes: wide
 
  **Critical damage:** +200%
 
- **Skill:** High-Explosive Missile Boost
+ **Skill:** ![High-Explosive Missile Boost](/images/skill/skill_45_p.png) High-Explosive Missile Boost
 
- **Skill Description:**  Passive Skill
+ **Skill Type:**  Passive Skill
+
+ **Skill Description:**  High-Explosive Missile Damage + 80%
 
 ## Attributes
 

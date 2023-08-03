@@ -2,7 +2,7 @@
 title: "Fighter Totem"
 permalink: /fighter/Totem/
 excerpt: "Wing Fighter Totem"
-last_modified_at: 2023-07-27
+last_modified_at: 2023-08-03
 locale: en
 ref: "Totem.md"
 toc: false
@@ -24,9 +24,11 @@ classes: wide
 
  **Critical damage:** +200%
 
- **Skill:** Winggun Cannon Boost
+ **Skill:** ![Winggun Cannon Boost](/images/skill/skill_38_p.png) Winggun Cannon Boost
 
- **Skill Description:**  Passive Skill
+ **Skill Type:**  Passive Skill
+
+ **Skill Description:**  Winggun Cannon Damage + 80%
 
 ## Attributes
 

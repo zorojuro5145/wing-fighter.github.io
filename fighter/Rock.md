@@ -2,7 +2,7 @@
 title: "Fighter Rock"
 permalink: /fighter/Rock/
 excerpt: "Wing Fighter Rock"
-last_modified_at: 2023-07-27
+last_modified_at: 2023-08-03
 locale: en
 ref: "Rock.md"
 toc: false
@@ -24,9 +24,11 @@ classes: wide
 
  **Critical damage:** +200%
 
- **Skill:** Blast Shotgun Boost
+ **Skill:** ![Blast Shotgun Boost](/images/skill/skill_40_p.png) Blast Shotgun Boost
 
- **Skill Description:**  Passive Skill
+ **Skill Type:**  Passive Skill
+
+ **Skill Description:**  Blast Shotgun Damage + 20%
 
 ## Attributes
 

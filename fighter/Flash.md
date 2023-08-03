@@ -2,7 +2,7 @@
 title: "Fighter Flash"
 permalink: /fighter/Flash/
 excerpt: "Wing Fighter Flash"
-last_modified_at: 2023-07-27
+last_modified_at: 2023-08-03
 locale: en
 ref: "Flash.md"
 toc: false
@@ -24,9 +24,11 @@ classes: wide
 
  **Critical damage:** +200%
 
- **Skill:** Lightning Missile Boost
+ **Skill:** ![Lightning Missile Boost](/images/skill/skill_44_p.png) Lightning Missile Boost
 
- **Skill Description:**  Passive Skill
+ **Skill Type:**  Passive Skill
+
+ **Skill Description:**  Lightning Missile Damage + 80%
 
 ## Attributes
 

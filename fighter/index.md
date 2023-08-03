@@ -2,7 +2,7 @@
 title: "Fighters"
 permalink: /fighter/
 excerpt: "Wing Fighter Fighter"
-last_modified_at: 2023-07-27
+last_modified_at: 2023-08-03
 locale: en
 ref: "index.md"
 toc: false
@@ -21,9 +21,9 @@ classes: wide
   | 8 | ![Eschaton](/images/ship/fj_img19_p.png) | [Eschaton](/fighter/Eschaton) | SR | High-Explosive Missile Boost | Passive Skill |
   | 9 | ![Red Phantom](/images/ship/fj_img1_p.png) | [Red Phantom](/fighter/Red Phantom) | N | Phantom Entity | Passive Skill |
   | 10 | ![Crimson Dragon](/images/ship/fj_img2_p.png) | [Crimson Dragon](/fighter/Crimson Dragon) | R | Dragon Roar | Passive Skill |
-  | 11 | ![Conqueror](/images/ship/fj_img101_p.png) | [Conqueror](/fighter/Conqueror) | SSR | null | Passive Skill |
+  | 11 | ![Conqueror](/images/ship/fj_img101_p.png) | [Conqueror](/fighter/Conqueror) | SSR | High Velocity Vulcan Cannon | Passive Skill |
   | 12 | ![Killer Hornet](/images/ship/fj_img3_p.png) | [Killer Hornet](/fighter/Killer Hornet) | SR | Summon Hive | Passive Skill |
-  | 13 | ![Thor](/images/ship/fj_img102_p.png) | [Thor](/fighter/Thor) | SSR | null | Passive Skill |
+  | 13 | ![Thor](/images/ship/fj_img102_p.png) | [Thor](/fighter/Thor) | SSR | Lightning Elf | Passive Skill |
   | 14 | ![Inferno](/images/ship/fj_img4_p.png) | [Inferno](/fighter/Inferno) | R | Power of Hell | Passive Skill |
   | 15 | ![Phantom](/images/ship/fj_img5_p.png) | [Phantom](/fighter/Phantom) | SSR | Summon Mirror | Active Skill |
   | 16 | ![Glacier](/images/ship/fj_img6_p.png) | [Glacier](/fighter/Glacier) | SR | Aurora Thunder | Passive Skill |

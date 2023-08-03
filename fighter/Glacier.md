@@ -2,7 +2,7 @@
 title: "Fighter Glacier"
 permalink: /fighter/Glacier/
 excerpt: "Wing Fighter Glacier"
-last_modified_at: 2023-07-27
+last_modified_at: 2023-08-03
 locale: en
 ref: "Glacier.md"
 toc: false
@@ -24,9 +24,11 @@ classes: wide
 
  **Critical damage:** +200%
 
- **Skill:** Aurora Thunder
+ **Skill:** ![Aurora Thunder](/images/skill/skill_35_p.png) Aurora Thunder
 
- **Skill Description:**  Passive Skill
+ **Skill Type:**  Passive Skill
+
+ **Skill Description:**  Laser Maingun damage+20%
 
 ## Attributes
 

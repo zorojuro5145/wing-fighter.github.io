@@ -2,7 +2,7 @@
 title: "Fighter WindTunnel"
 permalink: /fighter/WindTunnel/
 excerpt: "Wing Fighter WindTunnel"
-last_modified_at: 2023-07-27
+last_modified_at: 2023-08-03
 locale: en
 ref: "WindTunnel.md"
 toc: false
@@ -24,9 +24,11 @@ classes: wide
 
  **Critical damage:** +200%
 
- **Skill:** Railgun Boost
+ **Skill:** ![Railgun Boost](/images/skill/skill_36_p.png) Railgun Boost
 
- **Skill Description:**  Passive Skill
+ **Skill Type:**  Passive Skill
+
+ **Skill Description:**  Railgun Damage + 20%
 
 ## Attributes
 

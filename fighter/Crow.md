@@ -2,7 +2,7 @@
 title: "Fighter Crow"
 permalink: /fighter/Crow/
 excerpt: "Wing Fighter Crow"
-last_modified_at: 2023-07-27
+last_modified_at: 2023-08-03
 locale: en
 ref: "Crow.md"
 toc: false
@@ -24,9 +24,11 @@ classes: wide
 
  **Critical damage:** +200%
 
- **Skill:** Searing Chains
+ **Skill:** ![Searing Chains](/images/skill/skill_48_p.png) Searing Chains
 
- **Skill Description:**  Active Skill
+ **Skill Type:**  Active Skill
+
+ **Skill Description:**  After activation, it will deal flame-lines damage to enemies within a certain range around itself
 
 ## Attributes
 

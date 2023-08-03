@@ -2,7 +2,7 @@
 title: "Fighter Red Phantom"
 permalink: /fighter/Red Phantom/
 excerpt: "Wing Fighter Red Phantom"
-last_modified_at: 2023-07-27
+last_modified_at: 2023-08-03
 locale: en
 ref: "Red Phantom.md"
 toc: false
@@ -24,9 +24,11 @@ classes: wide
 
  **Critical damage:** +200%
 
- **Skill:** Phantom Entity
+ **Skill:** ![Phantom Entity](/images/skill/skill_11_p.png) Phantom Entity
 
- **Skill Description:**  Passive Skill
+ **Skill Type:**  Passive Skill
+
+ **Skill Description:**  Max HP +20%
 
 ## Attributes
 

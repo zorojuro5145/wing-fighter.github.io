@@ -2,7 +2,7 @@
 title: "Fighter NightWing"
 permalink: /fighter/NightWing/
 excerpt: "Wing Fighter NightWing"
-last_modified_at: 2023-07-27
+last_modified_at: 2023-08-03
 locale: en
 ref: "NightWing.md"
 toc: false
@@ -24,9 +24,11 @@ classes: wide
 
  **Critical damage:** +200%
 
- **Skill:** Batarang Gun Boost
+ **Skill:** ![Batarang Gun Boost](/images/skill/skill_39_p.png) Batarang Gun Boost
 
- **Skill Description:**  Passive Skill
+ **Skill Type:**  Passive Skill
+
+ **Skill Description:**  Batarang Gun Damage + 20%
 
 ## Attributes
 

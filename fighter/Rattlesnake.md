@@ -2,7 +2,7 @@
 title: "Fighter Rattlesnake"
 permalink: /fighter/Rattlesnake/
 excerpt: "Wing Fighter Rattlesnake"
-last_modified_at: 2023-07-27
+last_modified_at: 2023-08-03
 locale: en
 ref: "Rattlesnake.md"
 toc: false
@@ -24,9 +24,11 @@ classes: wide
 
  **Critical damage:** +200%
 
- **Skill:** Standard Missile Boost
+ **Skill:** ![Standard Missile Boost](/images/skill/skill_41_p.png) Standard Missile Boost
 
- **Skill Description:**  Passive Skill
+ **Skill Type:**  Passive Skill
+
+ **Skill Description:**  Standard Missile Damage + 80%
 
 ## Attributes
 
