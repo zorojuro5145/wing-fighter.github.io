@@ -24,11 +24,15 @@ classes: wide
 
  **Critical damage:** +200%
 
+## Skill
+
  **Skill:** ![High Velocity Vulcan Cannon](/images/skill/skill_58_p.png) High Velocity Vulcan Cannon
 
  **Skill Type:**  Passive Skill
 
  **Skill Description:**  Carry a high velocity Vulcan cannon
+
+ **Extra Combat Power:**  +2000
 
 ## Attributes
 

@@ -24,11 +24,15 @@ classes: wide
 
  **Critical damage:** +200%
 
+## Skill
+
  **Skill:** ![Heavy Machine Gun Boost](/images/skill/skill_42_p.png) Heavy Machine Gun Boost
 
  **Skill Type:**  Passive Skill
 
  **Skill Description:**  Heavy Machine Gun Damage + 20%
+
+ **Extra Combat Power:**  +800
 
 ## Attributes
 

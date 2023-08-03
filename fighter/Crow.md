@@ -24,11 +24,17 @@ classes: wide
 
  **Critical damage:** +200%
 
+## Skill
+
  **Skill:** ![Searing Chains](/images/skill/skill_48_p.png) Searing Chains
 
  **Skill Type:**  Active Skill
 
  **Skill Description:**  After activation, it will deal flame-lines damage to enemies within a certain range around itself
+
+ **Skill Cooldown:**  60 sec
+
+ **Extra Combat Power:**  +1200
 
 ## Attributes
 

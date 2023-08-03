@@ -24,11 +24,15 @@ classes: wide
 
  **Critical damage:** +200%
 
+## Skill
+
  **Skill:** ![Summon Mirror](/images/skill/skill_33_p.png) Summon Mirror
 
  **Skill Type:**  Active Skill
 
  **Skill Description:**  Summon a mirror fighter to battle for some time. The mirror inherits the barrage and part of the attack of phantom fighter, and immune to damage.
+
+ **Extra Combat Power:**  +1200
 
 ## Attributes
 

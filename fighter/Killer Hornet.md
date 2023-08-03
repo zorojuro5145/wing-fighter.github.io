@@ -24,11 +24,15 @@ classes: wide
 
  **Critical damage:** +200%
 
+## Skill
+
  **Skill:** ![Summon Hive](/images/skill/skill_25_p.png) Summon Hive
 
  **Skill Type:**  Passive Skill
 
  **Skill Description:**  Summon 8 invincible drones that will attack enemies
+
+ **Extra Combat Power:**  +800
 
 ## Attributes
 

@@ -24,11 +24,15 @@ classes: wide
 
  **Critical damage:** +200%
 
+## Skill
+
  **Skill:** ![Standard Missile Boost](/images/skill/skill_41_p.png) Standard Missile Boost
 
  **Skill Type:**  Passive Skill
 
  **Skill Description:**  Standard Missile Damage + 80%
+
+ **Extra Combat Power:**  +800
 
 ## Attributes
 

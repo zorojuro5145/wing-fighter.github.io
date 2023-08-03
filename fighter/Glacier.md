@@ -24,11 +24,15 @@ classes: wide
 
  **Critical damage:** +200%
 
+## Skill
+
  **Skill:** ![Aurora Thunder](/images/skill/skill_35_p.png) Aurora Thunder
 
  **Skill Type:**  Passive Skill
 
  **Skill Description:**  Laser Maingun damage+20%
+
+ **Extra Combat Power:**  +800
 
 ## Attributes
 

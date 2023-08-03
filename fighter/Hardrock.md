@@ -24,11 +24,15 @@ classes: wide
 
  **Critical damage:** +200%
 
+## Skill
+
  **Skill:** ![Hardened Armor Boost](/images/skill/skill_46_p.png) Hardened Armor Boost
 
  **Skill Type:**  Passive Skill
 
  **Skill Description:**  HP + 30%
+
+ **Extra Combat Power:**  +800
 
 ## Attributes
 

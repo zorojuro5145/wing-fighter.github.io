@@ -24,11 +24,15 @@ classes: wide
 
  **Critical damage:** +200%
 
+## Skill
+
  **Skill:** ![High-Explosive Missile Boost](/images/skill/skill_45_p.png) High-Explosive Missile Boost
 
  **Skill Type:**  Passive Skill
 
  **Skill Description:**  High-Explosive Missile Damage + 80%
+
+ **Extra Combat Power:**  +800
 
 ## Attributes
 

@@ -24,11 +24,15 @@ classes: wide
 
  **Critical damage:** +200%
 
+## Skill
+
  **Skill:** ![Lightning Winggun Boost](/images/skill/skill_37_p.png) Lightning Winggun Boost
 
  **Skill Type:**  Passive Skill
 
  **Skill Description:**  Lightning Winggun Damage + 80%
+
+ **Extra Combat Power:**  +800
 
 ## Attributes
 

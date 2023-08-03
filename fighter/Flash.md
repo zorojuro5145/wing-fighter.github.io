@@ -24,11 +24,15 @@ classes: wide
 
  **Critical damage:** +200%
 
+## Skill
+
  **Skill:** ![Lightning Missile Boost](/images/skill/skill_44_p.png) Lightning Missile Boost
 
  **Skill Type:**  Passive Skill
 
  **Skill Description:**  Lightning Missile Damage + 80%
+
+ **Extra Combat Power:**  +800
 
 ## Attributes
 

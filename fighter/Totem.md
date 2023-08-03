@@ -24,11 +24,15 @@ classes: wide
 
  **Critical damage:** +200%
 
+## Skill
+
  **Skill:** ![Winggun Cannon Boost](/images/skill/skill_38_p.png) Winggun Cannon Boost
 
  **Skill Type:**  Passive Skill
 
  **Skill Description:**  Winggun Cannon Damage + 80%
+
+ **Extra Combat Power:**  +800
 
 ## Attributes
 

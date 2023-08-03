@@ -24,11 +24,17 @@ classes: wide
 
  **Critical damage:** +200%
 
+## Skill
+
  **Skill:** ![Lightning Elf](/images/skill/skill_80002_p.png) Lightning Elf
 
  **Skill Type:**  Passive Skill
 
  **Skill Description:**  Release drones that deal lightning strikes to enemies
+
+ **Skill duration:**  5 sec
+
+ **Extra Combat Power:**  +2000
 
 ## Attributes
 

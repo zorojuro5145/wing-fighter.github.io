@@ -24,11 +24,15 @@ classes: wide
 
  **Critical damage:** +200%
 
+## Skill
+
  **Skill:** ![Phantom Entity](/images/skill/skill_11_p.png) Phantom Entity
 
  **Skill Type:**  Passive Skill
 
  **Skill Description:**  Max HP +20%
+
+ **Extra Combat Power:**  +100
 
 ## Attributes
 

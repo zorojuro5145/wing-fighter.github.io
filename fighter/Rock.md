@@ -24,11 +24,15 @@ classes: wide
 
  **Critical damage:** +200%
 
+## Skill
+
  **Skill:** ![Blast Shotgun Boost](/images/skill/skill_40_p.png) Blast Shotgun Boost
 
  **Skill Type:**  Passive Skill
 
  **Skill Description:**  Blast Shotgun Damage + 20%
+
+ **Extra Combat Power:**  +800
 
 ## Attributes
 

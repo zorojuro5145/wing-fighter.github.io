@@ -24,11 +24,15 @@ classes: wide
 
  **Critical damage:** +200%
 
+## Skill
+
  **Skill:** ![Dragon Roar](/images/skill/skill_09_p.png) Dragon Roar
 
  **Skill Type:**  Passive Skill
 
  **Skill Description:**  Winggun damage +50%
+
+ **Extra Combat Power:**  +400
 
 ## Attributes
 

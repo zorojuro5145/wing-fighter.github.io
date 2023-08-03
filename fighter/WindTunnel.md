@@ -24,11 +24,15 @@ classes: wide
 
  **Critical damage:** +200%
 
+## Skill
+
  **Skill:** ![Railgun Boost](/images/skill/skill_36_p.png) Railgun Boost
 
  **Skill Type:**  Passive Skill
 
  **Skill Description:**  Railgun Damage + 20%
+
+ **Extra Combat Power:**  +800
 
 ## Attributes
 

@@ -24,11 +24,15 @@ classes: wide
 
  **Critical damage:** +200%
 
+## Skill
+
  **Skill:** ![Power of Hell](/images/skill/skill_32_p.png) Power of Hell
 
  **Skill Type:**  Passive Skill
 
  **Skill Description:**  Missile damage+50%
+
+ **Extra Combat Power:**  +500
 
 ## Attributes
 

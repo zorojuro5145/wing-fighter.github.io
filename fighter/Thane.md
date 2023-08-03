@@ -24,11 +24,17 @@ classes: wide
 
  **Critical damage:** +200%
 
+## Skill
+
  **Skill:** ![Death Vortex](/images/skill/skill_47_p.png) Death Vortex
 
  **Skill Type:**  Active Skill
 
  **Skill Description:**  Release massive skull bullets causing continuous damage
+
+ **Skill Cooldown:**  60 sec
+
+ **Extra Combat Power:**  +1200
 
 ## Attributes
 

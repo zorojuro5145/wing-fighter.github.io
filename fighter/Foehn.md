@@ -24,11 +24,15 @@ classes: wide
 
  **Critical damage:** +200%
 
+## Skill
+
  **Skill:** ![Blazing Winggun Boost](/images/skill/skill_43_p.png) Blazing Winggun Boost
 
  **Skill Type:**  Passive Skill
 
  **Skill Description:**  Blazing Winggun Damage + 80%
+
+ **Extra Combat Power:**  +800
 
 ## Attributes
 

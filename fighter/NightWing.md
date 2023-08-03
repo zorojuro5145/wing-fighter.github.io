@@ -24,11 +24,15 @@ classes: wide
 
  **Critical damage:** +200%
 
+## Skill
+
  **Skill:** ![Batarang Gun Boost](/images/skill/skill_39_p.png) Batarang Gun Boost
 
  **Skill Type:**  Passive Skill
 
  **Skill Description:**  Batarang Gun Damage + 20%
+
+ **Extra Combat Power:**  +800
 
 ## Attributes
 
