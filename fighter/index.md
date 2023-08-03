@@ -9,8 +9,8 @@ toc: false
 classes: wide
 ---
 
-  |  Nr | Icon | Fighter | Quality | Skill | Skill Description |
-  |:----|:----:|:----------|:-------:|:-----:|:------------------|
+  |  Nr | Icon | Fighter | Quality |   Skill   | Skill Type |
+  |:----|:----:|:----------|:-------:|:---------:|:-----------|
   | 1 | ![NightWing](/images/ship/fj_img11_p.png) | [NightWing](/fighter/NightWing) | SR | Batarang Gun Boost | Passive Skill |
   | 2 | ![Rock](/images/ship/fj_img12_p.png) | [Rock](/fighter/Rock) | SR | Blast Shotgun Boost | Passive Skill |
   | 3 | ![Rattlesnake](/images/ship/fj_img13_p.png) | [Rattlesnake](/fighter/Rattlesnake) | SR | Standard Missile Boost | Passive Skill |
