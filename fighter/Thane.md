@@ -2,7 +2,7 @@
 title: "Fighter Thane"
 permalink: /fighter/Thane/
 excerpt: "Wing Fighter Thane"
-last_modified_at: 2023-08-03
+last_modified_at: 2023-08-04
 locale: en
 ref: "Thane.md"
 toc: false

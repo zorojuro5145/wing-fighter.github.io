@@ -2,7 +2,7 @@
 title: "Equipment Conqueror Armor"
 permalink: /equipment/Conqueror Armor/
 excerpt: "Wing Fighter Equipment Conqueror Armor"
-last_modified_at: 2023-07-27
+last_modified_at: 2023-08-04
 locale: en
 ref: "Conqueror Armor.md"
 toc: false
@@ -24,6 +24,8 @@ classes: wide
  **Name:** Conqueror Armor 
 
  **Description:** Two blade shields around the fighter can resist once damage. The blade can be restored after a period of disappearance. 
+
+ **Gear Set:** [Gear Set Conqueror](/gear_set/Conqueror){: .btn .btn--warning}
 
  **Group:** SSR Armor 
 

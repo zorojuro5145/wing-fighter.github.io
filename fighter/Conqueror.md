@@ -2,7 +2,7 @@
 title: "Fighter Conqueror"
 permalink: /fighter/Conqueror/
 excerpt: "Wing Fighter Conqueror"
-last_modified_at: 2023-08-03
+last_modified_at: 2023-08-04
 locale: en
 ref: "Conqueror.md"
 toc: false
@@ -23,6 +23,8 @@ classes: wide
  **Critical rate:** +10.0%
 
  **Critical damage:** +200%
+
+ **Gear Set:** [Gear Set Conqueror](/gear_set/Conqueror){: .btn .btn--warning}
 
 ## Skill
 

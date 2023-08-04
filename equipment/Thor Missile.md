@@ -2,7 +2,7 @@
 title: "Equipment Thor Missile"
 permalink: /equipment/Thor Missile/
 excerpt: "Wing Fighter Equipment Thor Missile"
-last_modified_at: 2023-07-27
+last_modified_at: 2023-08-04
 locale: en
 ref: "Thor Missile.md"
 toc: false
@@ -24,6 +24,8 @@ classes: wide
  **Name:** Thor Missile 
 
  **Description:** Attract thunder from the atmosphere after hitting the enemy, dealing a heavy blow to the enemy 
+
+ **Gear Set:** [Gear Set Thor](/gear_set/Thor){: .btn .btn--info}
 
  **Group:** SSR Missile 
 

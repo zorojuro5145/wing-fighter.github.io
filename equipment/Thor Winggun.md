@@ -2,7 +2,7 @@
 title: "Equipment Thor Winggun"
 permalink: /equipment/Thor Winggun/
 excerpt: "Wing Fighter Equipment Thor Winggun"
-last_modified_at: 2023-07-27
+last_modified_at: 2023-08-04
 locale: en
 ref: "Thor Winggun.md"
 toc: false
@@ -24,6 +24,8 @@ classes: wide
  **Name:** Thor Winggun 
 
  **Description:** Launch 2 lightning balls, forming a lightning force field after hitting the enemy, dealing damage to passing enemies 
+
+ **Gear Set:** [Gear Set Thor](/gear_set/Thor){: .btn .btn--info}
 
  **Group:** SSR Winggun 
 

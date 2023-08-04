@@ -2,7 +2,7 @@
 title: "Fighter Inferno"
 permalink: /fighter/Inferno/
 excerpt: "Wing Fighter Inferno"
-last_modified_at: 2023-08-03
+last_modified_at: 2023-08-04
 locale: en
 ref: "Inferno.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Equipment Conqueror Missile"
 permalink: /equipment/Conqueror Missile/
 excerpt: "Wing Fighter Equipment Conqueror Missile"
-last_modified_at: 2023-07-27
+last_modified_at: 2023-08-04
 locale: en
 ref: "Conqueror Missile.md"
 toc: false
@@ -24,6 +24,8 @@ classes: wide
  **Name:** Conqueror Missile 
 
  **Description:** Cluster missiles that can release many homing missiles after exploding 
+
+ **Gear Set:** [Gear Set Conqueror](/gear_set/Conqueror){: .btn .btn--warning}
 
  **Group:** SSR Missile 
 

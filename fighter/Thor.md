@@ -2,7 +2,7 @@
 title: "Fighter Thor"
 permalink: /fighter/Thor/
 excerpt: "Wing Fighter Thor"
-last_modified_at: 2023-08-03
+last_modified_at: 2023-08-04
 locale: en
 ref: "Thor.md"
 toc: false
@@ -23,6 +23,8 @@ classes: wide
  **Critical rate:** +10.0%
 
  **Critical damage:** +200%
+
+ **Gear Set:** [Gear Set Thor](/gear_set/Thor){: .btn .btn--info}
 
 ## Skill
 

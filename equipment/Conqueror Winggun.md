@@ -2,7 +2,7 @@
 title: "Equipment Conqueror Winggun"
 permalink: /equipment/Conqueror Winggun/
 excerpt: "Wing Fighter Equipment Conqueror Winggun"
-last_modified_at: 2023-07-27
+last_modified_at: 2023-08-04
 locale: en
 ref: "Conqueror Winggun.md"
 toc: false
@@ -24,6 +24,8 @@ classes: wide
  **Name:** Conqueror Winggun 
 
  **Description:** Fire armor-piercing projectiles that can penetrate all targets 
+
+ **Gear Set:** [Gear Set Conqueror](/gear_set/Conqueror){: .btn .btn--warning}
 
  **Group:** SSR Winggun 
 
