@@ -1,6 +1,6 @@
 ---
 title: "Wing Fighter Wiki: Units, Flights, Items, Quests and more"
-excerpt: "Wing Fighter, Wing Fighter Wiki. Complete information about the Wing Fighter: Units, Heroes, Items, Artifacts, Quests and more. Be strongest player with us. Information about future updates and events."
+excerpt: "Wing Fighter, Wing Fighter Wiki. Complete information about the Wing Fighter: Gun, Fighters, Items, Artifacts, Quests and more. Be strongest player with us. Information about future updates and events."
 author_profile: false
 last_modified_at: 2023-07-13
 toc: false
@@ -11,20 +11,18 @@ sidebar:
 ---
 
 
-{% capture notice-update20230731 %}
+{% capture notice-update20230804 %}
 
-* Great news! [Conqueror Chest](https://wing-fighter.github.io/shop/Unknown_40/). Spend ALL your diamonds! Goodluck with Conqueror items/fighter!
+* Added <img src="/images/suit_icon_1_p.png" alt="Gear Sets" width="28" height="32"/><a href="/gear_set/" hreflang="en">Gear Sets</a> information into Fighters and Equipment
 
-* Added <img src="/images/suit_icon_1_p.png" alt="Gear Sets" width="28" height="32"/><a href="/gear_set/" hreflang="en">Gear Sets</a>
-
-* Next in progress: Stages, Sets, Guild Boss damage and rewards
+* Next in progress: Stages,
 
 
 {% endcapture %}
 
 <div class="notice--danger">
-  <h4 class="no_toc">31 July 2023 Wiki Update: Gear Sets, Conqueror Chest is OPEN, ...</h4>
-  {{ notice-update20230731 | markdownify }}
+  <h4 class="no_toc">4 August 2023 Wiki Update: Gear Sets in fighters and equipment, working on Stages, ...</h4>
+  {{ notice-update20230804 | markdownify }}
 </div>
 
 
@@ -64,6 +62,23 @@ Extra information:
 <br/>
 **YOUR feedback is welcome!**
 [Please contact me via Discord](https://discordapp.com/users/351705203038224385/)
+
+
+{% capture notice-update20230731 %}
+
+* Great news! [Conqueror Chest](https://wing-fighter.github.io/shop/Unknown_40/). Spend ALL your diamonds! Goodluck with Conqueror items/fighter!
+
+* Added <img src="/images/suit_icon_1_p.png" alt="Gear Sets" width="28" height="32"/><a href="/gear_set/" hreflang="en">Gear Sets</a>
+
+* Next in progress: Stages, Sets, Guild Boss damage and rewards
+
+
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">31 July 2023 Wiki Update: Gear Sets, Conqueror Chest is OPEN, ...</h4>
+  {{ notice-update20230731 | markdownify }}
+</div>
 
 
 {% capture notice-update20230729 %}
