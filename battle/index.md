@@ -9,6 +9,19 @@ toc: false
 classes: wide
 ---
 
+
+ {% capture notice-updateDEV %}
+ 
+ This topic is not ready... Still more to come here...
+ 
+{% endcapture %}
+ 
+<div class="notice--danger">
+  <h4 class="no_toc">Still under construction - more to come...</h4>
+  {{ notice-updateDEV | markdownify }}
+</div>
+
+
   | Nr | Level |   Name   | Wave Count | Recommended BP |  Map |
   |:---|:------|:--------:|:-----------|:---------------|:----:|
   | 1 | STAGE.01 | Forest Dawn | **30** | **3000** | Desert01 (normal) |
