@@ -10,6 +10,8 @@ classes: wide
 ---
 
 
+  [Challenge](/battle/Challenge/){: .btn .btn--info}
+
  {% capture notice-updateDEV %}
  
  This topic is not ready... Still more to come here...
