@@ -15,7 +15,7 @@ sidebar:
 
 * Added <img src="/images/suit_icon_1_p.png" alt="Gear Sets" width="28" height="32"/><a href="/gear_set/" hreflang="en">Gear Sets</a> information into Fighters and Equipment
 
-* Next in progress: Stages,
+* Next in progress: [Battle](/battle/)  
 
 
 {% endcapture %}
