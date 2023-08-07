@@ -11,18 +11,17 @@ sidebar:
 ---
 
 
-{% capture notice-update20230804 %}
+{% capture notice-update20230807 %}
 
-* Added <img src="/images/suit_icon_1_p.png" alt="Gear Sets" width="28" height="32"/><a href="/gear_set/" hreflang="en">Gear Sets</a> information into Fighters and Equipment
+* Added [Challenge](/battle/Challenge/) and [Stages](/battle/)
 
-* Next in progress: [Battle](/battle/)  
-
+* working on Drops and Events
 
 {% endcapture %}
 
 <div class="notice--danger">
-  <h4 class="no_toc">4 August 2023 Wiki Update: Gear Sets in fighters and equipment, working on Stages, ...</h4>
-  {{ notice-update20230804 | markdownify }}
+  <h4 class="no_toc">7 August 2023 Wiki Update: Added Stages, Challenges, ...</h4>
+  {{ notice-update20230807 | markdownify }}
 </div>
 
 
@@ -63,6 +62,20 @@ Extra information:
 **YOUR feedback is welcome!**
 [Please contact me via Discord](https://discordapp.com/users/351705203038224385/)
 
+
+{% capture notice-update20230804 %}
+
+* Added <img src="/images/suit_icon_1_p.png" alt="Gear Sets" width="28" height="32"/><a href="/gear_set/" hreflang="en">Gear Sets</a> information into Fighters and Equipment
+
+* Next in progress: [Battle](/battle/)  
+
+
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">4 August 2023 Wiki Update: Gear Sets in fighters and equipment, working on Stages, ...</h4>
+  {{ notice-update20230804 | markdownify }}
+</div>
 
 {% capture notice-update20230731 %}
 
