@@ -11,17 +11,23 @@ sidebar:
 ---
 
 
-{% capture notice-update20230807 %}
+{% capture notice-update20230808 %}
 
-* Added [Challenge](/battle/Challenge/) and [Stages](/battle/)
+<img src="/images/pilots/xfxy_img23_p.png" alt="Pilots" width="161" height="256"/>
 
-* working on Drops and Events
+* Wing Fighter got HUGE update. Pilots are in the game, New "AirSea Simulation" activity, New Talents, ...
+
+* Commander and Gems are moved into Talents Tab.
+
+* Wish You full of <img src="/images/pilots/xfxy_img59_p.png" alt="Pilot card" width="64" height="44"/> and <img src="/images/pilots/xfxy_img60_p.png" alt="Medals" width="58" height="646"/>
+
+* Working to provide list of ALL pilots and bonuses for them..
 
 {% endcapture %}
 
 <div class="notice--danger">
-  <h4 class="no_toc">7 August 2023 Wiki Update: Added Stages, Challenges, ...</h4>
-  {{ notice-update20230807 | markdownify }}
+  <h4 class="no_toc">8 August 2023 Wiki Update: New HUGE release - 1.7.542 ...</h4>
+  {{ notice-update20230808 | markdownify }}
 </div>
 
 
@@ -61,6 +67,20 @@ Extra information:
 <br/>
 **YOUR feedback is welcome!**
 [Please contact me via Discord](https://discordapp.com/users/351705203038224385/)
+
+
+{% capture notice-update20230807 %}
+
+* Added [Challenge](/battle/Challenge/) and [Stages](/battle/)
+
+* working on Drops and Events
+
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">7 August 2023 Wiki Update: Added Stages, Challenges, ...</h4>
+  {{ notice-update20230807 | markdownify }}
+</div>
 
 
 {% capture notice-update20230804 %}
