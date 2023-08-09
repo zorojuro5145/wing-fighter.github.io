@@ -28,14 +28,14 @@ classes: wide
 
   |  Nr | Drop Rate, %  |    Drop Item     |
   |:----|:-------------:|:-----------------|
-  | 1 | 1.5 | null | 
-  | 2 | 4.0 | null | 
-  | 3 | 7.0 | null | 
-  | 4 | 3.0 | null | 
-  | 5 | 6.0 | null | 
-  | 6 | 24.0 | null | 
-  | 7 | 2.0 | null | 
-  | 8 | 7.0 | null | 
-  | 9 | 28.0 | null | 
-  | 10 | 17.5 | null | 
+  | 1 | 1.5 | SR Pilot: x1 | 
+  | 2 | 4.0 | R Pilot: x1 | 
+  | 3 | 7.0 | N Pilot: x1 | 
+  | 4 | 3.0 | SR Pilot Shard: x5 | 
+  | 5 | 6.0 | R Pilot Shard: x5 | 
+  | 6 | 24.0 | N Pilot Shard: x5 | 
+  | 7 | 2.0 | Advanced Training Guide x10 | 
+  | 8 | 7.0 | Standard Training Guide x20 | 
+  | 9 | 28.0 | Basic Training Guide x30 | 
+  | 10 | 17.5 | Badge x10 | 
 
