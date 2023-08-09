@@ -2,7 +2,7 @@
 title: "CC Resource 11"
 permalink: /CollectionCenter/CC Resource +11/
 excerpt: "Wing Fighter CC Resource11"
-last_modified_at: 2023-07-30
+last_modified_at: 2023-08-09
 locale: en
 ref: "CC Resource +11.md"
 toc: false

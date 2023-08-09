@@ -2,7 +2,7 @@
 title: "Equipment SSR Winggun"
 permalink: /equipment/Equipment SSR Winggun/
 excerpt: "Wing Fighter Equipment SSR Winggun"
-last_modified_at: 2023-07-27
+last_modified_at: 2023-08-09
 locale: en
 ref: "Equipment SSR Winggun.md"
 toc: false

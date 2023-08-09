@@ -2,7 +2,7 @@
 title: "Commander Shard - Alice"
 permalink: /commander/Commander Shard - Alice/
 excerpt: "Wing Fighter Commander Shard - Alice"
-last_modified_at: 2023-07-26
+last_modified_at: 2023-08-09
 locale: en
 ref: "Commander Shard - Alice.md"
 toc: false

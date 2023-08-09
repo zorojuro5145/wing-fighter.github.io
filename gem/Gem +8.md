@@ -2,7 +2,7 @@
 title: "Gem +8"
 permalink: /gem/Gem +8/
 excerpt: "Wing Fighter Gem +8"
-last_modified_at: 2023-07-27
+last_modified_at: 2023-08-09
 locale: en
 ref: "Gem +8.md"
 toc: false
@@ -26,5 +26,5 @@ classes: wide
   | 44 | ![Dodge Gem +8](/images/gem/bs2_img2.png) | [Dodge Gem +8](/gem/Dodge Gem_8) | Used to increase Fighter dodge | 
   | 53 | ![Defense Gem +8](/images/gem/bs2_img3.png) | [Defense Gem +8](/gem/Defense Gem_8) | Used to reduce damage taken from enemies | 
   | 62 | ![Anti-Air Gem +8](/images/gem/bs3_img1.png) | [Anti-Air Gem +8](/gem/Anti-Air Gem_8) | Used to increase damage against flying enemies and reduce their damage | 
-  | 71 | ![Anti-Land Gem +8](/images/gem/bs3_img2.png) | [Anti-Land Gem +8](/gem/Anti-Land Gem_8) | Used to increase damage against ground enemies and reduce their damage | 
-  | 80 | ![Enhancement Gem +8](/images/gem/bs3_img3.png) | [Enhancement Gem +8](/gem/Enhancement Gem_8) | Used to increase damage against strong foes and reduce their damage | 
+  | 71 | ![Anti-Land Gem +8](/images/gem/bs3_img2.png) | [Anti-Land Gem +8](/gem/Anti-Land Gem_8) | Used to increase damage against enemies on ground/water and reduce their damage | 
+  | 80 | ![Enhancement Gem +8](/images/gem/bs3_img3.png) | [Enhancement Gem +8](/gem/Enhancement Gem_8) | Used to increase damage against Bosses and reduce their damage | 

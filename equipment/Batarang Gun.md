@@ -2,7 +2,7 @@
 title: "Equipment Batarang Gun"
 permalink: /equipment/Batarang Gun/
 excerpt: "Wing Fighter Equipment Batarang Gun"
-last_modified_at: 2023-07-27
+last_modified_at: 2023-08-09
 locale: en
 ref: "Batarang Gun.md"
 toc: false
@@ -41,13 +41,13 @@ classes: wide
 
   |  Nr |     Grade     |   PvP Damage Coefficient  |
   |:----|:-------------:|:-------------------------:|
-  | 1  |   | 0.032 |
-  | 2  | ![+1](/images/sp_grade_1.png)  | 0.064 |
-  | 3  | ![+2](/images/sp_grade_2.png)  | 0.096 |
-  | 4  | ![+3](/images/sp_grade_3.png)  | 0.128 |
-  | 5  | ![+4](/images/sp_grade_4.png)  | 0.16 |
-  | 6  | ![+5](/images/sp_grade_5.png)  | 0.192 |
-  | 7  | ![+6](/images/sp_grade_6.png)  | 0.224 |
+  | 1  |   | 0.04 |
+  | 2  | ![+1](/images/sp_grade_1.png)  | 0.08 |
+  | 3  | ![+2](/images/sp_grade_2.png)  | 0.12 |
+  | 4  | ![+3](/images/sp_grade_3.png)  | 0.16 |
+  | 5  | ![+4](/images/sp_grade_4.png)  | 0.2 |
+  | 6  | ![+5](/images/sp_grade_5.png)  | 0.24000000000000002 |
+  | 7  | ![+6](/images/sp_grade_6.png)  | 0.28 |
 
 
 ## Upgrade

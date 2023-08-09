@@ -2,7 +2,7 @@
 title: "Random Epic Equipment"
 permalink: /item/Random Epic Equipment_85/
 excerpt: "Wing Fighter Random Epic Equipment"
-last_modified_at: 2023-07-27
+last_modified_at: 2023-08-09
 locale: en
 ref: "Random Epic Equipment_85.md"
 toc: false
@@ -22,7 +22,7 @@ classes: wide
 
  **Rarity:** 3 
 
- **Type:** 40 
+ **Type:** 73 
 
  **Suction:** false 
 

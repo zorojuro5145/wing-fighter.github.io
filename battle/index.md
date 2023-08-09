@@ -2,7 +2,7 @@
 title: "Battle"
 permalink: /battle/
 excerpt: "Wing Fighter Battle"
-last_modified_at: 2023-08-06
+last_modified_at: 2023-08-09
 locale: en
 ref: "index.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "null"
 permalink: /item/random_gem_blue_64/
 excerpt: "Wing Fighter null"
-last_modified_at: 2023-07-27
+last_modified_at: 2023-08-09
 locale: en
 ref: "random_gem_blue_64.md"
 toc: false

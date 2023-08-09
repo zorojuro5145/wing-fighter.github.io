@@ -2,7 +2,7 @@
 title: "Gem +4"
 permalink: /gem/Gem +4/
 excerpt: "Wing Fighter Gem +4"
-last_modified_at: 2023-07-27
+last_modified_at: 2023-08-09
 locale: en
 ref: "Gem +4.md"
 toc: false
@@ -26,5 +26,5 @@ classes: wide
   | 40 | ![Dodge Gem +4](/images/gem/bs2_img2.png) | [Dodge Gem +4](/gem/Dodge Gem_4) | Used to increase Fighter dodge | 
   | 49 | ![Defense Gem +4](/images/gem/bs2_img3.png) | [Defense Gem +4](/gem/Defense Gem_4) | Used to reduce damage taken from enemies | 
   | 58 | ![Anti-Air Gem +4](/images/gem/bs3_img1.png) | [Anti-Air Gem +4](/gem/Anti-Air Gem_4) | Used to increase damage against flying enemies and reduce their damage | 
-  | 67 | ![Anti-Land Gem +4](/images/gem/bs3_img2.png) | [Anti-Land Gem +4](/gem/Anti-Land Gem_4) | Used to increase damage against ground enemies and reduce their damage | 
-  | 76 | ![Enhancement Gem +4](/images/gem/bs3_img3.png) | [Enhancement Gem +4](/gem/Enhancement Gem_4) | Used to increase damage against strong foes and reduce their damage | 
+  | 67 | ![Anti-Land Gem +4](/images/gem/bs3_img2.png) | [Anti-Land Gem +4](/gem/Anti-Land Gem_4) | Used to increase damage against enemies on ground/water and reduce their damage | 
+  | 76 | ![Enhancement Gem +4](/images/gem/bs3_img3.png) | [Enhancement Gem +4](/gem/Enhancement Gem_4) | Used to increase damage against Bosses and reduce their damage | 

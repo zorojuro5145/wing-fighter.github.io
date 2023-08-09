@@ -2,7 +2,7 @@
 title: "Shop Fighter Chest"
 permalink: /shop/Fighter Chest_16/
 excerpt: "Wing Fighter Fighter Chest"
-last_modified_at: 2023-07-27
+last_modified_at: 2023-08-09
 locale: en
 ref: "Fighter Chest_16.md"
 toc: false

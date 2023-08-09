@@ -2,7 +2,7 @@
 title: "Gem Enhancement Gem +6"
 permalink: /gem/Enhancement Gem_6/
 excerpt: "Wing Fighter Gem Enhancement Gem +6"
-last_modified_at: 2023-07-27
+last_modified_at: 2023-08-09
 locale: en
 ref: "Enhancement Gem_6.md"
 toc: false
@@ -23,7 +23,7 @@ classes: wide
 
  **Name:** Enhancement Gem 
 
- **Description:** Used to increase damage against strong foes and reduce their damage 
+ **Description:** Used to increase damage against Bosses and reduce their damage 
 
  **Level:** +6 
 
@@ -35,6 +35,6 @@ classes: wide
 
   |  Nr |     Bonus     |   Value   | Extra Power  |
   |:----|:-------------:|:---------:|:----------------|
-  | 1  | Fighter Against strong foes **Attack**  | **+480**  | +640 |
-  | 2  | Fighter Against strong foes **Reduce Damage**  | **+6.0 %**  | +640 |
+  | 1  | Fighter Against Bosses **Attack**  | **+480**  | +640 |
+  | 2  | Fighter Against Bosses **Reduce Damage**  | **+6.0 %**  | +640 |
 

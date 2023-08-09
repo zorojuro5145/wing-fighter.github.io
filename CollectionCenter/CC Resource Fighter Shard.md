@@ -2,7 +2,7 @@
 title: "CC Resource Fighter Shard"
 permalink: /CollectionCenter/CC Resource Fighter Shard/
 excerpt: "Wing Fighter CC ResourceFighter Shard"
-last_modified_at: 2023-07-30
+last_modified_at: 2023-08-09
 locale: en
 ref: "CC Resource Fighter Shard.md"
 toc: false

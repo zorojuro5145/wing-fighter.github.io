@@ -2,7 +2,7 @@
 title: "Equipment Lightning Missile"
 permalink: /equipment/Lightning Missile/
 excerpt: "Wing Fighter Equipment Lightning Missile"
-last_modified_at: 2023-07-27
+last_modified_at: 2023-08-09
 locale: en
 ref: "Lightning Missile.md"
 toc: false
@@ -31,7 +31,7 @@ classes: wide
 
  **Type:** Attack 
 
- **Damage coefficient:** 1.5 
+ **Damage coefficient:** 1 
 
 ## PvP information
 
@@ -41,13 +41,13 @@ classes: wide
 
   |  Nr |     Grade     |   PvP Damage Coefficient  |
   |:----|:-------------:|:-------------------------:|
-  | 1  |   | 0.12 |
-  | 2  | ![+1](/images/sp_grade_1.png)  | 0.24 |
-  | 3  | ![+2](/images/sp_grade_2.png)  | 0.36 |
-  | 4  | ![+3](/images/sp_grade_3.png)  | 0.48 |
-  | 5  | ![+4](/images/sp_grade_4.png)  | 0.6 |
-  | 6  | ![+5](/images/sp_grade_5.png)  | 0.72 |
-  | 7  | ![+6](/images/sp_grade_6.png)  | 0.84 |
+  | 1  |   | 0.15 |
+  | 2  | ![+1](/images/sp_grade_1.png)  | 0.3 |
+  | 3  | ![+2](/images/sp_grade_2.png)  | 0.44999999999999996 |
+  | 4  | ![+3](/images/sp_grade_3.png)  | 0.6 |
+  | 5  | ![+4](/images/sp_grade_4.png)  | 0.75 |
+  | 6  | ![+5](/images/sp_grade_5.png)  | 0.9 |
+  | 7  | ![+6](/images/sp_grade_6.png)  | 1.05 |
 
 
 ## Upgrade

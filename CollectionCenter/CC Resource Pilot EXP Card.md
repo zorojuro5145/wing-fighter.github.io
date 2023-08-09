@@ -2,7 +2,7 @@
 title: "CC Resource Pilot EXP Card"
 permalink: /CollectionCenter/CC Resource Pilot EXP Card/
 excerpt: "Wing Fighter CC ResourcePilot EXP Card"
-last_modified_at: 2023-07-30
+last_modified_at: 2023-08-09
 locale: en
 ref: "CC Resource Pilot EXP Card.md"
 toc: false

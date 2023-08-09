@@ -2,7 +2,7 @@
 title: "Equipment Shock Armor"
 permalink: /equipment/Shock Armor/
 excerpt: "Wing Fighter Equipment Shock Armor"
-last_modified_at: 2023-07-27
+last_modified_at: 2023-08-09
 locale: en
 ref: "Shock Armor.md"
 toc: false
@@ -35,9 +35,19 @@ classes: wide
 
 ## PvP information
 
+ **PvP Attack Rate:** 4000 
 
- NONE
 
+
+  |  Nr |     Grade     |   PvP Damage Coefficient  |
+  |:----|:-------------:|:-------------------------:|
+  | 1  |   | 0.4 |
+  | 2  | ![+1](/images/sp_grade_1.png)  | 0.8 |
+  | 3  | ![+2](/images/sp_grade_2.png)  | 1.2000000000000002 |
+  | 4  | ![+3](/images/sp_grade_3.png)  | 1.6 |
+  | 5  | ![+4](/images/sp_grade_4.png)  | 2.0 |
+  | 6  | ![+5](/images/sp_grade_5.png)  | 2.4 |
+  | 7  | ![+6](/images/sp_grade_6.png)  | 2.8 |
 
 
 ## Upgrade

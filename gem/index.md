@@ -2,7 +2,7 @@
 title: "Gems"
 permalink: /gem/
 excerpt: "Wing Fighter Gem"
-last_modified_at: 2023-07-27
+last_modified_at: 2023-08-09
 locale: en
 ref: "index.md"
 toc: false
@@ -82,21 +82,21 @@ classes: wide
   | 62 | ![Anti-Air Gem +7](/images/gem/bs3_img1.png) | [Anti-Air Gem +7](/gem/Anti-Air Gem_7) | Used to increase damage against flying enemies and reduce their damage | 
   | 63 | ![Anti-Air Gem +8](/images/gem/bs3_img1.png) | [Anti-Air Gem +8](/gem/Anti-Air Gem_8) | Used to increase damage against flying enemies and reduce their damage | 
   | 64 | ![Anti-Air Gem +9](/images/gem/bs3_img1.png) | [Anti-Air Gem +9](/gem/Anti-Air Gem_9) | Used to increase damage against flying enemies and reduce their damage | 
-  | 65 | ![Anti-Land Gem +1](/images/gem/bs3_img2.png) | [Anti-Land Gem +1](/gem/Anti-Land Gem_1) | Used to increase damage against ground enemies and reduce their damage | 
-  | 66 | ![Anti-Land Gem +2](/images/gem/bs3_img2.png) | [Anti-Land Gem +2](/gem/Anti-Land Gem_2) | Used to increase damage against ground enemies and reduce their damage | 
-  | 67 | ![Anti-Land Gem +3](/images/gem/bs3_img2.png) | [Anti-Land Gem +3](/gem/Anti-Land Gem_3) | Used to increase damage against ground enemies and reduce their damage | 
-  | 68 | ![Anti-Land Gem +4](/images/gem/bs3_img2.png) | [Anti-Land Gem +4](/gem/Anti-Land Gem_4) | Used to increase damage against ground enemies and reduce their damage | 
-  | 69 | ![Anti-Land Gem +5](/images/gem/bs3_img2.png) | [Anti-Land Gem +5](/gem/Anti-Land Gem_5) | Used to increase damage against ground enemies and reduce their damage | 
-  | 70 | ![Anti-Land Gem +6](/images/gem/bs3_img2.png) | [Anti-Land Gem +6](/gem/Anti-Land Gem_6) | Used to increase damage against ground enemies and reduce their damage | 
-  | 71 | ![Anti-Land Gem +7](/images/gem/bs3_img2.png) | [Anti-Land Gem +7](/gem/Anti-Land Gem_7) | Used to increase damage against ground enemies and reduce their damage | 
-  | 72 | ![Anti-Land Gem +8](/images/gem/bs3_img2.png) | [Anti-Land Gem +8](/gem/Anti-Land Gem_8) | Used to increase damage against ground enemies and reduce their damage | 
-  | 73 | ![Anti-Land Gem +9](/images/gem/bs3_img2.png) | [Anti-Land Gem +9](/gem/Anti-Land Gem_9) | Used to increase damage against ground enemies and reduce their damage | 
-  | 74 | ![Enhancement Gem +1](/images/gem/bs3_img3.png) | [Enhancement Gem +1](/gem/Enhancement Gem_1) | Used to increase damage against strong foes and reduce their damage | 
-  | 75 | ![Enhancement Gem +2](/images/gem/bs3_img3.png) | [Enhancement Gem +2](/gem/Enhancement Gem_2) | Used to increase damage against strong foes and reduce their damage | 
-  | 76 | ![Enhancement Gem +3](/images/gem/bs3_img3.png) | [Enhancement Gem +3](/gem/Enhancement Gem_3) | Used to increase damage against strong foes and reduce their damage | 
-  | 77 | ![Enhancement Gem +4](/images/gem/bs3_img3.png) | [Enhancement Gem +4](/gem/Enhancement Gem_4) | Used to increase damage against strong foes and reduce their damage | 
-  | 78 | ![Enhancement Gem +5](/images/gem/bs3_img3.png) | [Enhancement Gem +5](/gem/Enhancement Gem_5) | Used to increase damage against strong foes and reduce their damage | 
-  | 79 | ![Enhancement Gem +6](/images/gem/bs3_img3.png) | [Enhancement Gem +6](/gem/Enhancement Gem_6) | Used to increase damage against strong foes and reduce their damage | 
-  | 80 | ![Enhancement Gem +7](/images/gem/bs3_img3.png) | [Enhancement Gem +7](/gem/Enhancement Gem_7) | Used to increase damage against strong foes and reduce their damage | 
-  | 81 | ![Enhancement Gem +8](/images/gem/bs3_img3.png) | [Enhancement Gem +8](/gem/Enhancement Gem_8) | Used to increase damage against strong foes and reduce their damage | 
-  | 82 | ![Enhancement Gem +9](/images/gem/bs3_img3.png) | [Enhancement Gem +9](/gem/Enhancement Gem_9) | Used to increase damage against strong foes and reduce their damage | 
+  | 65 | ![Anti-Land Gem +1](/images/gem/bs3_img2.png) | [Anti-Land Gem +1](/gem/Anti-Land Gem_1) | Used to increase damage against enemies on ground/water and reduce their damage | 
+  | 66 | ![Anti-Land Gem +2](/images/gem/bs3_img2.png) | [Anti-Land Gem +2](/gem/Anti-Land Gem_2) | Used to increase damage against enemies on ground/water and reduce their damage | 
+  | 67 | ![Anti-Land Gem +3](/images/gem/bs3_img2.png) | [Anti-Land Gem +3](/gem/Anti-Land Gem_3) | Used to increase damage against enemies on ground/water and reduce their damage | 
+  | 68 | ![Anti-Land Gem +4](/images/gem/bs3_img2.png) | [Anti-Land Gem +4](/gem/Anti-Land Gem_4) | Used to increase damage against enemies on ground/water and reduce their damage | 
+  | 69 | ![Anti-Land Gem +5](/images/gem/bs3_img2.png) | [Anti-Land Gem +5](/gem/Anti-Land Gem_5) | Used to increase damage against enemies on ground/water and reduce their damage | 
+  | 70 | ![Anti-Land Gem +6](/images/gem/bs3_img2.png) | [Anti-Land Gem +6](/gem/Anti-Land Gem_6) | Used to increase damage against enemies on ground/water and reduce their damage | 
+  | 71 | ![Anti-Land Gem +7](/images/gem/bs3_img2.png) | [Anti-Land Gem +7](/gem/Anti-Land Gem_7) | Used to increase damage against enemies on ground/water and reduce their damage | 
+  | 72 | ![Anti-Land Gem +8](/images/gem/bs3_img2.png) | [Anti-Land Gem +8](/gem/Anti-Land Gem_8) | Used to increase damage against enemies on ground/water and reduce their damage | 
+  | 73 | ![Anti-Land Gem +9](/images/gem/bs3_img2.png) | [Anti-Land Gem +9](/gem/Anti-Land Gem_9) | Used to increase damage against enemies on ground/water and reduce their damage | 
+  | 74 | ![Enhancement Gem +1](/images/gem/bs3_img3.png) | [Enhancement Gem +1](/gem/Enhancement Gem_1) | Used to increase damage against Bosses and reduce their damage | 
+  | 75 | ![Enhancement Gem +2](/images/gem/bs3_img3.png) | [Enhancement Gem +2](/gem/Enhancement Gem_2) | Used to increase damage against Bosses and reduce their damage | 
+  | 76 | ![Enhancement Gem +3](/images/gem/bs3_img3.png) | [Enhancement Gem +3](/gem/Enhancement Gem_3) | Used to increase damage against Bosses and reduce their damage | 
+  | 77 | ![Enhancement Gem +4](/images/gem/bs3_img3.png) | [Enhancement Gem +4](/gem/Enhancement Gem_4) | Used to increase damage against Bosses and reduce their damage | 
+  | 78 | ![Enhancement Gem +5](/images/gem/bs3_img3.png) | [Enhancement Gem +5](/gem/Enhancement Gem_5) | Used to increase damage against Bosses and reduce their damage | 
+  | 79 | ![Enhancement Gem +6](/images/gem/bs3_img3.png) | [Enhancement Gem +6](/gem/Enhancement Gem_6) | Used to increase damage against Bosses and reduce their damage | 
+  | 80 | ![Enhancement Gem +7](/images/gem/bs3_img3.png) | [Enhancement Gem +7](/gem/Enhancement Gem_7) | Used to increase damage against Bosses and reduce their damage | 
+  | 81 | ![Enhancement Gem +8](/images/gem/bs3_img3.png) | [Enhancement Gem +8](/gem/Enhancement Gem_8) | Used to increase damage against Bosses and reduce their damage | 
+  | 82 | ![Enhancement Gem +9](/images/gem/bs3_img3.png) | [Enhancement Gem +9](/gem/Enhancement Gem_9) | Used to increase damage against Bosses and reduce their damage | 

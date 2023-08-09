@@ -2,7 +2,7 @@
 title: "Gem Anti-Land Gem"
 permalink: /gem/Gem Anti-Land Gem/
 excerpt: "Wing Fighter Gem Anti-Land Gem"
-last_modified_at: 2023-07-27
+last_modified_at: 2023-08-09
 locale: en
 ref: "Gem Anti-Land Gem.md"
 toc: false
@@ -19,12 +19,12 @@ classes: wide
 
   |  Nr | Icon |      Gem        |   Description   |
   |:----|:----:|:---------------:|:---------------:|
-  | 64 | ![Anti-Land Gem +1](/images/gem/bs3_img2.png) | [Anti-Land Gem +1](/gem/Anti-Land Gem_1) | Used to increase damage against ground enemies and reduce their damage | 
-  | 65 | ![Anti-Land Gem +2](/images/gem/bs3_img2.png) | [Anti-Land Gem +2](/gem/Anti-Land Gem_2) | Used to increase damage against ground enemies and reduce their damage | 
-  | 66 | ![Anti-Land Gem +3](/images/gem/bs3_img2.png) | [Anti-Land Gem +3](/gem/Anti-Land Gem_3) | Used to increase damage against ground enemies and reduce their damage | 
-  | 67 | ![Anti-Land Gem +4](/images/gem/bs3_img2.png) | [Anti-Land Gem +4](/gem/Anti-Land Gem_4) | Used to increase damage against ground enemies and reduce their damage | 
-  | 68 | ![Anti-Land Gem +5](/images/gem/bs3_img2.png) | [Anti-Land Gem +5](/gem/Anti-Land Gem_5) | Used to increase damage against ground enemies and reduce their damage | 
-  | 69 | ![Anti-Land Gem +6](/images/gem/bs3_img2.png) | [Anti-Land Gem +6](/gem/Anti-Land Gem_6) | Used to increase damage against ground enemies and reduce their damage | 
-  | 70 | ![Anti-Land Gem +7](/images/gem/bs3_img2.png) | [Anti-Land Gem +7](/gem/Anti-Land Gem_7) | Used to increase damage against ground enemies and reduce their damage | 
-  | 71 | ![Anti-Land Gem +8](/images/gem/bs3_img2.png) | [Anti-Land Gem +8](/gem/Anti-Land Gem_8) | Used to increase damage against ground enemies and reduce their damage | 
-  | 72 | ![Anti-Land Gem +9](/images/gem/bs3_img2.png) | [Anti-Land Gem +9](/gem/Anti-Land Gem_9) | Used to increase damage against ground enemies and reduce their damage | 
+  | 64 | ![Anti-Land Gem +1](/images/gem/bs3_img2.png) | [Anti-Land Gem +1](/gem/Anti-Land Gem_1) | Used to increase damage against enemies on ground/water and reduce their damage | 
+  | 65 | ![Anti-Land Gem +2](/images/gem/bs3_img2.png) | [Anti-Land Gem +2](/gem/Anti-Land Gem_2) | Used to increase damage against enemies on ground/water and reduce their damage | 
+  | 66 | ![Anti-Land Gem +3](/images/gem/bs3_img2.png) | [Anti-Land Gem +3](/gem/Anti-Land Gem_3) | Used to increase damage against enemies on ground/water and reduce their damage | 
+  | 67 | ![Anti-Land Gem +4](/images/gem/bs3_img2.png) | [Anti-Land Gem +4](/gem/Anti-Land Gem_4) | Used to increase damage against enemies on ground/water and reduce their damage | 
+  | 68 | ![Anti-Land Gem +5](/images/gem/bs3_img2.png) | [Anti-Land Gem +5](/gem/Anti-Land Gem_5) | Used to increase damage against enemies on ground/water and reduce their damage | 
+  | 69 | ![Anti-Land Gem +6](/images/gem/bs3_img2.png) | [Anti-Land Gem +6](/gem/Anti-Land Gem_6) | Used to increase damage against enemies on ground/water and reduce their damage | 
+  | 70 | ![Anti-Land Gem +7](/images/gem/bs3_img2.png) | [Anti-Land Gem +7](/gem/Anti-Land Gem_7) | Used to increase damage against enemies on ground/water and reduce their damage | 
+  | 71 | ![Anti-Land Gem +8](/images/gem/bs3_img2.png) | [Anti-Land Gem +8](/gem/Anti-Land Gem_8) | Used to increase damage against enemies on ground/water and reduce their damage | 
+  | 72 | ![Anti-Land Gem +9](/images/gem/bs3_img2.png) | [Anti-Land Gem +9](/gem/Anti-Land Gem_9) | Used to increase damage against enemies on ground/water and reduce their damage | 

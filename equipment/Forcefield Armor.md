@@ -2,7 +2,7 @@
 title: "Equipment Forcefield Armor"
 permalink: /equipment/Forcefield Armor/
 excerpt: "Wing Fighter Equipment Forcefield Armor"
-last_modified_at: 2023-07-27
+last_modified_at: 2023-08-09
 locale: en
 ref: "Forcefield Armor.md"
 toc: false
@@ -36,8 +36,16 @@ classes: wide
 ## PvP information
 
 
- NONE
 
+  |  Nr |     Grade     |   PvP Damage Coefficient  |
+  |:----|:-------------:|:-------------------------:|
+  | 1  |   | 0.0 |
+  | 2  | ![+1](/images/sp_grade_1.png)  | 0.0 |
+  | 3  | ![+2](/images/sp_grade_2.png)  | 0.0 |
+  | 4  | ![+3](/images/sp_grade_3.png)  | 0.0 |
+  | 5  | ![+4](/images/sp_grade_4.png)  | 0.0 |
+  | 6  | ![+5](/images/sp_grade_5.png)  | 0.0 |
+  | 7  | ![+6](/images/sp_grade_6.png)  | 0.0 |
 
 
 ## Upgrade

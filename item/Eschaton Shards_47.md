@@ -2,7 +2,7 @@
 title: "Eschaton Shards"
 permalink: /item/Eschaton Shards_47/
 excerpt: "Wing Fighter Eschaton Shards"
-last_modified_at: 2023-07-27
+last_modified_at: 2023-08-09
 locale: en
 ref: "Eschaton Shards_47.md"
 toc: false

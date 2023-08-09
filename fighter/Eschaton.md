@@ -2,7 +2,7 @@
 title: "Fighter Eschaton"
 permalink: /fighter/Eschaton/
 excerpt: "Wing Fighter Eschaton"
-last_modified_at: 2023-08-04
+last_modified_at: 2023-08-09
 locale: en
 ref: "Eschaton.md"
 toc: false

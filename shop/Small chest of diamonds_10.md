@@ -2,7 +2,7 @@
 title: "Shop Small chest of diamonds"
 permalink: /shop/Small chest of diamonds_10/
 excerpt: "Wing Fighter Small chest of diamonds"
-last_modified_at: 2023-07-27
+last_modified_at: 2023-08-09
 locale: en
 ref: "Small chest of diamonds_10.md"
 toc: false
@@ -16,7 +16,7 @@ classes: wide
 
  **Name:** Small chest of diamonds 
 
- **Description:** First-time purchase <span style="color: #FFC926">+6500</span><br/><span style="color: #ffffff;"></span>
+ **Description:** First-time purchase <span style="color: #FFC926">+6500</span><br/><span style="color: #000000;"></span>
 
  **Shop Type:** [Diamonds](/shop/Shop Diamonds/)
 

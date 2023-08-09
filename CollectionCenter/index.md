@@ -2,7 +2,7 @@
 title: "Collection Center"
 permalink: /CollectionCenter/
 excerpt: "Wing Fighter Collection Center"
-last_modified_at: 2023-07-30
+last_modified_at: 2023-08-09
 locale: en
 ref: "index.md"
 toc: false

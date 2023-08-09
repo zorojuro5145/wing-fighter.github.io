@@ -2,7 +2,7 @@
 title: "Equipment Blazing Winggun"
 permalink: /equipment/Blazing Winggun/
 excerpt: "Wing Fighter Equipment Blazing Winggun"
-last_modified_at: 2023-07-27
+last_modified_at: 2023-08-09
 locale: en
 ref: "Blazing Winggun.md"
 toc: false
@@ -31,7 +31,7 @@ classes: wide
 
  **Type:** Attack 
 
- **Damage coefficient:** 0.7 
+ **Damage coefficient:** 1 
 
 ## PvP information
 
@@ -41,13 +41,13 @@ classes: wide
 
   |  Nr |     Grade     |   PvP Damage Coefficient  |
   |:----|:-------------:|:-------------------------:|
-  | 1  |   | 0.18 |
-  | 2  | ![+1](/images/sp_grade_1.png)  | 0.36 |
-  | 3  | ![+2](/images/sp_grade_2.png)  | 0.54 |
-  | 4  | ![+3](/images/sp_grade_3.png)  | 0.72 |
-  | 5  | ![+4](/images/sp_grade_4.png)  | 0.8999999999999999 |
-  | 6  | ![+5](/images/sp_grade_5.png)  | 1.0799999999999998 |
-  | 7  | ![+6](/images/sp_grade_6.png)  | 1.2599999999999998 |
+  | 1  |   | 0.225 |
+  | 2  | ![+1](/images/sp_grade_1.png)  | 0.45 |
+  | 3  | ![+2](/images/sp_grade_2.png)  | 0.675 |
+  | 4  | ![+3](/images/sp_grade_3.png)  | 0.9 |
+  | 5  | ![+4](/images/sp_grade_4.png)  | 1.125 |
+  | 6  | ![+5](/images/sp_grade_5.png)  | 1.35 |
+  | 7  | ![+6](/images/sp_grade_6.png)  | 1.5750000000000002 |
 
 
 ## Upgrade

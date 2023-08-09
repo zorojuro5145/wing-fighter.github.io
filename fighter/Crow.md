@@ -2,7 +2,7 @@
 title: "Fighter Crow"
 permalink: /fighter/Crow/
 excerpt: "Wing Fighter Crow"
-last_modified_at: 2023-08-04
+last_modified_at: 2023-08-09
 locale: en
 ref: "Crow.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Fighter Totem"
 permalink: /fighter/Totem/
 excerpt: "Wing Fighter Totem"
-last_modified_at: 2023-08-04
+last_modified_at: 2023-08-09
 locale: en
 ref: "Totem.md"
 toc: false

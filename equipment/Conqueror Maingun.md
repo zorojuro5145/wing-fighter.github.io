@@ -2,7 +2,7 @@
 title: "Equipment Conqueror Maingun"
 permalink: /equipment/Conqueror Maingun/
 excerpt: "Wing Fighter Equipment Conqueror Maingun"
-last_modified_at: 2023-08-04
+last_modified_at: 2023-08-09
 locale: en
 ref: "Conqueror Maingun.md"
 toc: false
@@ -54,13 +54,13 @@ classes: wide
 
   |  Nr |     Grade     |   PvP Damage Coefficient  |
   |:----|:-------------:|:-------------------------:|
-  | 1  |   | 0.0768 |
-  | 2  | ![+1](/images/sp_grade_1.png)  | 0.1536 |
-  | 3  | ![+2](/images/sp_grade_2.png)  | 0.2304 |
-  | 4  | ![+3](/images/sp_grade_3.png)  | 0.3072 |
-  | 5  | ![+4](/images/sp_grade_4.png)  | 0.38399999999999995 |
-  | 6  | ![+5](/images/sp_grade_5.png)  | 0.46079999999999993 |
-  | 7  | ![+6](/images/sp_grade_6.png)  | 0.5376 |
+  | 1  |   | 0.072 |
+  | 2  | ![+1](/images/sp_grade_1.png)  | 0.144 |
+  | 3  | ![+2](/images/sp_grade_2.png)  | 0.21599999999999997 |
+  | 4  | ![+3](/images/sp_grade_3.png)  | 0.288 |
+  | 5  | ![+4](/images/sp_grade_4.png)  | 0.36 |
+  | 6  | ![+5](/images/sp_grade_5.png)  | 0.432 |
+  | 7  | ![+6](/images/sp_grade_6.png)  | 0.533 |
 
 
 ## Upgrade

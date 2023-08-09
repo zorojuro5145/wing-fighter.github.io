@@ -2,7 +2,7 @@
 title: "Shop Small pile of diamonds"
 permalink: /shop/Small pile of diamonds_6/
 excerpt: "Wing Fighter Small pile of diamonds"
-last_modified_at: 2023-07-27
+last_modified_at: 2023-08-09
 locale: en
 ref: "Small pile of diamonds_6.md"
 toc: false
@@ -16,7 +16,7 @@ classes: wide
 
  **Name:** Small pile of diamonds 
 
- **Description:** First-time purchase <span style="color: #FFC926">+80</span><br/><span style="color: #ffffff;"></span>
+ **Description:** First-time purchase <span style="color: #FFC926">+80</span><br/><span style="color: #000000;"></span>
 
  **Shop Type:** [Diamonds](/shop/Shop Diamonds/)
 

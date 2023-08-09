@@ -2,7 +2,7 @@
 title: "Shop Ad-free (Month)"
 permalink: /shop/Ad-free (Month)_4/
 excerpt: "Wing Fighter Ad-free (Month)"
-last_modified_at: 2023-07-27
+last_modified_at: 2023-08-09
 locale: en
 ref: "Ad-free (Month)_4.md"
 toc: false
@@ -16,7 +16,7 @@ classes: wide
 
  **Name:** Ad-free (Month) 
 
- **Description:** Last for <span style="color: #FEDC98">One Month</span><br/><span style="color: #ffffff;"></span>
+ **Description:** Last for <span style="color: #FEDC98">One Month</span><br/><span style="color: #000000;"></span>
 
  **Shop Type:** [Ad-free](/shop/Shop Ad-free/)
 

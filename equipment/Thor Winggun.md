@@ -2,7 +2,7 @@
 title: "Equipment Thor Winggun"
 permalink: /equipment/Thor Winggun/
 excerpt: "Wing Fighter Equipment Thor Winggun"
-last_modified_at: 2023-08-04
+last_modified_at: 2023-08-09
 locale: en
 ref: "Thor Winggun.md"
 toc: false
@@ -33,7 +33,7 @@ classes: wide
 
  **Type:** Attack 
 
- **Damage coefficient:** 0.7 
+ **Damage coefficient:** 1 
 
 
 
@@ -54,13 +54,13 @@ classes: wide
 
   |  Nr |     Grade     |   PvP Damage Coefficient  |
   |:----|:-------------:|:-------------------------:|
-  | 1  |   | 0.096 |
-  | 2  | ![+1](/images/sp_grade_1.png)  | 0.192 |
-  | 3  | ![+2](/images/sp_grade_2.png)  | 0.28800000000000003 |
-  | 4  | ![+3](/images/sp_grade_3.png)  | 0.384 |
-  | 5  | ![+4](/images/sp_grade_4.png)  | 0.48 |
-  | 6  | ![+5](/images/sp_grade_5.png)  | 0.576 |
-  | 7  | ![+6](/images/sp_grade_6.png)  | 0.6719999999999999 |
+  | 1  |   | 0.09 |
+  | 2  | ![+1](/images/sp_grade_1.png)  | 0.18 |
+  | 3  | ![+2](/images/sp_grade_2.png)  | 0.27 |
+  | 4  | ![+3](/images/sp_grade_3.png)  | 0.36 |
+  | 5  | ![+4](/images/sp_grade_4.png)  | 0.46499999999999997 |
+  | 6  | ![+5](/images/sp_grade_5.png)  | 0.57 |
+  | 7  | ![+6](/images/sp_grade_6.png)  | 0.69 |
 
 
 ## Upgrade

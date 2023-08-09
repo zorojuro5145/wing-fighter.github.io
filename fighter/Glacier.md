@@ -2,7 +2,7 @@
 title: "Fighter Glacier"
 permalink: /fighter/Glacier/
 excerpt: "Wing Fighter Glacier"
-last_modified_at: 2023-08-04
+last_modified_at: 2023-08-09
 locale: en
 ref: "Glacier.md"
 toc: false

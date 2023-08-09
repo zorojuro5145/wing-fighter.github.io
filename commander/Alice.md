@@ -2,7 +2,7 @@
 title: "Commander Alice"
 permalink: /commander/Alice/
 excerpt: "Wing Fighter Alice"
-last_modified_at: 2023-07-26
+last_modified_at: 2023-08-09
 locale: en
 ref: "Alice.md"
 toc: false

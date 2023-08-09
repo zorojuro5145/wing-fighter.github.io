@@ -2,7 +2,7 @@
 title: "Flash Shards"
 permalink: /item/Flash Shards_46/
 excerpt: "Wing Fighter Flash Shards"
-last_modified_at: 2023-07-27
+last_modified_at: 2023-08-09
 locale: en
 ref: "Flash Shards_46.md"
 toc: false

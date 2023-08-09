@@ -2,7 +2,7 @@
 title: "CC Resource Module"
 permalink: /CollectionCenter/CC Resource Module/
 excerpt: "Wing Fighter CC ResourceModule"
-last_modified_at: 2023-07-30
+last_modified_at: 2023-08-09
 locale: en
 ref: "CC Resource Module.md"
 toc: false

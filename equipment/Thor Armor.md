@@ -2,7 +2,7 @@
 title: "Equipment Thor Armor"
 permalink: /equipment/Thor Armor/
 excerpt: "Wing Fighter Equipment Thor Armor"
-last_modified_at: 2023-08-04
+last_modified_at: 2023-08-09
 locale: en
 ref: "Thor Armor.md"
 toc: false
@@ -48,9 +48,19 @@ classes: wide
 
 ## PvP information
 
+ **PvP Attack Rate:** 10000 
 
- NONE
 
+
+  |  Nr |     Grade     |   PvP Damage Coefficient  |
+  |:----|:-------------:|:-------------------------:|
+  | 1  |   | 0.75 |
+  | 2  | ![+1](/images/sp_grade_1.png)  | 1.5 |
+  | 3  | ![+2](/images/sp_grade_2.png)  | 2.25 |
+  | 4  | ![+3](/images/sp_grade_3.png)  | 3.0 |
+  | 5  | ![+4](/images/sp_grade_4.png)  | 3.875 |
+  | 6  | ![+5](/images/sp_grade_5.png)  | 4.75 |
+  | 7  | ![+6](/images/sp_grade_6.png)  | 5.75 |
 
 
 ## Upgrade

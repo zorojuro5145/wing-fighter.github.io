@@ -2,7 +2,7 @@
 title: "Gem Winggun Gem +2"
 permalink: /gem/Winggun Gem_2/
 excerpt: "Wing Fighter Gem Winggun Gem +2"
-last_modified_at: 2023-07-27
+last_modified_at: 2023-08-09
 locale: en
 ref: "Winggun Gem_2.md"
 toc: false

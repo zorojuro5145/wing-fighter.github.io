@@ -2,7 +2,7 @@
 title: "Conqueror Shard"
 permalink: /item/Conqueror Shard_101/
 excerpt: "Wing Fighter Conqueror Shard"
-last_modified_at: 2023-07-27
+last_modified_at: 2023-08-09
 locale: en
 ref: "Conqueror Shard_101.md"
 toc: false

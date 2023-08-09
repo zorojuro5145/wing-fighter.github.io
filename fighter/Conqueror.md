@@ -2,7 +2,7 @@
 title: "Fighter Conqueror"
 permalink: /fighter/Conqueror/
 excerpt: "Wing Fighter Conqueror"
-last_modified_at: 2023-08-04
+last_modified_at: 2023-08-09
 locale: en
 ref: "Conqueror.md"
 toc: false

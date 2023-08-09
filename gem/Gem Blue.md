@@ -2,7 +2,7 @@
 title: "Gem Blue"
 permalink: /gem/Gem Blue/
 excerpt: "Wing Fighter Gem Blue"
-last_modified_at: 2023-07-27
+last_modified_at: 2023-08-09
 locale: en
 ref: "Gem Blue.md"
 toc: false

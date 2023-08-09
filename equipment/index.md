@@ -2,7 +2,7 @@
 title: "Equipment List"
 permalink: /equipment/
 excerpt: "Wing Fighter Equipment"
-last_modified_at: 2023-07-27
+last_modified_at: 2023-08-09
 locale: en
 ref: "index.md"
 toc: false

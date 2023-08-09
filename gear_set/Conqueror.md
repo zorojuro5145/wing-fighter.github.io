@@ -2,7 +2,7 @@
 title: "Gear Set Conqueror"
 permalink: /gear_set/Conqueror
 excerpt: "Wing Fighter Gear Set Conqueror"
-last_modified_at: 2023-07-31
+last_modified_at: 2023-08-09
 locale: en
 ref: "Conqueror.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Gem Anti-Land Gem +7"
 permalink: /gem/Anti-Land Gem_7/
 excerpt: "Wing Fighter Gem Anti-Land Gem +7"
-last_modified_at: 2023-07-27
+last_modified_at: 2023-08-09
 locale: en
 ref: "Anti-Land Gem_7.md"
 toc: false
@@ -23,7 +23,7 @@ classes: wide
 
  **Name:** Anti-Land Gem 
 
- **Description:** Used to increase damage against ground enemies and reduce their damage 
+ **Description:** Used to increase damage against enemies on ground/water and reduce their damage 
 
  **Level:** +7 
 

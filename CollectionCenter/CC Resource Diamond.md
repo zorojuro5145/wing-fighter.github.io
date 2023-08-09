@@ -2,7 +2,7 @@
 title: "CC Resource Diamond"
 permalink: /CollectionCenter/CC Resource Diamond/
 excerpt: "Wing Fighter CC ResourceDiamond"
-last_modified_at: 2023-07-30
+last_modified_at: 2023-08-09
 locale: en
 ref: "CC Resource Diamond.md"
 toc: false

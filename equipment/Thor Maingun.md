@@ -2,7 +2,7 @@
 title: "Equipment Thor Maingun"
 permalink: /equipment/Thor Maingun/
 excerpt: "Wing Fighter Equipment Thor Maingun"
-last_modified_at: 2023-08-04
+last_modified_at: 2023-08-09
 locale: en
 ref: "Thor Maingun.md"
 toc: false
@@ -54,13 +54,13 @@ classes: wide
 
   |  Nr |     Grade     |   PvP Damage Coefficient  |
   |:----|:-------------:|:-------------------------:|
-  | 1  |   | 0.1 |
-  | 2  | ![+1](/images/sp_grade_1.png)  | 0.2 |
-  | 3  | ![+2](/images/sp_grade_2.png)  | 0.30000000000000004 |
-  | 4  | ![+3](/images/sp_grade_3.png)  | 0.4 |
-  | 5  | ![+4](/images/sp_grade_4.png)  | 0.5 |
-  | 6  | ![+5](/images/sp_grade_5.png)  | 0.6 |
-  | 7  | ![+6](/images/sp_grade_6.png)  | 0.7 |
+  | 1  |   | 0.075 |
+  | 2  | ![+1](/images/sp_grade_1.png)  | 0.15 |
+  | 3  | ![+2](/images/sp_grade_2.png)  | 0.22499999999999998 |
+  | 4  | ![+3](/images/sp_grade_3.png)  | 0.3 |
+  | 5  | ![+4](/images/sp_grade_4.png)  | 0.375 |
+  | 6  | ![+5](/images/sp_grade_5.png)  | 0.45 |
+  | 7  | ![+6](/images/sp_grade_6.png)  | 0.555 |
 
 
 ## Upgrade

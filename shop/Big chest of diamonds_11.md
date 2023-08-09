@@ -2,7 +2,7 @@
 title: "Shop Big chest of diamonds"
 permalink: /shop/Big chest of diamonds_11/
 excerpt: "Wing Fighter Big chest of diamonds"
-last_modified_at: 2023-07-27
+last_modified_at: 2023-08-09
 locale: en
 ref: "Big chest of diamonds_11.md"
 toc: false
@@ -16,7 +16,7 @@ classes: wide
 
  **Name:** Big chest of diamonds 
 
- **Description:** First-time purchase <span style="color: #FFC926">+14000</span><br/><span style="color: #ffffff;"></span>
+ **Description:** First-time purchase <span style="color: #FFC926">+14000</span><br/><span style="color: #000000;"></span>
 
  **Shop Type:** [Diamonds](/shop/Shop Diamonds/)
 

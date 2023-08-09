@@ -2,7 +2,7 @@
 title: "Equipment Blast Shotgun"
 permalink: /equipment/Blast Shotgun/
 excerpt: "Wing Fighter Equipment Blast Shotgun"
-last_modified_at: 2023-07-27
+last_modified_at: 2023-08-09
 locale: en
 ref: "Blast Shotgun.md"
 toc: false
@@ -41,13 +41,13 @@ classes: wide
 
   |  Nr |     Grade     |   PvP Damage Coefficient  |
   |:----|:-------------:|:-------------------------:|
-  | 1  |   | 0.064 |
-  | 2  | ![+1](/images/sp_grade_1.png)  | 0.128 |
-  | 3  | ![+2](/images/sp_grade_2.png)  | 0.192 |
-  | 4  | ![+3](/images/sp_grade_3.png)  | 0.256 |
-  | 5  | ![+4](/images/sp_grade_4.png)  | 0.32 |
-  | 6  | ![+5](/images/sp_grade_5.png)  | 0.384 |
-  | 7  | ![+6](/images/sp_grade_6.png)  | 0.448 |
+  | 1  |   | 0.08 |
+  | 2  | ![+1](/images/sp_grade_1.png)  | 0.16 |
+  | 3  | ![+2](/images/sp_grade_2.png)  | 0.24 |
+  | 4  | ![+3](/images/sp_grade_3.png)  | 0.32 |
+  | 5  | ![+4](/images/sp_grade_4.png)  | 0.4 |
+  | 6  | ![+5](/images/sp_grade_5.png)  | 0.48000000000000004 |
+  | 7  | ![+6](/images/sp_grade_6.png)  | 0.56 |
 
 
 ## Upgrade

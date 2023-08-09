@@ -2,7 +2,7 @@
 title: "Shop Unknown"
 permalink: /shop/Unknown_27/
 excerpt: "Wing Fighter Unknown"
-last_modified_at: 2023-07-27
+last_modified_at: 2023-08-09
 locale: en
 ref: "Unknown_27.md"
 toc: false

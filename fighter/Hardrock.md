@@ -2,7 +2,7 @@
 title: "Fighter Hardrock"
 permalink: /fighter/Hardrock/
 excerpt: "Wing Fighter Hardrock"
-last_modified_at: 2023-08-04
+last_modified_at: 2023-08-09
 locale: en
 ref: "Hardrock.md"
 toc: false

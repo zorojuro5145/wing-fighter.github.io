@@ -2,7 +2,7 @@
 title: "Ultimate Module"
 permalink: /item/Ultimate Module_16/
 excerpt: "Wing Fighter Ultimate Module"
-last_modified_at: 2023-07-27
+last_modified_at: 2023-08-09
 locale: en
 ref: "Ultimate Module_16.md"
 toc: false

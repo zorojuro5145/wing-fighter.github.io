@@ -2,7 +2,7 @@
 title: "Phoenix Shards"
 permalink: /item/Phoenix Shards_43/
 excerpt: "Wing Fighter Phoenix Shards"
-last_modified_at: 2023-07-27
+last_modified_at: 2023-08-09
 locale: en
 ref: "Phoenix Shards_43.md"
 toc: false

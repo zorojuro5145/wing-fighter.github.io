@@ -2,7 +2,7 @@
 title: "Arrow Shards"
 permalink: /item/Arrow Shards_42/
 excerpt: "Wing Fighter Arrow Shards"
-last_modified_at: 2023-07-27
+last_modified_at: 2023-08-09
 locale: en
 ref: "Arrow Shards_42.md"
 toc: false

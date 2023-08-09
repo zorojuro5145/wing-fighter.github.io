@@ -2,7 +2,7 @@
 title: "Equipment Thor Missile"
 permalink: /equipment/Thor Missile/
 excerpt: "Wing Fighter Equipment Thor Missile"
-last_modified_at: 2023-08-04
+last_modified_at: 2023-08-09
 locale: en
 ref: "Thor Missile.md"
 toc: false
@@ -33,7 +33,7 @@ classes: wide
 
  **Type:** Attack 
 
- **Damage coefficient:** 1.5 
+ **Damage coefficient:** 1 
 
 
 
@@ -54,13 +54,13 @@ classes: wide
 
   |  Nr |     Grade     |   PvP Damage Coefficient  |
   |:----|:-------------:|:-------------------------:|
-  | 1  |   | 0.24 |
-  | 2  | ![+1](/images/sp_grade_1.png)  | 0.48 |
-  | 3  | ![+2](/images/sp_grade_2.png)  | 0.72 |
-  | 4  | ![+3](/images/sp_grade_3.png)  | 0.96 |
-  | 5  | ![+4](/images/sp_grade_4.png)  | 1.2 |
-  | 6  | ![+5](/images/sp_grade_5.png)  | 1.44 |
-  | 7  | ![+6](/images/sp_grade_6.png)  | 1.68 |
+  | 1  |   | 0.225 |
+  | 2  | ![+1](/images/sp_grade_1.png)  | 0.45 |
+  | 3  | ![+2](/images/sp_grade_2.png)  | 0.675 |
+  | 4  | ![+3](/images/sp_grade_3.png)  | 0.9 |
+  | 5  | ![+4](/images/sp_grade_4.png)  | 1.162 |
+  | 6  | ![+5](/images/sp_grade_5.png)  | 1.424 |
+  | 7  | ![+6](/images/sp_grade_6.png)  | 1.724 |
 
 
 ## Upgrade

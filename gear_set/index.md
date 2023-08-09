@@ -2,7 +2,7 @@
 title: "Gear Set"
 permalink: /gear_set/
 excerpt: "Wing Fighter Gear Set"
-last_modified_at: 2023-07-31
+last_modified_at: 2023-08-09
 locale: en
 ref: "index.md"
 toc: false

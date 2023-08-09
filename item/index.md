@@ -2,7 +2,7 @@
 title: "Wing Fighter Items"
 permalink: /item/
 excerpt: "Wing Fighter item"
-last_modified_at: 2023-07-27
+last_modified_at: 2023-08-09
 locale: en
 ref: "index.md"
 toc: false
@@ -94,12 +94,20 @@ classes: wide
   | 81 | ![Random Fighter of Gear Set](/images/item/Random_Fighter_of_Gear_Set_p.png) | 64 | [Random Fighter of Gear Set](/item/Random Fighter of Gear Set_80/) | Randomly get 1 shard of Conqueror Fighter or Thor Fighter | 1 | 60 | 
   | 82 | ![Random Equipment of Gear Set](/images/item/Random_Equipment_of_Gear_Set_p.png) | 65 | [Random Equipment of Gear Set](/item/Random Equipment of Gear Set_81/) | Randomly get 1 Epic Conqueror Equipment or Thor Equipment | 1 | 61 | 
   | 83 | ![Stargate Challenge Ticket](/images/item/Stargate_Challenge_Ticket_p.png) | 1 | [Stargate Challenge Ticket](/item/Stargate Challenge Ticket_82/) | Used to challenge Titan | 1 | 62 | 
-  | 84 | ![Random Epic Equipment](/images/item/Random_Epic_Equipment_p.png) | 62 | [Random Epic Equipment](/item/Random Epic Equipment_83/) | Randomly get one Epic Normal Equipment | 1 | 40 | 
-  | 85 | ![Random Epic Equipment](/images/item/Random_Epic_Equipment_p.png) | 62 | [Random Epic Equipment](/item/Random Epic Equipment_84/) | Randomly get one Epic Normal Equipment | 2 | 40 | 
-  | 86 | ![Random Epic Equipment](/images/item/Random_Epic_Equipment_p.png) | 62 | [Random Epic Equipment](/item/Random Epic Equipment_85/) | Randomly get one Epic Normal Equipment | 3 | 40 | 
+  | 84 | ![Random Epic Equipment](/images/item/Random_Epic_Equipment_p.png) | 62 | [Random Epic Equipment](/item/Random Epic Equipment_83/) | Randomly get one Epic Normal Equipment | 1 | 71 | 
+  | 85 | ![Random Epic Equipment](/images/item/Random_Epic_Equipment_p.png) | 62 | [Random Epic Equipment](/item/Random Epic Equipment_84/) | Randomly get one Epic Normal Equipment | 2 | 72 | 
+  | 86 | ![Random Epic Equipment](/images/item/Random_Epic_Equipment_p.png) | 62 | [Random Epic Equipment](/item/Random Epic Equipment_85/) | Randomly get one Epic Normal Equipment | 3 | 73 | 
   | 87 | ![Random 1-star Gem](/images/item/Random_1-star_Gem_p.png) | 62 | [Random 1-star Gem](/item/Random 1-star Gem_86/) | Randomly get one 1-star gem | 1 | 52 | 
   | 88 | ![Random 2-star Gem](/images/item/Random_2-star_Gem_p.png) | 62 | [Random 2-star Gem](/item/Random 2-star Gem_87/) | Randomly get one 2-star gem | 2 | 53 | 
-  | 89 | ![Unknown_2001](/images/item/daily_gift2_p.png) | 1 | [Unknown](/item/item_2001/) | ? | 1 | 21 | 
-  | 90 | ![Unknown_2002](/images/item/daily_gift2_p.png) | 1 | [Unknown](/item/item_2002/) | ? | 1 | 21 | 
-  | 91 | ![Unknown_2005](/images/item/daily_gift5_p.png) | 1 | [Unknown](/item/item_2005/) | ? | 1 | 14 | 
-  | 92 | ![Unknown_2006](/images/item/daily_gift3_p.png) | 1 | [Unknown](/item/item_2006/) | ? | 1 | 14 | 
+  | 89 | ![Recruitment Ticket](/images/item/Recruitment_Ticket_p.png) | 1 | [Recruitment Ticket](/item/Recruitment Ticket_88/) | Used to recruit pilot | 1 | 63 | 
+  | 90 | ![Unknown_89](/images/item/actor_debris_1_p.png) | 1 | [actor_debris_name_0](/item/actor_debris_name_0_89/) | ? | 1 | 64 | 
+  | 91 | ![Basic Training Guide](/images/item/Basic_Training_Guide_p.png) | 1 | [Basic Training Guide](/item/Basic Training Guide_90/) | Used to upgrade pilot | 1 | 65 | 
+  | 92 | ![Standard Training Guide](/images/item/Standard_Training_Guide_p.png) | 1 | [Standard Training Guide](/item/Standard Training Guide_91/) | Used to upgrade pilot | 1 | 66 | 
+  | 93 | ![Advanced Training Guide](/images/item/Advanced_Training_Guide_p.png) | 1 | [Advanced Training Guide](/item/Advanced Training Guide_92/) | Used to upgrade pilot | 1 | 67 | 
+  | 94 | ![Expert Training Guide](/images/item/Expert_Training_Guide_p.png) | 1 | [Expert Training Guide](/item/Expert Training Guide_93/) | Used to upgrade pilot | 1 | 68 | 
+  | 95 | ![Badge](/images/item/Badge_p.png) | 1 | [Badge](/item/Badge_94/) | Used to evolve pilot | 1 | 69 | 
+  | 96 | ![Pilot](/images/item/Pilot_p.png) | 1 | [Pilot](/item/Pilot_95/) | Pilot | 1 | 70 | 
+  | 97 | ![Unknown_2001](/images/item/daily_gift2_p.png) | 1 | [Unknown](/item/item_2001/) | ? | 1 | 21 | 
+  | 98 | ![Unknown_2002](/images/item/daily_gift2_p.png) | 1 | [Unknown](/item/item_2002/) | ? | 1 | 21 | 
+  | 99 | ![Unknown_2005](/images/item/daily_gift5_p.png) | 1 | [Unknown](/item/item_2005/) | ? | 1 | 14 | 
+  | 100 | ![Unknown_2006](/images/item/daily_gift3_p.png) | 1 | [Unknown](/item/item_2006/) | ? | 1 | 14 | 

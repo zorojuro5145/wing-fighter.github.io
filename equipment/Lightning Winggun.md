@@ -2,7 +2,7 @@
 title: "Equipment Lightning Winggun"
 permalink: /equipment/Lightning Winggun/
 excerpt: "Wing Fighter Equipment Lightning Winggun"
-last_modified_at: 2023-07-27
+last_modified_at: 2023-08-09
 locale: en
 ref: "Lightning Winggun.md"
 toc: false
@@ -31,7 +31,7 @@ classes: wide
 
  **Type:** Attack 
 
- **Damage coefficient:** 0.7 
+ **Damage coefficient:** 1 
 
 ## PvP information
 
@@ -41,13 +41,13 @@ classes: wide
 
   |  Nr |     Grade     |   PvP Damage Coefficient  |
   |:----|:-------------:|:-------------------------:|
-  | 1  |   | 0.09 |
-  | 2  | ![+1](/images/sp_grade_1.png)  | 0.18 |
-  | 3  | ![+2](/images/sp_grade_2.png)  | 0.27 |
-  | 4  | ![+3](/images/sp_grade_3.png)  | 0.36 |
-  | 5  | ![+4](/images/sp_grade_4.png)  | 0.44999999999999996 |
-  | 6  | ![+5](/images/sp_grade_5.png)  | 0.5399999999999999 |
-  | 7  | ![+6](/images/sp_grade_6.png)  | 0.6299999999999999 |
+  | 1  |   | 0.1125 |
+  | 2  | ![+1](/images/sp_grade_1.png)  | 0.225 |
+  | 3  | ![+2](/images/sp_grade_2.png)  | 0.3375 |
+  | 4  | ![+3](/images/sp_grade_3.png)  | 0.45 |
+  | 5  | ![+4](/images/sp_grade_4.png)  | 0.5625 |
+  | 6  | ![+5](/images/sp_grade_5.png)  | 0.675 |
+  | 7  | ![+6](/images/sp_grade_6.png)  | 0.7875000000000001 |
 
 
 ## Upgrade

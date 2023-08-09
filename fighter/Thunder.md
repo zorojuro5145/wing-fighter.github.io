@@ -2,7 +2,7 @@
 title: "Fighter Thunder"
 permalink: /fighter/Thunder/
 excerpt: "Wing Fighter Thunder"
-last_modified_at: 2023-08-04
+last_modified_at: 2023-08-09
 locale: en
 ref: "Thunder.md"
 toc: false

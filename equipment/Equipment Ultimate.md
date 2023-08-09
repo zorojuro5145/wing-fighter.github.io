@@ -2,7 +2,7 @@
 title: "Equipment Ultimate"
 permalink: /equipment/Equipment Ultimate/
 excerpt: "Wing Fighter Equipment Ultimate"
-last_modified_at: 2023-07-27
+last_modified_at: 2023-08-09
 locale: en
 ref: "Equipment Ultimate.md"
 toc: false

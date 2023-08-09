@@ -2,7 +2,7 @@
 title: "Shop Big pack of diamonds"
 permalink: /shop/Big pack of diamonds_9/
 excerpt: "Wing Fighter Big pack of diamonds"
-last_modified_at: 2023-07-27
+last_modified_at: 2023-08-09
 locale: en
 ref: "Big pack of diamonds_9.md"
 toc: false
@@ -16,7 +16,7 @@ classes: wide
 
  **Name:** Big pack of diamonds 
 
- **Description:** First-time purchase <span style="color: #FFC926">+2500</span><br/><span style="color: #ffffff;"></span>
+ **Description:** First-time purchase <span style="color: #FFC926">+2500</span><br/><span style="color: #000000;"></span>
 
  **Shop Type:** [Diamonds](/shop/Shop Diamonds/)
 
