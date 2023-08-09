@@ -31,9 +31,9 @@ classes: wide
 
   |  Level |     Bonus     |   Value   | Extra Power |
   |:-------|:-------------:|:---------:|:---------|
-  | 1  | Reduce the final damage of the enemy's energy attack  | **+null**  | **200** |
-  | 2  | Reduce the final damage of the enemy's energy attack  | **+null**  | **400** |
-  | 3  | Reduce the final damage of the enemy's energy attack  | **+null**  | **600** |
-  | 4  | Reduce the final damage of the enemy's energy attack  | **+null**  | **800** |
-  | 5  | Reduce the final damage of the enemy's energy attack  | **+null**  | **1000** |
+  | 1  | Reduce the final damage of the enemy's energy attack  | **+10**  | **200** |
+  | 2  | Reduce the final damage of the enemy's energy attack  | **+20**  | **400** |
+  | 3  | Reduce the final damage of the enemy's energy attack  | **+30**  | **600** |
+  | 4  | Reduce the final damage of the enemy's energy attack  | **+40**  | **800** |
+  | 5  | Reduce the final damage of the enemy's energy attack  | **+50**  | **1000** |
 

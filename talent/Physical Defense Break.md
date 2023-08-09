@@ -31,9 +31,9 @@ classes: wide
 
   |  Level |     Bonus     |   Value   | Extra Power |
   |:-------|:-------------:|:---------:|:---------|
-  | 1  | Increase the final damage of the physical attack  | **+null**  | **200** |
-  | 2  | Increase the final damage of the physical attack  | **+null**  | **400** |
-  | 3  | Increase the final damage of the physical attack  | **+null**  | **600** |
-  | 4  | Increase the final damage of the physical attack  | **+null**  | **800** |
-  | 5  | Increase the final damage of the physical attack  | **+null**  | **1000** |
+  | 1  | Increase the final damage of the physical attack  | **+10**  | **200** |
+  | 2  | Increase the final damage of the physical attack  | **+20**  | **400** |
+  | 3  | Increase the final damage of the physical attack  | **+30**  | **600** |
+  | 4  | Increase the final damage of the physical attack  | **+40**  | **800** |
+  | 5  | Increase the final damage of the physical attack  | **+50**  | **1000** |
 
