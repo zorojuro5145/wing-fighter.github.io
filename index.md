@@ -10,12 +10,69 @@ sidebar:
   nav: "docs"
 ---
 
-
 {% capture notice-update20230808 %}
 
 <img src="/images/pilots/xfxy_img23_p.png" alt="Pilots" width="161" height="256"/>
 
-* Wing Fighter got HUGE update. Pilots are in the game, New "AirSea Simulation" activity, New Talents, ...
+
+* Wing Fighter got HUGE update (version **1.7.542**). Pilots are in the game, New "AirSea Simulation" activity, New Talents, ...
+
+* Change log for version **1.7.542**. The Wiki is updated to this release - yes, some new features is in progress:
+
+	* PvP corrections:
+	
+		The Conqueror and Thor equipment reduced PvP damage coefficients. For normal equipment, mostly increased.
+
+	* Changes in GEMs:
+	
+		1. [Gem Anti-Land Gem](/gem/Gem Anti-Land Gem/)
+		
+		was: Used to increase damage against **ground enemies** and reduce their damage 
+		
+		new: Used to increase damage against **enemies on ground/water** and reduce their damage 
+
+		2. [Gem Enhancement Gem](/gem/Gem Enhancement Gem/)
+		
+		was: Used to increase damage against **strong foes** and reduce their damage
+		
+		new: Used to increase damage against **Bosses** and reduce their damage 
+
+
+	* NEW Commander -> not yet defined: [](/item/actor_debris_name_0_89/)
+
+
+	* New items: 
+
+		[Badge](/item/Badge_94/)
+		
+		[Pilot](/item/Pilot_95/)
+		
+		[Basic Training Guide](/item/Basic Training Guide_90/)
+		
+		[Standard Training Guide](/item/Standard Training Guide_91/)
+		
+		[Advanced Training Guide](/item/Advanced Training Guide_92/)
+		
+		[Expert Training Guide](/item/Expert Training Guide_93/)
+		
+		[Recruitment Ticket](/item/Recruitment Ticket_88/)
+
+	* New shop chests:
+
+		[Shop Pilot Recruit](/shop/Pilot Recruit_44/)
+		
+		[Shop Pilot Recruit x10 spins](/shop/Pilot Recruit_45/) 
+
+	* New Talents:
+
+		![Energy Defense Break](/images/talent/Talent_11_p.png) [Talent Energy Defense Break](/talent/Energy Defense Break/)
+		
+		![Energy Defense](/images/talent/Talent_12_p.png) [Talent Energy Defense](/talent/Energy Defense/)
+		
+		![Physical Defense Break](/images/talent/Talent_9_p.png) [Talent Physical Defense Break](/talent/Physical Defense Break/)
+		
+		![Physical Defense](/images/talent/Talent_10_p.png) [Talent Physical Defense](/talent/Physical Defense/)
+
 
 * Commander and Gems are moved into Talents Tab.
 
