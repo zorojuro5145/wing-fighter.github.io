@@ -38,7 +38,7 @@ sidebar:
 		new: Used to increase damage against **Bosses** and reduce their damage 
 
 
-	* NEW Commander -> not yet defined: [](/item/actor_debris_name_0_89/)
+	* NEW Commander -> not yet defined: [Undefined New Commander](/item/actor_debris_name_0_89/)
 
 
 	* New items: 
