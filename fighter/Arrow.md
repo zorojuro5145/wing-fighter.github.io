@@ -16,6 +16,8 @@ classes: wide
 
  **Rarity:** SR 
 
+ **Attack type:** ![Energy](/images/common_sx_icon8.png) 
+
  **Attack:** +150
 
  **HP:** +600
