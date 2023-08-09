@@ -25,6 +25,8 @@ classes: wide
 
  **Description:** Laser can shoot through enemies 
 
+ **Attack type:** ![Physical](/images/common_sx_icon9.png) 
+
  **Group:** Drone 
 
  **Slot:** Drone 

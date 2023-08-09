@@ -25,6 +25,8 @@ classes: wide
 
  **Description:** Low attack rate but high damage 
 
+ **Attack type:** ![Energy](/images/common_sx_icon8.png) 
+
  **Group:** Winggun 
 
  **Slot:** Winggun 

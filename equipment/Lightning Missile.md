@@ -25,6 +25,8 @@ classes: wide
 
  **Description:** Shoot a lighting ball, dealing damage to all enemies in its path 
 
+ **Attack type:** ![Physical](/images/common_sx_icon9.png) 
+
  **Group:** Missile 
 
  **Slot:** Missile 

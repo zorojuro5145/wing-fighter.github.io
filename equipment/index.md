@@ -17,37 +17,37 @@ classes: wide
 
 ## List of Equipment
 
-  |  Nr | Icon |      Equipment        |   Description   |
-  |:----|:----:|:---------------:|:---------------:|
-  | 1 | ![Ultimate - Ultimate Laser](/images/equipment/bs_icon_jg_p.png) | [Ultimate - Ultimate Laser](/equipment/Ultimate - Ultimate Laser) | Can be released in battle. Deal large damage to all enemies in front for 2 seconds, and clear the barrage ahead | 
-  | 2 | ![Hardened Armor](/images/equipment/zhuangjia1_p.png) | [Hardened Armor](/equipment/Hardened Armor) | Upgrade to increase fighter's HP | 
-  | 3 | ![Ultimate - Ultimate Bomb](/images/equipment/bs_icon_zd_p.png) | [Ultimate - Ultimate Bomb](/equipment/Ultimate - Ultimate Bomb) | Can be released in battle. Deal massive damage to surrounding enemies, and clear the barrage around | 
-  | 4 | ![Electrical Armor](/images/equipment/zhuangjia2_p.png) | [Electrical Armor](/equipment/Electrical Armor) | Deal lightning damage to up to 5 nearby enemies | 
-  | 5 | ![Winggun Cannon](/images/equipment/fupao1_p.png) | [Winggun Cannon](/equipment/Winggun Cannon) | Low attack rate but high damage | 
-  | 6 | ![Forcefield Armor](/images/equipment/zhuangjia3_p.png) | [Forcefield Armor](/equipment/Forcefield Armor) | Chance to dodge enemies attack | 
-  | 7 | ![Lightning Winggun](/images/equipment/fupao2_p.png) | [Lightning Winggun](/equipment/Lightning Winggun) | Splash effect after hitting a target | 
-  | 8 | ![HP Restore Armor](/images/equipment/zhuangjia4_p.png) | [HP Restore Armor](/equipment/HP Restore Armor) | Recovery effect of Red Heart +20% | 
-  | 9 | ![Blazing Winggun](/images/equipment/fupao3_p.png) | [Blazing Winggun](/equipment/Blazing Winggun) | Deal continuous burning damage to the target | 
-  | 10 | ![Shock Armor](/images/equipment/zhuangjia5_p.png) | [Shock Armor](/equipment/Shock Armor) | Generate shock waves every 10 seconds around the fighter, dealing damage to up to 10 enemies | 
-  | 11 | ![Prism Winggun](/images/equipment/fupao4_p.png) | [Prism Winggun](/equipment/Prism Winggun) | Deal laser damage to the locked target and all enemies along the path. | 
-  | 12 | ![Crescent Winggun](/images/equipment/fupao5_p.png) | [Crescent Winggun](/equipment/Crescent Winggun) | Crescent-shaped barrage, gradually enlarging with the firing distance. | 
-  | 13 | ![Thor Armor](/images/equipment/zhuangjia7_p.png) | [Thor Armor](/equipment/Thor Armor) | Form a ring lightning that revolves around the fighter, dealing damage to enemies it touches | 
-  | 14 | ![Thor Missile](/images/equipment/daodan6_p.png) | [Thor Missile](/equipment/Thor Missile) | Attract thunder from the atmosphere after hitting the enemy, dealing a heavy blow to the enemy | 
-  | 15 | ![Conqueror Armor](/images/equipment/zhuangjia6_p.png) | [Conqueror Armor](/equipment/Conqueror Armor) | Two blade shields around the fighter can resist once damage. The blade can be restored after a period of disappearance. | 
-  | 16 | ![Thor Winggun](/images/equipment/fupao7_p.png) | [Thor Winggun](/equipment/Thor Winggun) | Launch 2 lightning balls, forming a lightning force field after hitting the enemy, dealing damage to passing enemies | 
-  | 17 | ![Conqueror Missile](/images/equipment/daodan5_p.png) | [Conqueror Missile](/equipment/Conqueror Missile) | Cluster missiles that can release many homing missiles after exploding | 
-  | 18 | ![Thor Maingun](/images/equipment/zhupao7_p.png) | [Thor Maingun](/equipment/Thor Maingun) | Continuously launch lightning towards the front fan-shaped area | 
-  | 19 | ![Conqueror Winggun](/images/equipment/fupao6_p.png) | [Conqueror Winggun](/equipment/Conqueror Winggun) | Fire armor-piercing projectiles that can penetrate all targets | 
-  | 20 | ![Conqueror Maingun](/images/equipment/zhupao6_p.png) | [Conqueror Maingun](/equipment/Conqueror Maingun) | High attack rate with high damage | 
-  | 21 | ![Rapid Fire Drone](/images/equipment/wurenji1_p.png) | [Rapid Fire Drone](/equipment/Rapid Fire Drone) | Equipped with a rapid-firing weapon, good for offensive support | 
-  | 22 | ![Laser Drone](/images/equipment/wurenji3_p.png) | [Laser Drone](/equipment/Laser Drone) | Laser can shoot through enemies | 
-  | 23 | ![Standard Missile](/images/equipment/daodan1_p.png) | [Standard Missile](/equipment/Standard Missile) | Automatically track enemies | 
-  | 24 | ![Rocket Drone](/images/equipment/wurenji2_p.png) | [Rocket Drone](/equipment/Rocket Drone) | Launch a mini missile that seeks targets automatically | 
-  | 25 | ![High-Explosive Missile](/images/equipment/daodan2_p.png) | [High-Explosive Missile](/equipment/High-Explosive Missile) | Blast after hitting the target, dealing splash damage to surrounding enemies | 
-  | 26 | ![Heavy Machine Gun](/images/equipment/zhupao1_p.png) | [Heavy Machine Gun](/equipment/Heavy Machine Gun) | Wide firing range. | 
-  | 27 | ![Lightning Missile](/images/equipment/daodan3_p.png) | [Lightning Missile](/equipment/Lightning Missile) | Shoot a lighting ball, dealing damage to all enemies in its path | 
-  | 28 | ![Laser Gun](/images/equipment/zhupao2_p.png) | [Laser Gun](/equipment/Laser Gun) | Focused damage straight ahead | 
-  | 29 | ![Energy-Gathered Missile](/images/equipment/daodan4_p.png) | [Energy-Gathered Missile](/equipment/Energy-Gathered Missile) | Launch energy missiles capable of tracking and penetrating targets. | 
-  | 30 | ![Railgun](/images/equipment/zhupao3_p.png) | [Railgun](/equipment/Railgun) | Low attack rate but insane damage | 
-  | 31 | ![Batarang Gun](/images/equipment/zhupao4_p.png) | [Batarang Gun](/equipment/Batarang Gun) | Mid attack rate. Deal damage to multiple enemies | 
-  | 32 | ![Blast Shotgun](/images/equipment/zhupao5_p.png) | [Blast Shotgun](/equipment/Blast Shotgun) | Increase damage against closer targets | 
+  |  Nr | Icon |      Equipment        |   Description   | Attack Type |
+  |:----|:----:|:---------------:|:---------------:|:---:|
+  | 1 | ![Ultimate - Ultimate Laser](/images/equipment/bs_icon_jg_p.png) | [Ultimate - Ultimate Laser](/equipment/Ultimate - Ultimate Laser) | Can be released in battle. Deal large damage to all enemies in front for 2 seconds, and clear the barrage ahead | ![Physical](/images/common_sx_icon9.png) | 
+  | 2 | ![Hardened Armor](/images/equipment/zhuangjia1_p.png) | [Hardened Armor](/equipment/Hardened Armor) | Upgrade to increase fighter's HP | ![Physical](/images/common_sx_icon9.png) | 
+  | 3 | ![Ultimate - Ultimate Bomb](/images/equipment/bs_icon_zd_p.png) | [Ultimate - Ultimate Bomb](/equipment/Ultimate - Ultimate Bomb) | Can be released in battle. Deal massive damage to surrounding enemies, and clear the barrage around | ![Energy](/images/common_sx_icon8.png) | 
+  | 4 | ![Electrical Armor](/images/equipment/zhuangjia2_p.png) | [Electrical Armor](/equipment/Electrical Armor) | Deal lightning damage to up to 5 nearby enemies | ![Energy](/images/common_sx_icon8.png) | 
+  | 5 | ![Winggun Cannon](/images/equipment/fupao1_p.png) | [Winggun Cannon](/equipment/Winggun Cannon) | Low attack rate but high damage | ![Energy](/images/common_sx_icon8.png) | 
+  | 6 | ![Forcefield Armor](/images/equipment/zhuangjia3_p.png) | [Forcefield Armor](/equipment/Forcefield Armor) | Chance to dodge enemies attack | ![Physical](/images/common_sx_icon9.png) | 
+  | 7 | ![Lightning Winggun](/images/equipment/fupao2_p.png) | [Lightning Winggun](/equipment/Lightning Winggun) | Splash effect after hitting a target | ![Physical](/images/common_sx_icon9.png) | 
+  | 8 | ![HP Restore Armor](/images/equipment/zhuangjia4_p.png) | [HP Restore Armor](/equipment/HP Restore Armor) | Recovery effect of Red Heart +20% | ![Energy](/images/common_sx_icon8.png) | 
+  | 9 | ![Blazing Winggun](/images/equipment/fupao3_p.png) | [Blazing Winggun](/equipment/Blazing Winggun) | Deal continuous burning damage to the target | ![Energy](/images/common_sx_icon8.png) | 
+  | 10 | ![Shock Armor](/images/equipment/zhuangjia5_p.png) | [Shock Armor](/equipment/Shock Armor) | Generate shock waves every 10 seconds around the fighter, dealing damage to up to 10 enemies | ![Physical](/images/common_sx_icon9.png) | 
+  | 11 | ![Prism Winggun](/images/equipment/fupao4_p.png) | [Prism Winggun](/equipment/Prism Winggun) | Deal laser damage to the locked target and all enemies along the path. | ![Physical](/images/common_sx_icon9.png) | 
+  | 12 | ![Crescent Winggun](/images/equipment/fupao5_p.png) | [Crescent Winggun](/equipment/Crescent Winggun) | Crescent-shaped barrage, gradually enlarging with the firing distance. | ![Energy](/images/common_sx_icon8.png) | 
+  | 13 | ![Thor Armor](/images/equipment/zhuangjia7_p.png) | [Thor Armor](/equipment/Thor Armor) | Form a ring lightning that revolves around the fighter, dealing damage to enemies it touches | ![Energy](/images/common_sx_icon8.png) | 
+  | 14 | ![Thor Missile](/images/equipment/daodan6_p.png) | [Thor Missile](/equipment/Thor Missile) | Attract thunder from the atmosphere after hitting the enemy, dealing a heavy blow to the enemy | ![Physical](/images/common_sx_icon9.png) | 
+  | 15 | ![Conqueror Armor](/images/equipment/zhuangjia6_p.png) | [Conqueror Armor](/equipment/Conqueror Armor) | Two blade shields around the fighter can resist once damage. The blade can be restored after a period of disappearance. | ![Energy](/images/common_sx_icon8.png) | 
+  | 16 | ![Thor Winggun](/images/equipment/fupao7_p.png) | [Thor Winggun](/equipment/Thor Winggun) | Launch 2 lightning balls, forming a lightning force field after hitting the enemy, dealing damage to passing enemies | ![Energy](/images/common_sx_icon8.png) | 
+  | 17 | ![Conqueror Missile](/images/equipment/daodan5_p.png) | [Conqueror Missile](/equipment/Conqueror Missile) | Cluster missiles that can release many homing missiles after exploding | ![Physical](/images/common_sx_icon9.png) | 
+  | 18 | ![Thor Maingun](/images/equipment/zhupao7_p.png) | [Thor Maingun](/equipment/Thor Maingun) | Continuously launch lightning towards the front fan-shaped area | ![Physical](/images/common_sx_icon9.png) | 
+  | 19 | ![Conqueror Winggun](/images/equipment/fupao6_p.png) | [Conqueror Winggun](/equipment/Conqueror Winggun) | Fire armor-piercing projectiles that can penetrate all targets | ![Energy](/images/common_sx_icon8.png) | 
+  | 20 | ![Conqueror Maingun](/images/equipment/zhupao6_p.png) | [Conqueror Maingun](/equipment/Conqueror Maingun) | High attack rate with high damage | ![Physical](/images/common_sx_icon9.png) | 
+  | 21 | ![Rapid Fire Drone](/images/equipment/wurenji1_p.png) | [Rapid Fire Drone](/equipment/Rapid Fire Drone) | Equipped with a rapid-firing weapon, good for offensive support | ![Energy](/images/common_sx_icon8.png) | 
+  | 22 | ![Laser Drone](/images/equipment/wurenji3_p.png) | [Laser Drone](/equipment/Laser Drone) | Laser can shoot through enemies | ![Physical](/images/common_sx_icon9.png) | 
+  | 23 | ![Standard Missile](/images/equipment/daodan1_p.png) | [Standard Missile](/equipment/Standard Missile) | Automatically track enemies | ![Physical](/images/common_sx_icon9.png) | 
+  | 24 | ![Rocket Drone](/images/equipment/wurenji2_p.png) | [Rocket Drone](/equipment/Rocket Drone) | Launch a mini missile that seeks targets automatically | ![Energy](/images/common_sx_icon8.png) | 
+  | 25 | ![High-Explosive Missile](/images/equipment/daodan2_p.png) | [High-Explosive Missile](/equipment/High-Explosive Missile) | Blast after hitting the target, dealing splash damage to surrounding enemies | ![Energy](/images/common_sx_icon8.png) | 
+  | 26 | ![Heavy Machine Gun](/images/equipment/zhupao1_p.png) | [Heavy Machine Gun](/equipment/Heavy Machine Gun) | Wide firing range. | ![Physical](/images/common_sx_icon9.png) | 
+  | 27 | ![Lightning Missile](/images/equipment/daodan3_p.png) | [Lightning Missile](/equipment/Lightning Missile) | Shoot a lighting ball, dealing damage to all enemies in its path | ![Physical](/images/common_sx_icon9.png) | 
+  | 28 | ![Laser Gun](/images/equipment/zhupao2_p.png) | [Laser Gun](/equipment/Laser Gun) | Focused damage straight ahead | ![Energy](/images/common_sx_icon8.png) | 
+  | 29 | ![Energy-Gathered Missile](/images/equipment/daodan4_p.png) | [Energy-Gathered Missile](/equipment/Energy-Gathered Missile) | Launch energy missiles capable of tracking and penetrating targets. | ![Energy](/images/common_sx_icon8.png) | 
+  | 30 | ![Railgun](/images/equipment/zhupao3_p.png) | [Railgun](/equipment/Railgun) | Low attack rate but insane damage | ![Physical](/images/common_sx_icon9.png) | 
+  | 31 | ![Batarang Gun](/images/equipment/zhupao4_p.png) | [Batarang Gun](/equipment/Batarang Gun) | Mid attack rate. Deal damage to multiple enemies | ![Energy](/images/common_sx_icon8.png) | 
+  | 32 | ![Blast Shotgun](/images/equipment/zhupao5_p.png) | [Blast Shotgun](/equipment/Blast Shotgun) | Increase damage against closer targets | ![Physical](/images/common_sx_icon9.png) | 

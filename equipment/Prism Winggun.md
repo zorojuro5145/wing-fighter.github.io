@@ -25,6 +25,8 @@ classes: wide
 
  **Description:** Deal laser damage to the locked target and all enemies along the path. 
 
+ **Attack type:** ![Physical](/images/common_sx_icon9.png) 
+
  **Group:** Winggun 
 
  **Slot:** Winggun 

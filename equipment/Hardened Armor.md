@@ -25,6 +25,8 @@ classes: wide
 
  **Description:** Upgrade to increase fighter's HP 
 
+ **Attack type:** ![Physical](/images/common_sx_icon9.png) 
+
  **Group:** Armor 
 
  **Slot:** Armor 

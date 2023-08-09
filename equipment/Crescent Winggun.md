@@ -25,6 +25,8 @@ classes: wide
 
  **Description:** Crescent-shaped barrage, gradually enlarging with the firing distance. 
 
+ **Attack type:** ![Energy](/images/common_sx_icon8.png) 
+
  **Group:** Winggun 
 
  **Slot:** Winggun 

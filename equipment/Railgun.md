@@ -25,6 +25,8 @@ classes: wide
 
  **Description:** Low attack rate but insane damage 
 
+ **Attack type:** ![Physical](/images/common_sx_icon9.png) 
+
  **Group:** Gun 
 
  **Slot:** Maingun 

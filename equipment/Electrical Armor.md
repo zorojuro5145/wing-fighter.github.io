@@ -25,6 +25,8 @@ classes: wide
 
  **Description:** Deal lightning damage to up to 5 nearby enemies 
 
+ **Attack type:** ![Energy](/images/common_sx_icon8.png) 
+
  **Group:** Armor 
 
  **Slot:** Armor 

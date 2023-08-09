@@ -27,6 +27,8 @@ classes: wide
 
  **Gear Set:** [Gear Set Conqueror](/gear_set/Conqueror){: .btn .btn--warning}
 
+ **Attack type:** ![Physical](/images/common_sx_icon9.png) 
+
  **Group:** SSR Maingun 
 
  **Slot:** Maingun 

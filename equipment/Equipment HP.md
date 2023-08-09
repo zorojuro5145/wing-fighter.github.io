@@ -17,12 +17,12 @@ classes: wide
 
 ## List of Equipment
 
-  |  Nr | Icon |      Equipment        |   Description   |
-  |:----|:----:|:---------------:|:---------------:|
-  | 2 | ![Hardened Armor](/images/equipment/zhuangjia1_p.png) | [Hardened Armor](/equipment/Hardened Armor) | Upgrade to increase fighter's HP | 
-  | 4 | ![Electrical Armor](/images/equipment/zhuangjia2_p.png) | [Electrical Armor](/equipment/Electrical Armor) | Deal lightning damage to up to 5 nearby enemies | 
-  | 6 | ![Forcefield Armor](/images/equipment/zhuangjia3_p.png) | [Forcefield Armor](/equipment/Forcefield Armor) | Chance to dodge enemies attack | 
-  | 8 | ![HP Restore Armor](/images/equipment/zhuangjia4_p.png) | [HP Restore Armor](/equipment/HP Restore Armor) | Recovery effect of Red Heart +20% | 
-  | 10 | ![Shock Armor](/images/equipment/zhuangjia5_p.png) | [Shock Armor](/equipment/Shock Armor) | Generate shock waves every 10 seconds around the fighter, dealing damage to up to 10 enemies | 
-  | 13 | ![Thor Armor](/images/equipment/zhuangjia7_p.png) | [Thor Armor](/equipment/Thor Armor) | Form a ring lightning that revolves around the fighter, dealing damage to enemies it touches | 
-  | 15 | ![Conqueror Armor](/images/equipment/zhuangjia6_p.png) | [Conqueror Armor](/equipment/Conqueror Armor) | Two blade shields around the fighter can resist once damage. The blade can be restored after a period of disappearance. | 
+  |  Nr | Icon |      Equipment        |   Description   | Attack Type |
+  |:----|:----:|:---------------:|:---------------:|:---:|
+  | 2 | ![Hardened Armor](/images/equipment/zhuangjia1_p.png) | [Hardened Armor](/equipment/Hardened Armor) | Upgrade to increase fighter's HP | ![Physical](/images/common_sx_icon9.png) | 
+  | 4 | ![Electrical Armor](/images/equipment/zhuangjia2_p.png) | [Electrical Armor](/equipment/Electrical Armor) | Deal lightning damage to up to 5 nearby enemies | ![Energy](/images/common_sx_icon8.png) | 
+  | 6 | ![Forcefield Armor](/images/equipment/zhuangjia3_p.png) | [Forcefield Armor](/equipment/Forcefield Armor) | Chance to dodge enemies attack | ![Physical](/images/common_sx_icon9.png) | 
+  | 8 | ![HP Restore Armor](/images/equipment/zhuangjia4_p.png) | [HP Restore Armor](/equipment/HP Restore Armor) | Recovery effect of Red Heart +20% | ![Energy](/images/common_sx_icon8.png) | 
+  | 10 | ![Shock Armor](/images/equipment/zhuangjia5_p.png) | [Shock Armor](/equipment/Shock Armor) | Generate shock waves every 10 seconds around the fighter, dealing damage to up to 10 enemies | ![Physical](/images/common_sx_icon9.png) | 
+  | 13 | ![Thor Armor](/images/equipment/zhuangjia7_p.png) | [Thor Armor](/equipment/Thor Armor) | Form a ring lightning that revolves around the fighter, dealing damage to enemies it touches | ![Energy](/images/common_sx_icon8.png) | 
+  | 15 | ![Conqueror Armor](/images/equipment/zhuangjia6_p.png) | [Conqueror Armor](/equipment/Conqueror Armor) | Two blade shields around the fighter can resist once damage. The blade can be restored after a period of disappearance. | ![Energy](/images/common_sx_icon8.png) | 

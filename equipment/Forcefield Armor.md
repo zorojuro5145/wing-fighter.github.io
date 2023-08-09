@@ -25,6 +25,8 @@ classes: wide
 
  **Description:** Chance to dodge enemies attack 
 
+ **Attack type:** ![Physical](/images/common_sx_icon9.png) 
+
  **Group:** Armor 
 
  **Slot:** Armor 

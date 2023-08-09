@@ -25,6 +25,8 @@ classes: wide
 
  **Description:** Can be released in battle. Deal massive damage to surrounding enemies, and clear the barrage around 
 
+ **Attack type:** ![Energy](/images/common_sx_icon8.png) 
+
  **Group:** Ultimate 
 
  **Slot:** Ultimate 

@@ -17,7 +17,7 @@ classes: wide
 
 ## List of Equipment
 
-  |  Nr | Icon |      Equipment        |   Description   |
-  |:----|:----:|:---------------:|:---------------:|
-  | 18 | ![Thor Maingun](/images/equipment/zhupao7_p.png) | [Thor Maingun](/equipment/Thor Maingun) | Continuously launch lightning towards the front fan-shaped area | 
-  | 20 | ![Conqueror Maingun](/images/equipment/zhupao6_p.png) | [Conqueror Maingun](/equipment/Conqueror Maingun) | High attack rate with high damage | 
+  |  Nr | Icon |      Equipment        |   Description   | Attack Type |
+  |:----|:----:|:---------------:|:---------------:|:---:|
+  | 18 | ![Thor Maingun](/images/equipment/zhupao7_p.png) | [Thor Maingun](/equipment/Thor Maingun) | Continuously launch lightning towards the front fan-shaped area | ![Physical](/images/common_sx_icon9.png) | 
+  | 20 | ![Conqueror Maingun](/images/equipment/zhupao6_p.png) | [Conqueror Maingun](/equipment/Conqueror Maingun) | High attack rate with high damage | ![Physical](/images/common_sx_icon9.png) | 

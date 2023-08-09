@@ -25,6 +25,8 @@ classes: wide
 
  **Description:** Wide firing range. 
 
+ **Attack type:** ![Physical](/images/common_sx_icon9.png) 
+
  **Group:** Gun 
 
  **Slot:** Maingun 

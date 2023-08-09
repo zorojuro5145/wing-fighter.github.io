@@ -25,6 +25,8 @@ classes: wide
 
  **Description:** Blast after hitting the target, dealing splash damage to surrounding enemies 
 
+ **Attack type:** ![Energy](/images/common_sx_icon8.png) 
+
  **Group:** Missile 
 
  **Slot:** Missile 

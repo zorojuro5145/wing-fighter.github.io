@@ -25,6 +25,8 @@ classes: wide
 
  **Description:** Generate shock waves every 10 seconds around the fighter, dealing damage to up to 10 enemies 
 
+ **Attack type:** ![Physical](/images/common_sx_icon9.png) 
+
  **Group:** Armor 
 
  **Slot:** Armor 

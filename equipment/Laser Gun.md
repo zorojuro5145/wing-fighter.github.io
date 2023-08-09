@@ -25,6 +25,8 @@ classes: wide
 
  **Description:** Focused damage straight ahead 
 
+ **Attack type:** ![Energy](/images/common_sx_icon8.png) 
+
  **Group:** Gun 
 
  **Slot:** Maingun 

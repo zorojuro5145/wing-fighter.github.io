@@ -17,7 +17,7 @@ classes: wide
 
 ## List of Equipment
 
-  |  Nr | Icon |      Equipment        |   Description   |
-  |:----|:----:|:---------------:|:---------------:|
-  | 13 | ![Thor Armor](/images/equipment/zhuangjia7_p.png) | [Thor Armor](/equipment/Thor Armor) | Form a ring lightning that revolves around the fighter, dealing damage to enemies it touches | 
-  | 15 | ![Conqueror Armor](/images/equipment/zhuangjia6_p.png) | [Conqueror Armor](/equipment/Conqueror Armor) | Two blade shields around the fighter can resist once damage. The blade can be restored after a period of disappearance. | 
+  |  Nr | Icon |      Equipment        |   Description   | Attack Type |
+  |:----|:----:|:---------------:|:---------------:|:---:|
+  | 13 | ![Thor Armor](/images/equipment/zhuangjia7_p.png) | [Thor Armor](/equipment/Thor Armor) | Form a ring lightning that revolves around the fighter, dealing damage to enemies it touches | ![Energy](/images/common_sx_icon8.png) | 
+  | 15 | ![Conqueror Armor](/images/equipment/zhuangjia6_p.png) | [Conqueror Armor](/equipment/Conqueror Armor) | Two blade shields around the fighter can resist once damage. The blade can be restored after a period of disappearance. | ![Energy](/images/common_sx_icon8.png) | 

@@ -25,6 +25,8 @@ classes: wide
 
  **Description:** Equipped with a rapid-firing weapon, good for offensive support 
 
+ **Attack type:** ![Energy](/images/common_sx_icon8.png) 
+
  **Group:** Drone 
 
  **Slot:** Drone 

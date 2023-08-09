@@ -25,6 +25,8 @@ classes: wide
 
  **Description:** Splash effect after hitting a target 
 
+ **Attack type:** ![Physical](/images/common_sx_icon9.png) 
+
  **Group:** Winggun 
 
  **Slot:** Winggun 

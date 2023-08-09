@@ -27,6 +27,8 @@ classes: wide
 
  **Gear Set:** [Gear Set Thor](/gear_set/Thor){: .btn .btn--info}
 
+ **Attack type:** ![Physical](/images/common_sx_icon9.png) 
+
  **Group:** SSR Maingun 
 
  **Slot:** Maingun 

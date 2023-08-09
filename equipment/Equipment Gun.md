@@ -17,10 +17,10 @@ classes: wide
 
 ## List of Equipment
 
-  |  Nr | Icon |      Equipment        |   Description   |
-  |:----|:----:|:---------------:|:---------------:|
-  | 26 | ![Heavy Machine Gun](/images/equipment/zhupao1_p.png) | [Heavy Machine Gun](/equipment/Heavy Machine Gun) | Wide firing range. | 
-  | 28 | ![Laser Gun](/images/equipment/zhupao2_p.png) | [Laser Gun](/equipment/Laser Gun) | Focused damage straight ahead | 
-  | 30 | ![Railgun](/images/equipment/zhupao3_p.png) | [Railgun](/equipment/Railgun) | Low attack rate but insane damage | 
-  | 31 | ![Batarang Gun](/images/equipment/zhupao4_p.png) | [Batarang Gun](/equipment/Batarang Gun) | Mid attack rate. Deal damage to multiple enemies | 
-  | 32 | ![Blast Shotgun](/images/equipment/zhupao5_p.png) | [Blast Shotgun](/equipment/Blast Shotgun) | Increase damage against closer targets | 
+  |  Nr | Icon |      Equipment        |   Description   | Attack Type |
+  |:----|:----:|:---------------:|:---------------:|:---:|
+  | 26 | ![Heavy Machine Gun](/images/equipment/zhupao1_p.png) | [Heavy Machine Gun](/equipment/Heavy Machine Gun) | Wide firing range. | ![Physical](/images/common_sx_icon9.png) | 
+  | 28 | ![Laser Gun](/images/equipment/zhupao2_p.png) | [Laser Gun](/equipment/Laser Gun) | Focused damage straight ahead | ![Energy](/images/common_sx_icon8.png) | 
+  | 30 | ![Railgun](/images/equipment/zhupao3_p.png) | [Railgun](/equipment/Railgun) | Low attack rate but insane damage | ![Physical](/images/common_sx_icon9.png) | 
+  | 31 | ![Batarang Gun](/images/equipment/zhupao4_p.png) | [Batarang Gun](/equipment/Batarang Gun) | Mid attack rate. Deal damage to multiple enemies | ![Energy](/images/common_sx_icon8.png) | 
+  | 32 | ![Blast Shotgun](/images/equipment/zhupao5_p.png) | [Blast Shotgun](/equipment/Blast Shotgun) | Increase damage against closer targets | ![Physical](/images/common_sx_icon9.png) | 

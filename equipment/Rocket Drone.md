@@ -25,6 +25,8 @@ classes: wide
 
  **Description:** Launch a mini missile that seeks targets automatically 
 
+ **Attack type:** ![Energy](/images/common_sx_icon8.png) 
+
  **Group:** Drone 
 
  **Slot:** Drone 

@@ -25,6 +25,8 @@ classes: wide
 
  **Description:** Mid attack rate. Deal damage to multiple enemies 
 
+ **Attack type:** ![Energy](/images/common_sx_icon8.png) 
+
  **Group:** Gun 
 
  **Slot:** Maingun 

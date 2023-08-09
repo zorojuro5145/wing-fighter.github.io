@@ -25,6 +25,8 @@ classes: wide
 
  **Description:** Can be released in battle. Deal large damage to all enemies in front for 2 seconds, and clear the barrage ahead 
 
+ **Attack type:** ![Physical](/images/common_sx_icon9.png) 
+
  **Group:** Ultimate 
 
  **Slot:** Ultimate 

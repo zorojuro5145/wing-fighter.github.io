@@ -25,6 +25,8 @@ classes: wide
 
  **Description:** Automatically track enemies 
 
+ **Attack type:** ![Physical](/images/common_sx_icon9.png) 
+
  **Group:** Missile 
 
  **Slot:** Missile 

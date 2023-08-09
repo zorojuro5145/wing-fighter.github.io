@@ -27,6 +27,8 @@ classes: wide
 
  **Gear Set:** [Gear Set Conqueror](/gear_set/Conqueror){: .btn .btn--warning}
 
+ **Attack type:** ![Energy](/images/common_sx_icon8.png) 
+
  **Group:** SSR Winggun 
 
  **Slot:** Winggun 

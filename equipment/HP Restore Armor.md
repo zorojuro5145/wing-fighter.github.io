@@ -25,6 +25,8 @@ classes: wide
 
  **Description:** Recovery effect of Red Heart +20% 
 
+ **Attack type:** ![Energy](/images/common_sx_icon8.png) 
+
  **Group:** Armor 
 
  **Slot:** Armor 

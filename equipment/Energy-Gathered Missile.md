@@ -25,6 +25,8 @@ classes: wide
 
  **Description:** Launch energy missiles capable of tracking and penetrating targets. 
 
+ **Attack type:** ![Energy](/images/common_sx_icon8.png) 
+
  **Group:** Missile 
 
  **Slot:** Missile 

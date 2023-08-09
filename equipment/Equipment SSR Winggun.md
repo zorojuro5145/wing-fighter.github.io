@@ -17,7 +17,7 @@ classes: wide
 
 ## List of Equipment
 
-  |  Nr | Icon |      Equipment        |   Description   |
-  |:----|:----:|:---------------:|:---------------:|
-  | 16 | ![Thor Winggun](/images/equipment/fupao7_p.png) | [Thor Winggun](/equipment/Thor Winggun) | Launch 2 lightning balls, forming a lightning force field after hitting the enemy, dealing damage to passing enemies | 
-  | 19 | ![Conqueror Winggun](/images/equipment/fupao6_p.png) | [Conqueror Winggun](/equipment/Conqueror Winggun) | Fire armor-piercing projectiles that can penetrate all targets | 
+  |  Nr | Icon |      Equipment        |   Description   | Attack Type |
+  |:----|:----:|:---------------:|:---------------:|:---:|
+  | 16 | ![Thor Winggun](/images/equipment/fupao7_p.png) | [Thor Winggun](/equipment/Thor Winggun) | Launch 2 lightning balls, forming a lightning force field after hitting the enemy, dealing damage to passing enemies | ![Energy](/images/common_sx_icon8.png) | 
+  | 19 | ![Conqueror Winggun](/images/equipment/fupao6_p.png) | [Conqueror Winggun](/equipment/Conqueror Winggun) | Fire armor-piercing projectiles that can penetrate all targets | ![Energy](/images/common_sx_icon8.png) | 
