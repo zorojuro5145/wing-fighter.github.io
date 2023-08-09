@@ -43,19 +43,20 @@ sidebar:
 
 	* New items: 
 
-		[Badge](/item/Badge_94/)
-		
-		[Pilot](/item/Pilot_95/)
-		
-		[Basic Training Guide](/item/Basic Training Guide_90/)
-		
-		[Standard Training Guide](/item/Standard Training Guide_91/)
-		
-		[Advanced Training Guide](/item/Advanced Training Guide_92/)
-		
-		[Expert Training Guide](/item/Expert Training Guide_93/)
-		
-		[Recruitment Ticket](/item/Recruitment Ticket_88/)
+		![Badge](/images/item/Badge_p.png) [Badge](/item/Badge_94/)
+
+		![Basic Training Guide](/images/item/Basic_Training_Guide_p.png) [Basic Training Guide](/item/Basic Training Guide_90/)
+
+		![Standard Training Guide](/images/item/Standard_Training_Guide_p.png) [Standard Training Guide](/item/Standard Training Guide_91/)
+
+		![Advanced Training Guide](/images/item/Advanced_Training_Guide_p.png) [Advanced Training Guide](/item/Advanced Training Guide_92/)
+
+		![Expert Training Guide](/images/item/Expert_Training_Guide_p.png) [Expert Training Guide](/item/Expert Training Guide_93/)
+
+		![Pilot](/images/item/Pilot_p.png) [Pilot](/item/Pilot_95/)
+
+		![Recruitment Ticket](/images/item/Recruitment_Ticket_p.png) [Recruitment Ticket](/item/Recruitment Ticket_88/)
+
 
 	* New shop chests:
 
