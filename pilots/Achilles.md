@@ -14,7 +14,7 @@ classes: wide
 
 ## Details
 
- **Skill:** For every XXX strong foes killed, the attack on strong foes + <span style="color: #03ff6b">ZZZ</span><br/><span style="color: #000000;"></span> 
+ **Skill:** For every XXX strong foes killed, the attack on strong foes + <span style="color: #03ff6b">ZZ</span><br/><span style="color: #000000;"></span> 
 
  **Rarity:** N 
 

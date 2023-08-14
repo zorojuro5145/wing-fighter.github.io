@@ -14,7 +14,7 @@ classes: wide
 
 ## Details
 
- **Skill:** For every XXX resources successfully looted, YYY + <span style="color: #03ff6b">ZZZ</span><br/><span style="color: #000000;"></span> 
+ **Skill:** For every XXX resources successfully looted, Crit Damage + <span style="color: #03ff6b">Z %</span><br/><span style="color: #000000;"></span> 
 
  **Rarity:** SR 
 
