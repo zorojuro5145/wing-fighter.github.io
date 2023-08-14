@@ -12,20 +12,20 @@ classes: wide
 
   |  Nr | Icon | Pilot | Quality |     Skill     |
   |:----|:----:|:----------|:-------:|:--------------|
-  | 1 | ![Freya](/images/pilots/aviator_piece_5001_p.png) | [Freya](/pilots/Freya) | SR | For every XXX diamonds consumed, Dodge + <span style="color: #03ff6b">Z %</span><br/><span style="color: #000000;"></span> |
-  | 2 | ![Guinevere](/images/pilots/aviator_piece_4001_p.png) | [Guinevere](/pilots/Guinevere) | R | For every XXX Supreme Care Chests opened, maingun attack + <span style="color: #03ff6b">ZZ</span><br/><span style="color: #000000;"></span> |
-  | 3 | ![Artemis](/images/pilots/aviator_piece_5002_p.png) | [Artemis](/pilots/Artemis) | SR | For every XXX energy consumed, Hit Rate + <span style="color: #03ff6b">Z %</span><br/><span style="color: #000000;"></span> |
-  | 4 | ![Gunnlod](/images/pilots/aviator_piece_4002_p.png) | [Gunnlod](/pilots/Gunnlod) | R | For every XXX levels of Endless Voyage completed, winggun attack + <span style="color: #03ff6b">ZZ</span><br/><span style="color: #000000;"></span> |
-  | 5 | ![Hanzo](/images/pilots/aviator_piece_5003_p.png) | [Hanzo](/pilots/Hanzo) | SR | For every XXX attacks against other players in Planet Wars, Crit + <span style="color: #03ff6b">Z %</span><br/><span style="color: #000000;"></span> |
-  | 6 | ![Lucifer](/images/pilots/aviator_piece_4003_p.png) | [Lucifer](/pilots/Lucifer) | R | For every XXX commander tasks completed, missile attack + <span style="color: #03ff6b">ZZ</span><br/><span style="color: #000000;"></span> |
-  | 7 | ![Athena](/images/pilots/aviator_piece_5004_p.png) | [Athena](/pilots/Athena) | SR | For every XXX daily missions completed, Crit Resistance + <span style="color: #03ff6b">Z %</span><br/><span style="color: #000000;"></span> |
-  | 8 | ![Juliet](/images/pilots/aviator_piece_3002_p.png) | [Juliet](/pilots/Juliet) | N | For every XXX normal enemies killed, the attack on normal enemies + <span style="color: #03ff6b">ZZ</span><br/><span style="color: #000000;"></span> |
-  | 9 | ![CuChulainn](/images/pilots/aviator_piece_3001_p.png) | [CuChulainn](/pilots/CuChulainn) | N | For every XXX hours of idle rewards received, Hourly Stars Output from Idle Rewards + <span style="color: #03ff6b">ZZ</span><br/><span style="color: #000000;"></span> |
-  | 10 | ![Kaguya](/images/pilots/aviator_piece_3004_p.png) | [Kaguya](/pilots/Kaguya) | N | For every XXX Bosses killed, the attack on Bosses + <span style="color: #03ff6b">ZZ</span><br/><span style="color: #000000;"></span> |
-  | 11 | ![Achilles](/images/pilots/aviator_piece_3003_p.png) | [Achilles](/pilots/Achilles) | N | For every XXX strong foes killed, the attack on strong foes + <span style="color: #03ff6b">ZZ</span><br/><span style="color: #000000;"></span> |
-  | 12 | ![Valkyrie](/images/pilots/aviator_piece_4004_p.png) | [Valkyrie](/pilots/Valkyrie) | R | For every XXX ads watched, armor HP + <span style="color: #03ff6b">ZZ</span><br/><span style="color: #000000;"></span> |
-  | 13 | ![Hestia](/images/pilots/aviator_piece_5005_p.png) | [Hestia](/pilots/Hestia) | SR | For every XXX resources successfully looted, Crit Damage + <span style="color: #03ff6b">Z %</span><br/><span style="color: #000000;"></span> |
-  | 14 | ![Lancelot](/images/pilots/aviator_piece_5006_p.png) | [Lancelot](/pilots/Lancelot) | SR | For every XXX Titan Challenges completed, Crit Damage Reduction + <span style="color: #03ff6b">Z %</span><br/><span style="color: #000000;"></span> |
+  | 1 | ![Freya](/images/pilots/aviator_piece_5001_p.png) | [Freya](/pilots/Freya) | SR | For every XXX diamonds consumed, Dodge + <span style="color: #03ff6b">Y %</span><br/><span style="color: #000000;"></span> |
+  | 2 | ![Guinevere](/images/pilots/aviator_piece_4001_p.png) | [Guinevere](/pilots/Guinevere) | R | For every XXX Supreme Care Chests opened, maingun attack + <span style="color: #03ff6b">YY</span><br/><span style="color: #000000;"></span> |
+  | 3 | ![Artemis](/images/pilots/aviator_piece_5002_p.png) | [Artemis](/pilots/Artemis) | SR | For every XXX energy consumed, Hit Rate + <span style="color: #03ff6b">Y %</span><br/><span style="color: #000000;"></span> |
+  | 4 | ![Gunnlod](/images/pilots/aviator_piece_4002_p.png) | [Gunnlod](/pilots/Gunnlod) | R | For every XXX levels of Endless Voyage completed, winggun attack + <span style="color: #03ff6b">YY</span><br/><span style="color: #000000;"></span> |
+  | 5 | ![Hanzo](/images/pilots/aviator_piece_5003_p.png) | [Hanzo](/pilots/Hanzo) | SR | For every XXX attacks against other players in Planet Wars, Crit + <span style="color: #03ff6b">Y %</span><br/><span style="color: #000000;"></span> |
+  | 6 | ![Lucifer](/images/pilots/aviator_piece_4003_p.png) | [Lucifer](/pilots/Lucifer) | R | For every XXX commander tasks completed, missile attack + <span style="color: #03ff6b">YY</span><br/><span style="color: #000000;"></span> |
+  | 7 | ![Athena](/images/pilots/aviator_piece_5004_p.png) | [Athena](/pilots/Athena) | SR | For every XXX daily missions completed, Crit Resistance + <span style="color: #03ff6b">Y %</span><br/><span style="color: #000000;"></span> |
+  | 8 | ![Juliet](/images/pilots/aviator_piece_3002_p.png) | [Juliet](/pilots/Juliet) | N | For every XXX normal enemies killed, the attack on normal enemies + <span style="color: #03ff6b">YY</span><br/><span style="color: #000000;"></span> |
+  | 9 | ![CuChulainn](/images/pilots/aviator_piece_3001_p.png) | [CuChulainn](/pilots/CuChulainn) | N | For every XXX hours of idle rewards received, Hourly Stars Output from Idle Rewards + <span style="color: #03ff6b">YY</span><br/><span style="color: #000000;"></span> |
+  | 10 | ![Kaguya](/images/pilots/aviator_piece_3004_p.png) | [Kaguya](/pilots/Kaguya) | N | For every XXX Bosses killed, the attack on Bosses + <span style="color: #03ff6b">YY</span><br/><span style="color: #000000;"></span> |
+  | 11 | ![Achilles](/images/pilots/aviator_piece_3003_p.png) | [Achilles](/pilots/Achilles) | N | For every XXX strong foes killed, the attack on strong foes + <span style="color: #03ff6b">YY</span><br/><span style="color: #000000;"></span> |
+  | 12 | ![Valkyrie](/images/pilots/aviator_piece_4004_p.png) | [Valkyrie](/pilots/Valkyrie) | R | For every XXX ads watched, armor HP + <span style="color: #03ff6b">YY</span><br/><span style="color: #000000;"></span> |
+  | 13 | ![Hestia](/images/pilots/aviator_piece_5005_p.png) | [Hestia](/pilots/Hestia) | SR | For every XXX resources successfully looted, Crit Damage + <span style="color: #03ff6b">Y %</span><br/><span style="color: #000000;"></span> |
+  | 14 | ![Lancelot](/images/pilots/aviator_piece_5006_p.png) | [Lancelot](/pilots/Lancelot) | SR | For every XXX Titan Challenges completed, Crit Damage Reduction + <span style="color: #03ff6b">Y %</span><br/><span style="color: #000000;"></span> |
 
 ## List of Pilot Shards
 

@@ -14,7 +14,7 @@ classes: wide
 
 ## Details
 
- **Skill:** For every XXX energy consumed, Hit Rate + <span style="color: #03ff6b">Z %</span><br/><span style="color: #000000;"></span> 
+ **Skill:** For every XXX energy consumed, Hit Rate + <span style="color: #03ff6b">Y %</span><br/><span style="color: #000000;"></span> 
 
  **Rarity:** SR 
 

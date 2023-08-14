@@ -14,7 +14,7 @@ classes: wide
 
 ## Details
 
- **Skill:** For every XXX levels of Endless Voyage completed, winggun attack + <span style="color: #03ff6b">ZZ</span><br/><span style="color: #000000;"></span> 
+ **Skill:** For every XXX levels of Endless Voyage completed, winggun attack + <span style="color: #03ff6b">YY</span><br/><span style="color: #000000;"></span> 
 
  **Rarity:** R 
 
