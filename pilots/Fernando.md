@@ -14,9 +14,9 @@ classes: wide
 
 ## Details
 
- **Rarity:** UR 
+ **Rarity:** SR 
 
- **Power:** 840 
+ **Extra Power:** +840 
 
  **Levels:**  List of levels with HP and Attack -> TBD
 

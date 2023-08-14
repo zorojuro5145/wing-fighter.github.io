@@ -12,34 +12,20 @@ classes: wide
 
   |  Nr | Icon | Pilot | Quality |     Skill     |
   |:----|:----:|:----------|:-------:|:--------------|
-  | 1 | ![Teresa](/images/pilots/aviator_piece_5001_p.png) | [Teresa](/pilots/Teresa) | SR |
-For every XXX diamonds consumed, YYY + <span style="color: #03ff6b">ZZZ</span><br/><span style="color: #000000;"></span> |
-  | 2 | ![Lisa](/images/pilots/aviator_piece_4001_p.png) | [Lisa](/pilots/Lisa) | R |
-For every XXX Supreme Care Chests opened, maingun attack + <span style="color: #03ff6b">ZZZ</span><br/><span style="color: #000000;"></span> |
-  | 3 | ![Angelina](/images/pilots/aviator_piece_5002_p.png) | [Angelina](/pilots/Angelina) | SR |
-For every XXX energy consumed, YYY + <span style="color: #03ff6b">ZZZ</span><br/><span style="color: #000000;"></span> |
-  | 4 | ![Elizabeth](/images/pilots/aviator_piece_4002_p.png) | [Elizabeth](/pilots/Elizabeth) | R |
-For every XXX levels of Endless Voyage completed, winggun attack + <span style="color: #03ff6b">ZZZ</span><br/><span style="color: #000000;"></span> |
-  | 5 | ![Shingo](/images/pilots/aviator_piece_5003_p.png) | [Shingo](/pilots/Shingo) | SR |
-For every XXX attacks against other players in Planet Wars, YYY + <span style="color: #03ff6b">ZZZ</span><br/><span style="color: #000000;"></span> |
-  | 6 | ![Jared](/images/pilots/aviator_piece_4003_p.png) | [Jared](/pilots/Jared) | R |
-For every XXX commander tasks completed, missile attack + <span style="color: #03ff6b">ZZZ</span><br/><span style="color: #000000;"></span> |
-  | 7 | ![Sophia](/images/pilots/aviator_piece_5004_p.png) | [Sophia](/pilots/Sophia) | SR |
-For every XXX daily missions completed, YYY + <span style="color: #03ff6b">ZZZ</span><br/><span style="color: #000000;"></span> |
-  | 8 | ![Emily](/images/pilots/aviator_piece_3002_p.png) | [Emily](/pilots/Emily) | N |
-For every XXX normal enemies killed, the attack on normal enemies + <span style="color: #03ff6b">ZZZ</span><br/><span style="color: #000000;"></span> |
-  | 9 | ![Leon](/images/pilots/aviator_piece_3001_p.png) | [Leon](/pilots/Leon) | N |
-For every XXX hours of idle rewards received, YYY + <span style="color: #03ff6b">ZZZ</span><br/><span style="color: #000000;"></span> |
-  | 10 | ![Liya](/images/pilots/aviator_piece_3004_p.png) | [Liya](/pilots/Liya) | N |
-For every XXX Bosses killed, the attack on Bosses + <span style="color: #03ff6b">ZZZ</span><br/><span style="color: #000000;"></span> |
-  | 11 | ![Duncan](/images/pilots/aviator_piece_3003_p.png) | [Duncan](/pilots/Duncan) | N |
-For every XXX strong foes killed, the attack on strong foes + <span style="color: #03ff6b">ZZZ</span><br/><span style="color: #000000;"></span> |
-  | 12 | ![Luna](/images/pilots/aviator_piece_4004_p.png) | [Luna](/pilots/Luna) | R |
-For every XXX ads watched, armor HP + <span style="color: #03ff6b">ZZZ</span><br/><span style="color: #000000;"></span> |
-  | 13 | ![Kelly](/images/pilots/aviator_piece_5005_p.png) | [Kelly](/pilots/Kelly) | SR |
-For every XXX resources successfully looted, YYY + <span style="color: #03ff6b">ZZZ</span><br/><span style="color: #000000;"></span> |
-  | 14 | ![Fernando](/images/pilots/aviator_piece_5006_p.png) | [Fernando](/pilots/Fernando) | SR |
-For every XXX Titan Challenges completed, YYY + <span style="color: #03ff6b">ZZZ</span><br/><span style="color: #000000;"></span> |
+  | 1 | ![Teresa](/images/pilots/aviator_piece_5001_p.png) | [Teresa](/pilots/Teresa) | SR | For every XXX diamonds consumed, YYY + <span style="color: #03ff6b">ZZZ</span><br/><span style="color: #000000;"></span> |
+  | 2 | ![Lisa](/images/pilots/aviator_piece_4001_p.png) | [Lisa](/pilots/Lisa) | R | For every XXX Supreme Care Chests opened, maingun attack + <span style="color: #03ff6b">ZZZ</span><br/><span style="color: #000000;"></span> |
+  | 3 | ![Angelina](/images/pilots/aviator_piece_5002_p.png) | [Angelina](/pilots/Angelina) | SR | For every XXX energy consumed, YYY + <span style="color: #03ff6b">ZZZ</span><br/><span style="color: #000000;"></span> |
+  | 4 | ![Elizabeth](/images/pilots/aviator_piece_4002_p.png) | [Elizabeth](/pilots/Elizabeth) | R | For every XXX levels of Endless Voyage completed, winggun attack + <span style="color: #03ff6b">ZZZ</span><br/><span style="color: #000000;"></span> |
+  | 5 | ![Shingo](/images/pilots/aviator_piece_5003_p.png) | [Shingo](/pilots/Shingo) | SR | For every XXX attacks against other players in Planet Wars, YYY + <span style="color: #03ff6b">ZZZ</span><br/><span style="color: #000000;"></span> |
+  | 6 | ![Jared](/images/pilots/aviator_piece_4003_p.png) | [Jared](/pilots/Jared) | R | For every XXX commander tasks completed, missile attack + <span style="color: #03ff6b">ZZZ</span><br/><span style="color: #000000;"></span> |
+  | 7 | ![Sophia](/images/pilots/aviator_piece_5004_p.png) | [Sophia](/pilots/Sophia) | SR | For every XXX daily missions completed, YYY + <span style="color: #03ff6b">ZZZ</span><br/><span style="color: #000000;"></span> |
+  | 8 | ![Emily](/images/pilots/aviator_piece_3002_p.png) | [Emily](/pilots/Emily) | N | For every XXX normal enemies killed, the attack on normal enemies + <span style="color: #03ff6b">ZZZ</span><br/><span style="color: #000000;"></span> |
+  | 9 | ![Leon](/images/pilots/aviator_piece_3001_p.png) | [Leon](/pilots/Leon) | N | For every XXX hours of idle rewards received, YYY + <span style="color: #03ff6b">ZZZ</span><br/><span style="color: #000000;"></span> |
+  | 10 | ![Liya](/images/pilots/aviator_piece_3004_p.png) | [Liya](/pilots/Liya) | N | For every XXX Bosses killed, the attack on Bosses + <span style="color: #03ff6b">ZZZ</span><br/><span style="color: #000000;"></span> |
+  | 11 | ![Duncan](/images/pilots/aviator_piece_3003_p.png) | [Duncan](/pilots/Duncan) | N | For every XXX strong foes killed, the attack on strong foes + <span style="color: #03ff6b">ZZZ</span><br/><span style="color: #000000;"></span> |
+  | 12 | ![Luna](/images/pilots/aviator_piece_4004_p.png) | [Luna](/pilots/Luna) | R | For every XXX ads watched, armor HP + <span style="color: #03ff6b">ZZZ</span><br/><span style="color: #000000;"></span> |
+  | 13 | ![Kelly](/images/pilots/aviator_piece_5005_p.png) | [Kelly](/pilots/Kelly) | SR | For every XXX resources successfully looted, YYY + <span style="color: #03ff6b">ZZZ</span><br/><span style="color: #000000;"></span> |
+  | 14 | ![Fernando](/images/pilots/aviator_piece_5006_p.png) | [Fernando](/pilots/Fernando) | SR | For every XXX Titan Challenges completed, YYY + <span style="color: #03ff6b">ZZZ</span><br/><span style="color: #000000;"></span> |
 
 ## List of Pilot Shards
 
