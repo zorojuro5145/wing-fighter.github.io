@@ -28,11 +28,13 @@ classes: wide
   | <span style="color: #0099f2">Energy Defense Break</span><br/><span style="color: #000000;">: Increase the final damage of the energy attack</span> |
   | <span style="color: #0099f2">Physical Defense</span><br/><span style="color: #000000;">: Reduce the final damage of the enemy's physical attack</span> |
   | <span style="color: #0099f2">Energy Defense</span><br/><span style="color: #000000;">: Reduce the final damage of the enemy's energy attack</span> |
+
+
 ## Upgrade
 
-  |  Nr |      Total bonus    |    Upgrade Cost     |
+  |  To Level |      Total bonus    |    Upgrade Cost     |
   |:----|:-------------------:|:--------------------|
-  | +0  | For every XXX Bosses killed, the attack on Bosses + <span style="color: #03ff6b">14.0</span><br/><span style="color: #000000;"></span>  |  |
+  |   | For every XXX Bosses killed, the attack on Bosses + <span style="color: #03ff6b">14.0</span><br/><span style="color: #000000;"></span>  |  |
   | +1  | For every XXX Bosses killed, the attack on Bosses + <span style="color: #03ff6b">31.0</span><br/><span style="color: #000000;"></span>  | **50x**![Basic Training Guide](/images/item/Basic_Training_Guide_p.png)[Basic Training Guide](/item/Basic Training Guide_90/) |
   | +2  | For every XXX Bosses killed, the attack on Bosses + <span style="color: #03ff6b">51.0</span><br/><span style="color: #000000;"></span>  | **100x**![Basic Training Guide](/images/item/Basic_Training_Guide_p.png)[Basic Training Guide](/item/Basic Training Guide_90/) |
   | +3  | For every XXX Bosses killed, the attack on Bosses + <span style="color: #03ff6b">74.0</span><br/><span style="color: #000000;"></span>  | **50x**![Standard Training Guide](/images/item/Standard_Training_Guide_p.png)[Standard Training Guide](/item/Standard Training Guide_91/) |
