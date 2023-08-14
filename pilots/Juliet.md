@@ -22,27 +22,25 @@ classes: wide
 
 
 
-## Upgrade
+## Upgrade/Ascend
 
-  |  To Level |      Total bonus    | Skill Limit |   Upgrade Cost     |
-  |:----|:-------------------:|:-------:|:-----------------|
-  |   | For every XXX normal enemies killed, the attack on normal enemies + <span style="color: #03ff6b">10.0</span><br/><span style="color: #000000;"></span>  | **3**  |  |
-  | +1  | For every XXX normal enemies killed, the attack on normal enemies + <span style="color: #03ff6b">23.0</span><br/><span style="color: #000000;"></span>  | **6**  | **50x**![Basic Training Guide](/images/item/Basic_Training_Guide_p.png)[Basic Training Guide](/item/Basic Training Guide_90/) |
-  | +2  | For every XXX normal enemies killed, the attack on normal enemies + <span style="color: #03ff6b">39.0</span><br/><span style="color: #000000;"></span>  | **9**  | **100x**![Basic Training Guide](/images/item/Basic_Training_Guide_p.png)[Basic Training Guide](/item/Basic Training Guide_90/) |
-  | +3  | For every XXX normal enemies killed, the attack on normal enemies + <span style="color: #03ff6b">58.0</span><br/><span style="color: #000000;"></span>  | **12**  | **50x**![Standard Training Guide](/images/item/Standard_Training_Guide_p.png)[Standard Training Guide](/item/Standard Training Guide_91/) |
-  | +4  | For every XXX normal enemies killed, the attack on normal enemies + <span style="color: #03ff6b">80.0</span><br/><span style="color: #000000;"></span>  | **15**  | **100x**![Standard Training Guide](/images/item/Standard_Training_Guide_p.png)[Standard Training Guide](/item/Standard Training Guide_91/) |
-  | +5  | For every XXX normal enemies killed, the attack on normal enemies + <span style="color: #03ff6b">105.0</span><br/><span style="color: #000000;"></span>  | **18**  | **50x**![Advanced Training Guide](/images/item/Advanced_Training_Guide_p.png)[Advanced Training Guide](/item/Advanced Training Guide_92/) |
-  | +6  | For every XXX normal enemies killed, the attack on normal enemies + <span style="color: #03ff6b">133.0</span><br/><span style="color: #000000;"></span>  | **21**  | **100x**![Advanced Training Guide](/images/item/Advanced_Training_Guide_p.png)[Advanced Training Guide](/item/Advanced Training Guide_92/) |
-  | +7  | For every XXX normal enemies killed, the attack on normal enemies + <span style="color: #03ff6b">165.0</span><br/><span style="color: #000000;"></span>  | **24**  | **200x**![Advanced Training Guide](/images/item/Advanced_Training_Guide_p.png)[Advanced Training Guide](/item/Advanced Training Guide_92/) |
-  | +8  | For every XXX normal enemies killed, the attack on normal enemies + <span style="color: #03ff6b">201.0</span><br/><span style="color: #000000;"></span>  | **27**  | **100x**![Expert Training Guide](/images/item/Expert_Training_Guide_p.png)[Expert Training Guide](/item/Expert Training Guide_93/) |
-  | +9  | For every XXX normal enemies killed, the attack on normal enemies + <span style="color: #03ff6b">241.0</span><br/><span style="color: #000000;"></span>  | **30**  | **125x**![Expert Training Guide](/images/item/Expert_Training_Guide_p.png)[Expert Training Guide](/item/Expert Training Guide_93/) |
-  | +10  | For every XXX normal enemies killed, the attack on normal enemies + <span style="color: #03ff6b">285.0</span><br/><span style="color: #000000;"></span>  | **33**  | **150x**![Expert Training Guide](/images/item/Expert_Training_Guide_p.png)[Expert Training Guide](/item/Expert Training Guide_93/) |
+  |  To Level | Skill Limit |     Total bonus    | Total CP |   Upgrade Cost     |
+  |:----|:-----:|:-------------------:|:-------:|:-----------------|
+  |   | **3**  | For every XXX normal enemies killed, the attack on normal enemies + <span style="color: #03ff6b">10.0</span><br/><span style="color: #000000;"></span>  | + **10**  |  |
+  | +1  | **6**  | For every XXX normal enemies killed, the attack on normal enemies + <span style="color: #03ff6b">23.0</span><br/><span style="color: #000000;"></span>  | + **25**  | **50x**![Basic Training Guide](/images/item/Basic_Training_Guide_p.png)[Basic Training Guide](/item/Basic Training Guide_90/) |
+  | +2  | **9**  | For every XXX normal enemies killed, the attack on normal enemies + <span style="color: #03ff6b">39.0</span><br/><span style="color: #000000;"></span>  | + **45**  | **100x**![Basic Training Guide](/images/item/Basic_Training_Guide_p.png)[Basic Training Guide](/item/Basic Training Guide_90/) |
+  | +3  | **12**  | For every XXX normal enemies killed, the attack on normal enemies + <span style="color: #03ff6b">58.0</span><br/><span style="color: #000000;"></span>  | + **70**  | **50x**![Standard Training Guide](/images/item/Standard_Training_Guide_p.png)[Standard Training Guide](/item/Standard Training Guide_91/) |
+  | +4  | **15**  | For every XXX normal enemies killed, the attack on normal enemies + <span style="color: #03ff6b">80.0</span><br/><span style="color: #000000;"></span>  | + **100**  | **100x**![Standard Training Guide](/images/item/Standard_Training_Guide_p.png)[Standard Training Guide](/item/Standard Training Guide_91/) |
+  | +5  | **18**  | For every XXX normal enemies killed, the attack on normal enemies + <span style="color: #03ff6b">105.0</span><br/><span style="color: #000000;"></span>  | + **140**  | **50x**![Advanced Training Guide](/images/item/Advanced_Training_Guide_p.png)[Advanced Training Guide](/item/Advanced Training Guide_92/) |
+  | +6  | **21**  | For every XXX normal enemies killed, the attack on normal enemies + <span style="color: #03ff6b">133.0</span><br/><span style="color: #000000;"></span>  | + **190**  | **100x**![Advanced Training Guide](/images/item/Advanced_Training_Guide_p.png)[Advanced Training Guide](/item/Advanced Training Guide_92/) |
+  | +7  | **24**  | For every XXX normal enemies killed, the attack on normal enemies + <span style="color: #03ff6b">165.0</span><br/><span style="color: #000000;"></span>  | + **250**  | **200x**![Advanced Training Guide](/images/item/Advanced_Training_Guide_p.png)[Advanced Training Guide](/item/Advanced Training Guide_92/) |
+  | +8  | **27**  | For every XXX normal enemies killed, the attack on normal enemies + <span style="color: #03ff6b">201.0</span><br/><span style="color: #000000;"></span>  | + **360**  | **100x**![Expert Training Guide](/images/item/Expert_Training_Guide_p.png)[Expert Training Guide](/item/Expert Training Guide_93/) |
+  | +9  | **30**  | For every XXX normal enemies killed, the attack on normal enemies + <span style="color: #03ff6b">241.0</span><br/><span style="color: #000000;"></span>  | + **520**  | **125x**![Expert Training Guide](/images/item/Expert_Training_Guide_p.png)[Expert Training Guide](/item/Expert Training Guide_93/) |
+  | +10  | **33**  | For every XXX normal enemies killed, the attack on normal enemies + <span style="color: #03ff6b">285.0</span><br/><span style="color: #000000;"></span>  | + **741**  | **150x**![Expert Training Guide](/images/item/Expert_Training_Guide_p.png)[Expert Training Guide](/item/Expert Training Guide_93/) |
 
 
 
  **Levels:**  List of levels with HP and Attack -> TBD
-
- **Upgrade/Ascend:**  
 
 
 

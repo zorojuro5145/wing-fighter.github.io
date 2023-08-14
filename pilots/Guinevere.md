@@ -22,27 +22,25 @@ classes: wide
 
 
 
-## Upgrade
+## Upgrade/Ascend
 
-  |  To Level |      Total bonus    | Skill Limit |   Upgrade Cost     |
-  |:----|:-------------------:|:-------:|:-----------------|
-  |   | For every XXX Supreme Care Chests opened, maingun attack + <span style="color: #03ff6b">20.0</span><br/><span style="color: #000000;"></span>  | **4**  |  |
-  | +1  | For every XXX Supreme Care Chests opened, maingun attack + <span style="color: #03ff6b">43.0</span><br/><span style="color: #000000;"></span>  | **8**  | **50x**![Basic Training Guide](/images/item/Basic_Training_Guide_p.png)[Basic Training Guide](/item/Basic Training Guide_90/) |
-  | +2  | For every XXX Supreme Care Chests opened, maingun attack + <span style="color: #03ff6b">69.0</span><br/><span style="color: #000000;"></span>  | **12**  | **100x**![Basic Training Guide](/images/item/Basic_Training_Guide_p.png)[Basic Training Guide](/item/Basic Training Guide_90/) |
-  | +3  | For every XXX Supreme Care Chests opened, maingun attack + <span style="color: #03ff6b">98.0</span><br/><span style="color: #000000;"></span>  | **16**  | **50x**![Standard Training Guide](/images/item/Standard_Training_Guide_p.png)[Standard Training Guide](/item/Standard Training Guide_91/) |
-  | +4  | For every XXX Supreme Care Chests opened, maingun attack + <span style="color: #03ff6b">130.0</span><br/><span style="color: #000000;"></span>  | **20**  | **100x**![Standard Training Guide](/images/item/Standard_Training_Guide_p.png)[Standard Training Guide](/item/Standard Training Guide_91/) |
-  | +5  | For every XXX Supreme Care Chests opened, maingun attack + <span style="color: #03ff6b">165.0</span><br/><span style="color: #000000;"></span>  | **24**  | **50x**![Advanced Training Guide](/images/item/Advanced_Training_Guide_p.png)[Advanced Training Guide](/item/Advanced Training Guide_92/) |
-  | +6  | For every XXX Supreme Care Chests opened, maingun attack + <span style="color: #03ff6b">203.0</span><br/><span style="color: #000000;"></span>  | **28**  | **100x**![Advanced Training Guide](/images/item/Advanced_Training_Guide_p.png)[Advanced Training Guide](/item/Advanced Training Guide_92/) |
-  | +7  | For every XXX Supreme Care Chests opened, maingun attack + <span style="color: #03ff6b">244.0</span><br/><span style="color: #000000;"></span>  | **32**  | **200x**![Advanced Training Guide](/images/item/Advanced_Training_Guide_p.png)[Advanced Training Guide](/item/Advanced Training Guide_92/) |
-  | +8  | For every XXX Supreme Care Chests opened, maingun attack + <span style="color: #03ff6b">288.0</span><br/><span style="color: #000000;"></span>  | **36**  | **100x**![Expert Training Guide](/images/item/Expert_Training_Guide_p.png)[Expert Training Guide](/item/Expert Training Guide_93/) |
-  | +9  | For every XXX Supreme Care Chests opened, maingun attack + <span style="color: #03ff6b">336.0</span><br/><span style="color: #000000;"></span>  | **40**  | **125x**![Expert Training Guide](/images/item/Expert_Training_Guide_p.png)[Expert Training Guide](/item/Expert Training Guide_93/) |
-  | +10  | For every XXX Supreme Care Chests opened, maingun attack + <span style="color: #03ff6b">389.0</span><br/><span style="color: #000000;"></span>  | **44**  | **150x**![Expert Training Guide](/images/item/Expert_Training_Guide_p.png)[Expert Training Guide](/item/Expert Training Guide_93/) |
+  |  To Level | Skill Limit |     Total bonus    | Total CP |   Upgrade Cost     |
+  |:----|:-----:|:-------------------:|:-------:|:-----------------|
+  |   | **4**  | For every XXX Supreme Care Chests opened, maingun attack + <span style="color: #03ff6b">20.0</span><br/><span style="color: #000000;"></span>  | + **35**  |  |
+  | +1  | **8**  | For every XXX Supreme Care Chests opened, maingun attack + <span style="color: #03ff6b">43.0</span><br/><span style="color: #000000;"></span>  | + **75**  | **50x**![Basic Training Guide](/images/item/Basic_Training_Guide_p.png)[Basic Training Guide](/item/Basic Training Guide_90/) |
+  | +2  | **12**  | For every XXX Supreme Care Chests opened, maingun attack + <span style="color: #03ff6b">69.0</span><br/><span style="color: #000000;"></span>  | + **120**  | **100x**![Basic Training Guide](/images/item/Basic_Training_Guide_p.png)[Basic Training Guide](/item/Basic Training Guide_90/) |
+  | +3  | **16**  | For every XXX Supreme Care Chests opened, maingun attack + <span style="color: #03ff6b">98.0</span><br/><span style="color: #000000;"></span>  | + **170**  | **50x**![Standard Training Guide](/images/item/Standard_Training_Guide_p.png)[Standard Training Guide](/item/Standard Training Guide_91/) |
+  | +4  | **20**  | For every XXX Supreme Care Chests opened, maingun attack + <span style="color: #03ff6b">130.0</span><br/><span style="color: #000000;"></span>  | + **225**  | **100x**![Standard Training Guide](/images/item/Standard_Training_Guide_p.png)[Standard Training Guide](/item/Standard Training Guide_91/) |
+  | +5  | **24**  | For every XXX Supreme Care Chests opened, maingun attack + <span style="color: #03ff6b">165.0</span><br/><span style="color: #000000;"></span>  | + **290**  | **50x**![Advanced Training Guide](/images/item/Advanced_Training_Guide_p.png)[Advanced Training Guide](/item/Advanced Training Guide_92/) |
+  | +6  | **28**  | For every XXX Supreme Care Chests opened, maingun attack + <span style="color: #03ff6b">203.0</span><br/><span style="color: #000000;"></span>  | + **370**  | **100x**![Advanced Training Guide](/images/item/Advanced_Training_Guide_p.png)[Advanced Training Guide](/item/Advanced Training Guide_92/) |
+  | +7  | **32**  | For every XXX Supreme Care Chests opened, maingun attack + <span style="color: #03ff6b">244.0</span><br/><span style="color: #000000;"></span>  | + **470**  | **200x**![Advanced Training Guide](/images/item/Advanced_Training_Guide_p.png)[Advanced Training Guide](/item/Advanced Training Guide_92/) |
+  | +8  | **36**  | For every XXX Supreme Care Chests opened, maingun attack + <span style="color: #03ff6b">288.0</span><br/><span style="color: #000000;"></span>  | + **590**  | **100x**![Expert Training Guide](/images/item/Expert_Training_Guide_p.png)[Expert Training Guide](/item/Expert Training Guide_93/) |
+  | +9  | **40**  | For every XXX Supreme Care Chests opened, maingun attack + <span style="color: #03ff6b">336.0</span><br/><span style="color: #000000;"></span>  | + **750**  | **125x**![Expert Training Guide](/images/item/Expert_Training_Guide_p.png)[Expert Training Guide](/item/Expert Training Guide_93/) |
+  | +10  | **44**  | For every XXX Supreme Care Chests opened, maingun attack + <span style="color: #03ff6b">389.0</span><br/><span style="color: #000000;"></span>  | + **970**  | **150x**![Expert Training Guide](/images/item/Expert_Training_Guide_p.png)[Expert Training Guide](/item/Expert Training Guide_93/) |
 
 
 
  **Levels:**  List of levels with HP and Attack -> TBD
-
- **Upgrade/Ascend:**  
 
 
 

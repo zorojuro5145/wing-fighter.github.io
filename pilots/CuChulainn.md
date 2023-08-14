@@ -22,27 +22,25 @@ classes: wide
 
 
 
-## Upgrade
+## Upgrade/Ascend
 
-  |  To Level |      Total bonus    | Skill Limit |   Upgrade Cost     |
-  |:----|:-------------------:|:-------:|:-----------------|
-  |   | For every XXX hours of idle rewards received, Hourly Stars Output from Idle Rewards + <span style="color: #03ff6b">1.0</span><br/><span style="color: #000000;"></span>  | **6**  |  |
-  | +1  | For every XXX hours of idle rewards received, Hourly Stars Output from Idle Rewards + <span style="color: #03ff6b">2.0</span><br/><span style="color: #000000;"></span>  | **9**  | **50x**![Basic Training Guide](/images/item/Basic_Training_Guide_p.png)[Basic Training Guide](/item/Basic Training Guide_90/) |
-  | +2  | For every XXX hours of idle rewards received, Hourly Stars Output from Idle Rewards + <span style="color: #03ff6b">3.0</span><br/><span style="color: #000000;"></span>  | **12**  | **100x**![Basic Training Guide](/images/item/Basic_Training_Guide_p.png)[Basic Training Guide](/item/Basic Training Guide_90/) |
-  | +3  | For every XXX hours of idle rewards received, Hourly Stars Output from Idle Rewards + <span style="color: #03ff6b">4.0</span><br/><span style="color: #000000;"></span>  | **15**  | **50x**![Standard Training Guide](/images/item/Standard_Training_Guide_p.png)[Standard Training Guide](/item/Standard Training Guide_91/) |
-  | +4  | For every XXX hours of idle rewards received, Hourly Stars Output from Idle Rewards + <span style="color: #03ff6b">5.0</span><br/><span style="color: #000000;"></span>  | **18**  | **100x**![Standard Training Guide](/images/item/Standard_Training_Guide_p.png)[Standard Training Guide](/item/Standard Training Guide_91/) |
-  | +5  | For every XXX hours of idle rewards received, Hourly Stars Output from Idle Rewards + <span style="color: #03ff6b">6.0</span><br/><span style="color: #000000;"></span>  | **24**  | **50x**![Advanced Training Guide](/images/item/Advanced_Training_Guide_p.png)[Advanced Training Guide](/item/Advanced Training Guide_92/) |
-  | +6  | For every XXX hours of idle rewards received, Hourly Stars Output from Idle Rewards + <span style="color: #03ff6b">7.0</span><br/><span style="color: #000000;"></span>  | **30**  | **100x**![Advanced Training Guide](/images/item/Advanced_Training_Guide_p.png)[Advanced Training Guide](/item/Advanced Training Guide_92/) |
-  | +7  | For every XXX hours of idle rewards received, Hourly Stars Output from Idle Rewards + <span style="color: #03ff6b">8.0</span><br/><span style="color: #000000;"></span>  | **36**  | **200x**![Advanced Training Guide](/images/item/Advanced_Training_Guide_p.png)[Advanced Training Guide](/item/Advanced Training Guide_92/) |
-  | +8  | For every XXX hours of idle rewards received, Hourly Stars Output from Idle Rewards + <span style="color: #03ff6b">9.0</span><br/><span style="color: #000000;"></span>  | **42**  | **100x**![Expert Training Guide](/images/item/Expert_Training_Guide_p.png)[Expert Training Guide](/item/Expert Training Guide_93/) |
-  | +9  | For every XXX hours of idle rewards received, Hourly Stars Output from Idle Rewards + <span style="color: #03ff6b">10.0</span><br/><span style="color: #000000;"></span>  | **48**  | **125x**![Expert Training Guide](/images/item/Expert_Training_Guide_p.png)[Expert Training Guide](/item/Expert Training Guide_93/) |
-  | +10  | For every XXX hours of idle rewards received, Hourly Stars Output from Idle Rewards + <span style="color: #03ff6b">11.0</span><br/><span style="color: #000000;"></span>  | **60**  | **150x**![Expert Training Guide](/images/item/Expert_Training_Guide_p.png)[Expert Training Guide](/item/Expert Training Guide_93/) |
+  |  To Level | Skill Limit |     Total bonus    | Total CP |   Upgrade Cost     |
+  |:----|:-----:|:-------------------:|:-------:|:-----------------|
+  |   | **6**  | For every XXX hours of idle rewards received, Hourly Stars Output from Idle Rewards + <span style="color: #03ff6b">1.0</span><br/><span style="color: #000000;"></span>  | + **10**  |  |
+  | +1  | **9**  | For every XXX hours of idle rewards received, Hourly Stars Output from Idle Rewards + <span style="color: #03ff6b">2.0</span><br/><span style="color: #000000;"></span>  | + **25**  | **50x**![Basic Training Guide](/images/item/Basic_Training_Guide_p.png)[Basic Training Guide](/item/Basic Training Guide_90/) |
+  | +2  | **12**  | For every XXX hours of idle rewards received, Hourly Stars Output from Idle Rewards + <span style="color: #03ff6b">3.0</span><br/><span style="color: #000000;"></span>  | + **45**  | **100x**![Basic Training Guide](/images/item/Basic_Training_Guide_p.png)[Basic Training Guide](/item/Basic Training Guide_90/) |
+  | +3  | **15**  | For every XXX hours of idle rewards received, Hourly Stars Output from Idle Rewards + <span style="color: #03ff6b">4.0</span><br/><span style="color: #000000;"></span>  | + **70**  | **50x**![Standard Training Guide](/images/item/Standard_Training_Guide_p.png)[Standard Training Guide](/item/Standard Training Guide_91/) |
+  | +4  | **18**  | For every XXX hours of idle rewards received, Hourly Stars Output from Idle Rewards + <span style="color: #03ff6b">5.0</span><br/><span style="color: #000000;"></span>  | + **100**  | **100x**![Standard Training Guide](/images/item/Standard_Training_Guide_p.png)[Standard Training Guide](/item/Standard Training Guide_91/) |
+  | +5  | **24**  | For every XXX hours of idle rewards received, Hourly Stars Output from Idle Rewards + <span style="color: #03ff6b">6.0</span><br/><span style="color: #000000;"></span>  | + **135**  | **50x**![Advanced Training Guide](/images/item/Advanced_Training_Guide_p.png)[Advanced Training Guide](/item/Advanced Training Guide_92/) |
+  | +6  | **30**  | For every XXX hours of idle rewards received, Hourly Stars Output from Idle Rewards + <span style="color: #03ff6b">7.0</span><br/><span style="color: #000000;"></span>  | + **175**  | **100x**![Advanced Training Guide](/images/item/Advanced_Training_Guide_p.png)[Advanced Training Guide](/item/Advanced Training Guide_92/) |
+  | +7  | **36**  | For every XXX hours of idle rewards received, Hourly Stars Output from Idle Rewards + <span style="color: #03ff6b">8.0</span><br/><span style="color: #000000;"></span>  | + **220**  | **200x**![Advanced Training Guide](/images/item/Advanced_Training_Guide_p.png)[Advanced Training Guide](/item/Advanced Training Guide_92/) |
+  | +8  | **42**  | For every XXX hours of idle rewards received, Hourly Stars Output from Idle Rewards + <span style="color: #03ff6b">9.0</span><br/><span style="color: #000000;"></span>  | + **280**  | **100x**![Expert Training Guide](/images/item/Expert_Training_Guide_p.png)[Expert Training Guide](/item/Expert Training Guide_93/) |
+  | +9  | **48**  | For every XXX hours of idle rewards received, Hourly Stars Output from Idle Rewards + <span style="color: #03ff6b">10.0</span><br/><span style="color: #000000;"></span>  | + **370**  | **125x**![Expert Training Guide](/images/item/Expert_Training_Guide_p.png)[Expert Training Guide](/item/Expert Training Guide_93/) |
+  | +10  | **60**  | For every XXX hours of idle rewards received, Hourly Stars Output from Idle Rewards + <span style="color: #03ff6b">11.0</span><br/><span style="color: #000000;"></span>  | + **492**  | **150x**![Expert Training Guide](/images/item/Expert_Training_Guide_p.png)[Expert Training Guide](/item/Expert Training Guide_93/) |
 
 
 
  **Levels:**  List of levels with HP and Attack -> TBD
-
- **Upgrade/Ascend:**  
 
 
 
