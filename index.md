@@ -1,6 +1,6 @@
 ---
-title: "Wing Fighter Wiki: Units, Flights, Items, Quests and more"
-excerpt: "Wing Fighter, Wing Fighter Wiki. Complete information about the Wing Fighter: Gun, Fighters, Items, Artifacts, Quests and more. Be strongest player with us. Information about future updates and events."
+title: "Wing Fighter Wiki: Fighters, Pilots, Weapon, Quests, Events and more"
+excerpt: "Wing Fighter, Wing Fighter Wiki. Complete information about the Wing Fighter: Gun, Fighters, Items, Artifacts, Quests and more. Be strongest player with us. Wing Fighter - the perfect game for nostalgic arcade lovers!"
 author_profile: false
 last_modified_at: 2023-07-13
 toc: false
@@ -96,7 +96,7 @@ sidebar:
 
 ![Wing Fighter Wiki](https://wing-fighter.github.io/images/anzh_img16.png)
 
-This information portal contains information about "Wing Fighter" mobile game.
+This information portal contains information about "Wing Fighter" mobile game. 
 
 You will find here:
 
@@ -115,7 +115,7 @@ You will find here:
 <h1> <img src="/images/box_open.png" alt="Chest" width="34" height="27"/><a href="/shop/Chest_20/" hreflang="en">Chest</a> </h1>
 
 <br/>
-Extra information:
+The Wing Fighter - the perfect game for nostalgic arcade lovers! Extra information:
 
 * [Player Levels and Idle Rewards](/Player_Levels_and_Idle_Rewards.html)  
 
@@ -126,6 +126,14 @@ Extra information:
 **YOUR feedback is welcome!**
 [Please contact me via Discord](https://discordapp.com/users/351705203038224385/)
 
+
+* Wing Fighter: When Vintage Meets Modern in This Retro Arcade Shooter
+
+* Wing Fighter Brings Back Childhood Memories of Arcade Action
+
+* Wing Fighter: A Nostalgic Trip to Arcade's Glory Days
+
+* Take Flight Again in Wing Fighter, a Modern Classic Arcade Shooter
 
 {% capture notice-update20230807 %}
 
