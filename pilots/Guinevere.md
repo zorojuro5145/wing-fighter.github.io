@@ -1,24 +1,24 @@
 ---
-title: "Pilot Emily"
-permalink: /pilots/Emily/
-excerpt: "Wing Fighter Emily"
+title: "Pilot Guinevere"
+permalink: /pilots/Guinevere/
+excerpt: "Wing Fighter Guinevere"
 last_modified_at: 2023-08-14
 locale: en
-ref: "Emily.md"
+ref: "Guinevere.md"
 toc: false
 classes: wide
 ---
 
 
- ![Emily](/images/pilots/aviator_piece_3002.png)
+ ![Guinevere](/images/pilots/aviator_piece_4001.png)
 
 ## Details
 
- **Skill:** For every XXX normal enemies killed, the attack on normal enemies + <span style="color: #03ff6b">ZZZ</span><br/><span style="color: #000000;"></span> 
+ **Skill:** For every XXX Supreme Care Chests opened, maingun attack + <span style="color: #03ff6b">ZZZ</span><br/><span style="color: #000000;"></span> 
 
- **Rarity:** N 
+ **Rarity:** R 
 
- **Extra Power:** +392 
+ **Extra Power:** +600 
 
 ## Pilot bonus info
 

@@ -1,24 +1,24 @@
 ---
-title: "Pilot Jared"
-permalink: /pilots/Jared/
-excerpt: "Wing Fighter Jared"
+title: "Pilot Freya"
+permalink: /pilots/Freya/
+excerpt: "Wing Fighter Freya"
 last_modified_at: 2023-08-14
 locale: en
-ref: "Jared.md"
+ref: "Freya.md"
 toc: false
 classes: wide
 ---
 
 
- ![Jared](/images/pilots/aviator_piece_4003.png)
+ ![Freya](/images/pilots/aviator_piece_5001.png)
 
 ## Details
 
- **Skill:** For every XXX commander tasks completed, missile attack + <span style="color: #03ff6b">ZZZ</span><br/><span style="color: #000000;"></span> 
+ **Skill:** For every XXX diamonds consumed, YYY + <span style="color: #03ff6b">ZZZ</span><br/><span style="color: #000000;"></span> 
 
- **Rarity:** R 
+ **Rarity:** SR 
 
- **Extra Power:** +576 
+ **Extra Power:** +840 
 
 ## Pilot bonus info
 

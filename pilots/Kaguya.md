@@ -1,24 +1,24 @@
 ---
-title: "Pilot Luna"
-permalink: /pilots/Luna/
-excerpt: "Wing Fighter Luna"
+title: "Pilot Kaguya"
+permalink: /pilots/Kaguya/
+excerpt: "Wing Fighter Kaguya"
 last_modified_at: 2023-08-14
 locale: en
-ref: "Luna.md"
+ref: "Kaguya.md"
 toc: false
 classes: wide
 ---
 
 
- ![Luna](/images/pilots/aviator_piece_4004.png)
+ ![Kaguya](/images/pilots/aviator_piece_3004.png)
 
 ## Details
 
- **Skill:** For every XXX ads watched, armor HP + <span style="color: #03ff6b">ZZZ</span><br/><span style="color: #000000;"></span> 
+ **Skill:** For every XXX Bosses killed, the attack on Bosses + <span style="color: #03ff6b">ZZZ</span><br/><span style="color: #000000;"></span> 
 
- **Rarity:** R 
+ **Rarity:** N 
 
- **Extra Power:** +624 
+ **Extra Power:** +432 
 
 ## Pilot bonus info
 

@@ -1,24 +1,24 @@
 ---
-title: "Pilot Duncan"
-permalink: /pilots/Duncan/
-excerpt: "Wing Fighter Duncan"
+title: "Pilot Gunnlod"
+permalink: /pilots/Gunnlod/
+excerpt: "Wing Fighter Gunnlod"
 last_modified_at: 2023-08-14
 locale: en
-ref: "Duncan.md"
+ref: "Gunnlod.md"
 toc: false
 classes: wide
 ---
 
 
- ![Duncan](/images/pilots/aviator_piece_3003.png)
+ ![Gunnlod](/images/pilots/aviator_piece_4002.png)
 
 ## Details
 
- **Skill:** For every XXX strong foes killed, the attack on strong foes + <span style="color: #03ff6b">ZZZ</span><br/><span style="color: #000000;"></span> 
+ **Skill:** For every XXX levels of Endless Voyage completed, winggun attack + <span style="color: #03ff6b">ZZZ</span><br/><span style="color: #000000;"></span> 
 
- **Rarity:** N 
+ **Rarity:** R 
 
- **Extra Power:** +408 
+ **Extra Power:** +600 
 
 ## Pilot bonus info
 

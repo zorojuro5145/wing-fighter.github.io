@@ -1,24 +1,24 @@
 ---
-title: "Pilot Fernando"
-permalink: /pilots/Fernando/
-excerpt: "Wing Fighter Fernando"
+title: "Pilot Hestia"
+permalink: /pilots/Hestia/
+excerpt: "Wing Fighter Hestia"
 last_modified_at: 2023-08-14
 locale: en
-ref: "Fernando.md"
+ref: "Hestia.md"
 toc: false
 classes: wide
 ---
 
 
- ![Fernando](/images/pilots/aviator_piece_5006.png)
+ ![Hestia](/images/pilots/aviator_piece_5005.png)
 
 ## Details
 
- **Skill:** For every XXX Titan Challenges completed, YYY + <span style="color: #03ff6b">ZZZ</span><br/><span style="color: #000000;"></span> 
+ **Skill:** For every XXX resources successfully looted, YYY + <span style="color: #03ff6b">ZZZ</span><br/><span style="color: #000000;"></span> 
 
  **Rarity:** SR 
 
- **Extra Power:** +840 
+ **Extra Power:** +760 
 
 ## Pilot bonus info
 

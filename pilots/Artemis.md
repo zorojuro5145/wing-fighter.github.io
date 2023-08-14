@@ -1,20 +1,20 @@
 ---
-title: "Pilot Kelly"
-permalink: /pilots/Kelly/
-excerpt: "Wing Fighter Kelly"
+title: "Pilot Artemis"
+permalink: /pilots/Artemis/
+excerpt: "Wing Fighter Artemis"
 last_modified_at: 2023-08-14
 locale: en
-ref: "Kelly.md"
+ref: "Artemis.md"
 toc: false
 classes: wide
 ---
 
 
- ![Kelly](/images/pilots/aviator_piece_5005.png)
+ ![Artemis](/images/pilots/aviator_piece_5002.png)
 
 ## Details
 
- **Skill:** For every XXX resources successfully looted, YYY + <span style="color: #03ff6b">ZZZ</span><br/><span style="color: #000000;"></span> 
+ **Skill:** For every XXX energy consumed, YYY + <span style="color: #03ff6b">ZZZ</span><br/><span style="color: #000000;"></span> 
 
  **Rarity:** SR 
 

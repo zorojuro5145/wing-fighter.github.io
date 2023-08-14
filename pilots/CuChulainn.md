@@ -1,24 +1,24 @@
 ---
-title: "Pilot Angelina"
-permalink: /pilots/Angelina/
-excerpt: "Wing Fighter Angelina"
+title: "Pilot CuChulainn"
+permalink: /pilots/CuChulainn/
+excerpt: "Wing Fighter CuChulainn"
 last_modified_at: 2023-08-14
 locale: en
-ref: "Angelina.md"
+ref: "CuChulainn.md"
 toc: false
 classes: wide
 ---
 
 
- ![Angelina](/images/pilots/aviator_piece_5002.png)
+ ![CuChulainn](/images/pilots/aviator_piece_3001.png)
 
 ## Details
 
- **Skill:** For every XXX energy consumed, YYY + <span style="color: #03ff6b">ZZZ</span><br/><span style="color: #000000;"></span> 
+ **Skill:** For every XXX hours of idle rewards received, YYY + <span style="color: #03ff6b">ZZZ</span><br/><span style="color: #000000;"></span> 
 
- **Rarity:** SR 
+ **Rarity:** N 
 
- **Extra Power:** +760 
+ **Extra Power:** +408 
 
 ## Pilot bonus info
 

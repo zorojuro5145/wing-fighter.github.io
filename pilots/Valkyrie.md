@@ -1,24 +1,24 @@
 ---
-title: "Pilot Shingo"
-permalink: /pilots/Shingo/
-excerpt: "Wing Fighter Shingo"
+title: "Pilot Valkyrie"
+permalink: /pilots/Valkyrie/
+excerpt: "Wing Fighter Valkyrie"
 last_modified_at: 2023-08-14
 locale: en
-ref: "Shingo.md"
+ref: "Valkyrie.md"
 toc: false
 classes: wide
 ---
 
 
- ![Shingo](/images/pilots/aviator_piece_5003.png)
+ ![Valkyrie](/images/pilots/aviator_piece_4004.png)
 
 ## Details
 
- **Skill:** For every XXX attacks against other players in Planet Wars, YYY + <span style="color: #03ff6b">ZZZ</span><br/><span style="color: #000000;"></span> 
+ **Skill:** For every XXX ads watched, armor HP + <span style="color: #03ff6b">ZZZ</span><br/><span style="color: #000000;"></span> 
 
- **Rarity:** SR 
+ **Rarity:** R 
 
- **Extra Power:** +800 
+ **Extra Power:** +624 
 
 ## Pilot bonus info
 

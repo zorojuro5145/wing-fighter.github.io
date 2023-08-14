@@ -1,24 +1,24 @@
 ---
-title: "Pilot Teresa"
-permalink: /pilots/Teresa/
-excerpt: "Wing Fighter Teresa"
+title: "Pilot Achilles"
+permalink: /pilots/Achilles/
+excerpt: "Wing Fighter Achilles"
 last_modified_at: 2023-08-14
 locale: en
-ref: "Teresa.md"
+ref: "Achilles.md"
 toc: false
 classes: wide
 ---
 
 
- ![Teresa](/images/pilots/aviator_piece_5001.png)
+ ![Achilles](/images/pilots/aviator_piece_3003.png)
 
 ## Details
 
- **Skill:** For every XXX diamonds consumed, YYY + <span style="color: #03ff6b">ZZZ</span><br/><span style="color: #000000;"></span> 
+ **Skill:** For every XXX strong foes killed, the attack on strong foes + <span style="color: #03ff6b">ZZZ</span><br/><span style="color: #000000;"></span> 
 
- **Rarity:** SR 
+ **Rarity:** N 
 
- **Extra Power:** +840 
+ **Extra Power:** +408 
 
 ## Pilot bonus info
 

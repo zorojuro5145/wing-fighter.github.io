@@ -1,24 +1,24 @@
 ---
-title: "Pilot Lisa"
-permalink: /pilots/Lisa/
-excerpt: "Wing Fighter Lisa"
+title: "Pilot Athena"
+permalink: /pilots/Athena/
+excerpt: "Wing Fighter Athena"
 last_modified_at: 2023-08-14
 locale: en
-ref: "Lisa.md"
+ref: "Athena.md"
 toc: false
 classes: wide
 ---
 
 
- ![Lisa](/images/pilots/aviator_piece_4001.png)
+ ![Athena](/images/pilots/aviator_piece_5004.png)
 
 ## Details
 
- **Skill:** For every XXX Supreme Care Chests opened, maingun attack + <span style="color: #03ff6b">ZZZ</span><br/><span style="color: #000000;"></span> 
+ **Skill:** For every XXX daily missions completed, YYY + <span style="color: #03ff6b">ZZZ</span><br/><span style="color: #000000;"></span> 
 
- **Rarity:** R 
+ **Rarity:** SR 
 
- **Extra Power:** +600 
+ **Extra Power:** +800 
 
 ## Pilot bonus info
 

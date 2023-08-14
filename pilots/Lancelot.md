@@ -1,24 +1,24 @@
 ---
-title: "Pilot Leon"
-permalink: /pilots/Leon/
-excerpt: "Wing Fighter Leon"
+title: "Pilot Lancelot"
+permalink: /pilots/Lancelot/
+excerpt: "Wing Fighter Lancelot"
 last_modified_at: 2023-08-14
 locale: en
-ref: "Leon.md"
+ref: "Lancelot.md"
 toc: false
 classes: wide
 ---
 
 
- ![Leon](/images/pilots/aviator_piece_3001.png)
+ ![Lancelot](/images/pilots/aviator_piece_5006.png)
 
 ## Details
 
- **Skill:** For every XXX hours of idle rewards received, YYY + <span style="color: #03ff6b">ZZZ</span><br/><span style="color: #000000;"></span> 
+ **Skill:** For every XXX Titan Challenges completed, YYY + <span style="color: #03ff6b">ZZZ</span><br/><span style="color: #000000;"></span> 
 
- **Rarity:** N 
+ **Rarity:** SR 
 
- **Extra Power:** +408 
+ **Extra Power:** +840 
 
 ## Pilot bonus info
 

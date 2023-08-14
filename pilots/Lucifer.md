@@ -1,24 +1,24 @@
 ---
-title: "Pilot Elizabeth"
-permalink: /pilots/Elizabeth/
-excerpt: "Wing Fighter Elizabeth"
+title: "Pilot Lucifer"
+permalink: /pilots/Lucifer/
+excerpt: "Wing Fighter Lucifer"
 last_modified_at: 2023-08-14
 locale: en
-ref: "Elizabeth.md"
+ref: "Lucifer.md"
 toc: false
 classes: wide
 ---
 
 
- ![Elizabeth](/images/pilots/aviator_piece_4002.png)
+ ![Lucifer](/images/pilots/aviator_piece_4003.png)
 
 ## Details
 
- **Skill:** For every XXX levels of Endless Voyage completed, winggun attack + <span style="color: #03ff6b">ZZZ</span><br/><span style="color: #000000;"></span> 
+ **Skill:** For every XXX commander tasks completed, missile attack + <span style="color: #03ff6b">ZZZ</span><br/><span style="color: #000000;"></span> 
 
  **Rarity:** R 
 
- **Extra Power:** +600 
+ **Extra Power:** +576 
 
 ## Pilot bonus info
 

@@ -1,24 +1,24 @@
 ---
-title: "Pilot Sophia"
-permalink: /pilots/Sophia/
-excerpt: "Wing Fighter Sophia"
+title: "Pilot Juliet"
+permalink: /pilots/Juliet/
+excerpt: "Wing Fighter Juliet"
 last_modified_at: 2023-08-14
 locale: en
-ref: "Sophia.md"
+ref: "Juliet.md"
 toc: false
 classes: wide
 ---
 
 
- ![Sophia](/images/pilots/aviator_piece_5004.png)
+ ![Juliet](/images/pilots/aviator_piece_3002.png)
 
 ## Details
 
- **Skill:** For every XXX daily missions completed, YYY + <span style="color: #03ff6b">ZZZ</span><br/><span style="color: #000000;"></span> 
+ **Skill:** For every XXX normal enemies killed, the attack on normal enemies + <span style="color: #03ff6b">ZZZ</span><br/><span style="color: #000000;"></span> 
 
- **Rarity:** SR 
+ **Rarity:** N 
 
- **Extra Power:** +800 
+ **Extra Power:** +392 
 
 ## Pilot bonus info
 

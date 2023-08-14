@@ -1,24 +1,24 @@
 ---
-title: "Pilot Liya"
-permalink: /pilots/Liya/
-excerpt: "Wing Fighter Liya"
+title: "Pilot Hanzo"
+permalink: /pilots/Hanzo/
+excerpt: "Wing Fighter Hanzo"
 last_modified_at: 2023-08-14
 locale: en
-ref: "Liya.md"
+ref: "Hanzo.md"
 toc: false
 classes: wide
 ---
 
 
- ![Liya](/images/pilots/aviator_piece_3004.png)
+ ![Hanzo](/images/pilots/aviator_piece_5003.png)
 
 ## Details
 
- **Skill:** For every XXX Bosses killed, the attack on Bosses + <span style="color: #03ff6b">ZZZ</span><br/><span style="color: #000000;"></span> 
+ **Skill:** For every XXX attacks against other players in Planet Wars, YYY + <span style="color: #03ff6b">ZZZ</span><br/><span style="color: #000000;"></span> 
 
- **Rarity:** N 
+ **Rarity:** SR 
 
- **Extra Power:** +432 
+ **Extra Power:** +800 
 
 ## Pilot bonus info
 
