@@ -62,7 +62,19 @@ classes: wide
 
 
 
- **Levels:**  List of levels with HP and Attack -> TBD
+
+## Evolve
+
+  |  Star level | Stats | Effect Coefficient | Power | Evolve Materials | Awake Costs Shards |
+  |:------------|:-----:|:-------------------|:----------------:|:--------------------:|:-------------|
+  | ![Star 0](/images/s0.png)  | A: +10, B: +10  | +0.0%  | -  | null  |  |
+  | ![Star1](/images/s1.png)  | A: +20, B: +20  | +1.0%  | +520  | **40x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)  | A: +30, B: +30  | +2.0%  | +1310  | **80x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | A: +40, B: +40  | +3.0%  | +2460  | **160x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **60x**![Athena Shard](/images/pilots/Athena_Shard_p.png)Athena Shard  |  |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | A: +50, B: +50  | +4.0%  | +4290  | **300x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **120x**![Athena Shard](/images/pilots/Athena_Shard_p.png)Athena Shard  |  R: x100 |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | A: +60, B: +60  | +5.0%  | +6650  | **500x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **180x**![Athena Shard](/images/pilots/Athena_Shard_p.png)Athena Shard  |  R: x200 |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | A: +80, B: +80  | +6.0%  | +9790  | **1200x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **240x**![Athena Shard](/images/pilots/Athena_Shard_p.png)Athena Shard  |  R: x400 |
+  | MAX  | A: +100, B: +100  | +9.0%  | +14500  | **1800x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  SR: x800 R: x800 N: x1500 |
 
 
 

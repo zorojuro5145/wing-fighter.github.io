@@ -62,7 +62,19 @@ classes: wide
 
 
 
- **Levels:**  List of levels with HP and Attack -> TBD
+
+## Evolve
+
+  |  Star level | Stats | Effect Coefficient | Power | Evolve Materials | Awake Costs Shards |
+  |:------------|:-----:|:-------------------|:----------------:|:--------------------:|:-------------|
+  | ![Star 0](/images/s0.png)  | A: +5, B: +5  | +0.0%  | -  | null  |  |
+  | ![Star1](/images/s1.png)  | A: +10, B: +10  | +10.0%  | -  | **20x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)  | A: +15, B: +15  | +20.0%  | -  | **40x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | A: +20, B: +20  | +30.0%  | -  | **80x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **30x**![Kaguya Shard](/images/pilots/Kaguya_Shard_p.png)Kaguya Shard  |  |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | A: +25, B: +25  | +40.0%  | -  | **120x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **60x**![Kaguya Shard](/images/pilots/Kaguya_Shard_p.png)Kaguya Shard  |  |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | A: +30, B: +30  | +50.0%  | -  | **200x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **90x**![Kaguya Shard](/images/pilots/Kaguya_Shard_p.png)Kaguya Shard  |  |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | A: +40, B: +40  | +70.0%  | -  | **600x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **120x**![Kaguya Shard](/images/pilots/Kaguya_Shard_p.png)Kaguya Shard  |  |
+  | MAX  | A: +50, B: +50  | +100.0%  | -  | **900x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  N: x1060 |
 
 
 

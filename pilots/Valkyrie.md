@@ -62,7 +62,19 @@ classes: wide
 
 
 
- **Levels:**  List of levels with HP and Attack -> TBD
+
+## Evolve
+
+  |  Star level | Stats | Effect Coefficient | Power | Evolve Materials | Awake Costs Shards |
+  |:------------|:-----:|:-------------------|:----------------:|:--------------------:|:-------------|
+  | ![Star 0](/images/s0.png)  | A: +8, B: +8  | +0.0%  | -  | null  |  |
+  | ![Star1](/images/s1.png)  | A: +16, B: +16  | +10.0%  | -  | **30x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)  | A: +24, B: +24  | +20.0%  | -  | **60x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | A: +32, B: +32  | +30.0%  | -  | **120x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **45x**![Valkyrie Shard](/images/pilots/Valkyrie_Shard_p.png)Valkyrie Shard  |  |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | A: +40, B: +40  | +40.0%  | -  | **180x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **90x**![Valkyrie Shard](/images/pilots/Valkyrie_Shard_p.png)Valkyrie Shard  |  N: x100 |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | A: +48, B: +48  | +50.0%  | -  | **300x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **135x**![Valkyrie Shard](/images/pilots/Valkyrie_Shard_p.png)Valkyrie Shard  |  N: x200 |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | A: +60, B: +60  | +70.0%  | -  | **900x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **180x**![Valkyrie Shard](/images/pilots/Valkyrie_Shard_p.png)Valkyrie Shard  |  N: x400 |
+  | MAX  | A: +75, B: +75  | +100.0%  | -  | **1350x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  R: x900 N: x800 |
 
 
 
