@@ -16,6 +16,10 @@ classes: wide
 
  **Skill:** For every 10 Titan Challenges completed, Crit Damage Reduction + <span style="color: #03ff6b">Y %</span><br/><span style="color: #000000;"></span> 
 
+ **Shard:** ![Lancelot Shard](/images/pilots/Lancelot_Shard_p.png)Lancelot Shard 
+
+ **To get full pilot You need:** **40** shards 
+
  **Rarity:** SR 
 
  **Extra Power:** +840 

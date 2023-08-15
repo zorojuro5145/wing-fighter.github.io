@@ -16,6 +16,10 @@ classes: wide
 
  **Skill:** For every 10 Supreme Care Chests opened, maingun attack + <span style="color: #03ff6b">YY</span><br/><span style="color: #000000;"></span> 
 
+ **Shard:** ![Guinevere Shard](/images/pilots/Guinevere_Shard_p.png)Guinevere Shard 
+
+ **To get full pilot You need:** **30** shards 
+
  **Rarity:** R 
 
  **Extra Power:** +600 

@@ -16,6 +16,10 @@ classes: wide
 
  **Skill:** For every 8 hours of idle rewards received, Hourly Stars Output from Idle Rewards + <span style="color: #03ff6b">YY</span><br/><span style="color: #000000;"></span> 
 
+ **Shard:** ![CuChulainn Shard](/images/pilots/CuChulainn_Shard_p.png)CuChulainn Shard 
+
+ **To get full pilot You need:** **20** shards 
+
  **Rarity:** N 
 
  **Extra Power:** +408 

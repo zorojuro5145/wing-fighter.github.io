@@ -16,6 +16,10 @@ classes: wide
 
  **Skill:** For every 10 ads watched, armor HP + <span style="color: #03ff6b">YY</span><br/><span style="color: #000000;"></span> 
 
+ **Shard:** ![Valkyrie Shard](/images/pilots/Valkyrie_Shard_p.png)Valkyrie Shard 
+
+ **To get full pilot You need:** **30** shards 
+
  **Rarity:** R 
 
  **Extra Power:** +624 

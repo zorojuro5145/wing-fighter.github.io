@@ -16,6 +16,10 @@ classes: wide
 
  **Skill:** For every 4 commander tasks completed, missile attack + <span style="color: #03ff6b">YY</span><br/><span style="color: #000000;"></span> 
 
+ **Shard:** ![Lucifer Shard](/images/pilots/Lucifer_Shard_p.png)Lucifer Shard 
+
+ **To get full pilot You need:** **30** shards 
+
  **Rarity:** R 
 
  **Extra Power:** +576 

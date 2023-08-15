@@ -16,6 +16,10 @@ classes: wide
 
  **Skill:** For every 80 resources successfully looted, Crit Damage + <span style="color: #03ff6b">Y %</span><br/><span style="color: #000000;"></span> 
 
+ **Shard:** ![Hestia Shard](/images/pilots/Hestia_Shard_p.png)Hestia Shard 
+
+ **To get full pilot You need:** **40** shards 
+
  **Rarity:** SR 
 
  **Extra Power:** +760 
