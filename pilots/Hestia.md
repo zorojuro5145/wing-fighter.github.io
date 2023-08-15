@@ -67,7 +67,7 @@ classes: wide
 
   |  Star level | Stats | Effect Coefficient | Power | Evolve Materials | Awake Costs Shards |
   |:------------|:-----:|:-------------------|:----------------:|:--------------------:|:-------------|
-  | ![Star 0](/images/s0.png)  | A: +10, B: +10  | +0.0%  | -  | null  |  |
+  | ![Star 0](/images/s0.png)  | A: +10, B: +10  | +0.0%  | -  | -  |  |
   | ![Star1](/images/s1.png)  | A: +20, B: +20  | +1.0%  | +520  | **40x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  |
   | ![Star1](/images/s1.png)![Star1](/images/s1.png)  | A: +30, B: +30  | +2.0%  | +1310  | **80x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  |
   | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | A: +40, B: +40  | +4.0%  | +2470  | **160x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **60x**![Hestia Shard](/images/pilots/Hestia_Shard_p.png)Hestia Shard  |  |

@@ -67,7 +67,7 @@ classes: wide
 
   |  Star level | Stats | Effect Coefficient | Power | Evolve Materials | Awake Costs Shards |
   |:------------|:-----:|:-------------------|:----------------:|:--------------------:|:-------------|
-  | ![Star 0](/images/s0.png)  | A: +8, B: +8  | +0.0%  | -  | null  |  |
+  | ![Star 0](/images/s0.png)  | A: +8, B: +8  | +0.0%  | -  | -  |  |
   | ![Star1](/images/s1.png)  | A: +16, B: +16  | +10.0%  | -  | **30x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  |
   | ![Star1](/images/s1.png)![Star1](/images/s1.png)  | A: +24, B: +24  | +20.0%  | -  | **60x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  |
   | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | A: +32, B: +32  | +30.0%  | -  | **120x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **45x**![Lucifer Shard](/images/pilots/Lucifer_Shard_p.png)Lucifer Shard  |  |

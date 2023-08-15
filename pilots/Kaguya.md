@@ -67,7 +67,7 @@ classes: wide
 
   |  Star level | Stats | Effect Coefficient | Power | Evolve Materials | Awake Costs Shards |
   |:------------|:-----:|:-------------------|:----------------:|:--------------------:|:-------------|
-  | ![Star 0](/images/s0.png)  | A: +5, B: +5  | +0.0%  | -  | null  |  |
+  | ![Star 0](/images/s0.png)  | A: +5, B: +5  | +0.0%  | -  | -  |  |
   | ![Star1](/images/s1.png)  | A: +10, B: +10  | +10.0%  | -  | **20x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  |
   | ![Star1](/images/s1.png)![Star1](/images/s1.png)  | A: +15, B: +15  | +20.0%  | -  | **40x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  |
   | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | A: +20, B: +20  | +30.0%  | -  | **80x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **30x**![Kaguya Shard](/images/pilots/Kaguya_Shard_p.png)Kaguya Shard  |  |
