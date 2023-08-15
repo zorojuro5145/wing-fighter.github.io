@@ -2,7 +2,7 @@
 title: "Wing Fighter Pilots"
 permalink: /pilots/
 excerpt: "Wing Fighter List of Pilots"
-last_modified_at: 2023-08-14
+last_modified_at: 2023-08-15
 locale: en
 ref: "index.md"
 toc: false
