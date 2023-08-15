@@ -74,7 +74,7 @@ classes: wide
   | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | A: +50, B: +50  | +4.0%  | +4290  | **300x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **120x**![Freya Shard](/images/pilots/Freya_Shard_p.png)Freya Shard  |  R: x100 |
   | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | A: +60, B: +60  | +5.0%  | +6640  | **500x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **180x**![Freya Shard](/images/pilots/Freya_Shard_p.png)Freya Shard  |  R: x200 |
   | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | A: +80, B: +80  | +6.0%  | +9770  | **1200x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **240x**![Freya Shard](/images/pilots/Freya_Shard_p.png)Freya Shard  |  R: x400 |
-  | MAX  | A: +100, B: +100  | +9.0%  | +14480  | **1800x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  SR: x800 R: x800 N: x1500 |
+  | AWAKED  | A: +100, B: +100  | +9.0%  | +14480  | **1800x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  SR: x800 R: x800 N: x1500 |
 
 
 

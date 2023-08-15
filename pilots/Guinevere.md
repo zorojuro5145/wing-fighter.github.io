@@ -74,7 +74,7 @@ classes: wide
   | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | A: +40, B: +40  | +40.0%  | -  | **180x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **90x**![Guinevere Shard](/images/pilots/Guinevere_Shard_p.png)Guinevere Shard  |  N: x100 |
   | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | A: +48, B: +48  | +50.0%  | -  | **300x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **135x**![Guinevere Shard](/images/pilots/Guinevere_Shard_p.png)Guinevere Shard  |  N: x200 |
   | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | A: +60, B: +60  | +70.0%  | -  | **900x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **180x**![Guinevere Shard](/images/pilots/Guinevere_Shard_p.png)Guinevere Shard  |  N: x400 |
-  | MAX  | A: +75, B: +75  | +100.0%  | -  | **1350x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  R: x900 N: x800 |
+  | AWAKED  | A: +75, B: +75  | +100.0%  | -  | **1350x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  R: x900 N: x800 |
 
 
 
