@@ -2,7 +2,7 @@
 title: "Pilot Lancelot"
 permalink: /pilots/Lancelot/
 excerpt: "Wing Fighter Lancelot"
-last_modified_at: 2023-08-15
+last_modified_at: 2023-08-16
 locale: en
 ref: "Lancelot.md"
 toc: false

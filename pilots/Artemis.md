@@ -2,7 +2,7 @@
 title: "Pilot Artemis"
 permalink: /pilots/Artemis/
 excerpt: "Wing Fighter Artemis"
-last_modified_at: 2023-08-15
+last_modified_at: 2023-08-16
 locale: en
 ref: "Artemis.md"
 toc: false

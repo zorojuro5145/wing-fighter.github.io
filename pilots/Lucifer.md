@@ -2,7 +2,7 @@
 title: "Pilot Lucifer"
 permalink: /pilots/Lucifer/
 excerpt: "Wing Fighter Lucifer"
-last_modified_at: 2023-08-15
+last_modified_at: 2023-08-16
 locale: en
 ref: "Lucifer.md"
 toc: false

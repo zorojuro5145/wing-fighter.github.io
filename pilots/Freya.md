@@ -2,7 +2,7 @@
 title: "Pilot Freya"
 permalink: /pilots/Freya/
 excerpt: "Wing Fighter Freya"
-last_modified_at: 2023-08-15
+last_modified_at: 2023-08-16
 locale: en
 ref: "Freya.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Pilot Hestia"
 permalink: /pilots/Hestia/
 excerpt: "Wing Fighter Hestia"
-last_modified_at: 2023-08-15
+last_modified_at: 2023-08-16
 locale: en
 ref: "Hestia.md"
 toc: false
