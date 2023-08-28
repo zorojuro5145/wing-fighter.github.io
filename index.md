@@ -10,22 +10,18 @@ sidebar:
   nav: "docs"
 ---
 
-{% capture notice-update20230814 %}
+{% capture notice-update20230828 %}
 
-<img src="/images/pilots/xfxy_img23_p.png" alt="Pilots" width="161" height="256"/>
+<img src="/images/PlanetWars_header.png" alt="Planet Wars" width="512" height="185"/>
 
-* Add [Pilots](/pilots/) information. Enjoy!
-
-* Still waiting for Guides/Manuals/How-To text from Minigame and Players...
+* Add [Planet Wars](/Planet_Wars/) information. Enjoy!
 
 {% endcapture %}
 
 <div class="notice--danger">
-  <h4 class="no_toc">14 August 2023 Wiki Update: Add Pilots information</h4>
-  {{ notice-update20230814 | markdownify }}
+  <h4 class="no_toc">28 August 2023 Wiki Update: Add Planet Wars information</h4>
+  {{ notice-update20230828 | markdownify }}
 </div>
-
-
 
 
 
@@ -46,6 +42,7 @@ You will find here:
 <h1> <img src="/images/pilots/aviator_piece_5002_p.png" alt="Talents" width="32" height="32"/><a href="/pilots/" hreflang="en">Pilots</a> </h1>
 <h1> <img src="/images/suit_icon_1_p.png" alt="Gear Sets" width="28" height="32"/><a href="/gear_set/" hreflang="en">Gear Sets</a> </h1>
 <h1> <img src="/images/shop.png" alt="Shop" width="31" height="23"/><a href="/shop/" hreflang="en">Shop</a> </h1>
+<h1> <img src="/images/planet_wars/Legend_p.png" alt="Planet Wars" width="32" height="20"/><a href="/Planet_Wars/" hreflang="en">Planet Wars</a> </h1>
 
 <h1> <img src="/images/img_2.png" alt="Gear Set Chest" width="34" height="28"/><a href="/shop/Gear%20Set%20Chest_29/" hreflang="en">Gear Set Chest</a> </h1>
 <h1> <img src="/images/mixed_box_2.png" alt="Super Chest" width="34" height="26"/><a href="/shop/Super%20Chest_21/" hreflang="en">Super Chest</a> </h1>
@@ -76,6 +73,21 @@ The Wing Fighter - the perfect game for nostalgic arcade lovers! Extra informati
 
 
 
+
+{% capture notice-update20230814 %}
+
+<img src="/images/pilots/xfxy_img23_p.png" alt="Pilots" width="161" height="256"/>
+
+* Add [Pilots](/pilots/) information. Enjoy!
+
+* Still waiting for Guides/Manuals/How-To text from Minigame and Players...
+
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">14 August 2023 Wiki Update: Add Pilots information</h4>
+  {{ notice-update20230814 | markdownify }}
+</div>
 
 
 
