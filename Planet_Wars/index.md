@@ -15,7 +15,7 @@ classes: wide
   [Planet Wars Levels](/Planet_Wars/#collection-center-levels){: .btn .btn--info}
 
 
-  by Division:   [1](/Planet_Wars/Planet Wars Bronze/){: .btn .btn--primary}   [2](/Planet_Wars/Planet Wars Silver/){: .btn .btn--success}   [3](/Planet_Wars/Planet Wars Gold/){: .btn .btn--warning}   [4](/Planet_Wars/Planet Wars Platinum/){: .btn .btn--danger}   [5](/Planet_Wars/Planet Wars Diamond/){: .btn .btn--info}   [6](/Planet_Wars/Planet Wars Master/){: .btn .btn--primary}   [7](/Planet_Wars/Planet Wars Legend/){: .btn .btn--success} 
+  by Division:   [Bronze](/Planet_Wars/Planet Wars Bronze/){: .btn .btn--primary}   [Silver](/Planet_Wars/Planet Wars Silver/){: .btn .btn--success}   [Gold](/Planet_Wars/Planet Wars Gold/){: .btn .btn--warning}   [Platinum](/Planet_Wars/Planet Wars Platinum/){: .btn .btn--danger}   [Diamond](/Planet_Wars/Planet Wars Diamond/){: .btn .btn--info}   [Master](/Planet_Wars/Planet Wars Master/){: .btn .btn--primary}   [Legend](/Planet_Wars/Planet Wars Legend/){: .btn .btn--success} 
 
 ## Planet Wars Divisions:
 

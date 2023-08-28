@@ -36,7 +36,9 @@ docs:
       url: /talent/
     - title: "Legion"
       url: /legion/
-
+    - title: "Planet Wars"
+      url: /Planet_Wars/
+      
   - title: "Language"
     children:
       - title: "Wing Fighter"
