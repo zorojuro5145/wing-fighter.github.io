@@ -19,21 +19,21 @@ classes: wide
 
   |  Place | Icon | Player Ranking Rewards |
   |:-------|:----:|:----------------|
-  | **1** | ![Rank 1 to 1](/images/planet_wars/rank_1.png) | **20000x**![Unknown_3](/images/item/Settlement_Energy_p.png)[Unknown](/item/item_3/), **80x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/) |
-  | **2** | ![Rank 2 to 2](/images/planet_wars/rank_2.png) | **15000x**![Unknown_3](/images/item/Settlement_Energy_p.png)[Unknown](/item/item_3/), **60x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/) |
-  | **3** | ![Rank 3 to 3](/images/planet_wars/rank_3.png) | **10000x**![Unknown_3](/images/item/Settlement_Energy_p.png)[Unknown](/item/item_3/), **40x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/) |
-  | 4 - 10 | ![Rank 4 to 10](/images/planet_wars/rank_4.png) | **8000x**![Unknown_3](/images/item/Settlement_Energy_p.png)[Unknown](/item/item_3/), **30x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/) |
-  | 11 - 20 | ![Rank 11 to 20](/images/planet_wars/rank_5.png) | **6000x**![Unknown_3](/images/item/Settlement_Energy_p.png)[Unknown](/item/item_3/), **22x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/) |
-  | 21 - 200 | ![Rank 21 to 200](/images/planet_wars/rank_6.png) | **4000x**![Unknown_3](/images/item/Settlement_Energy_p.png)[Unknown](/item/item_3/), **20x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/) |
+  | **1** | ![Rank 1 to 1](/images/planet_wars/rank_1_p.png) | **20000x**![Stars](/images/item/Stars_p.png), **80x**![Badge](/images/item/Badge_p.png) |
+  | **2** | ![Rank 2 to 2](/images/planet_wars/rank_2_p.png) | **15000x**![Stars](/images/item/Stars_p.png), **60x**![Badge](/images/item/Badge_p.png) |
+  | **3** | ![Rank 3 to 3](/images/planet_wars/rank_3_p.png) | **10000x**![Stars](/images/item/Stars_p.png), **40x**![Badge](/images/item/Badge_p.png) |
+  | 4 - 10 | ![Rank 4 to 10](/images/planet_wars/rank_4_p.png) | **8000x**![Stars](/images/item/Stars_p.png), **30x**![Badge](/images/item/Badge_p.png) |
+  | 11 - 20 | ![Rank 11 to 20](/images/planet_wars/rank_5_p.png) | **6000x**![Stars](/images/item/Stars_p.png), **22x**![Badge](/images/item/Badge_p.png) |
+  | 21 - 200 | ![Rank 21 to 200](/images/planet_wars/rank_6_p.png) | **4000x**![Stars](/images/item/Stars_p.png), **20x**![Badge](/images/item/Badge_p.png) |
 
 
 ## Legion Ranking Rewards:
 
   |  Place | Icon | Legion Ranking Rewards |
   |:-------|:----:|:----------------|
-  | **1** | ![Rank 1 to 1](/images/planet_wars/rank_1.png) | **12000x**![Unknown_3](/images/item/Settlement_Energy_p.png)[Unknown](/item/item_3/), **6000x**![Unknown_78](/images/item/xqdz_icon6_p.png)[Unknown](/item/item_78/), **600x**![Basic Training Guide](/images/item/Basic_Training_Guide_p.png)[Basic Training Guide](/item/Basic Training Guide_90/) |
-  | **2** | ![Rank 2 to 2](/images/planet_wars/rank_2.png) | **9000x**![Unknown_3](/images/item/Settlement_Energy_p.png)[Unknown](/item/item_3/), **4800x**![Unknown_78](/images/item/xqdz_icon6_p.png)[Unknown](/item/item_78/), **500x**![Basic Training Guide](/images/item/Basic_Training_Guide_p.png)[Basic Training Guide](/item/Basic Training Guide_90/) |
-  | **3** | ![Rank 3 to 3](/images/planet_wars/rank_3.png) | **7800x**![Unknown_3](/images/item/Settlement_Energy_p.png)[Unknown](/item/item_3/), **4200x**![Unknown_78](/images/item/xqdz_icon6_p.png)[Unknown](/item/item_78/), **400x**![Basic Training Guide](/images/item/Basic_Training_Guide_p.png)[Basic Training Guide](/item/Basic Training Guide_90/) |
-  | **4** | ![Rank 4 to 4](/images/planet_wars/rank_4.png) | **7200x**![Unknown_3](/images/item/Settlement_Energy_p.png)[Unknown](/item/item_3/), **3600x**![Unknown_78](/images/item/xqdz_icon6_p.png)[Unknown](/item/item_78/), **200x**![Basic Training Guide](/images/item/Basic_Training_Guide_p.png)[Basic Training Guide](/item/Basic Training Guide_90/) |
-  | **5** | ![Rank 5 to 5](/images/planet_wars/rank_5.png) | **6600x**![Unknown_3](/images/item/Settlement_Energy_p.png)[Unknown](/item/item_3/), **3300x**![Unknown_78](/images/item/xqdz_icon6_p.png)[Unknown](/item/item_78/), **180x**![Basic Training Guide](/images/item/Basic_Training_Guide_p.png)[Basic Training Guide](/item/Basic Training Guide_90/) |
-  | **6** | ![Rank 6 to 6](/images/planet_wars/rank_6.png) | **6000x**![Unknown_3](/images/item/Settlement_Energy_p.png)[Unknown](/item/item_3/), **3000x**![Unknown_78](/images/item/xqdz_icon6_p.png)[Unknown](/item/item_78/), **155x**![Basic Training Guide](/images/item/Basic_Training_Guide_p.png)[Basic Training Guide](/item/Basic Training Guide_90/) |
+  | **1** | ![Rank 1 to 1](/images/planet_wars/rank_1_p.png) | **12000x**![Stars](/images/item/Stars_p.png), **6000x**![Unknown_78](/images/item/xqdz_icon6_p.png), **600x**![Basic Training Guide](/images/item/Basic_Training_Guide_p.png) |
+  | **2** | ![Rank 2 to 2](/images/planet_wars/rank_2_p.png) | **9000x**![Stars](/images/item/Stars_p.png), **4800x**![Unknown_78](/images/item/xqdz_icon6_p.png), **500x**![Basic Training Guide](/images/item/Basic_Training_Guide_p.png) |
+  | **3** | ![Rank 3 to 3](/images/planet_wars/rank_3_p.png) | **7800x**![Stars](/images/item/Stars_p.png), **4200x**![Unknown_78](/images/item/xqdz_icon6_p.png), **400x**![Basic Training Guide](/images/item/Basic_Training_Guide_p.png) |
+  | **4** | ![Rank 4 to 4](/images/planet_wars/rank_4_p.png) | **7200x**![Stars](/images/item/Stars_p.png), **3600x**![Unknown_78](/images/item/xqdz_icon6_p.png), **200x**![Basic Training Guide](/images/item/Basic_Training_Guide_p.png) |
+  | **5** | ![Rank 5 to 5](/images/planet_wars/rank_5_p.png) | **6600x**![Stars](/images/item/Stars_p.png), **3300x**![Unknown_78](/images/item/xqdz_icon6_p.png), **180x**![Basic Training Guide](/images/item/Basic_Training_Guide_p.png) |
+  | **6** | ![Rank 6 to 6](/images/planet_wars/rank_6_p.png) | **6000x**![Stars](/images/item/Stars_p.png), **3000x**![Unknown_78](/images/item/xqdz_icon6_p.png), **155x**![Basic Training Guide](/images/item/Basic_Training_Guide_p.png) |
