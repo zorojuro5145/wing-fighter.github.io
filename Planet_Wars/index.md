@@ -12,10 +12,14 @@ classes: wide
 
   ![Planet Wars](/images/PlanetWars_header.png)
 
+  Advanced to a higher tier and get more valuable rewards
+
 
   by Division:   [Bronze](/Planet_Wars/Planet Wars Bronze/){: .btn .btn--primary}   [Silver](/Planet_Wars/Planet Wars Silver/){: .btn .btn--success}   [Gold](/Planet_Wars/Planet Wars Gold/){: .btn .btn--warning}   [Platinum](/Planet_Wars/Planet Wars Platinum/){: .btn .btn--danger}   [Diamond](/Planet_Wars/Planet Wars Diamond/){: .btn .btn--info}   [Master](/Planet_Wars/Planet Wars Master/){: .btn .btn--primary}   [Legend](/Planet_Wars/Planet Wars Legend/){: .btn .btn--success} 
 
 ## Planet Wars Divisions:
+
+  There are 7 tiers in Planet Wars: Bronze, Silver, Gold, Platinum, Diamond, Master, and Legend. Improving your tier can get better ranking rewards. The amount of rare earths collected will also be higher.
 
   |  Icon | Division Name |
   |:------|:-------------:|

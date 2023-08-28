@@ -15,3 +15,13 @@ classes: wide
 
   ![Diamond](/images/planet_wars/Diamond.png)
 
+## Legion Ranking Rewards:
+
+  |  Place | Icon | Rewards |
+  |:-------|:----:|:----------------|
+  | **1** | ![Rank 1 to 1](/images/planet_wars/rank_1.png) | **45000x**![Unknown_3](/images/item/Settlement_Energy_p.png)[Unknown](/item/item_3/), **12000x**![Unknown_78](/images/item/xqdz_icon6_p.png)[Unknown](/item/item_78/), **3000x**![Basic Training Guide](/images/item/Basic_Training_Guide_p.png)[Basic Training Guide](/item/Basic Training Guide_90/) |
+  | **2** | ![Rank 2 to 2](/images/planet_wars/rank_2.png) | **42000x**![Unknown_3](/images/item/Settlement_Energy_p.png)[Unknown](/item/item_3/), **11400x**![Unknown_78](/images/item/xqdz_icon6_p.png)[Unknown](/item/item_78/), **2500x**![Basic Training Guide](/images/item/Basic_Training_Guide_p.png)[Basic Training Guide](/item/Basic Training Guide_90/) |
+  | **3** | ![Rank 3 to 3](/images/planet_wars/rank_3.png) | **39000x**![Unknown_3](/images/item/Settlement_Energy_p.png)[Unknown](/item/item_3/), **11100x**![Unknown_78](/images/item/xqdz_icon6_p.png)[Unknown](/item/item_78/), **2000x**![Basic Training Guide](/images/item/Basic_Training_Guide_p.png)[Basic Training Guide](/item/Basic Training Guide_90/) |
+  | **4** | ![Rank 4 to 4](/images/planet_wars/rank_4.png) | **36000x**![Unknown_3](/images/item/Settlement_Energy_p.png)[Unknown](/item/item_3/), **10800x**![Unknown_78](/images/item/xqdz_icon6_p.png)[Unknown](/item/item_78/), **1000x**![Basic Training Guide](/images/item/Basic_Training_Guide_p.png)[Basic Training Guide](/item/Basic Training Guide_90/) |
+  | **5** | ![Rank 5 to 5](/images/planet_wars/rank_5.png) | **33000x**![Unknown_3](/images/item/Settlement_Energy_p.png)[Unknown](/item/item_3/), **10650x**![Unknown_78](/images/item/xqdz_icon6_p.png)[Unknown](/item/item_78/), **900x**![Basic Training Guide](/images/item/Basic_Training_Guide_p.png)[Basic Training Guide](/item/Basic Training Guide_90/) |
+  | **6** | ![Rank 6 to 6](/images/planet_wars/rank_6.png) | **30000x**![Unknown_3](/images/item/Settlement_Energy_p.png)[Unknown](/item/item_3/), **10500x**![Unknown_78](/images/item/xqdz_icon6_p.png)[Unknown](/item/item_78/), **770x**![Basic Training Guide](/images/item/Basic_Training_Guide_p.png)[Basic Training Guide](/item/Basic Training Guide_90/) |
