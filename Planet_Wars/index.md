@@ -17,6 +17,19 @@ classes: wide
 
   by Division:   [1](/Planet_Wars/Planet Wars Bronze/){: .btn .btn--primary}   [2](/Planet_Wars/Planet Wars Silver/){: .btn .btn--success}   [3](/Planet_Wars/Planet Wars Gold/){: .btn .btn--warning}   [4](/Planet_Wars/Planet Wars Platinum/){: .btn .btn--danger}   [5](/Planet_Wars/Planet Wars Diamond/){: .btn .btn--info}   [6](/Planet_Wars/Planet Wars Master/){: .btn .btn--primary}   [7](/Planet_Wars/Planet Wars Legend/){: .btn .btn--success} 
 
+## Planet Wars Divisions:
+
+  |  Icon | Division Name |
+  |:------|:-------------:|
+ | ![Planet Wars Bronze](/images/planet_wars/Bronze_p.png) | [Planet Wars Bronze](/Planet_Wars/Planet Wars Bronze/) |
+ | ![Planet Wars Silver](/images/planet_wars/Silver_p.png) | [Planet Wars Silver](/Planet_Wars/Planet Wars Silver/) |
+ | ![Planet Wars Gold](/images/planet_wars/Gold_p.png) | [Planet Wars Gold](/Planet_Wars/Planet Wars Gold/) |
+ | ![Planet Wars Platinum](/images/planet_wars/Platinum_p.png) | [Planet Wars Platinum](/Planet_Wars/Planet Wars Platinum/) |
+ | ![Planet Wars Diamond](/images/planet_wars/Diamond_p.png) | [Planet Wars Diamond](/Planet_Wars/Planet Wars Diamond/) |
+ | ![Planet Wars Master](/images/planet_wars/Master_p.png) | [Planet Wars Master](/Planet_Wars/Planet Wars Master/) |
+ | ![Planet Wars Legend](/images/planet_wars/Legend_p.png) | [Planet Wars Legend](/Planet_Wars/Planet Wars Legend/) |
+
+
 ## Rules
 
   <b><span style="color: #fb870b">Base Rules</span><br/><span style="color: #000000;"></b><br/>
