@@ -12,6 +12,8 @@ docs:
     children:
     - title: "Fighters"
       url: /fighter/
+    - title: "Pilots"
+      url: /pilots/
     - title: "Commanders"
       url: /commander/
     - title: "Items"
