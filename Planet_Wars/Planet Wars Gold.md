@@ -20,7 +20,7 @@ classes: wide
 ## Planet Wars Planets:
 
   |  Icon | Level | Planet color | Planet amount | Protection Time | Output per hour |
-  |:------|:-----=|:-------------|:-------------:|:----------------|:------------|
+  |:------|:------|:-------------|:-------------:|:----------------|:------------|
  | ![Planet Wars Planet Level 1](/images/planet_wars/xqdz_xq_icon1_p.png) | **1** | <span style="color: #E4FF78">Planet Color</span> | **22** | 1 hour | **30** |
  | ![Planet Wars Planet Level 2](/images/planet_wars/xqdz_xq_icon2_p.png) | **2** | <span style="color: #5C99FF">Planet Color</span> | **6** | 1 hour | **60** |
  | ![Planet Wars Planet Level 3](/images/planet_wars/xqdz_xq_icon2_p.png) | **3** | <span style="color: #FF6DF4">Planet Color</span> | **4** | 1 hour | **90** |
