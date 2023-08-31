@@ -2,7 +2,7 @@
 title: "Planet Wars Master"
 permalink: /Planet_Wars/Planet Wars Master/
 excerpt: "Wing Fighter Planet WarsMaster"
-last_modified_at: 2023-08-28
+last_modified_at: 2023-08-31
 locale: en
 ref: "Planet Wars Master.md"
 toc: false
@@ -15,6 +15,17 @@ classes: wide
 
   ![Master](/images/planet_wars/Master.png)
 
+
+
+## Planet Wars Planets:
+
+  |  Icon | Level | Planet color | Planet amount | Protection Time | Output per hour |
+  |:------|:-----=|:-------------|:-------------:|:----------------|:------------|
+ | ![Planet Wars Planet Level 1](/images/planet_wars/xqdz_xq_icon1_p.png) | **1** | <span style="color: #E4FF78">Planet Color</span> | **22** | 1 hour | **45** |
+ | ![Planet Wars Planet Level 2](/images/planet_wars/xqdz_xq_icon2_p.png) | **2** | <span style="color: #5C99FF">Planet Color</span> | **6** | 1 hour | **90** |
+ | ![Planet Wars Planet Level 3](/images/planet_wars/xqdz_xq_icon2_p.png) | **3** | <span style="color: #FF6DF4">Planet Color</span> | **4** | 1 hour | **135** |
+ | ![Planet Wars Planet Level 4](/images/planet_wars/xqdz_xq_icon4_p.png) | **4** | <span style="color: #FFC35E">Planet Color</span> | **2** | 0 hour | **180** |
+ | ![Planet Wars Planet Level 5](/images/planet_wars/xqdz_xq_icon5_p.png) | **5** | <span style="color: #FF5A5A">Planet Color</span> | **1** | 0 hour | **225** |
 ## Player Ranking Rewards:
 
   |  Place | Icon | Player Ranking Rewards |
