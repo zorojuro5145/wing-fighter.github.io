@@ -2,7 +2,7 @@
 title: "Planet Wars"
 permalink: /Planet_Wars/
 excerpt: "Wing Fighter Planet Wars"
-last_modified_at: 2023-08-28
+last_modified_at: 2023-08-31
 locale: en
 ref: "index.md"
 toc: false
@@ -30,6 +30,17 @@ classes: wide
  | ![Planet Wars Gold](/images/planet_wars/Gold_p.png) | [Planet Wars Gold](/Planet_Wars/Planet Wars Gold/) |
  | ![Planet Wars Silver](/images/planet_wars/Silver_p.png) | [Planet Wars Silver](/Planet_Wars/Planet Wars Silver/) |
  | ![Planet Wars Bronze](/images/planet_wars/Bronze_p.png) | [Planet Wars Bronze](/Planet_Wars/Planet Wars Bronze/) |
+
+
+## Planet Wars Planets:
+
+  |  Icon | Level | Planet color | Planet amount | Protection Time | Description |
+  |:------|:-----=|:-------------|:-------------:|:----------------|:------------|
+ | ![Planet Wars Planet Level 1](/images/planet_wars/xqdz_xq_icon1_p.png) | **1** | <span style="color: #E4FF78">Planet Color</span> | **22** | 1 hour | Output depends on your Division  |
+ | ![Planet Wars Planet Level 2](/images/planet_wars/xqdz_xq_icon2_p.png) | **2** | <span style="color: #5C99FF">Planet Color</span> | **6** | 1 hour | Output depends on your Division  |
+ | ![Planet Wars Planet Level 3](/images/planet_wars/xqdz_xq_icon2_p.png) | **3** | <span style="color: #FF6DF4">Planet Color</span> | **4** | 1 hour | Output depends on your Division  |
+ | ![Planet Wars Planet Level 4](/images/planet_wars/xqdz_xq_icon4_p.png) | **4** | <span style="color: #FFC35E">Planet Color</span> | **2** | 0 hour | Output depends on your Division  |
+ | ![Planet Wars Planet Level 5](/images/planet_wars/xqdz_xq_icon5_p.png) | **5** | <span style="color: #FF5A5A">Planet Color</span> | **1** | 0 hour | Output depends on your Division  |
 
 
 ## Rules
