@@ -10,17 +10,17 @@ sidebar:
   nav: "docs"
 ---
 
-{% capture notice-update20230828 %}
+{% capture notice-update20230831 %}
 
 <img src="/images/PlanetWars_header.png" alt="Planet Wars" width="512" height="185"/>
 
-* Add [Planet Wars](/Planet_Wars/) information. Enjoy!
+* Add [Planet Wars](/Planet_Wars/) information with Planet output per each Division... Enjoy!
 
 {% endcapture %}
 
 <div class="notice--danger">
-  <h4 class="no_toc">28 August 2023 Wiki Update: Add Planet Wars information</h4>
-  {{ notice-update20230828 | markdownify }}
+  <h4 class="no_toc">31 August 2023 Wiki Update: Add Planet Wars information</h4>
+  {{ notice-update20230831 | markdownify }}
 </div>
 
 
