@@ -16,6 +16,8 @@ classes: wide
 
  **Skill:** For every 20 daily missions completed, Crit Resistance + <span style="color: #03ff6b">Y %</span><br/><span style="color: #000000;"></span> 
 
+ **Attributes:** **Energy Defense Break** and **Energy Defense**
+
  **Shard:** ![Athena Shard](/images/pilots/Athena_Shard_p.png)Athena Shard 
 
  **To get full pilot You need:** **40** shards 

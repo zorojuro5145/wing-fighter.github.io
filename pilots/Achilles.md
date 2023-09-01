@@ -16,6 +16,8 @@ classes: wide
 
  **Skill:** For every 100 strong foes killed, the attack on strong foes + <span style="color: #03ff6b">YY</span><br/><span style="color: #000000;"></span> 
 
+ **Attributes:** **Physical Defense Break** and **Energy Defense**
+
  **Shard:** ![Achilles Shard](/images/pilots/Achilles_Shard_p.png)Achilles Shard 
 
  **To get full pilot You need:** **20** shards 

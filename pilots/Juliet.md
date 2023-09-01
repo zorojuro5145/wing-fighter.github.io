@@ -16,6 +16,8 @@ classes: wide
 
  **Skill:** For every 500 normal enemies killed, the attack on normal enemies + <span style="color: #03ff6b">YY</span><br/><span style="color: #000000;"></span> 
 
+ **Attributes:** **Energy Defense Break** and **Energy Defense**
+
  **Shard:** ![Juliet Shard](/images/pilots/Juliet_Shard_p.png)Juliet Shard 
 
  **To get full pilot You need:** **20** shards 

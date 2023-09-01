@@ -16,6 +16,8 @@ classes: wide
 
  **Skill:** For every 80 resources successfully looted, Crit Damage + <span style="color: #03ff6b">Y %</span><br/><span style="color: #000000;"></span> 
 
+ **Attributes:** **Physical Defense Break** and **Energy Defense**
+
  **Shard:** ![Hestia Shard](/images/pilots/Hestia_Shard_p.png)Hestia Shard 
 
  **To get full pilot You need:** **40** shards 

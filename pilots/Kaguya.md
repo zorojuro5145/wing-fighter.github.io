@@ -16,6 +16,8 @@ classes: wide
 
  **Skill:** For every 5 Bosses killed, the attack on Bosses + <span style="color: #03ff6b">YY</span><br/><span style="color: #000000;"></span> 
 
+ **Attributes:** **Energy Defense Break** and **Physical Defense**
+
  **Shard:** ![Kaguya Shard](/images/pilots/Kaguya_Shard_p.png)Kaguya Shard 
 
  **To get full pilot You need:** **20** shards 

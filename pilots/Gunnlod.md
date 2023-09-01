@@ -16,6 +16,8 @@ classes: wide
 
  **Skill:** For every 100 levels of Endless Voyage completed, winggun attack + <span style="color: #03ff6b">YY</span><br/><span style="color: #000000;"></span> 
 
+ **Attributes:** **Physical Defense Break** and **Physical Defense**
+
  **Shard:** ![Gunnlod Shard](/images/pilots/Gunnlod_Shard_p.png)Gunnlod Shard 
 
  **To get full pilot You need:** **30** shards 

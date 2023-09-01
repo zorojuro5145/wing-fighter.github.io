@@ -16,6 +16,8 @@ classes: wide
 
  **Skill:** For every 20 attacks against other players in Planet Wars, Crit + <span style="color: #03ff6b">Y %</span><br/><span style="color: #000000;"></span> 
 
+ **Attributes:** **Physical Defense Break** and **Energy Defense Break**
+
  **Shard:** ![Hanzo Shard](/images/pilots/Hanzo_Shard_p.png)Hanzo Shard 
 
  **To get full pilot You need:** **40** shards 

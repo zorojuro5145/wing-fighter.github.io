@@ -16,6 +16,8 @@ classes: wide
 
  **Skill:** For every 100 energy consumed, Hit Rate + <span style="color: #03ff6b">Y %</span><br/><span style="color: #000000;"></span> 
 
+ **Attributes:** **Physical Defense** and **Energy Defense**
+
  **Shard:** ![Artemis Shard](/images/pilots/Artemis_Shard_p.png)Artemis Shard 
 
  **To get full pilot You need:** **40** shards 

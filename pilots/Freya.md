@@ -16,6 +16,8 @@ classes: wide
 
  **Skill:** For every 3000 diamonds consumed, Dodge + <span style="color: #03ff6b">Y %</span><br/><span style="color: #000000;"></span> 
 
+ **Attributes:** **Physical Defense Break** and **Physical Defense**
+
  **Shard:** ![Freya Shard](/images/pilots/Freya_Shard_p.png)Freya Shard 
 
  **To get full pilot You need:** **40** shards 
