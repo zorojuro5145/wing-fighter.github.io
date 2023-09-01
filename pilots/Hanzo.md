@@ -2,7 +2,7 @@
 title: "Pilot Hanzo"
 permalink: /pilots/Hanzo/
 excerpt: "Wing Fighter Hanzo"
-last_modified_at: 2023-08-16
+last_modified_at: 2023-09-01
 locale: en
 ref: "Hanzo.md"
 toc: false
@@ -67,14 +67,14 @@ classes: wide
 
   |  Star level | Stats | Effect Coefficient | Power | Evolve Materials | Awake Costs Shards |
   |:------------|:-----:|:-------------------|:----------------:|:--------------------:|:-------------|
-  | ![Star 0](/images/s0.png)  | A: +10, B: +10  | +0.0%  | -  | -  |  |
-  | ![Star1](/images/s1.png)  | A: +20, B: +20  | +1.0%  | +520  | **40x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)  | A: +30, B: +30  | +2.0%  | +1310  | **80x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | A: +40, B: +40  | +3.0%  | +2460  | **160x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **60x**![Hanzo Shard](/images/pilots/Hanzo_Shard_p.png)Hanzo Shard  |  |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | A: +50, B: +50  | +4.0%  | +4290  | **300x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **120x**![Hanzo Shard](/images/pilots/Hanzo_Shard_p.png)Hanzo Shard  |  R: x100 |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | A: +60, B: +60  | +5.0%  | +6650  | **500x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **180x**![Hanzo Shard](/images/pilots/Hanzo_Shard_p.png)Hanzo Shard  |  R: x200 |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | A: +80, B: +80  | +6.0%  | +9790  | **1200x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **240x**![Hanzo Shard](/images/pilots/Hanzo_Shard_p.png)Hanzo Shard  |  R: x400 |
-  | AWAKED  | A: +100, B: +100  | +9.0%  | +14500  | **1800x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  SR: x800 R: x800 N: x1500 |
+  | ![Star 0](/images/s0.png)  | Physical Defense Break: +10, Energy Defense Break: +10  | +0.0%  | -  | -  |  |
+  | ![Star1](/images/s1.png)  | Physical Defense Break: +20, Energy Defense Break: +20  | +1.0%  | +520  | **40x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +30, Energy Defense Break: +30  | +2.0%  | +1310  | **80x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +40, Energy Defense Break: +40  | +3.0%  | +2460  | **160x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **60x**![Hanzo Shard](/images/pilots/Hanzo_Shard_p.png)Hanzo Shard  |  |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +50, Energy Defense Break: +50  | +4.0%  | +4290  | **300x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **120x**![Hanzo Shard](/images/pilots/Hanzo_Shard_p.png)Hanzo Shard  |  R: x100 |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +60, Energy Defense Break: +60  | +5.0%  | +6650  | **500x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **180x**![Hanzo Shard](/images/pilots/Hanzo_Shard_p.png)Hanzo Shard  |  R: x200 |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +80, Energy Defense Break: +80  | +6.0%  | +9790  | **1200x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **240x**![Hanzo Shard](/images/pilots/Hanzo_Shard_p.png)Hanzo Shard  |  R: x400 |
+  | AWAKED  | Physical Defense Break: +100, Energy Defense Break: +100  | +9.0%  | +14500  | **1800x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  SR: x800 R: x800 N: x1500 |
 
 
 

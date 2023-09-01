@@ -2,7 +2,7 @@
 title: "Pilot Gunnlod"
 permalink: /pilots/Gunnlod/
 excerpt: "Wing Fighter Gunnlod"
-last_modified_at: 2023-08-16
+last_modified_at: 2023-09-01
 locale: en
 ref: "Gunnlod.md"
 toc: false
@@ -67,14 +67,14 @@ classes: wide
 
   |  Star level | Stats | Effect Coefficient | Power | Evolve Materials | Awake Costs Shards |
   |:------------|:-----:|:-------------------|:----------------:|:--------------------:|:-------------|
-  | ![Star 0](/images/s0.png)  | A: +8, B: +8  | +0.0%  | -  | -  |  |
-  | ![Star1](/images/s1.png)  | A: +16, B: +16  | +10.0%  | -  | **30x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)  | A: +24, B: +24  | +20.0%  | -  | **60x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | A: +32, B: +32  | +30.0%  | -  | **120x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **45x**![Gunnlod Shard](/images/pilots/Gunnlod_Shard_p.png)Gunnlod Shard  |  |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | A: +40, B: +40  | +40.0%  | -  | **180x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **90x**![Gunnlod Shard](/images/pilots/Gunnlod_Shard_p.png)Gunnlod Shard  |  N: x100 |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | A: +48, B: +48  | +50.0%  | -  | **300x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **135x**![Gunnlod Shard](/images/pilots/Gunnlod_Shard_p.png)Gunnlod Shard  |  N: x200 |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | A: +60, B: +60  | +70.0%  | -  | **900x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **180x**![Gunnlod Shard](/images/pilots/Gunnlod_Shard_p.png)Gunnlod Shard  |  N: x400 |
-  | AWAKED  | A: +75, B: +75  | +100.0%  | -  | **1350x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  R: x900 N: x800 |
+  | ![Star 0](/images/s0.png)  | Physical Defense Break: +8, Physical Defense: +8  | +0.0%  | -  | -  |  |
+  | ![Star1](/images/s1.png)  | Physical Defense Break: +16, Physical Defense: +16  | +10.0%  | -  | **30x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +24, Physical Defense: +24  | +20.0%  | -  | **60x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +32, Physical Defense: +32  | +30.0%  | -  | **120x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **45x**![Gunnlod Shard](/images/pilots/Gunnlod_Shard_p.png)Gunnlod Shard  |  |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +40, Physical Defense: +40  | +40.0%  | -  | **180x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **90x**![Gunnlod Shard](/images/pilots/Gunnlod_Shard_p.png)Gunnlod Shard  |  N: x100 |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +48, Physical Defense: +48  | +50.0%  | -  | **300x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **135x**![Gunnlod Shard](/images/pilots/Gunnlod_Shard_p.png)Gunnlod Shard  |  N: x200 |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +60, Physical Defense: +60  | +70.0%  | -  | **900x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **180x**![Gunnlod Shard](/images/pilots/Gunnlod_Shard_p.png)Gunnlod Shard  |  N: x400 |
+  | AWAKED  | Physical Defense Break: +75, Physical Defense: +75  | +100.0%  | -  | **1350x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  R: x900 N: x800 |
 
 
 

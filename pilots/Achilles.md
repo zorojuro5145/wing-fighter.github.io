@@ -2,7 +2,7 @@
 title: "Pilot Achilles"
 permalink: /pilots/Achilles/
 excerpt: "Wing Fighter Achilles"
-last_modified_at: 2023-08-16
+last_modified_at: 2023-09-01
 locale: en
 ref: "Achilles.md"
 toc: false
@@ -67,14 +67,14 @@ classes: wide
 
   |  Star level | Stats | Effect Coefficient | Power | Evolve Materials | Awake Costs Shards |
   |:------------|:-----:|:-------------------|:----------------:|:--------------------:|:-------------|
-  | ![Star 0](/images/s0.png)  | A: +5, B: +5  | +0.0%  | -  | -  |  |
-  | ![Star1](/images/s1.png)  | A: +10, B: +10  | +10.0%  | -  | **20x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)  | A: +15, B: +15  | +20.0%  | -  | **40x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | A: +20, B: +20  | +30.0%  | -  | **80x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **30x**![Achilles Shard](/images/pilots/Achilles_Shard_p.png)Achilles Shard  |  |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | A: +25, B: +25  | +40.0%  | -  | **120x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **60x**![Achilles Shard](/images/pilots/Achilles_Shard_p.png)Achilles Shard  |  |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | A: +30, B: +30  | +50.0%  | -  | **200x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **90x**![Achilles Shard](/images/pilots/Achilles_Shard_p.png)Achilles Shard  |  |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | A: +40, B: +40  | +70.0%  | -  | **600x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **120x**![Achilles Shard](/images/pilots/Achilles_Shard_p.png)Achilles Shard  |  |
-  | AWAKED  | A: +50, B: +50  | +100.0%  | -  | **900x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  N: x1060 |
+  | ![Star 0](/images/s0.png)  | Physical Defense Break: +5, Energy Defense: +5  | +0.0%  | -  | -  |  |
+  | ![Star1](/images/s1.png)  | Physical Defense Break: +10, Energy Defense: +10  | +10.0%  | -  | **20x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +15, Energy Defense: +15  | +20.0%  | -  | **40x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +20, Energy Defense: +20  | +30.0%  | -  | **80x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **30x**![Achilles Shard](/images/pilots/Achilles_Shard_p.png)Achilles Shard  |  |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +25, Energy Defense: +25  | +40.0%  | -  | **120x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **60x**![Achilles Shard](/images/pilots/Achilles_Shard_p.png)Achilles Shard  |  |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +30, Energy Defense: +30  | +50.0%  | -  | **200x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **90x**![Achilles Shard](/images/pilots/Achilles_Shard_p.png)Achilles Shard  |  |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +40, Energy Defense: +40  | +70.0%  | -  | **600x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **120x**![Achilles Shard](/images/pilots/Achilles_Shard_p.png)Achilles Shard  |  |
+  | AWAKED  | Physical Defense Break: +50, Energy Defense: +50  | +100.0%  | -  | **900x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  N: x1060 |
 
 
 

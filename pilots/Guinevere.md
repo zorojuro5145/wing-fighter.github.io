@@ -2,7 +2,7 @@
 title: "Pilot Guinevere"
 permalink: /pilots/Guinevere/
 excerpt: "Wing Fighter Guinevere"
-last_modified_at: 2023-08-16
+last_modified_at: 2023-09-01
 locale: en
 ref: "Guinevere.md"
 toc: false
@@ -67,14 +67,14 @@ classes: wide
 
   |  Star level | Stats | Effect Coefficient | Power | Evolve Materials | Awake Costs Shards |
   |:------------|:-----:|:-------------------|:----------------:|:--------------------:|:-------------|
-  | ![Star 0](/images/s0.png)  | A: +8, B: +8  | +0.0%  | -  | -  |  |
-  | ![Star1](/images/s1.png)  | A: +16, B: +16  | +10.0%  | -  | **30x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)  | A: +24, B: +24  | +20.0%  | -  | **60x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | A: +32, B: +32  | +30.0%  | -  | **120x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **45x**![Guinevere Shard](/images/pilots/Guinevere_Shard_p.png)Guinevere Shard  |  |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | A: +40, B: +40  | +40.0%  | -  | **180x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **90x**![Guinevere Shard](/images/pilots/Guinevere_Shard_p.png)Guinevere Shard  |  N: x100 |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | A: +48, B: +48  | +50.0%  | -  | **300x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **135x**![Guinevere Shard](/images/pilots/Guinevere_Shard_p.png)Guinevere Shard  |  N: x200 |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | A: +60, B: +60  | +70.0%  | -  | **900x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **180x**![Guinevere Shard](/images/pilots/Guinevere_Shard_p.png)Guinevere Shard  |  N: x400 |
-  | AWAKED  | A: +75, B: +75  | +100.0%  | -  | **1350x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  R: x900 N: x800 |
+  | ![Star 0](/images/s0.png)  | Physical Defense Break: +8, Energy Defense Break: +8  | +0.0%  | -  | -  |  |
+  | ![Star1](/images/s1.png)  | Physical Defense Break: +16, Energy Defense Break: +16  | +10.0%  | -  | **30x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +24, Energy Defense Break: +24  | +20.0%  | -  | **60x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +32, Energy Defense Break: +32  | +30.0%  | -  | **120x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **45x**![Guinevere Shard](/images/pilots/Guinevere_Shard_p.png)Guinevere Shard  |  |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +40, Energy Defense Break: +40  | +40.0%  | -  | **180x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **90x**![Guinevere Shard](/images/pilots/Guinevere_Shard_p.png)Guinevere Shard  |  N: x100 |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +48, Energy Defense Break: +48  | +50.0%  | -  | **300x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **135x**![Guinevere Shard](/images/pilots/Guinevere_Shard_p.png)Guinevere Shard  |  N: x200 |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +60, Energy Defense Break: +60  | +70.0%  | -  | **900x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **180x**![Guinevere Shard](/images/pilots/Guinevere_Shard_p.png)Guinevere Shard  |  N: x400 |
+  | AWAKED  | Physical Defense Break: +75, Energy Defense Break: +75  | +100.0%  | -  | **1350x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  R: x900 N: x800 |
 
 
 

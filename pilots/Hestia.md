@@ -2,7 +2,7 @@
 title: "Pilot Hestia"
 permalink: /pilots/Hestia/
 excerpt: "Wing Fighter Hestia"
-last_modified_at: 2023-08-16
+last_modified_at: 2023-09-01
 locale: en
 ref: "Hestia.md"
 toc: false
@@ -67,14 +67,14 @@ classes: wide
 
   |  Star level | Stats | Effect Coefficient | Power | Evolve Materials | Awake Costs Shards |
   |:------------|:-----:|:-------------------|:----------------:|:--------------------:|:-------------|
-  | ![Star 0](/images/s0.png)  | A: +10, B: +10  | +0.0%  | -  | -  |  |
-  | ![Star1](/images/s1.png)  | A: +20, B: +20  | +1.0%  | +520  | **40x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)  | A: +30, B: +30  | +2.0%  | +1310  | **80x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | A: +40, B: +40  | +4.0%  | +2470  | **160x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **60x**![Hestia Shard](/images/pilots/Hestia_Shard_p.png)Hestia Shard  |  |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | A: +50, B: +50  | +6.0%  | +4300  | **300x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **120x**![Hestia Shard](/images/pilots/Hestia_Shard_p.png)Hestia Shard  |  R: x100 |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | A: +60, B: +60  | +8.0%  | +6660  | **500x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **180x**![Hestia Shard](/images/pilots/Hestia_Shard_p.png)Hestia Shard  |  R: x200 |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | A: +80, B: +80  | +11.0%  | +9810  | **1200x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **240x**![Hestia Shard](/images/pilots/Hestia_Shard_p.png)Hestia Shard  |  R: x400 |
-  | AWAKED  | A: +100, B: +100  | +15.0%  | +14530  | **1800x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  SR: x800 R: x800 N: x1500 |
+  | ![Star 0](/images/s0.png)  | Physical Defense Break: +10, Energy Defense: +10  | +0.0%  | -  | -  |  |
+  | ![Star1](/images/s1.png)  | Physical Defense Break: +20, Energy Defense: +20  | +1.0%  | +520  | **40x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +30, Energy Defense: +30  | +2.0%  | +1310  | **80x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +40, Energy Defense: +40  | +4.0%  | +2470  | **160x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **60x**![Hestia Shard](/images/pilots/Hestia_Shard_p.png)Hestia Shard  |  |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +50, Energy Defense: +50  | +6.0%  | +4300  | **300x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **120x**![Hestia Shard](/images/pilots/Hestia_Shard_p.png)Hestia Shard  |  R: x100 |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +60, Energy Defense: +60  | +8.0%  | +6660  | **500x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **180x**![Hestia Shard](/images/pilots/Hestia_Shard_p.png)Hestia Shard  |  R: x200 |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +80, Energy Defense: +80  | +11.0%  | +9810  | **1200x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **240x**![Hestia Shard](/images/pilots/Hestia_Shard_p.png)Hestia Shard  |  R: x400 |
+  | AWAKED  | Physical Defense Break: +100, Energy Defense: +100  | +15.0%  | +14530  | **1800x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  SR: x800 R: x800 N: x1500 |
 
 
 
