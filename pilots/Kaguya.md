@@ -76,7 +76,7 @@ classes: wide
   | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Energy Defense Break: +25, Physical Defense: +25  | +40.0%  | -  | **120x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **60x**![Kaguya Shard](/images/pilots/Kaguya_Shard_p.png)Kaguya Shard  |  |
   | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Energy Defense Break: +30, Physical Defense: +30  | +50.0%  | -  | **200x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **90x**![Kaguya Shard](/images/pilots/Kaguya_Shard_p.png)Kaguya Shard  |  |
   | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Energy Defense Break: +40, Physical Defense: +40  | +70.0%  | -  | **600x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **120x**![Kaguya Shard](/images/pilots/Kaguya_Shard_p.png)Kaguya Shard  |  |
-  | AWAKED  | Energy Defense Break: +50, Physical Defense: +50  | +100.0%  | -  | **900x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  ![N](/images/pilots/N_p.png): x1060 |
+  | AWAKED  | Energy Defense Break: +50, Physical Defense: +50  | +100.0%  | -  | **900x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  ![N](/images/pilots/N_p.png) x1060 |
 
 
 
