@@ -2,7 +2,7 @@
 title: "Pilot Juliet"
 permalink: /pilots/Juliet/
 excerpt: "Wing Fighter Juliet"
-last_modified_at: 2023-09-01
+last_modified_at: 2023-09-02
 locale: en
 ref: "Juliet.md"
 toc: false
@@ -76,7 +76,7 @@ classes: wide
   | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Energy Defense Break: +25, Energy Defense: +25  | +40.0%  | -  | **120x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **60x**![Juliet Shard](/images/pilots/Juliet_Shard_p.png)Juliet Shard  |  |
   | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Energy Defense Break: +30, Energy Defense: +30  | +50.0%  | -  | **200x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **90x**![Juliet Shard](/images/pilots/Juliet_Shard_p.png)Juliet Shard  |  |
   | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Energy Defense Break: +40, Energy Defense: +40  | +70.0%  | -  | **600x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **120x**![Juliet Shard](/images/pilots/Juliet_Shard_p.png)Juliet Shard  |  |
-  | AWAKED  | Energy Defense Break: +50, Energy Defense: +50  | +100.0%  | -  | **900x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  N: x1060 |
+  | AWAKED  | Energy Defense Break: +50, Energy Defense: +50  | +100.0%  | -  | **900x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  ![N](/images/pilots/N_p.png): x1060 |
 
 
 

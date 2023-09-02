@@ -1,7 +1,7 @@
 ---
 title: "item_31"
 permalink: /item/item_31/
-excerpt: "Wing Fighter null"
+excerpt: "Wing Fighter item_31"
 last_modified_at: 2023-09-02
 locale: en
 ref: "item_31.md"

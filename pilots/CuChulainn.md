@@ -2,7 +2,7 @@
 title: "Pilot CuChulainn"
 permalink: /pilots/CuChulainn/
 excerpt: "Wing Fighter CuChulainn"
-last_modified_at: 2023-09-01
+last_modified_at: 2023-09-02
 locale: en
 ref: "CuChulainn.md"
 toc: false
@@ -76,7 +76,7 @@ classes: wide
   | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +25, Physical Defense: +25  | +40.0%  | -  | **120x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **60x**![CuChulainn Shard](/images/pilots/CuChulainn_Shard_p.png)CuChulainn Shard  |  |
   | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +30, Physical Defense: +30  | +50.0%  | -  | **200x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **90x**![CuChulainn Shard](/images/pilots/CuChulainn_Shard_p.png)CuChulainn Shard  |  |
   | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +40, Physical Defense: +40  | +70.0%  | -  | **600x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **120x**![CuChulainn Shard](/images/pilots/CuChulainn_Shard_p.png)CuChulainn Shard  |  |
-  | AWAKED  | Physical Defense Break: +50, Physical Defense: +50  | +100.0%  | -  | **900x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  N: x1060 |
+  | AWAKED  | Physical Defense Break: +50, Physical Defense: +50  | +100.0%  | -  | **900x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  ![N](/images/pilots/N_p.png): x1060 |
 
 
 

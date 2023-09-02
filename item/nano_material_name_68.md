@@ -1,7 +1,7 @@
 ---
 title: "nano_material_name_68"
 permalink: /item/nano_material_name_68/
-excerpt: "Wing Fighter null"
+excerpt: "Wing Fighter nano_material_name_68"
 last_modified_at: 2023-09-02
 locale: en
 ref: "nano_material_name_68.md"

@@ -1,7 +1,7 @@
 ---
 title: "random_equip_60"
 permalink: /item/random_equip_60/
-excerpt: "Wing Fighter null"
+excerpt: "Wing Fighter random_equip_60"
 last_modified_at: 2023-09-02
 locale: en
 ref: "random_equip_60.md"

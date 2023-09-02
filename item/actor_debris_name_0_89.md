@@ -1,7 +1,7 @@
 ---
 title: "actor_debris_name_0_89"
 permalink: /item/actor_debris_name_0_89/
-excerpt: "Wing Fighter null"
+excerpt: "Wing Fighter actor_debris_name_0_89"
 last_modified_at: 2023-09-02
 locale: en
 ref: "actor_debris_name_0_89.md"

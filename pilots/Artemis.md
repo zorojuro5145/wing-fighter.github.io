@@ -2,7 +2,7 @@
 title: "Pilot Artemis"
 permalink: /pilots/Artemis/
 excerpt: "Wing Fighter Artemis"
-last_modified_at: 2023-09-01
+last_modified_at: 2023-09-02
 locale: en
 ref: "Artemis.md"
 toc: false
@@ -73,10 +73,10 @@ classes: wide
   | ![Star1](/images/s1.png)  | Physical Defense: +20, Energy Defense: +20  | +1.0%  | +520  | **40x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  |
   | ![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense: +30, Energy Defense: +30  | +2.0%  | +1310  | **80x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  |
   | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense: +40, Energy Defense: +40  | +3.0%  | +2470  | **160x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **60x**![Artemis Shard](/images/pilots/Artemis_Shard_p.png)Artemis Shard  |  |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense: +50, Energy Defense: +50  | +4.0%  | +4300  | **300x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **120x**![Artemis Shard](/images/pilots/Artemis_Shard_p.png)Artemis Shard  |  R: x100 |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense: +60, Energy Defense: +60  | +5.0%  | +6660  | **500x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **180x**![Artemis Shard](/images/pilots/Artemis_Shard_p.png)Artemis Shard  |  R: x200 |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense: +80, Energy Defense: +80  | +6.0%  | +9810  | **1200x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **240x**![Artemis Shard](/images/pilots/Artemis_Shard_p.png)Artemis Shard  |  R: x400 |
-  | AWAKED  | Physical Defense: +100, Energy Defense: +100  | +9.0%  | +14530  | **1800x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  SR: x800 R: x800 N: x1500 |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense: +50, Energy Defense: +50  | +4.0%  | +4300  | **300x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **120x**![Artemis Shard](/images/pilots/Artemis_Shard_p.png)Artemis Shard  |  ![R](/images/pilots/R_p.png): x100 |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense: +60, Energy Defense: +60  | +5.0%  | +6660  | **500x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **180x**![Artemis Shard](/images/pilots/Artemis_Shard_p.png)Artemis Shard  |  ![R](/images/pilots/R_p.png): x200 |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense: +80, Energy Defense: +80  | +6.0%  | +9810  | **1200x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **240x**![Artemis Shard](/images/pilots/Artemis_Shard_p.png)Artemis Shard  |  ![R](/images/pilots/R_p.png): x400 |
+  | AWAKED  | Physical Defense: +100, Energy Defense: +100  | +9.0%  | +14530  | **1800x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  ![SR](/images/pilots/SR_p.png): x800 ![R](/images/pilots/R_p.png): x800 ![N](/images/pilots/N_p.png): x1500 |
 
 
 
