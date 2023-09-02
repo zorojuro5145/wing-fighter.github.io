@@ -2,7 +2,7 @@
 title: "WindTunnel Shards"
 permalink: /item/WindTunnel Shards_36/
 excerpt: "Wing Fighter WindTunnel Shards"
-last_modified_at: 2023-08-09
+last_modified_at: 2023-09-02
 locale: en
 ref: "WindTunnel Shards_36.md"
 toc: false

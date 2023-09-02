@@ -2,7 +2,7 @@
 title: "NightWing Shards"
 permalink: /item/NightWing Shards_39/
 excerpt: "Wing Fighter NightWing Shards"
-last_modified_at: 2023-08-09
+last_modified_at: 2023-09-02
 locale: en
 ref: "NightWing Shards_39.md"
 toc: false

@@ -1,8 +1,8 @@
 ---
-title: "null"
+title: "random_gem_green_65"
 permalink: /item/random_gem_green_65/
 excerpt: "Wing Fighter null"
-last_modified_at: 2023-08-09
+last_modified_at: 2023-09-02
 locale: en
 ref: "random_gem_green_65.md"
 toc: false

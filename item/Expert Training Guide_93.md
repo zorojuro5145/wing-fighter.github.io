@@ -2,7 +2,7 @@
 title: "Expert Training Guide"
 permalink: /item/Expert Training Guide_93/
 excerpt: "Wing Fighter Expert Training Guide"
-last_modified_at: 2023-08-09
+last_modified_at: 2023-09-02
 locale: en
 ref: "Expert Training Guide_93.md"
 toc: false

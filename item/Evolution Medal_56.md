@@ -2,7 +2,7 @@
 title: "Evolution Medal"
 permalink: /item/Evolution Medal_56/
 excerpt: "Wing Fighter Evolution Medal"
-last_modified_at: 2023-08-09
+last_modified_at: 2023-09-02
 locale: en
 ref: "Evolution Medal_56.md"
 toc: false

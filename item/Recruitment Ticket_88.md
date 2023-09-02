@@ -2,7 +2,7 @@
 title: "Recruitment Ticket"
 permalink: /item/Recruitment Ticket_88/
 excerpt: "Wing Fighter Recruitment Ticket"
-last_modified_at: 2023-08-09
+last_modified_at: 2023-09-02
 locale: en
 ref: "Recruitment Ticket_88.md"
 toc: false

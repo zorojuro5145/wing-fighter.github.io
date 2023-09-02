@@ -1,8 +1,8 @@
 ---
-title: "null"
+title: "item_7"
 permalink: /item/item_7/
 excerpt: "Wing Fighter null"
-last_modified_at: 2023-08-09
+last_modified_at: 2023-09-02
 locale: en
 ref: "item_7.md"
 toc: false

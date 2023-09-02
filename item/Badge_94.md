@@ -2,7 +2,7 @@
 title: "Badge"
 permalink: /item/Badge_94/
 excerpt: "Wing Fighter Badge"
-last_modified_at: 2023-08-09
+last_modified_at: 2023-09-02
 locale: en
 ref: "Badge_94.md"
 toc: false
