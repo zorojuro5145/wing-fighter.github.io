@@ -21,11 +21,11 @@ sidebar:
 The Wiki Updated to client version 1.7.550
 
 List of changes:
-1. All fighter bonus for level 60 is now HP +200 (was +100).
+1. All fighter bonus for level 60 is now **HP +200** (was +100).
 2. Many changes with Energy/Physical types
-3. Conqueror Transform: Transform into Conqueror Titan and the attack of all gears increases by 30% (was "Transform into Conqueror Titan and unleash full firepower upon enemies!")
-4. Thor Transform: Transform into Thor Titan and the attack of all gears increases by 30% (was "Transform into Thor Titan and unleash full firepower upon enemies!")
-5. Gem Anti-Air: Fighter Against aerial enemies (including players) (was "Fighter Against flying enemies")
+3. Conqueror Transform: Transform into Conqueror Titan and **the attack of all gears increases by 30%** (was "Transform into Conqueror Titan and unleash full firepower upon enemies!")
+4. Thor Transform: Transform into Thor Titan and **the attack of all gears increases by 30%** (was "Transform into Thor Titan and unleash full firepower upon enemies!")
+5. Gem Anti-Air: Fighter Against **aerial enemies (including players)** (was "Fighter Against flying enemies")
 6. Changes in [Planet Wars](/Planet_Wars/) (added 7, 8 and 9 points)
 7. Introduced new 11 chests (not yet released). Save money ;)
 
