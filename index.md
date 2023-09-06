@@ -10,17 +10,30 @@ sidebar:
   nav: "docs"
 ---
 
-{% capture notice-update20230831 %}
 
-<img src="/images/PlanetWars_header.png" alt="Planet Wars" width="512" height="185"/>
 
-* Add [Planet Wars](/Planet_Wars/) information with Planet output per each Division... Enjoy!
+
+
+
+
+{% capture notice-update20230906 %}
+
+The Wiki Updated to client version 1.7.550
+
+List of changes:
+1. All fighter bonus for level 60 is now HP +200 (was +100).
+2. Many changes with Energy/Physical types
+3. Conqueror Transform: Transform into Conqueror Titan and the attack of all gears increases by 30% (was "Transform into Conqueror Titan and unleash full firepower upon enemies!")
+4. Thor Transform: Transform into Thor Titan and the attack of all gears increases by 30% (was "Transform into Thor Titan and unleash full firepower upon enemies!")
+5. Gem Anti-Air: Fighter Against aerial enemies (including players) (was "Fighter Against flying enemies")
+6. Changes in [Planet Wars](/Planet_Wars/) (added 7, 8 and 9 points)
+7. Introduced new 11 chests (not yet released). Save money ;)
 
 {% endcapture %}
 
 <div class="notice--danger">
-  <h4 class="no_toc">31 August 2023 Wiki Update: Add Planet Wars information</h4>
-  {{ notice-update20230831 | markdownify }}
+  <h4 class="no_toc">6 September 2023 Wiki Update: Wiki updated to latest version 1.7.550</h4>
+  {{ notice-update20230906 | markdownify }}
 </div>
 
 
@@ -72,6 +85,18 @@ The Wing Fighter - the perfect game for nostalgic arcade lovers! Extra informati
 
 
 
+{% capture notice-update20230831 %}
+
+<img src="/images/PlanetWars_header.png" alt="Planet Wars" width="512" height="185"/>
+
+* Add [Planet Wars](/Planet_Wars/) information with Planet output per each Division... Enjoy!
+
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">31 August 2023 Wiki Update: Add Planet Wars information</h4>
+  {{ notice-update20230831 | markdownify }}
+</div>
 
 
 {% capture notice-update20230814 %}
