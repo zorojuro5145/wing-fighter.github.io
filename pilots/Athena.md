@@ -2,7 +2,7 @@
 title: "Pilot Athena"
 permalink: /pilots/Athena/
 excerpt: "Wing Fighter Athena"
-last_modified_at: 2023-09-02
+last_modified_at: 2023-09-06
 locale: en
 ref: "Athena.md"
 toc: false

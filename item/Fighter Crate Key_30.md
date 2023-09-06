@@ -20,7 +20,7 @@ classes: wide
 
  **Description:** Open the fighter crate once for free
 
- **Rarity:** 1 
+ **Rarity:** 4 
 
  **Type:** 25 
 

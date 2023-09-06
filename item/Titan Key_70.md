@@ -20,7 +20,7 @@ classes: wide
 
  **Description:** Used for opening Conqueror Chest
 
- **Rarity:** 1 
+ **Rarity:** 4 
 
  **Type:** 49 
 

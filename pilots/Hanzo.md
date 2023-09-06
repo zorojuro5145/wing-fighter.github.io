@@ -2,7 +2,7 @@
 title: "Pilot Hanzo"
 permalink: /pilots/Hanzo/
 excerpt: "Wing Fighter Hanzo"
-last_modified_at: 2023-09-02
+last_modified_at: 2023-09-06
 locale: en
 ref: "Hanzo.md"
 toc: false

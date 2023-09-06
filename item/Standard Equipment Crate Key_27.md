@@ -20,7 +20,7 @@ classes: wide
 
  **Description:** Open the standard equipment crate once for free
 
- **Rarity:** 1 
+ **Rarity:** 3 
 
  **Type:** 22 
 

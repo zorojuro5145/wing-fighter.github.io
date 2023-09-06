@@ -36,10 +36,10 @@ classes: wide
   | 23 | ![Killer Hornet Shards](/images/item/Killer_Hornet_Shards_p.png) | 1 | [Killer Hornet Shards](/item/Killer Hornet Shards_24/) | Used to evolve Killer Hornet | 5 | 103 | 
   | 24 | ![Stars](/images/item/Stars_p.png) | 1 | [Stars](/item/Stars_25/) | Stars | 1 | 4 | 
   | 25 | ![Inferno Shards](/images/item/Inferno_Shards_p.png) | 1 | [Inferno Shards](/item/Inferno Shards_26/) | Used to evolve Inferno | 4 | 104 | 
-  | 26 | ![Standard Equipment Crate Key](/images/item/Standard_Equipment_Crate_Key_p.png) | 1 | [Standard Equipment Crate Key](/item/Standard Equipment Crate Key_27/) | Open the standard equipment crate once for free | 1 | 22 | 
-  | 27 | ![Epic Equipment Crate Key](/images/item/Epic_Equipment_Crate_Key_p.png) | 1 | [Epic Equipment Crate Key](/item/Epic Equipment Crate Key_28/) | Open the epic equipment crate once for free | 1 | 23 | 
-  | 28 | ![Module Crate Key](/images/item/Module_Crate_Key_p.png) | 1 | [Module Crate Key](/item/Module Crate Key_29/) | Open the module crate once for free | 1 | 24 | 
-  | 29 | ![Fighter Crate Key](/images/item/Fighter_Crate_Key_p.png) | 1 | [Fighter Crate Key](/item/Fighter Crate Key_30/) | Open the fighter crate once for free | 1 | 25 | 
+  | 26 | ![Standard Equipment Crate Key](/images/item/Standard_Equipment_Crate_Key_p.png) | 1 | [Standard Equipment Crate Key](/item/Standard Equipment Crate Key_27/) | Open the standard equipment crate once for free | 3 | 22 | 
+  | 27 | ![Epic Equipment Crate Key](/images/item/Epic_Equipment_Crate_Key_p.png) | 1 | [Epic Equipment Crate Key](/item/Epic Equipment Crate Key_28/) | Open the epic equipment crate once for free | 4 | 23 | 
+  | 28 | ![Module Crate Key](/images/item/Module_Crate_Key_p.png) | 1 | [Module Crate Key](/item/Module Crate Key_29/) | Open the module crate once for free | 3 | 24 | 
+  | 29 | ![Fighter Crate Key](/images/item/Fighter_Crate_Key_p.png) | 1 | [Fighter Crate Key](/item/Fighter Crate Key_30/) | Open the fighter crate once for free | 4 | 25 | 
   | 30 |  | 1 | [Unknown](/item/item_31/) | ? | 1 | 26 | 
   | 31 | ![Phantom Shards](/images/item/Phantom_Shards_p.png) | 1 | [Phantom Shards](/item/Phantom Shards_32/) | For starring up the fighter Phantom | 6 | 105 | 
   | 32 | ![Glacier Shards](/images/item/Glacier_Shards_p.png) | 1 | [Glacier Shards](/item/Glacier Shards_33/) | For starring up the fighter Glacier | 5 | 106 | 
@@ -81,7 +81,7 @@ classes: wide
   | 68 | ![Unknown_67](/images/item/ttsd_img2_p.png) | 1 | [Unknown](/item/item_67/) | ? | 1 | 46 | 
   | 69 | ![Unknown_68](/images/item/bh_img25_p.png) | 1 | [nano_material_name](/item/nano_material_name_68/) | ? | 1 | 47 | 
   | 70 | ![Unknown_69](/images/item/bh_img27_p.png) | 1 | [fuel_name](/item/fuel_name_69/) | ? | 1 | 48 | 
-  | 71 | ![Titan Key](/images/item/Titan_Key_p.png) | 1 | [Titan Key](/item/Titan Key_70/) | Used for opening Conqueror Chest | 1 | 49 | 
+  | 71 | ![Titan Key](/images/item/Titan_Key_p.png) | 1 | [Titan Key](/item/Titan Key_70/) | Used for opening Conqueror Chest | 4 | 49 | 
   | 72 | ![Random Modules](/images/item/Random_Modules_p.png) | 57 | [Random Modules](/item/Random Modules_71/) | Randomly get one module | 1 | 50 | 
   | 73 | ![Random 1-star Gem](/images/item/Random_1-star_Gem_p.png) | 58 | [Random 1-star Gem](/item/Random 1-star Gem_72/) | Randomly get one 1-star gem | 1 | 52 | 
   | 74 | ![Random 2-star Gem](/images/item/Random_2-star_Gem_p.png) | 59 | [Random 2-star Gem](/item/Random 2-star Gem_73/) | Randomly get one 2-star gem | 1 | 53 | 
@@ -99,15 +99,18 @@ classes: wide
   | 86 | ![Random Epic Equipment](/images/item/Random_Epic_Equipment_p.png) | 62 | [Random Epic Equipment](/item/Random Epic Equipment_85/) | Randomly get one Epic Normal Equipment | 3 | 73 | 
   | 87 | ![Random 1-star Gem](/images/item/Random_1-star_Gem_p.png) | 62 | [Random 1-star Gem](/item/Random 1-star Gem_86/) | Randomly get one 1-star gem | 1 | 52 | 
   | 88 | ![Random 2-star Gem](/images/item/Random_2-star_Gem_p.png) | 62 | [Random 2-star Gem](/item/Random 2-star Gem_87/) | Randomly get one 2-star gem | 2 | 53 | 
-  | 89 | ![Recruitment Ticket](/images/item/Recruitment_Ticket_p.png) | 1 | [Recruitment Ticket](/item/Recruitment Ticket_88/) | Used to recruit pilot | 1 | 63 | 
+  | 89 | ![Recruitment Ticket](/images/item/Recruitment_Ticket_p.png) | 1 | [Recruitment Ticket](/item/Recruitment Ticket_88/) | Used to recruit pilot | 4 | 63 | 
   | 90 | ![Unknown_89](/images/item/actor_debris_1_p.png) | 1 | [actor_debris_name_0](/item/actor_debris_name_0_89/) | ? | 1 | 64 | 
-  | 91 | ![Basic Training Guide](/images/item/Basic_Training_Guide_p.png) | 1 | [Basic Training Guide](/item/Basic Training Guide_90/) | Used to upgrade pilot | 1 | 65 | 
-  | 92 | ![Standard Training Guide](/images/item/Standard_Training_Guide_p.png) | 1 | [Standard Training Guide](/item/Standard Training Guide_91/) | Used to upgrade pilot | 1 | 66 | 
-  | 93 | ![Advanced Training Guide](/images/item/Advanced_Training_Guide_p.png) | 1 | [Advanced Training Guide](/item/Advanced Training Guide_92/) | Used to upgrade pilot | 1 | 67 | 
-  | 94 | ![Expert Training Guide](/images/item/Expert_Training_Guide_p.png) | 1 | [Expert Training Guide](/item/Expert Training Guide_93/) | Used to upgrade pilot | 1 | 68 | 
-  | 95 | ![Badge](/images/item/Badge_p.png) | 1 | [Badge](/item/Badge_94/) | Used to evolve pilot | 1 | 69 | 
+  | 91 | ![Basic Training Guide](/images/item/Basic_Training_Guide_p.png) | 1 | [Basic Training Guide](/item/Basic Training Guide_90/) | Used to upgrade pilot | 3 | 65 | 
+  | 92 | ![Standard Training Guide](/images/item/Standard_Training_Guide_p.png) | 1 | [Standard Training Guide](/item/Standard Training Guide_91/) | Used to upgrade pilot | 4 | 66 | 
+  | 93 | ![Advanced Training Guide](/images/item/Advanced_Training_Guide_p.png) | 1 | [Advanced Training Guide](/item/Advanced Training Guide_92/) | Used to upgrade pilot | 5 | 67 | 
+  | 94 | ![Expert Training Guide](/images/item/Expert_Training_Guide_p.png) | 1 | [Expert Training Guide](/item/Expert Training Guide_93/) | Used to upgrade pilot | 6 | 68 | 
+  | 95 | ![Badge](/images/item/Badge_p.png) | 1 | [Badge](/item/Badge_94/) | Used to evolve pilot | 4 | 69 | 
   | 96 | ![Pilot](/images/item/Pilot_p.png) | 1 | [Pilot](/item/Pilot_95/) | Pilot | 1 | 70 | 
-  | 97 | ![Unknown_2001](/images/item/daily_gift2_p.png) | 1 | [Unknown](/item/item_2001/) | ? | 1 | 21 | 
-  | 98 | ![Unknown_2002](/images/item/daily_gift2_p.png) | 1 | [Unknown](/item/item_2002/) | ? | 1 | 21 | 
-  | 99 | ![Unknown_2005](/images/item/daily_gift5_p.png) | 1 | [Unknown](/item/item_2005/) | ? | 1 | 14 | 
-  | 100 | ![Unknown_2006](/images/item/daily_gift3_p.png) | 1 | [Unknown](/item/item_2006/) | ? | 1 | 14 | 
+  | 97 | ![](/images/item/_p.png) | 1 | [](/item/_96/) |  | 4 | 71 | 
+  | 98 | ![](/images/item/_p.png) | 75 | [](/item/_97/) |  | 3 | 72 | 
+  | 99 | ![](/images/item/_p.png) | 76 | [](/item/_98/) |  | 3 | 73 | 
+  | 100 | ![Unknown_2001](/images/item/daily_gift2_p.png) | 1 | [Unknown](/item/item_2001/) | ? | 1 | 21 | 
+  | 101 | ![Unknown_2002](/images/item/daily_gift2_p.png) | 1 | [Unknown](/item/item_2002/) | ? | 1 | 21 | 
+  | 102 | ![Unknown_2005](/images/item/daily_gift5_p.png) | 1 | [Unknown](/item/item_2005/) | ? | 1 | 14 | 
+  | 103 | ![Unknown_2006](/images/item/daily_gift3_p.png) | 1 | [Unknown](/item/item_2006/) | ? | 1 | 14 | 

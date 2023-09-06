@@ -20,7 +20,7 @@ classes: wide
 
  **Description:** Used to upgrade pilot
 
- **Rarity:** 1 
+ **Rarity:** 3 
 
  **Type:** 65 
 

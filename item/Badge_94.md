@@ -20,7 +20,7 @@ classes: wide
 
  **Description:** Used to evolve pilot
 
- **Rarity:** 1 
+ **Rarity:** 4 
 
  **Type:** 69 
 

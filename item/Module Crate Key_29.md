@@ -20,7 +20,7 @@ classes: wide
 
  **Description:** Open the module crate once for free
 
- **Rarity:** 1 
+ **Rarity:** 3 
 
  **Type:** 24 
 

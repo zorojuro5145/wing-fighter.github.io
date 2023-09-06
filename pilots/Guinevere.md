@@ -2,7 +2,7 @@
 title: "Pilot Guinevere"
 permalink: /pilots/Guinevere/
 excerpt: "Wing Fighter Guinevere"
-last_modified_at: 2023-09-02
+last_modified_at: 2023-09-06
 locale: en
 ref: "Guinevere.md"
 toc: false

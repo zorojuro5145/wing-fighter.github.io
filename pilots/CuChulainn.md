@@ -2,7 +2,7 @@
 title: "Pilot CuChulainn"
 permalink: /pilots/CuChulainn/
 excerpt: "Wing Fighter CuChulainn"
-last_modified_at: 2023-09-02
+last_modified_at: 2023-09-06
 locale: en
 ref: "CuChulainn.md"
 toc: false

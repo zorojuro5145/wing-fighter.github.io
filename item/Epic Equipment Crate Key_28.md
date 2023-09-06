@@ -20,7 +20,7 @@ classes: wide
 
  **Description:** Open the epic equipment crate once for free
 
- **Rarity:** 1 
+ **Rarity:** 4 
 
  **Type:** 23 
 

@@ -2,7 +2,7 @@
 title: "Pilot Valkyrie"
 permalink: /pilots/Valkyrie/
 excerpt: "Wing Fighter Valkyrie"
-last_modified_at: 2023-09-02
+last_modified_at: 2023-09-06
 locale: en
 ref: "Valkyrie.md"
 toc: false
