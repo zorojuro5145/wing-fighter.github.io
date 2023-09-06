@@ -2,7 +2,7 @@
 title: "Equipment Batarang Gun"
 permalink: /equipment/Batarang Gun/
 excerpt: "Wing Fighter Equipment Batarang Gun"
-last_modified_at: 2023-08-09
+last_modified_at: 2023-09-06
 locale: en
 ref: "Batarang Gun.md"
 toc: false
@@ -25,7 +25,7 @@ classes: wide
 
  **Description:** Mid attack rate. Deal damage to multiple enemies 
 
- **Attack type:** ![Energy](/images/common_sx_icon8.png) 
+ **Attack type:** ![Physical](/images/common_sx_icon9.png) 
 
  **Group:** Gun 
 

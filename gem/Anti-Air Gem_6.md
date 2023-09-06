@@ -2,7 +2,7 @@
 title: "Gem Anti-Air Gem +6"
 permalink: /gem/Anti-Air Gem_6/
 excerpt: "Wing Fighter Gem Anti-Air Gem +6"
-last_modified_at: 2023-08-09
+last_modified_at: 2023-09-06
 locale: en
 ref: "Anti-Air Gem_6.md"
 toc: false
@@ -23,7 +23,7 @@ classes: wide
 
  **Name:** Anti-Air Gem 
 
- **Description:** Used to increase damage against flying enemies and reduce their damage 
+ **Description:** Used to increase damage against aerial enemies (including players) and reduce their damage 
 
  **Level:** +6 
 
@@ -35,6 +35,6 @@ classes: wide
 
   |  Nr |     Bonus     |   Value   | Extra Power  |
   |:----|:-------------:|:---------:|:----------------|
-  | 1  | Fighter Against flying enemies **Attack**  | **+480**  | +640 |
-  | 2  | Fighter Against flying enemies **Reduce Damage**  | **+6.0 %**  | +640 |
+  | 1  | Fighter Against aerial enemies (including players) **Attack**  | **+480**  | +640 |
+  | 2  | Fighter Against aerial enemies (including players) **Reduce Damage**  | **+6.0 %**  | +640 |
 

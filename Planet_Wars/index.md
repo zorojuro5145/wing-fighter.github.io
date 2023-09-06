@@ -2,7 +2,7 @@
 title: "Planet Wars"
 permalink: /Planet_Wars/
 excerpt: "Wing Fighter Planet Wars"
-last_modified_at: 2023-08-31
+last_modified_at: 2023-09-06
 locale: en
 ref: "index.md"
 toc: false
@@ -68,7 +68,9 @@ classes: wide
   4. Fighters with special skills (such as Phantom, Syren, and Crow) will not release skills in battle, but will deal damage to the opponent in the form of bullets.<br/>
   5. Ultimate and Revival effects do not take effect in battle.<br/>
   6. If the battle lasts longer than 30 seconds, the side with a higher percentage of remaining HP wins.<br/>
-  7. Launching an attack will consume 1 attack attempt. The attack attempt will recover over time.<br/>
+  7. Once five gears of one set are equipped, the fighter can transform into Titan in battle. After transforming, the attack of all gears increases by 30%.<br/>
+  8. The initial hit rate for both sides in battle is 85%.<br/>
+  9. Launching an attack will consume 1 attack attempt. The attack attempt will recover over time.<br/>
 
 
 **Occupation Rules**

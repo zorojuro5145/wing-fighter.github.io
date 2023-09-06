@@ -2,7 +2,7 @@
 title: "Equipment Ultimate - Ultimate Laser"
 permalink: /equipment/Ultimate - Ultimate Laser/
 excerpt: "Wing Fighter Equipment Ultimate - Ultimate Laser"
-last_modified_at: 2023-08-09
+last_modified_at: 2023-09-06
 locale: en
 ref: "Ultimate - Ultimate Laser.md"
 toc: false
@@ -25,7 +25,7 @@ classes: wide
 
  **Description:** Can be released in battle. Deal large damage to all enemies in front for 2 seconds, and clear the barrage ahead 
 
- **Attack type:** ![Physical](/images/common_sx_icon9.png) 
+ **Attack type:** ![Energy](/images/common_sx_icon8.png) 
 
  **Group:** Ultimate 
 

@@ -2,7 +2,7 @@
 title: "Shop Gem Chest"
 permalink: /shop/Gem Chest_18/
 excerpt: "Wing Fighter Gem Chest"
-last_modified_at: 2023-08-09
+last_modified_at: 2023-09-06
 locale: en
 ref: "Gem Chest_18.md"
 toc: false

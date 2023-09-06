@@ -2,7 +2,7 @@
 title: "Equipment Prism Winggun"
 permalink: /equipment/Prism Winggun/
 excerpt: "Wing Fighter Equipment Prism Winggun"
-last_modified_at: 2023-08-09
+last_modified_at: 2023-09-06
 locale: en
 ref: "Prism Winggun.md"
 toc: false
@@ -25,7 +25,7 @@ classes: wide
 
  **Description:** Deal laser damage to the locked target and all enemies along the path. 
 
- **Attack type:** ![Physical](/images/common_sx_icon9.png) 
+ **Attack type:** ![Energy](/images/common_sx_icon8.png) 
 
  **Group:** Winggun 
 

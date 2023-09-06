@@ -2,7 +2,7 @@
 title: "Shop Gear Set Chest"
 permalink: /shop/Gear Set Chest_29/
 excerpt: "Wing Fighter Gear Set Chest"
-last_modified_at: 2023-08-09
+last_modified_at: 2023-09-06
 locale: en
 ref: "Gear Set Chest_29.md"
 toc: false

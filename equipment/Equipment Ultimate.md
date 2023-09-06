@@ -2,7 +2,7 @@
 title: "Equipment Ultimate"
 permalink: /equipment/Equipment Ultimate/
 excerpt: "Wing Fighter Equipment Ultimate"
-last_modified_at: 2023-08-09
+last_modified_at: 2023-09-06
 locale: en
 ref: "Equipment Ultimate.md"
 toc: false
@@ -19,5 +19,5 @@ classes: wide
 
   |  Nr | Icon |      Equipment        |   Description   | Attack Type |
   |:----|:----:|:---------------:|:---------------:|:---:|
-  | 1 | ![Ultimate - Ultimate Laser](/images/equipment/bs_icon_jg_p.png) | [Ultimate - Ultimate Laser](/equipment/Ultimate - Ultimate Laser) | Can be released in battle. Deal large damage to all enemies in front for 2 seconds, and clear the barrage ahead | ![Physical](/images/common_sx_icon9.png) | 
-  | 3 | ![Ultimate - Ultimate Bomb](/images/equipment/bs_icon_zd_p.png) | [Ultimate - Ultimate Bomb](/equipment/Ultimate - Ultimate Bomb) | Can be released in battle. Deal massive damage to surrounding enemies, and clear the barrage around | ![Energy](/images/common_sx_icon8.png) | 
+  | 1 | ![Ultimate - Ultimate Laser](/images/equipment/bs_icon_jg_p.png) | [Ultimate - Ultimate Laser](/equipment/Ultimate - Ultimate Laser) | Can be released in battle. Deal large damage to all enemies in front for 2 seconds, and clear the barrage ahead | ![Energy](/images/common_sx_icon8.png) | 
+  | 3 | ![Ultimate - Ultimate Bomb](/images/equipment/bs_icon_zd_p.png) | [Ultimate - Ultimate Bomb](/equipment/Ultimate - Ultimate Bomb) | Can be released in battle. Deal massive damage to surrounding enemies, and clear the barrage around | ![Physical](/images/common_sx_icon9.png) | 

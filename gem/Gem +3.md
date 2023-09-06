@@ -2,7 +2,7 @@
 title: "Gem +3"
 permalink: /gem/Gem +3/
 excerpt: "Wing Fighter Gem +3"
-last_modified_at: 2023-08-09
+last_modified_at: 2023-09-06
 locale: en
 ref: "Gem +3.md"
 toc: false
@@ -25,6 +25,6 @@ classes: wide
   | 30 | ![HP Gem +3](/images/gem/bs2_img1.png) | [HP Gem +3](/gem/HP Gem_3) | Used to increase Fighter HP | 
   | 39 | ![Dodge Gem +3](/images/gem/bs2_img2.png) | [Dodge Gem +3](/gem/Dodge Gem_3) | Used to increase Fighter dodge | 
   | 48 | ![Defense Gem +3](/images/gem/bs2_img3.png) | [Defense Gem +3](/gem/Defense Gem_3) | Used to reduce damage taken from enemies | 
-  | 57 | ![Anti-Air Gem +3](/images/gem/bs3_img1.png) | [Anti-Air Gem +3](/gem/Anti-Air Gem_3) | Used to increase damage against flying enemies and reduce their damage | 
+  | 57 | ![Anti-Air Gem +3](/images/gem/bs3_img1.png) | [Anti-Air Gem +3](/gem/Anti-Air Gem_3) | Used to increase damage against aerial enemies (including players) and reduce their damage | 
   | 66 | ![Anti-Land Gem +3](/images/gem/bs3_img2.png) | [Anti-Land Gem +3](/gem/Anti-Land Gem_3) | Used to increase damage against enemies on ground/water and reduce their damage | 
   | 75 | ![Enhancement Gem +3](/images/gem/bs3_img3.png) | [Enhancement Gem +3](/gem/Enhancement Gem_3) | Used to increase damage against Bosses and reduce their damage | 

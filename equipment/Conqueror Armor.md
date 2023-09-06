@@ -2,7 +2,7 @@
 title: "Equipment Conqueror Armor"
 permalink: /equipment/Conqueror Armor/
 excerpt: "Wing Fighter Equipment Conqueror Armor"
-last_modified_at: 2023-08-09
+last_modified_at: 2023-09-06
 locale: en
 ref: "Conqueror Armor.md"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
 
  **Gear Set:** [Gear Set Conqueror](/gear_set/Conqueror){: .btn .btn--warning}
 
- **Attack type:** ![Energy](/images/common_sx_icon8.png) 
+ **Attack type:** ![Physical](/images/common_sx_icon9.png) 
 
  **Group:** SSR Armor 
 

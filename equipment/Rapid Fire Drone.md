@@ -2,7 +2,7 @@
 title: "Equipment Rapid Fire Drone"
 permalink: /equipment/Rapid Fire Drone/
 excerpt: "Wing Fighter Equipment Rapid Fire Drone"
-last_modified_at: 2023-08-09
+last_modified_at: 2023-09-06
 locale: en
 ref: "Rapid Fire Drone.md"
 toc: false

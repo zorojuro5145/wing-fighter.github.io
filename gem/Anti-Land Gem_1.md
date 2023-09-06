@@ -2,7 +2,7 @@
 title: "Gem Anti-Land Gem +1"
 permalink: /gem/Anti-Land Gem_1/
 excerpt: "Wing Fighter Gem Anti-Land Gem +1"
-last_modified_at: 2023-08-09
+last_modified_at: 2023-09-06
 locale: en
 ref: "Anti-Land Gem_1.md"
 toc: false

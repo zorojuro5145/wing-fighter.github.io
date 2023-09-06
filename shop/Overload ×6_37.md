@@ -2,7 +2,7 @@
 title: "Shop Overload ×6"
 permalink: /shop/Overload ×6_37/
 excerpt: "Wing Fighter Overload ×6"
-last_modified_at: 2023-08-09
+last_modified_at: 2023-09-06
 locale: en
 ref: "Overload ×6_37.md"
 toc: false

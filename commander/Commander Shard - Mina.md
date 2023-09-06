@@ -2,7 +2,7 @@
 title: "Commander Shard - Mina"
 permalink: /commander/Commander Shard - Mina/
 excerpt: "Wing Fighter Commander Shard - Mina"
-last_modified_at: 2023-08-09
+last_modified_at: 2023-09-06
 locale: en
 ref: "Commander Shard - Mina.md"
 toc: false

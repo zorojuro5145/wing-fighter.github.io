@@ -2,7 +2,7 @@
 title: "Equipment Lightning Winggun"
 permalink: /equipment/Lightning Winggun/
 excerpt: "Wing Fighter Equipment Lightning Winggun"
-last_modified_at: 2023-08-09
+last_modified_at: 2023-09-06
 locale: en
 ref: "Lightning Winggun.md"
 toc: false
@@ -25,7 +25,7 @@ classes: wide
 
  **Description:** Splash effect after hitting a target 
 
- **Attack type:** ![Physical](/images/common_sx_icon9.png) 
+ **Attack type:** ![Energy](/images/common_sx_icon8.png) 
 
  **Group:** Winggun 
 

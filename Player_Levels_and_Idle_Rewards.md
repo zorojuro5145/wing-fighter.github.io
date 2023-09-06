@@ -2,7 +2,7 @@
 title: "Player Levels and Idle Rewards"
 permalink: /Player_Levels_and_Idle_Rewards.html
 excerpt: "Wing Fighter Player Levels and Idle Rewards"
-last_modified_at: 2023-08-09
+last_modified_at: 2023-09-06
 locale: en
 ref: "Player_Levels_and_Idle_Rewards.md"
 toc: false

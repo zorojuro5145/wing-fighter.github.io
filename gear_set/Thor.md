@@ -2,7 +2,7 @@
 title: "Gear Set Thor"
 permalink: /gear_set/Thor
 excerpt: "Wing Fighter Gear Set Thor"
-last_modified_at: 2023-08-09
+last_modified_at: 2023-09-06
 locale: en
 ref: "Thor.md"
 toc: false
@@ -38,6 +38,6 @@ sidebar:
   |  Icon  |      Skill   | Skill Description | Cooldown | Extra Combat Power |
   |:-------|:------------:|:------------------|:---------|:-------------------|
   |  | **Thor Strike** | Attack of all Thor gears +15% | 2 mins | 2000 |
-  |  | **Thor Transform** | Transform into Thor Titan and unleash full firepower upon enemies! | 2 mins | 6000 |
+  |  | **Thor Transform** | Transform into Thor Titan and the attack of all gears increases by 30% | 2 mins | 6000 |
 
 

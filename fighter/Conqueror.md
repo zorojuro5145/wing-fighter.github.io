@@ -2,7 +2,7 @@
 title: "Fighter Conqueror"
 permalink: /fighter/Conqueror/
 excerpt: "Wing Fighter Conqueror"
-last_modified_at: 2023-08-09
+last_modified_at: 2023-09-06
 locale: en
 ref: "Conqueror.md"
 toc: false
@@ -44,7 +44,7 @@ classes: wide
   |:----|:-------------:|:--------------------|:--------|
   | 1  | **+**  | Winggun attack +3%  | **20** |
   | 2  |   | Total HP +10%  | **40** |
-  | 3  | **+**  | HP +100  | **60** |
+  | 3  | **+**  | HP +200  | **60** |
   | 4  |   | Winggun attack +5%  | **80** |
 
 

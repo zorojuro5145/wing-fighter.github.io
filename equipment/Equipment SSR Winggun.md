@@ -2,7 +2,7 @@
 title: "Equipment SSR Winggun"
 permalink: /equipment/Equipment SSR Winggun/
 excerpt: "Wing Fighter Equipment SSR Winggun"
-last_modified_at: 2023-08-09
+last_modified_at: 2023-09-06
 locale: en
 ref: "Equipment SSR Winggun.md"
 toc: false
@@ -20,4 +20,4 @@ classes: wide
   |  Nr | Icon |      Equipment        |   Description   | Attack Type |
   |:----|:----:|:---------------:|:---------------:|:---:|
   | 16 | ![Thor Winggun](/images/equipment/fupao7_p.png) | [Thor Winggun](/equipment/Thor Winggun) | Launch 2 lightning balls, forming a lightning force field after hitting the enemy, dealing damage to passing enemies | ![Energy](/images/common_sx_icon8.png) | 
-  | 19 | ![Conqueror Winggun](/images/equipment/fupao6_p.png) | [Conqueror Winggun](/equipment/Conqueror Winggun) | Fire armor-piercing projectiles that can penetrate all targets | ![Energy](/images/common_sx_icon8.png) | 
+  | 19 | ![Conqueror Winggun](/images/equipment/fupao6_p.png) | [Conqueror Winggun](/equipment/Conqueror Winggun) | Fire armor-piercing projectiles that can penetrate all targets | ![Physical](/images/common_sx_icon9.png) | 

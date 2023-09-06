@@ -2,7 +2,7 @@
 title: "Equipment Thor Missile"
 permalink: /equipment/Thor Missile/
 excerpt: "Wing Fighter Equipment Thor Missile"
-last_modified_at: 2023-08-09
+last_modified_at: 2023-09-06
 locale: en
 ref: "Thor Missile.md"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
 
  **Gear Set:** [Gear Set Thor](/gear_set/Thor){: .btn .btn--info}
 
- **Attack type:** ![Physical](/images/common_sx_icon9.png) 
+ **Attack type:** ![Energy](/images/common_sx_icon8.png) 
 
  **Group:** SSR Missile 
 

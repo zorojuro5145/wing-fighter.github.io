@@ -2,7 +2,7 @@
 title: "Talent Equipment"
 permalink: /talent/Equipment/
 excerpt: "Wing Fighter Talent Equipment"
-last_modified_at: 2023-08-09
+last_modified_at: 2023-09-06
 locale: en
 ref: "Equipment.md"
 toc: false

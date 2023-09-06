@@ -2,7 +2,7 @@
 title: "Shop Super Chest"
 permalink: /shop/Super Chest_21/
 excerpt: "Wing Fighter Super Chest"
-last_modified_at: 2023-08-09
+last_modified_at: 2023-09-06
 locale: en
 ref: "Super Chest_21.md"
 toc: false

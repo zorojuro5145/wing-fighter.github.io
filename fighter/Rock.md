@@ -2,7 +2,7 @@
 title: "Fighter Rock"
 permalink: /fighter/Rock/
 excerpt: "Wing Fighter Rock"
-last_modified_at: 2023-08-09
+last_modified_at: 2023-09-06
 locale: en
 ref: "Rock.md"
 toc: false
@@ -16,7 +16,7 @@ classes: wide
 
  **Rarity:** SR 
 
- **Attack type:** ![Energy](/images/common_sx_icon8.png) 
+ **Attack type:** ![Physical](/images/common_sx_icon9.png) 
 
  **Attack:** +150
 
@@ -32,7 +32,7 @@ classes: wide
 
  **Skill Type:**  Passive Skill
 
- **Skill Description:**  Blast Shotgun Damage + 20%
+ **Skill Description:**  Blast Shotgun attack + 80%
 
  **Extra Combat Power:**  +800
 
@@ -42,7 +42,7 @@ classes: wide
   |:----|:-------------:|:--------------------|:--------|
   | 1  | **+**  | Missile attack +3%  | **20** |
   | 2  |   | Total HP +10%  | **40** |
-  | 3  | **+**  | HP +100  | **60** |
+  | 3  | **+**  | HP +200  | **60** |
   | 4  |   | Missile attack +5%  | **80** |
 
 

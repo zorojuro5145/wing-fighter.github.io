@@ -2,7 +2,7 @@
 title: "Fighter Eschaton"
 permalink: /fighter/Eschaton/
 excerpt: "Wing Fighter Eschaton"
-last_modified_at: 2023-08-09
+last_modified_at: 2023-09-06
 locale: en
 ref: "Eschaton.md"
 toc: false
@@ -16,7 +16,7 @@ classes: wide
 
  **Rarity:** SR 
 
- **Attack type:** ![Energy](/images/common_sx_icon8.png) 
+ **Attack type:** ![Physical](/images/common_sx_icon9.png) 
 
  **Attack:** +150
 
@@ -32,7 +32,7 @@ classes: wide
 
  **Skill Type:**  Passive Skill
 
- **Skill Description:**  High-Explosive Missile Damage + 80%
+ **Skill Description:**  High-Explosive Missile attack + 80%
 
  **Extra Combat Power:**  +800
 
@@ -42,7 +42,7 @@ classes: wide
   |:----|:-------------:|:--------------------|:--------|
   | 1  | **+**  | Winggun attack +3%  | **20** |
   | 2  |   | Total HP +10%  | **40** |
-  | 3  | **+**  | HP +100  | **60** |
+  | 3  | **+**  | HP +200  | **60** |
   | 4  |   | Winggun attack +5%  | **80** |
 
 

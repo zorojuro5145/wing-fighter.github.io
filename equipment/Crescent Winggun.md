@@ -2,7 +2,7 @@
 title: "Equipment Crescent Winggun"
 permalink: /equipment/Crescent Winggun/
 excerpt: "Wing Fighter Equipment Crescent Winggun"
-last_modified_at: 2023-08-09
+last_modified_at: 2023-09-06
 locale: en
 ref: "Crescent Winggun.md"
 toc: false
@@ -25,7 +25,7 @@ classes: wide
 
  **Description:** Crescent-shaped barrage, gradually enlarging with the firing distance. 
 
- **Attack type:** ![Energy](/images/common_sx_icon8.png) 
+ **Attack type:** ![Physical](/images/common_sx_icon9.png) 
 
  **Group:** Winggun 
 

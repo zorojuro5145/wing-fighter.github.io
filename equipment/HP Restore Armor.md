@@ -2,7 +2,7 @@
 title: "Equipment HP Restore Armor"
 permalink: /equipment/HP Restore Armor/
 excerpt: "Wing Fighter Equipment HP Restore Armor"
-last_modified_at: 2023-08-09
+last_modified_at: 2023-09-06
 locale: en
 ref: "HP Restore Armor.md"
 toc: false

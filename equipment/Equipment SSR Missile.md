@@ -2,7 +2,7 @@
 title: "Equipment SSR Missile"
 permalink: /equipment/Equipment SSR Missile/
 excerpt: "Wing Fighter Equipment SSR Missile"
-last_modified_at: 2023-08-09
+last_modified_at: 2023-09-06
 locale: en
 ref: "Equipment SSR Missile.md"
 toc: false
@@ -19,5 +19,5 @@ classes: wide
 
   |  Nr | Icon |      Equipment        |   Description   | Attack Type |
   |:----|:----:|:---------------:|:---------------:|:---:|
-  | 14 | ![Thor Missile](/images/equipment/daodan6_p.png) | [Thor Missile](/equipment/Thor Missile) | Attract thunder from the atmosphere after hitting the enemy, dealing a heavy blow to the enemy | ![Physical](/images/common_sx_icon9.png) | 
+  | 14 | ![Thor Missile](/images/equipment/daodan6_p.png) | [Thor Missile](/equipment/Thor Missile) | Attract thunder from the atmosphere after hitting the enemy, dealing a heavy blow to the enemy | ![Energy](/images/common_sx_icon8.png) | 
   | 17 | ![Conqueror Missile](/images/equipment/daodan5_p.png) | [Conqueror Missile](/equipment/Conqueror Missile) | Cluster missiles that can release many homing missiles after exploding | ![Physical](/images/common_sx_icon9.png) | 

@@ -2,7 +2,7 @@
 title: "Shop Module Chest"
 permalink: /shop/Module Chest_15/
 excerpt: "Wing Fighter Module Chest"
-last_modified_at: 2023-08-09
+last_modified_at: 2023-09-06
 locale: en
 ref: "Module Chest_15.md"
 toc: false

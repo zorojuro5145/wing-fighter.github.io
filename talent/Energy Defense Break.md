@@ -2,7 +2,7 @@
 title: "Talent Energy Defense Break"
 permalink: /talent/Energy Defense Break/
 excerpt: "Wing Fighter Talent Energy Defense Break"
-last_modified_at: 2023-08-09
+last_modified_at: 2023-09-06
 locale: en
 ref: "Energy Defense Break.md"
 toc: false

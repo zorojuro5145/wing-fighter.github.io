@@ -2,7 +2,7 @@
 title: "Equipment Winggun Cannon"
 permalink: /equipment/Winggun Cannon/
 excerpt: "Wing Fighter Equipment Winggun Cannon"
-last_modified_at: 2023-08-09
+last_modified_at: 2023-09-06
 locale: en
 ref: "Winggun Cannon.md"
 toc: false
@@ -25,7 +25,7 @@ classes: wide
 
  **Description:** Low attack rate but high damage 
 
- **Attack type:** ![Energy](/images/common_sx_icon8.png) 
+ **Attack type:** ![Physical](/images/common_sx_icon9.png) 
 
  **Group:** Winggun 
 

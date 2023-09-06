@@ -2,7 +2,7 @@
 title: "Equipment Drone"
 permalink: /equipment/Equipment Drone/
 excerpt: "Wing Fighter Equipment Drone"
-last_modified_at: 2023-08-09
+last_modified_at: 2023-09-06
 locale: en
 ref: "Equipment Drone.md"
 toc: false
@@ -21,4 +21,4 @@ classes: wide
   |:----|:----:|:---------------:|:---------------:|:---:|
   | 21 | ![Rapid Fire Drone](/images/equipment/wurenji1_p.png) | [Rapid Fire Drone](/equipment/Rapid Fire Drone) | Equipped with a rapid-firing weapon, good for offensive support | ![Energy](/images/common_sx_icon8.png) | 
   | 22 | ![Laser Drone](/images/equipment/wurenji3_p.png) | [Laser Drone](/equipment/Laser Drone) | Laser can shoot through enemies | ![Physical](/images/common_sx_icon9.png) | 
-  | 24 | ![Rocket Drone](/images/equipment/wurenji2_p.png) | [Rocket Drone](/equipment/Rocket Drone) | Launch a mini missile that seeks targets automatically | ![Energy](/images/common_sx_icon8.png) | 
+  | 24 | ![Rocket Drone](/images/equipment/wurenji2_p.png) | [Rocket Drone](/equipment/Rocket Drone) | Launch a mini missile that seeks targets automatically | ![Physical](/images/common_sx_icon9.png) | 

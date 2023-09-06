@@ -2,7 +2,7 @@
 title: "Talent Physical Defense Break"
 permalink: /talent/Talent Physical Defense Break/
 excerpt: "Wing Fighter Talent Physical Defense Break"
-last_modified_at: 2023-08-09
+last_modified_at: 2023-09-06
 locale: en
 ref: "Talent Physical Defense Break.md"
 toc: false

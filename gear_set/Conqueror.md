@@ -2,7 +2,7 @@
 title: "Gear Set Conqueror"
 permalink: /gear_set/Conqueror
 excerpt: "Wing Fighter Gear Set Conqueror"
-last_modified_at: 2023-08-09
+last_modified_at: 2023-09-06
 locale: en
 ref: "Conqueror.md"
 toc: false
@@ -38,6 +38,6 @@ sidebar:
   |  Icon  |      Skill   | Skill Description | Cooldown | Extra Combat Power |
   |:-------|:------------:|:------------------|:---------|:-------------------|
   |  | **Conqueror Strike** | Attack of all Conqueror gears +15% | 2 mins | 2000 |
-  |  | **Conqueror Transform** | Transform into Conqueror Titan and unleash full firepower upon enemies! | 2 mins | 6000 |
+  |  | **Conqueror Transform** | Transform into Conqueror Titan and the attack of all gears increases by 30% | 2 mins | 6000 |
 
 

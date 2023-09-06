@@ -2,7 +2,7 @@
 title: "Shop"
 permalink: /shop/
 excerpt: "Wing Fighter Shop"
-last_modified_at: 2023-08-09
+last_modified_at: 2023-09-06
 locale: en
 ref: "index.md"
 toc: false
@@ -118,3 +118,15 @@ classes: wide
   | 103 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 58 Pack](/shop/Stage 58 Pack_158) |  | 
   | 104 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 59 Pack](/shop/Stage 59 Pack_159) |  | 
   | 105 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 60 Pack](/shop/Stage 60 Pack_160) |  | 
+  | 106 |  [Other](/shop/Shop Other/) |[](/shop/_161) |  | 
+  | 107 |  [Other](/shop/Shop Other/) |[](/shop/_162) |  | 
+  | 108 |  [Other](/shop/Shop Other/) |[](/shop/_163) |  | 
+  | 109 |  [Other](/shop/Shop Other/) |[](/shop/_164) |  | 
+  | 110 |  [Other](/shop/Shop Other/) |[](/shop/_165) |  | 
+  | 111 |  [Other](/shop/Shop Other/) |[](/shop/_166) |  | 
+  | 112 |  [Other](/shop/Shop Other/) |[](/shop/_167) |  | 
+  | 113 |  [Other](/shop/Shop Other/) |[](/shop/_168) |  | 
+  | 114 |  [Other](/shop/Shop Other/) |[](/shop/_169) |  | 
+  | 115 |  [Other](/shop/Shop Other/) |[](/shop/_170) |  | 
+  | 116 |  [Other](/shop/Shop Other/) |[](/shop/_171) |  | 
+  | 117 |  [Other](/shop/Shop Other/) |[](/shop/_172) |  | 

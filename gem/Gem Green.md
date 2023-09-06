@@ -2,7 +2,7 @@
 title: "Gem Green"
 permalink: /gem/Gem Green/
 excerpt: "Wing Fighter Gem Green"
-last_modified_at: 2023-08-09
+last_modified_at: 2023-09-06
 locale: en
 ref: "Gem Green.md"
 toc: false
@@ -19,15 +19,15 @@ classes: wide
 
   |  Nr | Icon |      Gem        |   Description   |
   |:----|:----:|:---------------:|:---------------:|
-  | 55 | ![Anti-Air Gem +1](/images/gem/bs3_img1.png) | [Anti-Air Gem +1](/gem/Anti-Air Gem_1) | Used to increase damage against flying enemies and reduce their damage | 
-  | 56 | ![Anti-Air Gem +2](/images/gem/bs3_img1.png) | [Anti-Air Gem +2](/gem/Anti-Air Gem_2) | Used to increase damage against flying enemies and reduce their damage | 
-  | 57 | ![Anti-Air Gem +3](/images/gem/bs3_img1.png) | [Anti-Air Gem +3](/gem/Anti-Air Gem_3) | Used to increase damage against flying enemies and reduce their damage | 
-  | 58 | ![Anti-Air Gem +4](/images/gem/bs3_img1.png) | [Anti-Air Gem +4](/gem/Anti-Air Gem_4) | Used to increase damage against flying enemies and reduce their damage | 
-  | 59 | ![Anti-Air Gem +5](/images/gem/bs3_img1.png) | [Anti-Air Gem +5](/gem/Anti-Air Gem_5) | Used to increase damage against flying enemies and reduce their damage | 
-  | 60 | ![Anti-Air Gem +6](/images/gem/bs3_img1.png) | [Anti-Air Gem +6](/gem/Anti-Air Gem_6) | Used to increase damage against flying enemies and reduce their damage | 
-  | 61 | ![Anti-Air Gem +7](/images/gem/bs3_img1.png) | [Anti-Air Gem +7](/gem/Anti-Air Gem_7) | Used to increase damage against flying enemies and reduce their damage | 
-  | 62 | ![Anti-Air Gem +8](/images/gem/bs3_img1.png) | [Anti-Air Gem +8](/gem/Anti-Air Gem_8) | Used to increase damage against flying enemies and reduce their damage | 
-  | 63 | ![Anti-Air Gem +9](/images/gem/bs3_img1.png) | [Anti-Air Gem +9](/gem/Anti-Air Gem_9) | Used to increase damage against flying enemies and reduce their damage | 
+  | 55 | ![Anti-Air Gem +1](/images/gem/bs3_img1.png) | [Anti-Air Gem +1](/gem/Anti-Air Gem_1) | Used to increase damage against aerial enemies (including players) and reduce their damage | 
+  | 56 | ![Anti-Air Gem +2](/images/gem/bs3_img1.png) | [Anti-Air Gem +2](/gem/Anti-Air Gem_2) | Used to increase damage against aerial enemies (including players) and reduce their damage | 
+  | 57 | ![Anti-Air Gem +3](/images/gem/bs3_img1.png) | [Anti-Air Gem +3](/gem/Anti-Air Gem_3) | Used to increase damage against aerial enemies (including players) and reduce their damage | 
+  | 58 | ![Anti-Air Gem +4](/images/gem/bs3_img1.png) | [Anti-Air Gem +4](/gem/Anti-Air Gem_4) | Used to increase damage against aerial enemies (including players) and reduce their damage | 
+  | 59 | ![Anti-Air Gem +5](/images/gem/bs3_img1.png) | [Anti-Air Gem +5](/gem/Anti-Air Gem_5) | Used to increase damage against aerial enemies (including players) and reduce their damage | 
+  | 60 | ![Anti-Air Gem +6](/images/gem/bs3_img1.png) | [Anti-Air Gem +6](/gem/Anti-Air Gem_6) | Used to increase damage against aerial enemies (including players) and reduce their damage | 
+  | 61 | ![Anti-Air Gem +7](/images/gem/bs3_img1.png) | [Anti-Air Gem +7](/gem/Anti-Air Gem_7) | Used to increase damage against aerial enemies (including players) and reduce their damage | 
+  | 62 | ![Anti-Air Gem +8](/images/gem/bs3_img1.png) | [Anti-Air Gem +8](/gem/Anti-Air Gem_8) | Used to increase damage against aerial enemies (including players) and reduce their damage | 
+  | 63 | ![Anti-Air Gem +9](/images/gem/bs3_img1.png) | [Anti-Air Gem +9](/gem/Anti-Air Gem_9) | Used to increase damage against aerial enemies (including players) and reduce their damage | 
   | 64 | ![Anti-Land Gem +1](/images/gem/bs3_img2.png) | [Anti-Land Gem +1](/gem/Anti-Land Gem_1) | Used to increase damage against enemies on ground/water and reduce their damage | 
   | 65 | ![Anti-Land Gem +2](/images/gem/bs3_img2.png) | [Anti-Land Gem +2](/gem/Anti-Land Gem_2) | Used to increase damage against enemies on ground/water and reduce their damage | 
   | 66 | ![Anti-Land Gem +3](/images/gem/bs3_img2.png) | [Anti-Land Gem +3](/gem/Anti-Land Gem_3) | Used to increase damage against enemies on ground/water and reduce their damage | 

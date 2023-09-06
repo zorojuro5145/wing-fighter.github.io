@@ -2,7 +2,7 @@
 title: "Equipment Armor"
 permalink: /equipment/Equipment Armor/
 excerpt: "Wing Fighter Equipment Armor"
-last_modified_at: 2023-08-09
+last_modified_at: 2023-09-06
 locale: en
 ref: "Equipment Armor.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Equipment Energy-Gathered Missile"
 permalink: /equipment/Energy-Gathered Missile/
 excerpt: "Wing Fighter Equipment Energy-Gathered Missile"
-last_modified_at: 2023-08-09
+last_modified_at: 2023-09-06
 locale: en
 ref: "Energy-Gathered Missile.md"
 toc: false

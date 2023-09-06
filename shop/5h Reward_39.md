@@ -2,7 +2,7 @@
 title: "Shop 5h Reward"
 permalink: /shop/5h Reward_39/
 excerpt: "Wing Fighter 5h Reward"
-last_modified_at: 2023-08-09
+last_modified_at: 2023-09-06
 locale: en
 ref: "5h Reward_39.md"
 toc: false

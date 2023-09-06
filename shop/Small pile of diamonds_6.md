@@ -2,7 +2,7 @@
 title: "Shop Small pile of diamonds"
 permalink: /shop/Small pile of diamonds_6/
 excerpt: "Wing Fighter Small pile of diamonds"
-last_modified_at: 2023-08-09
+last_modified_at: 2023-09-06
 locale: en
 ref: "Small pile of diamonds_6.md"
 toc: false

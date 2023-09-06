@@ -2,7 +2,7 @@
 title: "Equipment SSR Armor"
 permalink: /equipment/Equipment SSR Armor/
 excerpt: "Wing Fighter Equipment SSR Armor"
-last_modified_at: 2023-08-09
+last_modified_at: 2023-09-06
 locale: en
 ref: "Equipment SSR Armor.md"
 toc: false
@@ -20,4 +20,4 @@ classes: wide
   |  Nr | Icon |      Equipment        |   Description   | Attack Type |
   |:----|:----:|:---------------:|:---------------:|:---:|
   | 13 | ![Thor Armor](/images/equipment/zhuangjia7_p.png) | [Thor Armor](/equipment/Thor Armor) | Form a ring lightning that revolves around the fighter, dealing damage to enemies it touches | ![Energy](/images/common_sx_icon8.png) | 
-  | 15 | ![Conqueror Armor](/images/equipment/zhuangjia6_p.png) | [Conqueror Armor](/equipment/Conqueror Armor) | Two blade shields around the fighter can resist once damage. The blade can be restored after a period of disappearance. | ![Energy](/images/common_sx_icon8.png) | 
+  | 15 | ![Conqueror Armor](/images/equipment/zhuangjia6_p.png) | [Conqueror Armor](/equipment/Conqueror Armor) | Two blade shields around the fighter can resist once damage. The blade can be restored after a period of disappearance. | ![Physical](/images/common_sx_icon9.png) | 

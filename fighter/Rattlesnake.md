@@ -2,7 +2,7 @@
 title: "Fighter Rattlesnake"
 permalink: /fighter/Rattlesnake/
 excerpt: "Wing Fighter Rattlesnake"
-last_modified_at: 2023-08-09
+last_modified_at: 2023-09-06
 locale: en
 ref: "Rattlesnake.md"
 toc: false
@@ -32,7 +32,7 @@ classes: wide
 
  **Skill Type:**  Passive Skill
 
- **Skill Description:**  Standard Missile Damage + 80%
+ **Skill Description:**  Standard Missile attack + 80%
 
  **Extra Combat Power:**  +800
 
@@ -42,7 +42,7 @@ classes: wide
   |:----|:-------------:|:--------------------|:--------|
   | 1  | **+**  | Winggun attack +3%  | **20** |
   | 2  |   | Total HP +10%  | **40** |
-  | 3  | **+**  | HP +100  | **60** |
+  | 3  | **+**  | HP +200  | **60** |
   | 4  |   | Winggun attack +5%  | **80** |
 
 

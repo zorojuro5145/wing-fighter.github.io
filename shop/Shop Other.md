@@ -2,7 +2,7 @@
 title: "Shop Other"
 permalink: /shop/Shop Other/
 excerpt: "Wing Fighter Other"
-last_modified_at: 2023-08-09
+last_modified_at: 2023-09-06
 locale: en
 ref: "Shop Other.md"
 toc: false
@@ -29,3 +29,15 @@ classes: wide
  [Other](/shop/Shop Other/) |[Overload ×6](/shop/Overload ×6_37) | Obtain 6 "Overload" buffs | 
  [Other](/shop/Shop Other/) |[Pilot Recruit](/shop/Pilot Recruit_44) | Randomly get pilot or pilot shards | 
  [Other](/shop/Shop Other/) |[Pilot Recruit](/shop/Pilot Recruit_45) | Randomly get pilot or pilot shards | 
+ [Other](/shop/Shop Other/) |[](/shop/_161) |  | 
+ [Other](/shop/Shop Other/) |[](/shop/_162) |  | 
+ [Other](/shop/Shop Other/) |[](/shop/_163) |  | 
+ [Other](/shop/Shop Other/) |[](/shop/_164) |  | 
+ [Other](/shop/Shop Other/) |[](/shop/_165) |  | 
+ [Other](/shop/Shop Other/) |[](/shop/_166) |  | 
+ [Other](/shop/Shop Other/) |[](/shop/_167) |  | 
+ [Other](/shop/Shop Other/) |[](/shop/_168) |  | 
+ [Other](/shop/Shop Other/) |[](/shop/_169) |  | 
+ [Other](/shop/Shop Other/) |[](/shop/_170) |  | 
+ [Other](/shop/Shop Other/) |[](/shop/_171) |  | 
+ [Other](/shop/Shop Other/) |[](/shop/_172) |  | 

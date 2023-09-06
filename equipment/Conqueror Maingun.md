@@ -2,7 +2,7 @@
 title: "Equipment Conqueror Maingun"
 permalink: /equipment/Conqueror Maingun/
 excerpt: "Wing Fighter Equipment Conqueror Maingun"
-last_modified_at: 2023-08-09
+last_modified_at: 2023-09-06
 locale: en
 ref: "Conqueror Maingun.md"
 toc: false

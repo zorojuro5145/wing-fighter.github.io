@@ -2,7 +2,7 @@
 title: "Commander Catherine"
 permalink: /commander/Catherine/
 excerpt: "Wing Fighter Catherine"
-last_modified_at: 2023-08-09
+last_modified_at: 2023-09-06
 locale: en
 ref: "Catherine.md"
 toc: false

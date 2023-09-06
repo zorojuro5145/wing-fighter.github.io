@@ -2,7 +2,7 @@
 title: "Equipment HP"
 permalink: /equipment/Equipment HP/
 excerpt: "Wing Fighter Equipment HP"
-last_modified_at: 2023-08-09
+last_modified_at: 2023-09-06
 locale: en
 ref: "Equipment HP.md"
 toc: false
@@ -25,4 +25,4 @@ classes: wide
   | 8 | ![HP Restore Armor](/images/equipment/zhuangjia4_p.png) | [HP Restore Armor](/equipment/HP Restore Armor) | Recovery effect of Red Heart +20% | ![Energy](/images/common_sx_icon8.png) | 
   | 10 | ![Shock Armor](/images/equipment/zhuangjia5_p.png) | [Shock Armor](/equipment/Shock Armor) | Generate shock waves every 10 seconds around the fighter, dealing damage to up to 10 enemies | ![Physical](/images/common_sx_icon9.png) | 
   | 13 | ![Thor Armor](/images/equipment/zhuangjia7_p.png) | [Thor Armor](/equipment/Thor Armor) | Form a ring lightning that revolves around the fighter, dealing damage to enemies it touches | ![Energy](/images/common_sx_icon8.png) | 
-  | 15 | ![Conqueror Armor](/images/equipment/zhuangjia6_p.png) | [Conqueror Armor](/equipment/Conqueror Armor) | Two blade shields around the fighter can resist once damage. The blade can be restored after a period of disappearance. | ![Energy](/images/common_sx_icon8.png) | 
+  | 15 | ![Conqueror Armor](/images/equipment/zhuangjia6_p.png) | [Conqueror Armor](/equipment/Conqueror Armor) | Two blade shields around the fighter can resist once damage. The blade can be restored after a period of disappearance. | ![Physical](/images/common_sx_icon9.png) | 

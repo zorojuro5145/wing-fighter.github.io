@@ -2,7 +2,7 @@
 title: "Equipment Rocket Drone"
 permalink: /equipment/Rocket Drone/
 excerpt: "Wing Fighter Equipment Rocket Drone"
-last_modified_at: 2023-08-09
+last_modified_at: 2023-09-06
 locale: en
 ref: "Rocket Drone.md"
 toc: false
@@ -25,7 +25,7 @@ classes: wide
 
  **Description:** Launch a mini missile that seeks targets automatically 
 
- **Attack type:** ![Energy](/images/common_sx_icon8.png) 
+ **Attack type:** ![Physical](/images/common_sx_icon9.png) 
 
  **Group:** Drone 
 
