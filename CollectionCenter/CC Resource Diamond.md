@@ -2,7 +2,7 @@
 title: "CC Resource Diamond"
 permalink: /CollectionCenter/CC Resource Diamond/
 excerpt: "Wing Fighter CC ResourceDiamond"
-last_modified_at: 2023-08-09
+last_modified_at: 2023-09-06
 locale: en
 ref: "CC Resource Diamond.md"
 toc: false
@@ -17,6 +17,6 @@ classes: wide
 
   |   Icon |      CC Resource        |   Description   |
   |:------:|:---------------:|:---------------:|
-  | ![Diamond +1](/images/cc/CC_Diamond_1_p.png) | [Diamond +1](/CollectionCenter/Diamond_1) | Diamond×20 |
-  | ![Diamond +2](/images/cc/CC_Diamond_2_p.png) | [Diamond +2](/CollectionCenter/Diamond_2) | Diamond×40 |
-  | ![Diamond +3](/images/cc/CC_Diamond_3_p.png) | [Diamond +3](/CollectionCenter/Diamond_3) | Diamond×60 |
+  | ![Diamond +1](/images/cc/CC_Diamond_1_p.png) | [Diamond +1](/CollectionCenter/Diamond_1/) | Diamond×20 |
+  | ![Diamond +2](/images/cc/CC_Diamond_2_p.png) | [Diamond +2](/CollectionCenter/Diamond_2/) | Diamond×40 |
+  | ![Diamond +3](/images/cc/CC_Diamond_3_p.png) | [Diamond +3](/CollectionCenter/Diamond_3/) | Diamond×60 |

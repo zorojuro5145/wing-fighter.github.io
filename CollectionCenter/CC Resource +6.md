@@ -2,7 +2,7 @@
 title: "CC Resource 6"
 permalink: /CollectionCenter/CC Resource +6/
 excerpt: "Wing Fighter CC Resource6"
-last_modified_at: 2023-08-09
+last_modified_at: 2023-09-06
 locale: en
 ref: "CC Resource +6.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
   |   Icon |      CC Resource        |   Description   |
   |:------:|:---------------:|:---------------:|
-  | ![Nano Material +6](/images/cc/CC_Nano_Material_5_p.png) | [Nano Material +6](/CollectionCenter/Nano Material_6) | Nano Material×1000 |
-  | ![Star +6](/images/cc/CC_Star_5_p.png) | [Star +6](/CollectionCenter/Star_6) | Star×12800 |
-  | ![Fighter Shard +6](/images/cc/CC_Fighter_Shard_5_p.png) | [Fighter Shard +6](/CollectionCenter/Fighter Shard_6) | Chance to get SR Fighter Shard×3 |
-  | ![Alloy Plate +6](/images/cc/CC_Alloy_Plate_5_p.png) | [Alloy Plate +6](/CollectionCenter/Alloy Plate_6) | Alloy Plate×6 |
-  | ![Module +6](/images/cc/CC_Module_5_p.png) | [Module +6](/CollectionCenter/Module_6) | Random Module×40 |
-  | ![Commander EXP Card +6](/images/cc/CC_Pilot_EXP_Card_5_p.png) | [Commander EXP Card +6](/CollectionCenter/Commander EXP Card_6) | EXP Card II×6-7 |
+  | ![Nano Material +6](/images/cc/CC_Nano_Material_5_p.png) | [Nano Material +6](/CollectionCenter/Nano Material_6/) | Nano Material×1000 |
+  | ![Star +6](/images/cc/CC_Star_5_p.png) | [Star +6](/CollectionCenter/Star_6/) | Star×12800 |
+  | ![Fighter Shard +6](/images/cc/CC_Fighter_Shard_5_p.png) | [Fighter Shard +6](/CollectionCenter/Fighter Shard_6/) | Chance to get SR Fighter Shard×3 |
+  | ![Alloy Plate +6](/images/cc/CC_Alloy_Plate_5_p.png) | [Alloy Plate +6](/CollectionCenter/Alloy Plate_6/) | Alloy Plate×6 |
+  | ![Module +6](/images/cc/CC_Module_5_p.png) | [Module +6](/CollectionCenter/Module_6/) | Random Module×40 |
+  | ![Commander EXP Card +6](/images/cc/CC_Pilot_EXP_Card_5_p.png) | [Commander EXP Card +6](/CollectionCenter/Commander EXP Card_6/) | EXP Card II×6-7 |

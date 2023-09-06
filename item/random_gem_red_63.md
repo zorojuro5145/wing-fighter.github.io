@@ -2,7 +2,7 @@
 title: "random_gem_red_63"
 permalink: /item/random_gem_red_63/
 excerpt: "Wing Fighter random_gem_red_63"
-last_modified_at: 2023-09-02
+last_modified_at: 2023-09-06
 locale: en
 ref: "random_gem_red_63.md"
 toc: false

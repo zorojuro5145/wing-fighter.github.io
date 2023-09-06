@@ -2,7 +2,7 @@
 title: "Armor Module"
 permalink: /item/Armor Module_12/
 excerpt: "Wing Fighter Armor Module"
-last_modified_at: 2023-09-02
+last_modified_at: 2023-09-06
 locale: en
 ref: "Armor Module_12.md"
 toc: false

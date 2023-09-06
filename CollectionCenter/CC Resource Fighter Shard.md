@@ -2,7 +2,7 @@
 title: "CC Resource Fighter Shard"
 permalink: /CollectionCenter/CC Resource Fighter Shard/
 excerpt: "Wing Fighter CC ResourceFighter Shard"
-last_modified_at: 2023-08-09
+last_modified_at: 2023-09-06
 locale: en
 ref: "CC Resource Fighter Shard.md"
 toc: false
@@ -17,14 +17,14 @@ classes: wide
 
   |   Icon |      CC Resource        |   Description   |
   |:------:|:---------------:|:---------------:|
-  | ![Fighter Shard +1](/images/cc/CC_Fighter_Shard_1_p.png) | [Fighter Shard +1](/CollectionCenter/Fighter Shard_1) | Chance to get R Fighter Shard×1 |
-  | ![Fighter Shard +2](/images/cc/CC_Fighter_Shard_2_p.png) | [Fighter Shard +2](/CollectionCenter/Fighter Shard_2) | Chance to get R Fighter Shard×2 |
-  | ![Fighter Shard +3](/images/cc/CC_Fighter_Shard_3_p.png) | [Fighter Shard +3](/CollectionCenter/Fighter Shard_3) | Chance to get SR Fighter Shard×1 |
-  | ![Fighter Shard +4](/images/cc/CC_Fighter_Shard_4_p.png) | [Fighter Shard +4](/CollectionCenter/Fighter Shard_4) | Chance to get SR Fighter Shard×2 |
-  | ![Fighter Shard +5](/images/cc/CC_Fighter_Shard_5_p.png) | [Fighter Shard +5](/CollectionCenter/Fighter Shard_5) | Get SR Fighter Shard×2 |
-  | ![Fighter Shard +6](/images/cc/CC_Fighter_Shard_5_p.png) | [Fighter Shard +6](/CollectionCenter/Fighter Shard_6) | Chance to get SR Fighter Shard×3 |
-  | ![Fighter Shard +7](/images/cc/CC_Fighter_Shard_5_p.png) | [Fighter Shard +7](/CollectionCenter/Fighter Shard_7) | High chance to get SR Fighter Shard×3 |
-  | ![Fighter Shard +8](/images/cc/CC_Fighter_Shard_5_p.png) | [Fighter Shard +8](/CollectionCenter/Fighter Shard_8) | Get SR Fighter Shard×3 |
-  | ![Fighter Shard +9](/images/cc/CC_Fighter_Shard_6_p.png) | [Fighter Shard +9](/CollectionCenter/Fighter Shard_9) | Chance to get SSR Fighter Shard×2 |
-  | ![Fighter Shard +10](/images/cc/CC_Fighter_Shard_6_p.png) | [Fighter Shard +10](/CollectionCenter/Fighter Shard_10) | Get SSR Fighter Shard×2 |
-  | ![Fighter Shard +11](/images/cc/CC_Fighter_Shard_6_p.png) | [Fighter Shard +11](/CollectionCenter/Fighter Shard_11) | Chance to get Conqueror Fighter Shard×2 |
+  | ![Fighter Shard +1](/images/cc/CC_Fighter_Shard_1_p.png) | [Fighter Shard +1](/CollectionCenter/Fighter Shard_1/) | Chance to get R Fighter Shard×1 |
+  | ![Fighter Shard +2](/images/cc/CC_Fighter_Shard_2_p.png) | [Fighter Shard +2](/CollectionCenter/Fighter Shard_2/) | Chance to get R Fighter Shard×2 |
+  | ![Fighter Shard +3](/images/cc/CC_Fighter_Shard_3_p.png) | [Fighter Shard +3](/CollectionCenter/Fighter Shard_3/) | Chance to get SR Fighter Shard×1 |
+  | ![Fighter Shard +4](/images/cc/CC_Fighter_Shard_4_p.png) | [Fighter Shard +4](/CollectionCenter/Fighter Shard_4/) | Chance to get SR Fighter Shard×2 |
+  | ![Fighter Shard +5](/images/cc/CC_Fighter_Shard_5_p.png) | [Fighter Shard +5](/CollectionCenter/Fighter Shard_5/) | Get SR Fighter Shard×2 |
+  | ![Fighter Shard +6](/images/cc/CC_Fighter_Shard_5_p.png) | [Fighter Shard +6](/CollectionCenter/Fighter Shard_6/) | Chance to get SR Fighter Shard×3 |
+  | ![Fighter Shard +7](/images/cc/CC_Fighter_Shard_5_p.png) | [Fighter Shard +7](/CollectionCenter/Fighter Shard_7/) | High chance to get SR Fighter Shard×3 |
+  | ![Fighter Shard +8](/images/cc/CC_Fighter_Shard_5_p.png) | [Fighter Shard +8](/CollectionCenter/Fighter Shard_8/) | Get SR Fighter Shard×3 |
+  | ![Fighter Shard +9](/images/cc/CC_Fighter_Shard_6_p.png) | [Fighter Shard +9](/CollectionCenter/Fighter Shard_9/) | Chance to get SSR Fighter Shard×2 |
+  | ![Fighter Shard +10](/images/cc/CC_Fighter_Shard_6_p.png) | [Fighter Shard +10](/CollectionCenter/Fighter Shard_10/) | Get SSR Fighter Shard×2 |
+  | ![Fighter Shard +11](/images/cc/CC_Fighter_Shard_6_p.png) | [Fighter Shard +11](/CollectionCenter/Fighter Shard_11/) | Chance to get Conqueror Fighter Shard×2 |

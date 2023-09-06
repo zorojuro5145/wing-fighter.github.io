@@ -2,7 +2,7 @@
 title: "Random 1-star Gem"
 permalink: /item/Random 1-star Gem_72/
 excerpt: "Wing Fighter Random 1-star Gem"
-last_modified_at: 2023-09-02
+last_modified_at: 2023-09-06
 locale: en
 ref: "Random 1-star Gem_72.md"
 toc: false

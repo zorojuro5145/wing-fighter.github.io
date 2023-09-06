@@ -2,7 +2,7 @@
 title: "Collection Center Diamond +1"
 permalink: /CollectionCenter/Diamond_1/
 excerpt: "Wing Fighter Collection CenterDiamond +1"
-last_modified_at: 2023-08-09
+last_modified_at: 2023-09-06
 locale: en
 ref: "Diamond_1.md"
 toc: false

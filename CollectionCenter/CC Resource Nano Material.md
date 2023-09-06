@@ -2,7 +2,7 @@
 title: "CC Resource Nano Material"
 permalink: /CollectionCenter/CC Resource Nano Material/
 excerpt: "Wing Fighter CC ResourceNano Material"
-last_modified_at: 2023-08-09
+last_modified_at: 2023-09-06
 locale: en
 ref: "CC Resource Nano Material.md"
 toc: false
@@ -17,14 +17,14 @@ classes: wide
 
   |   Icon |      CC Resource        |   Description   |
   |:------:|:---------------:|:---------------:|
-  | ![Nano Material +1](/images/cc/CC_Nano_Material_1_p.png) | [Nano Material +1](/CollectionCenter/Nano Material_1) | Nano Material×10 |
-  | ![Nano Material +2](/images/cc/CC_Nano_Material_2_p.png) | [Nano Material +2](/CollectionCenter/Nano Material_2) | Nano Material×50 |
-  | ![Nano Material +3](/images/cc/CC_Nano_Material_3_p.png) | [Nano Material +3](/CollectionCenter/Nano Material_3) | Nano Material×100 |
-  | ![Nano Material +4](/images/cc/CC_Nano_Material_4_p.png) | [Nano Material +4](/CollectionCenter/Nano Material_4) | Nano Material×250 |
-  | ![Nano Material +5](/images/cc/CC_Nano_Material_5_p.png) | [Nano Material +5](/CollectionCenter/Nano Material_5) | Nano Material×500 |
-  | ![Nano Material +6](/images/cc/CC_Nano_Material_5_p.png) | [Nano Material +6](/CollectionCenter/Nano Material_6) | Nano Material×1000 |
-  | ![Nano Material +7](/images/cc/CC_Nano_Material_5_p.png) | [Nano Material +7](/CollectionCenter/Nano Material_7) | Nano Material×1600 |
-  | ![Nano Material +8](/images/cc/CC_Nano_Material_5_p.png) | [Nano Material +8](/CollectionCenter/Nano Material_8) | Nano Material×2400 |
-  | ![Nano Material +9](/images/cc/CC_Nano_Material_6_p.png) | [Nano Material +9](/CollectionCenter/Nano Material_9) | Nano Material×3200 |
-  | ![Nano Material +10](/images/cc/CC_Nano_Material_6_p.png) | [Nano Material +10](/CollectionCenter/Nano Material_10) | Nano Material×4800 |
-  | ![Nano Material +11](/images/cc/CC_Nano_Material_6_p.png) | [Nano Material +11](/CollectionCenter/Nano Material_11) | Nano Material×5400 |
+  | ![Nano Material +1](/images/cc/CC_Nano_Material_1_p.png) | [Nano Material +1](/CollectionCenter/Nano Material_1/) | Nano Material×10 |
+  | ![Nano Material +2](/images/cc/CC_Nano_Material_2_p.png) | [Nano Material +2](/CollectionCenter/Nano Material_2/) | Nano Material×50 |
+  | ![Nano Material +3](/images/cc/CC_Nano_Material_3_p.png) | [Nano Material +3](/CollectionCenter/Nano Material_3/) | Nano Material×100 |
+  | ![Nano Material +4](/images/cc/CC_Nano_Material_4_p.png) | [Nano Material +4](/CollectionCenter/Nano Material_4/) | Nano Material×250 |
+  | ![Nano Material +5](/images/cc/CC_Nano_Material_5_p.png) | [Nano Material +5](/CollectionCenter/Nano Material_5/) | Nano Material×500 |
+  | ![Nano Material +6](/images/cc/CC_Nano_Material_5_p.png) | [Nano Material +6](/CollectionCenter/Nano Material_6/) | Nano Material×1000 |
+  | ![Nano Material +7](/images/cc/CC_Nano_Material_5_p.png) | [Nano Material +7](/CollectionCenter/Nano Material_7/) | Nano Material×1600 |
+  | ![Nano Material +8](/images/cc/CC_Nano_Material_5_p.png) | [Nano Material +8](/CollectionCenter/Nano Material_8/) | Nano Material×2400 |
+  | ![Nano Material +9](/images/cc/CC_Nano_Material_6_p.png) | [Nano Material +9](/CollectionCenter/Nano Material_9/) | Nano Material×3200 |
+  | ![Nano Material +10](/images/cc/CC_Nano_Material_6_p.png) | [Nano Material +10](/CollectionCenter/Nano Material_10/) | Nano Material×4800 |
+  | ![Nano Material +11](/images/cc/CC_Nano_Material_6_p.png) | [Nano Material +11](/CollectionCenter/Nano Material_11/) | Nano Material×5400 |

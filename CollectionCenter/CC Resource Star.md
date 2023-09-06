@@ -2,7 +2,7 @@
 title: "CC Resource Star"
 permalink: /CollectionCenter/CC Resource Star/
 excerpt: "Wing Fighter CC ResourceStar"
-last_modified_at: 2023-08-09
+last_modified_at: 2023-09-06
 locale: en
 ref: "CC Resource Star.md"
 toc: false
@@ -17,14 +17,14 @@ classes: wide
 
   |   Icon |      CC Resource        |   Description   |
   |:------:|:---------------:|:---------------:|
-  | ![Star +1](/images/cc/CC_Star_1_p.png) | [Star +1](/CollectionCenter/Star_1) | Star×2500 |
-  | ![Star +2](/images/cc/CC_Star_2_p.png) | [Star +2](/CollectionCenter/Star_2) | Star×3200 |
-  | ![Star +3](/images/cc/CC_Star_3_p.png) | [Star +3](/CollectionCenter/Star_3) | Star×4800 |
-  | ![Star +4](/images/cc/CC_Star_4_p.png) | [Star +4](/CollectionCenter/Star_4) | Star×6400 |
-  | ![Star +5](/images/cc/CC_Star_5_p.png) | [Star +5](/CollectionCenter/Star_5) | Star×9600 |
-  | ![Star +6](/images/cc/CC_Star_5_p.png) | [Star +6](/CollectionCenter/Star_6) | Star×12800 |
-  | ![Star +7](/images/cc/CC_Star_5_p.png) | [Star +7](/CollectionCenter/Star_7) | Star×19200 |
-  | ![Star +8](/images/cc/CC_Star_5_p.png) | [Star +8](/CollectionCenter/Star_8) | Star×25600 |
-  | ![Star +9](/images/cc/CC_Star_6_p.png) | [Star +9](/CollectionCenter/Star_9) | Star×38400 |
-  | ![Star +10](/images/cc/CC_Star_6_p.png) | [Star +10](/CollectionCenter/Star_10) | Star×43200 |
-  | ![Star +11](/images/cc/CC_Star_6_p.png) | [Star +11](/CollectionCenter/Star_11) | Star×48000 |
+  | ![Star +1](/images/cc/CC_Star_1_p.png) | [Star +1](/CollectionCenter/Star_1/) | Star×2500 |
+  | ![Star +2](/images/cc/CC_Star_2_p.png) | [Star +2](/CollectionCenter/Star_2/) | Star×3200 |
+  | ![Star +3](/images/cc/CC_Star_3_p.png) | [Star +3](/CollectionCenter/Star_3/) | Star×4800 |
+  | ![Star +4](/images/cc/CC_Star_4_p.png) | [Star +4](/CollectionCenter/Star_4/) | Star×6400 |
+  | ![Star +5](/images/cc/CC_Star_5_p.png) | [Star +5](/CollectionCenter/Star_5/) | Star×9600 |
+  | ![Star +6](/images/cc/CC_Star_5_p.png) | [Star +6](/CollectionCenter/Star_6/) | Star×12800 |
+  | ![Star +7](/images/cc/CC_Star_5_p.png) | [Star +7](/CollectionCenter/Star_7/) | Star×19200 |
+  | ![Star +8](/images/cc/CC_Star_5_p.png) | [Star +8](/CollectionCenter/Star_8/) | Star×25600 |
+  | ![Star +9](/images/cc/CC_Star_6_p.png) | [Star +9](/CollectionCenter/Star_9/) | Star×38400 |
+  | ![Star +10](/images/cc/CC_Star_6_p.png) | [Star +10](/CollectionCenter/Star_10/) | Star×43200 |
+  | ![Star +11](/images/cc/CC_Star_6_p.png) | [Star +11](/CollectionCenter/Star_11/) | Star×48000 |

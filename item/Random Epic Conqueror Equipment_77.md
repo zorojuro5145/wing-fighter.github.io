@@ -2,7 +2,7 @@
 title: "Random Epic Conqueror Equipment"
 permalink: /item/Random Epic Conqueror Equipment_77/
 excerpt: "Wing Fighter Random Epic Conqueror Equipment"
-last_modified_at: 2023-09-02
+last_modified_at: 2023-09-06
 locale: en
 ref: "Random Epic Conqueror Equipment_77.md"
 toc: false

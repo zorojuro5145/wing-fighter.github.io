@@ -2,7 +2,7 @@
 title: "CC Resource Module"
 permalink: /CollectionCenter/CC Resource Module/
 excerpt: "Wing Fighter CC ResourceModule"
-last_modified_at: 2023-08-09
+last_modified_at: 2023-09-06
 locale: en
 ref: "CC Resource Module.md"
 toc: false
@@ -17,14 +17,14 @@ classes: wide
 
   |   Icon |      CC Resource        |   Description   |
   |:------:|:---------------:|:---------------:|
-  | ![Module +1](/images/cc/CC_Module_1_p.png) | [Module +1](/CollectionCenter/Module_1) | Random Module×7 |
-  | ![Module +2](/images/cc/CC_Module_2_p.png) | [Module +2](/CollectionCenter/Module_2) | Random Module×10 |
-  | ![Module +3](/images/cc/CC_Module_3_p.png) | [Module +3](/CollectionCenter/Module_3) | Random Module×15 |
-  | ![Module +4](/images/cc/CC_Module_4_p.png) | [Module +4](/CollectionCenter/Module_4) | Random Module×20 |
-  | ![Module +5](/images/cc/CC_Module_5_p.png) | [Module +5](/CollectionCenter/Module_5) | Random Module×30 |
-  | ![Module +6](/images/cc/CC_Module_5_p.png) | [Module +6](/CollectionCenter/Module_6) | Random Module×40 |
-  | ![Module +7](/images/cc/CC_Module_5_p.png) | [Module +7](/CollectionCenter/Module_7) | Random Module×55 |
-  | ![Module +8](/images/cc/CC_Module_5_p.png) | [Module +8](/CollectionCenter/Module_8) | Random Module×70 |
-  | ![Module +9](/images/cc/CC_Module_6_p.png) | [Module +9](/CollectionCenter/Module_9) | Random Module×85 |
-  | ![Module +10](/images/cc/CC_Module_6_p.png) | [Module +10](/CollectionCenter/Module_10) | Random Module×100 |
-  | ![Module +11](/images/cc/CC_Module_6_p.png) | [Module +11](/CollectionCenter/Module_11) | Random Module×120 |
+  | ![Module +1](/images/cc/CC_Module_1_p.png) | [Module +1](/CollectionCenter/Module_1/) | Random Module×7 |
+  | ![Module +2](/images/cc/CC_Module_2_p.png) | [Module +2](/CollectionCenter/Module_2/) | Random Module×10 |
+  | ![Module +3](/images/cc/CC_Module_3_p.png) | [Module +3](/CollectionCenter/Module_3/) | Random Module×15 |
+  | ![Module +4](/images/cc/CC_Module_4_p.png) | [Module +4](/CollectionCenter/Module_4/) | Random Module×20 |
+  | ![Module +5](/images/cc/CC_Module_5_p.png) | [Module +5](/CollectionCenter/Module_5/) | Random Module×30 |
+  | ![Module +6](/images/cc/CC_Module_5_p.png) | [Module +6](/CollectionCenter/Module_6/) | Random Module×40 |
+  | ![Module +7](/images/cc/CC_Module_5_p.png) | [Module +7](/CollectionCenter/Module_7/) | Random Module×55 |
+  | ![Module +8](/images/cc/CC_Module_5_p.png) | [Module +8](/CollectionCenter/Module_8/) | Random Module×70 |
+  | ![Module +9](/images/cc/CC_Module_6_p.png) | [Module +9](/CollectionCenter/Module_9/) | Random Module×85 |
+  | ![Module +10](/images/cc/CC_Module_6_p.png) | [Module +10](/CollectionCenter/Module_10/) | Random Module×100 |
+  | ![Module +11](/images/cc/CC_Module_6_p.png) | [Module +11](/CollectionCenter/Module_11/) | Random Module×120 |

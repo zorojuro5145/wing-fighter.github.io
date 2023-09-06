@@ -2,7 +2,7 @@
 title: "Random Equipment of Gear Set"
 permalink: /item/Random Equipment of Gear Set_81/
 excerpt: "Wing Fighter Random Equipment of Gear Set"
-last_modified_at: 2023-09-02
+last_modified_at: 2023-09-06
 locale: en
 ref: "Random Equipment of Gear Set_81.md"
 toc: false

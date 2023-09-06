@@ -2,7 +2,7 @@
 title: "Standard Training Guide"
 permalink: /item/Standard Training Guide_91/
 excerpt: "Wing Fighter Standard Training Guide"
-last_modified_at: 2023-09-02
+last_modified_at: 2023-09-06
 locale: en
 ref: "Standard Training Guide_91.md"
 toc: false

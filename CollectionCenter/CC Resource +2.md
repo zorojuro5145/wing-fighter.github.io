@@ -2,7 +2,7 @@
 title: "CC Resource 2"
 permalink: /CollectionCenter/CC Resource +2/
 excerpt: "Wing Fighter CC Resource2"
-last_modified_at: 2023-08-09
+last_modified_at: 2023-09-06
 locale: en
 ref: "CC Resource +2.md"
 toc: false
@@ -17,10 +17,10 @@ classes: wide
 
   |   Icon |      CC Resource        |   Description   |
   |:------:|:---------------:|:---------------:|
-  | ![Nano Material +2](/images/cc/CC_Nano_Material_2_p.png) | [Nano Material +2](/CollectionCenter/Nano Material_2) | Nano Material×50 |
-  | ![Star +2](/images/cc/CC_Star_2_p.png) | [Star +2](/CollectionCenter/Star_2) | Star×3200 |
-  | ![Fighter Shard +2](/images/cc/CC_Fighter_Shard_2_p.png) | [Fighter Shard +2](/CollectionCenter/Fighter Shard_2) | Chance to get R Fighter Shard×2 |
-  | ![Alloy Plate +2](/images/cc/CC_Alloy_Plate_2_p.png) | [Alloy Plate +2](/CollectionCenter/Alloy Plate_2) | Alloy Plate×2 |
-  | ![Module +2](/images/cc/CC_Module_2_p.png) | [Module +2](/CollectionCenter/Module_2) | Random Module×10 |
-  | ![Commander EXP Card +2](/images/cc/CC_Pilot_EXP_Card_2_p.png) | [Commander EXP Card +2](/CollectionCenter/Commander EXP Card_2) | EXP Card I×4-5 |
-  | ![Diamond +2](/images/cc/CC_Diamond_2_p.png) | [Diamond +2](/CollectionCenter/Diamond_2) | Diamond×40 |
+  | ![Nano Material +2](/images/cc/CC_Nano_Material_2_p.png) | [Nano Material +2](/CollectionCenter/Nano Material_2/) | Nano Material×50 |
+  | ![Star +2](/images/cc/CC_Star_2_p.png) | [Star +2](/CollectionCenter/Star_2/) | Star×3200 |
+  | ![Fighter Shard +2](/images/cc/CC_Fighter_Shard_2_p.png) | [Fighter Shard +2](/CollectionCenter/Fighter Shard_2/) | Chance to get R Fighter Shard×2 |
+  | ![Alloy Plate +2](/images/cc/CC_Alloy_Plate_2_p.png) | [Alloy Plate +2](/CollectionCenter/Alloy Plate_2/) | Alloy Plate×2 |
+  | ![Module +2](/images/cc/CC_Module_2_p.png) | [Module +2](/CollectionCenter/Module_2/) | Random Module×10 |
+  | ![Commander EXP Card +2](/images/cc/CC_Pilot_EXP_Card_2_p.png) | [Commander EXP Card +2](/CollectionCenter/Commander EXP Card_2/) | EXP Card I×4-5 |
+  | ![Diamond +2](/images/cc/CC_Diamond_2_p.png) | [Diamond +2](/CollectionCenter/Diamond_2/) | Diamond×40 |

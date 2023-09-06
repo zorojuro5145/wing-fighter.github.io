@@ -2,7 +2,7 @@
 title: "Missile Module"
 permalink: /item/Missile Module_11/
 excerpt: "Wing Fighter Missile Module"
-last_modified_at: 2023-09-02
+last_modified_at: 2023-09-06
 locale: en
 ref: "Missile Module_11.md"
 toc: false

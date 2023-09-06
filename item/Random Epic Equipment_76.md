@@ -2,7 +2,7 @@
 title: "Random Epic Equipment"
 permalink: /item/Random Epic Equipment_76/
 excerpt: "Wing Fighter Random Epic Equipment"
-last_modified_at: 2023-09-02
+last_modified_at: 2023-09-06
 locale: en
 ref: "Random Epic Equipment_76.md"
 toc: false

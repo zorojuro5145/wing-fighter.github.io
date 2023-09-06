@@ -2,7 +2,7 @@
 title: "Collection Center Commander EXP Card +4"
 permalink: /CollectionCenter/Commander EXP Card_4/
 excerpt: "Wing Fighter Collection CenterCommander EXP Card +4"
-last_modified_at: 2023-08-09
+last_modified_at: 2023-09-06
 locale: en
 ref: "Commander EXP Card_4.md"
 toc: false

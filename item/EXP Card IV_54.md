@@ -2,7 +2,7 @@
 title: "EXP Card IV"
 permalink: /item/EXP Card IV_54/
 excerpt: "Wing Fighter EXP Card IV"
-last_modified_at: 2023-09-02
+last_modified_at: 2023-09-06
 locale: en
 ref: "EXP Card IV_54.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "CC Resource 3"
 permalink: /CollectionCenter/CC Resource +3/
 excerpt: "Wing Fighter CC Resource3"
-last_modified_at: 2023-08-09
+last_modified_at: 2023-09-06
 locale: en
 ref: "CC Resource +3.md"
 toc: false
@@ -17,10 +17,10 @@ classes: wide
 
   |   Icon |      CC Resource        |   Description   |
   |:------:|:---------------:|:---------------:|
-  | ![Nano Material +3](/images/cc/CC_Nano_Material_3_p.png) | [Nano Material +3](/CollectionCenter/Nano Material_3) | Nano Material×100 |
-  | ![Star +3](/images/cc/CC_Star_3_p.png) | [Star +3](/CollectionCenter/Star_3) | Star×4800 |
-  | ![Fighter Shard +3](/images/cc/CC_Fighter_Shard_3_p.png) | [Fighter Shard +3](/CollectionCenter/Fighter Shard_3) | Chance to get SR Fighter Shard×1 |
-  | ![Alloy Plate +3](/images/cc/CC_Alloy_Plate_3_p.png) | [Alloy Plate +3](/CollectionCenter/Alloy Plate_3) | Alloy Plate×3 |
-  | ![Module +3](/images/cc/CC_Module_3_p.png) | [Module +3](/CollectionCenter/Module_3) | Random Module×15 |
-  | ![Commander EXP Card +3](/images/cc/CC_Pilot_EXP_Card_3_p.png) | [Commander EXP Card +3](/CollectionCenter/Commander EXP Card_3) | EXP Card II×2-3 |
-  | ![Diamond +3](/images/cc/CC_Diamond_3_p.png) | [Diamond +3](/CollectionCenter/Diamond_3) | Diamond×60 |
+  | ![Nano Material +3](/images/cc/CC_Nano_Material_3_p.png) | [Nano Material +3](/CollectionCenter/Nano Material_3/) | Nano Material×100 |
+  | ![Star +3](/images/cc/CC_Star_3_p.png) | [Star +3](/CollectionCenter/Star_3/) | Star×4800 |
+  | ![Fighter Shard +3](/images/cc/CC_Fighter_Shard_3_p.png) | [Fighter Shard +3](/CollectionCenter/Fighter Shard_3/) | Chance to get SR Fighter Shard×1 |
+  | ![Alloy Plate +3](/images/cc/CC_Alloy_Plate_3_p.png) | [Alloy Plate +3](/CollectionCenter/Alloy Plate_3/) | Alloy Plate×3 |
+  | ![Module +3](/images/cc/CC_Module_3_p.png) | [Module +3](/CollectionCenter/Module_3/) | Random Module×15 |
+  | ![Commander EXP Card +3](/images/cc/CC_Pilot_EXP_Card_3_p.png) | [Commander EXP Card +3](/CollectionCenter/Commander EXP Card_3/) | EXP Card II×2-3 |
+  | ![Diamond +3](/images/cc/CC_Diamond_3_p.png) | [Diamond +3](/CollectionCenter/Diamond_3/) | Diamond×60 |

@@ -2,7 +2,7 @@
 title: "Maingun Module"
 permalink: /item/Maingun Module_9/
 excerpt: "Wing Fighter Maingun Module"
-last_modified_at: 2023-09-02
+last_modified_at: 2023-09-06
 locale: en
 ref: "Maingun Module_9.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "CC Resource 1"
 permalink: /CollectionCenter/CC Resource +1/
 excerpt: "Wing Fighter CC Resource1"
-last_modified_at: 2023-08-09
+last_modified_at: 2023-09-06
 locale: en
 ref: "CC Resource +1.md"
 toc: false
@@ -17,10 +17,10 @@ classes: wide
 
   |   Icon |      CC Resource        |   Description   |
   |:------:|:---------------:|:---------------:|
-  | ![Nano Material +1](/images/cc/CC_Nano_Material_1_p.png) | [Nano Material +1](/CollectionCenter/Nano Material_1) | Nano Material×10 |
-  | ![Star +1](/images/cc/CC_Star_1_p.png) | [Star +1](/CollectionCenter/Star_1) | Star×2500 |
-  | ![Fighter Shard +1](/images/cc/CC_Fighter_Shard_1_p.png) | [Fighter Shard +1](/CollectionCenter/Fighter Shard_1) | Chance to get R Fighter Shard×1 |
-  | ![Alloy Plate +1](/images/cc/CC_Alloy_Plate_1_p.png) | [Alloy Plate +1](/CollectionCenter/Alloy Plate_1) | Alloy Plate×1 |
-  | ![Module +1](/images/cc/CC_Module_1_p.png) | [Module +1](/CollectionCenter/Module_1) | Random Module×7 |
-  | ![Commander EXP Card +1](/images/cc/CC_Pilot_EXP_Card_1_p.png) | [Commander EXP Card +1](/CollectionCenter/Commander EXP Card_1) | EXP Card I×2-3 |
-  | ![Diamond +1](/images/cc/CC_Diamond_1_p.png) | [Diamond +1](/CollectionCenter/Diamond_1) | Diamond×20 |
+  | ![Nano Material +1](/images/cc/CC_Nano_Material_1_p.png) | [Nano Material +1](/CollectionCenter/Nano Material_1/) | Nano Material×10 |
+  | ![Star +1](/images/cc/CC_Star_1_p.png) | [Star +1](/CollectionCenter/Star_1/) | Star×2500 |
+  | ![Fighter Shard +1](/images/cc/CC_Fighter_Shard_1_p.png) | [Fighter Shard +1](/CollectionCenter/Fighter Shard_1/) | Chance to get R Fighter Shard×1 |
+  | ![Alloy Plate +1](/images/cc/CC_Alloy_Plate_1_p.png) | [Alloy Plate +1](/CollectionCenter/Alloy Plate_1/) | Alloy Plate×1 |
+  | ![Module +1](/images/cc/CC_Module_1_p.png) | [Module +1](/CollectionCenter/Module_1/) | Random Module×7 |
+  | ![Commander EXP Card +1](/images/cc/CC_Pilot_EXP_Card_1_p.png) | [Commander EXP Card +1](/CollectionCenter/Commander EXP Card_1/) | EXP Card I×2-3 |
+  | ![Diamond +1](/images/cc/CC_Diamond_1_p.png) | [Diamond +1](/CollectionCenter/Diamond_1/) | Diamond×20 |
