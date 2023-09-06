@@ -2,7 +2,7 @@
 title: "Battle"
 permalink: /battle/
 excerpt: "Wing Fighter Battle"
-last_modified_at: 2023-08-09
+last_modified_at: 2023-09-06
 locale: en
 ref: "index.md"
 toc: false
@@ -42,11 +42,11 @@ classes: wide
   | 12 | Shadow of Sea | **50** | **90000** | Desert12 (normal) | **5x**![Unknown_3](/images/item/Settlement_Energy_p.png) |
   | 13 | Moon Base | **50** | **102000** | Desert13 (normal) | **5x**![Unknown_3](/images/item/Settlement_Energy_p.png) |
   | 14 |  Invincible Courage | **50** | **120000** | Desert16 (normal) | **5x**![Unknown_3](/images/item/Settlement_Energy_p.png) |
-  | 15 |  Never To Return | **50** | **140000** | Desert04 (normal) | **5x**![Unknown_3](/images/item/Settlement_Energy_p.png) |
+  | 15 |  Never To Return | **50** | **140000** | Desert14 (normal) | **5x**![Unknown_3](/images/item/Settlement_Energy_p.png) |
   | 16 |  A Hopeful Start | **50** | **165000** | Desert10 (normal) | **5x**![Unknown_3](/images/item/Settlement_Energy_p.png) |
-  | 17 |  Enemy Conspiracy | **50** | **185000** | Desert07 (normal) | **5x**![Unknown_3](/images/item/Settlement_Energy_p.png) |
-  | 18 |  Fallen Lands | **50** | **190000** | Desert08 (rain) | **5x**![Unknown_3](/images/item/Settlement_Energy_p.png) |
-  | 19 |  A Hard Choice | **50** | **195000** | Desert12 (normal) | **5x**![Unknown_3](/images/item/Settlement_Energy_p.png) |
+  | 17 |  Enemy Conspiracy | **50** | **185000** | Desert17 (normal) | **5x**![Unknown_3](/images/item/Settlement_Energy_p.png) |
+  | 18 |  Fallen Lands | **50** | **190000** | Desert18 (rain) | **5x**![Unknown_3](/images/item/Settlement_Energy_p.png) |
+  | 19 |  A Hard Choice | **50** | **195000** | Desert19 (normal) | **5x**![Unknown_3](/images/item/Settlement_Energy_p.png) |
   | 20 |  Darkest Dawn | **50** | **200000** | Desert13 (normal) | **5x**![Unknown_3](/images/item/Settlement_Energy_p.png) |
   | 21 |  Finding What's Hidden | **50** | **210000** | Desert06 (normal) | **5x**![Unknown_3](/images/item/Settlement_Energy_p.png) |
   | 22 |  Man In The Dark | **50** | **220000** | Desert05 (normal) | **5x**![Unknown_3](/images/item/Settlement_Energy_p.png) |
@@ -159,3 +159,4 @@ classes: wide
   | 63 | Event.Forest Dawn | Forest Dawn | **2** | **82000** | Desert08 (normal) | **5x**![Unknown_3](/images/item/Settlement_Energy_p.png) |
   | 64 | Atlas | null | **null** | **9000** | Ectype01 (normal) |  |
   | 65 | Arachne | null | **null** | **9000** | Desert11 (sandstorm) |  |
+  | 66 | Arachne | null | **null** | **9000** | Desert11 (sandstorm) |  |
