@@ -2,7 +2,7 @@
 title: "Talent Energy Defense"
 permalink: /talent/Talent Energy Defense/
 excerpt: "Wing Fighter Talent Energy Defense"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-09-07
 locale: en
 ref: "Talent Energy Defense.md"
 toc: false

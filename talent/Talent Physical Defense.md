@@ -2,7 +2,7 @@
 title: "Talent Physical Defense"
 permalink: /talent/Talent Physical Defense/
 excerpt: "Wing Fighter Talent Physical Defense"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-09-07
 locale: en
 ref: "Talent Physical Defense.md"
 toc: false

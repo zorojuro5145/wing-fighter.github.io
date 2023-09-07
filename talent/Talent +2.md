@@ -2,7 +2,7 @@
 title: "Talent +2"
 permalink: /talent/Talent +2/
 excerpt: "Wing Fighter Talent +2"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-09-07
 locale: en
 ref: "Talent +2.md"
 toc: false
