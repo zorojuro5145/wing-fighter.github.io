@@ -18,7 +18,7 @@ sidebar:
 
 {% capture notice-update20230906 %}
 
-The Wiki Updated to client version 1.7.550
+The Wiki Updated to client version **1.7.550**
 
 List of changes:
 1. All fighter bonus for level 60 is now **HP +200** (was +100).
@@ -28,6 +28,8 @@ List of changes:
 5. Gem Anti-Air: Fighter Against **aerial enemies (including players)** (was "Fighter Against flying enemies")
 6. Changes in [Planet Wars](/Planet_Wars/) (added 7, 8 and 9 points)
 7. Introduced new 11 chests (not yet released). Save money ;)
+
+Added the [Upgrade Costs for Talents](https://wing-fighter.github.io/talent/#talent-level-up-conditions) 
 
 {% endcapture %}
 
