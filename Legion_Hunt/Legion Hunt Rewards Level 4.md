@@ -9,11 +9,13 @@ toc: false
 classes: wide
 ---
 
-  by Guild Boss Damage Level:   [Level 1](/Legion_Hunt/Legion Hunt Rewards Level 1/){: .btn .btn--primary}   [Level 2](/Legion_Hunt/Legion Hunt Rewards Level 2/){: .btn .btn--success}   [Level 3](/Legion_Hunt/Legion Hunt Rewards Level 3/){: .btn .btn--warning}   [Level 4](/Legion_Hunt/Legion Hunt Rewards Level 4/){: .btn .btn--danger}   [Level 5](/Legion_Hunt/Legion Hunt Rewards Level 5/){: .btn .btn--info}   [Level 6](/Legion_Hunt/Legion Hunt Rewards Level 6/){: .btn .btn--primary}   [Level 7](/Legion_Hunt/Legion Hunt Rewards Level 7/){: .btn .btn--success}   [Level 8](/Legion_Hunt/Legion Hunt Rewards Level 8/){: .btn .btn--warning}   [Level 9](/Legion_Hunt/Legion Hunt Rewards Level 9/){: .btn .btn--danger}   [Level 10](/Legion_Hunt/Legion Hunt Rewards Level 10/){: .btn .btn--info} 
+  by Guild Boss Rewards by Damage:   [Level 1](/Legion_Hunt/Legion Hunt Rewards Level 1/){: .btn .btn--primary}   [Level 2](/Legion_Hunt/Legion Hunt Rewards Level 2/){: .btn .btn--success}   [Level 3](/Legion_Hunt/Legion Hunt Rewards Level 3/){: .btn .btn--warning}   [Level 4](/Legion_Hunt/Legion Hunt Rewards Level 4/){: .btn .btn--danger}   [Level 5](/Legion_Hunt/Legion Hunt Rewards Level 5/){: .btn .btn--info}   [Level 6](/Legion_Hunt/Legion Hunt Rewards Level 6/){: .btn .btn--primary}   [Level 7](/Legion_Hunt/Legion Hunt Rewards Level 7/){: .btn .btn--success}   [Level 8](/Legion_Hunt/Legion Hunt Rewards Level 8/){: .btn .btn--warning}   [Level 9](/Legion_Hunt/Legion Hunt Rewards Level 9/){: .btn .btn--danger}   [Level 10](/Legion_Hunt/Legion Hunt Rewards Level 10/){: .btn .btn--info} 
 
 
 
-  Guild Boss Level 4
+  **Guild Boss Level 4**
+
+ **Total Damage to Reach this level**: **8000000000**
 
   |  Nr | Your Personal Rank | Rewards |
   |:----|:-------------------|:-------------|

@@ -15,7 +15,7 @@ classes: wide
   Higher damage ranking has better rewards!
 
 
-  by Guild Boss Damage Level:   [Level 1](/Legion_Hunt/Legion Hunt Rewards Level 1/){: .btn .btn--primary}   [Level 2](/Legion_Hunt/Legion Hunt Rewards Level 2/){: .btn .btn--success}   [Level 3](/Legion_Hunt/Legion Hunt Rewards Level 3/){: .btn .btn--warning}   [Level 4](/Legion_Hunt/Legion Hunt Rewards Level 4/){: .btn .btn--danger}   [Level 5](/Legion_Hunt/Legion Hunt Rewards Level 5/){: .btn .btn--info}   [Level 6](/Legion_Hunt/Legion Hunt Rewards Level 6/){: .btn .btn--primary}   [Level 7](/Legion_Hunt/Legion Hunt Rewards Level 7/){: .btn .btn--success}   [Level 8](/Legion_Hunt/Legion Hunt Rewards Level 8/){: .btn .btn--warning}   [Level 9](/Legion_Hunt/Legion Hunt Rewards Level 9/){: .btn .btn--danger}   [Level 10](/Legion_Hunt/Legion Hunt Rewards Level 10/){: .btn .btn--info} 
+  by Guild Boss Rewards by Damage:   [Level 1](/Legion_Hunt/Legion Hunt Rewards Level 1/){: .btn .btn--primary}   [Level 2](/Legion_Hunt/Legion Hunt Rewards Level 2/){: .btn .btn--success}   [Level 3](/Legion_Hunt/Legion Hunt Rewards Level 3/){: .btn .btn--warning}   [Level 4](/Legion_Hunt/Legion Hunt Rewards Level 4/){: .btn .btn--danger}   [Level 5](/Legion_Hunt/Legion Hunt Rewards Level 5/){: .btn .btn--info}   [Level 6](/Legion_Hunt/Legion Hunt Rewards Level 6/){: .btn .btn--primary}   [Level 7](/Legion_Hunt/Legion Hunt Rewards Level 7/){: .btn .btn--success}   [Level 8](/Legion_Hunt/Legion Hunt Rewards Level 8/){: .btn .btn--warning}   [Level 9](/Legion_Hunt/Legion Hunt Rewards Level 9/){: .btn .btn--danger}   [Level 10](/Legion_Hunt/Legion Hunt Rewards Level 10/){: .btn .btn--info} 
 
 
 
@@ -30,6 +30,22 @@ classes: wide
  | 5 | **Charon** | Fri | 3 | **2** | **50x**![Diamonds](/images/item/Diamonds_p.png) | **10x**![Unknown_3](/images/item/Settlement_Energy_p.png) |
  | 6 | **Jormungand** | Sat | 3 | **2** | **50x**![Diamonds](/images/item/Diamonds_p.png) | **10x**![Unknown_3](/images/item/Settlement_Energy_p.png) |
  | 7 | **Chimera** | Sun | 3 | **2** | **50x**![Diamonds](/images/item/Diamonds_p.png) | **10x**![Unknown_3](/images/item/Settlement_Energy_p.png) |
+
+
+## Legion Hunt Levels by Guild Damage:
+
+  |  Nr | Link to Rewards | Level | Total Damage to reach level |
+  |:----|:----------------|:------|:----------------------------|
+ | 1 | [Legion Hunt Rewards Level 1](/Legion_Hunt/Legion Hunt Rewards Level 1/) | **1** | **100000000** |
+ | 2 | [Legion Hunt Rewards Level 2](/Legion_Hunt/Legion Hunt Rewards Level 2/) | **2** | **400000000** |
+ | 3 | [Legion Hunt Rewards Level 3](/Legion_Hunt/Legion Hunt Rewards Level 3/) | **3** | **1600000000** |
+ | 4 | [Legion Hunt Rewards Level 4](/Legion_Hunt/Legion Hunt Rewards Level 4/) | **4** | **8000000000** |
+ | 5 | [Legion Hunt Rewards Level 5](/Legion_Hunt/Legion Hunt Rewards Level 5/) | **5** | **40000000000** |
+ | 6 | [Legion Hunt Rewards Level 6](/Legion_Hunt/Legion Hunt Rewards Level 6/) | **6** | **160000000000** |
+ | 7 | [Legion Hunt Rewards Level 7](/Legion_Hunt/Legion Hunt Rewards Level 7/) | **7** | **800000000000** |
+ | 8 | [Legion Hunt Rewards Level 8](/Legion_Hunt/Legion Hunt Rewards Level 8/) | **8** | **4000000000000** |
+ | 9 | [Legion Hunt Rewards Level 9](/Legion_Hunt/Legion Hunt Rewards Level 9/) | **9** | **16000000000000** |
+ | 10 | [Legion Hunt Rewards Level 10](/Legion_Hunt/Legion Hunt Rewards Level 10/) | **10** | **80000000000000** |
 
 
 ## Rules
