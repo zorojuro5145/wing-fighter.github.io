@@ -280,6 +280,17 @@ defaults:
       sidebar:
         nav: "docs"
   - scope:
+      path: "Legion_Hunt"
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      comments: true
+      share: true
+      sidebar:
+        nav: "docs"
+  - scope:
       path: "it"
       type: pages
     values:

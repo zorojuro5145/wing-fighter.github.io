@@ -40,6 +40,8 @@ docs:
       url: /legion/
     - title: "Planet Wars"
       url: /Planet_Wars/
+    - title: "Legion Hunt"
+      url: /Legion_Hunt/
       
   - title: "Language"
     children:

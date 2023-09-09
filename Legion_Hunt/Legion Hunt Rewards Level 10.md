@@ -17,23 +17,23 @@ classes: wide
 
   |  Nr | Your Personal Rank | Rewards |
   |:----|:-------------------|:-------------|
- | 1 | **1** | **4800** ![Unknown_79](/images/item/jt_jd_img25_p.png) [Unknown](/item/item_79/) **29000** ![Stars](/images/item/Stars_p.png) [Stars](/item/Stars_2/) |
- | 2 | **2** | **4500** ![Unknown_79](/images/item/jt_jd_img25_p.png) [Unknown](/item/item_79/) **28500** ![Stars](/images/item/Stars_p.png) [Stars](/item/Stars_2/) |
- | 3 | **3** | **4200** ![Unknown_79](/images/item/jt_jd_img25_p.png) [Unknown](/item/item_79/) **28000** ![Stars](/images/item/Stars_p.png) [Stars](/item/Stars_2/) |
- | 4 | **4** | **3900** ![Unknown_79](/images/item/jt_jd_img25_p.png) [Unknown](/item/item_79/) **27500** ![Stars](/images/item/Stars_p.png) [Stars](/item/Stars_2/) |
- | 5 | **5** | **3600** ![Unknown_79](/images/item/jt_jd_img25_p.png) [Unknown](/item/item_79/) **27000** ![Stars](/images/item/Stars_p.png) [Stars](/item/Stars_2/) |
- | 6 | **6** | **3300** ![Unknown_79](/images/item/jt_jd_img25_p.png) [Unknown](/item/item_79/) **26500** ![Stars](/images/item/Stars_p.png) [Stars](/item/Stars_2/) |
- | 7 | **7** | **3000** ![Unknown_79](/images/item/jt_jd_img25_p.png) [Unknown](/item/item_79/) **26000** ![Stars](/images/item/Stars_p.png) [Stars](/item/Stars_2/) |
- | 8 | **8** | **2700** ![Unknown_79](/images/item/jt_jd_img25_p.png) [Unknown](/item/item_79/) **25500** ![Stars](/images/item/Stars_p.png) [Stars](/item/Stars_2/) |
- | 9 | **9** | **2400** ![Unknown_79](/images/item/jt_jd_img25_p.png) [Unknown](/item/item_79/) **25000** ![Stars](/images/item/Stars_p.png) [Stars](/item/Stars_2/) |
- | 10 | **10** | **2400** ![Unknown_79](/images/item/jt_jd_img25_p.png) [Unknown](/item/item_79/) **24500** ![Stars](/images/item/Stars_p.png) [Stars](/item/Stars_2/) |
- | 11 | **11** | **2400** ![Unknown_79](/images/item/jt_jd_img25_p.png) [Unknown](/item/item_79/) **24000** ![Stars](/images/item/Stars_p.png) [Stars](/item/Stars_2/) |
- | 12 | **12** | **2400** ![Unknown_79](/images/item/jt_jd_img25_p.png) [Unknown](/item/item_79/) **23500** ![Stars](/images/item/Stars_p.png) [Stars](/item/Stars_2/) |
- | 13 | **13** | **2400** ![Unknown_79](/images/item/jt_jd_img25_p.png) [Unknown](/item/item_79/) **23000** ![Stars](/images/item/Stars_p.png) [Stars](/item/Stars_2/) |
- | 14 | **14** | **2400** ![Unknown_79](/images/item/jt_jd_img25_p.png) [Unknown](/item/item_79/) **22500** ![Stars](/images/item/Stars_p.png) [Stars](/item/Stars_2/) |
- | 15 | **15** | **2400** ![Unknown_79](/images/item/jt_jd_img25_p.png) [Unknown](/item/item_79/) **22000** ![Stars](/images/item/Stars_p.png) [Stars](/item/Stars_2/) |
- | 16 | **16** | **2400** ![Unknown_79](/images/item/jt_jd_img25_p.png) [Unknown](/item/item_79/) **21500** ![Stars](/images/item/Stars_p.png) [Stars](/item/Stars_2/) |
- | 17 | **17** | **2400** ![Unknown_79](/images/item/jt_jd_img25_p.png) [Unknown](/item/item_79/) **21000** ![Stars](/images/item/Stars_p.png) [Stars](/item/Stars_2/) |
- | 18 | **18** | **2400** ![Unknown_79](/images/item/jt_jd_img25_p.png) [Unknown](/item/item_79/) **20500** ![Stars](/images/item/Stars_p.png) [Stars](/item/Stars_2/) |
- | 19 | **19** | **2400** ![Unknown_79](/images/item/jt_jd_img25_p.png) [Unknown](/item/item_79/) **20000** ![Stars](/images/item/Stars_p.png) [Stars](/item/Stars_2/) |
- | 20 | **20** | **2400** ![Unknown_79](/images/item/jt_jd_img25_p.png) [Unknown](/item/item_79/) **19500** ![Stars](/images/item/Stars_p.png) [Stars](/item/Stars_2/) |
+ | 1 | **1** | **4800** ![Unknown_79](/images/item/jt_jd_img25_p.png),  **29000** ![Stars](/images/item/Stars_p.png) |
+ | 2 | **2** | **4500** ![Unknown_79](/images/item/jt_jd_img25_p.png),  **28500** ![Stars](/images/item/Stars_p.png) |
+ | 3 | **3** | **4200** ![Unknown_79](/images/item/jt_jd_img25_p.png),  **28000** ![Stars](/images/item/Stars_p.png) |
+ | 4 | **4** | **3900** ![Unknown_79](/images/item/jt_jd_img25_p.png),  **27500** ![Stars](/images/item/Stars_p.png) |
+ | 5 | **5** | **3600** ![Unknown_79](/images/item/jt_jd_img25_p.png),  **27000** ![Stars](/images/item/Stars_p.png) |
+ | 6 | **6** | **3300** ![Unknown_79](/images/item/jt_jd_img25_p.png),  **26500** ![Stars](/images/item/Stars_p.png) |
+ | 7 | **7** | **3000** ![Unknown_79](/images/item/jt_jd_img25_p.png),  **26000** ![Stars](/images/item/Stars_p.png) |
+ | 8 | **8** | **2700** ![Unknown_79](/images/item/jt_jd_img25_p.png),  **25500** ![Stars](/images/item/Stars_p.png) |
+ | 9 | **9** | **2400** ![Unknown_79](/images/item/jt_jd_img25_p.png),  **25000** ![Stars](/images/item/Stars_p.png) |
+ | 10 | **10** | **2400** ![Unknown_79](/images/item/jt_jd_img25_p.png),  **24500** ![Stars](/images/item/Stars_p.png) |
+ | 11 | **11** | **2400** ![Unknown_79](/images/item/jt_jd_img25_p.png),  **24000** ![Stars](/images/item/Stars_p.png) |
+ | 12 | **12** | **2400** ![Unknown_79](/images/item/jt_jd_img25_p.png),  **23500** ![Stars](/images/item/Stars_p.png) |
+ | 13 | **13** | **2400** ![Unknown_79](/images/item/jt_jd_img25_p.png),  **23000** ![Stars](/images/item/Stars_p.png) |
+ | 14 | **14** | **2400** ![Unknown_79](/images/item/jt_jd_img25_p.png),  **22500** ![Stars](/images/item/Stars_p.png) |
+ | 15 | **15** | **2400** ![Unknown_79](/images/item/jt_jd_img25_p.png),  **22000** ![Stars](/images/item/Stars_p.png) |
+ | 16 | **16** | **2400** ![Unknown_79](/images/item/jt_jd_img25_p.png),  **21500** ![Stars](/images/item/Stars_p.png) |
+ | 17 | **17** | **2400** ![Unknown_79](/images/item/jt_jd_img25_p.png),  **21000** ![Stars](/images/item/Stars_p.png) |
+ | 18 | **18** | **2400** ![Unknown_79](/images/item/jt_jd_img25_p.png),  **20500** ![Stars](/images/item/Stars_p.png) |
+ | 19 | **19** | **2400** ![Unknown_79](/images/item/jt_jd_img25_p.png),  **20000** ![Stars](/images/item/Stars_p.png) |
+ | 20 | **20** | **2400** ![Unknown_79](/images/item/jt_jd_img25_p.png),  **19500** ![Stars](/images/item/Stars_p.png) |

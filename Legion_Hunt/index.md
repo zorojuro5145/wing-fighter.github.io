@@ -23,13 +23,13 @@ classes: wide
 
   |  Nr | Boss Name | Day of the week | Free attemps | Buy attemps | Price to buy attemp | Consume |
   |:----|:----------|:-------------|:-------------:|:----------------|:------------|:--------|
- | 1 | **Icarus** | Mon | 3 | **2** | **50x**![Diamonds](/images/item/Diamonds_p.png)[Diamonds](/item/Diamonds_15/) | **10x**![Unknown_3](/images/item/Settlement_Energy_p.png)[Unknown](/item/item_3/) |
- | 2 | **Anansi** | Tue | 3 | **2** | **50x**![Diamonds](/images/item/Diamonds_p.png)[Diamonds](/item/Diamonds_15/) | **10x**![Unknown_3](/images/item/Settlement_Energy_p.png)[Unknown](/item/item_3/) |
- | 3 | **Hydra** | Wed | 3 | **2** | **50x**![Diamonds](/images/item/Diamonds_p.png)[Diamonds](/item/Diamonds_15/) | **10x**![Unknown_3](/images/item/Settlement_Energy_p.png)[Unknown](/item/item_3/) |
- | 4 | **Pegasus** | Thu | 3 | **2** | **50x**![Diamonds](/images/item/Diamonds_p.png)[Diamonds](/item/Diamonds_15/) | **10x**![Unknown_3](/images/item/Settlement_Energy_p.png)[Unknown](/item/item_3/) |
- | 5 | **Charon** | Fri | 3 | **2** | **50x**![Diamonds](/images/item/Diamonds_p.png)[Diamonds](/item/Diamonds_15/) | **10x**![Unknown_3](/images/item/Settlement_Energy_p.png)[Unknown](/item/item_3/) |
- | 6 | **Jormungand** | Sat | 3 | **2** | **50x**![Diamonds](/images/item/Diamonds_p.png)[Diamonds](/item/Diamonds_15/) | **10x**![Unknown_3](/images/item/Settlement_Energy_p.png)[Unknown](/item/item_3/) |
- | 7 | **Chimera** | Sun | 3 | **2** | **50x**![Diamonds](/images/item/Diamonds_p.png)[Diamonds](/item/Diamonds_15/) | **10x**![Unknown_3](/images/item/Settlement_Energy_p.png)[Unknown](/item/item_3/) |
+ | 1 | **Icarus** | Mon | 3 | **2** | **50x**![Diamonds](/images/item/Diamonds_p.png) | **10x**![Unknown_3](/images/item/Settlement_Energy_p.png) |
+ | 2 | **Anansi** | Tue | 3 | **2** | **50x**![Diamonds](/images/item/Diamonds_p.png) | **10x**![Unknown_3](/images/item/Settlement_Energy_p.png) |
+ | 3 | **Hydra** | Wed | 3 | **2** | **50x**![Diamonds](/images/item/Diamonds_p.png) | **10x**![Unknown_3](/images/item/Settlement_Energy_p.png) |
+ | 4 | **Pegasus** | Thu | 3 | **2** | **50x**![Diamonds](/images/item/Diamonds_p.png) | **10x**![Unknown_3](/images/item/Settlement_Energy_p.png) |
+ | 5 | **Charon** | Fri | 3 | **2** | **50x**![Diamonds](/images/item/Diamonds_p.png) | **10x**![Unknown_3](/images/item/Settlement_Energy_p.png) |
+ | 6 | **Jormungand** | Sat | 3 | **2** | **50x**![Diamonds](/images/item/Diamonds_p.png) | **10x**![Unknown_3](/images/item/Settlement_Energy_p.png) |
+ | 7 | **Chimera** | Sun | 3 | **2** | **50x**![Diamonds](/images/item/Diamonds_p.png) | **10x**![Unknown_3](/images/item/Settlement_Energy_p.png) |
 
 
 ## Rules
