@@ -17,6 +17,10 @@ classes: wide
 
  **Total Damage to Reach this level**: **800000000000**
 
+
+
+## Legion Hunt Rewards by your personal position in Guild Hunt:
+
   |  Nr | Your Personal Rank | Rewards |
   |:----|:-------------------|:-------------|
  | 1 | **1** | **3040** ![Unknown_79](/images/item/jt_jd_img25_p.png),  **26000** ![Stars](/images/item/Stars_p.png) |
