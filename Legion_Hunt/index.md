@@ -34,18 +34,18 @@ classes: wide
 
 ## Legion Hunt Levels by Guild Damage:
 
-  |  Nr | Link to Rewards | Level | Total Damage to reach level |
+  |  Nr | Link to Rewards | Level |  Damage to reach next level |
   |:----|:----------------|:------|:----------------------------|
  | 1 | [Legion Hunt Rewards Level 1](/Legion_Hunt/Legion Hunt Rewards Level 1/) | **1** | **100000000** |
- | 2 | [Legion Hunt Rewards Level 2](/Legion_Hunt/Legion Hunt Rewards Level 2/) | **2** | **400000000** |
- | 3 | [Legion Hunt Rewards Level 3](/Legion_Hunt/Legion Hunt Rewards Level 3/) | **3** | **1600000000** |
- | 4 | [Legion Hunt Rewards Level 4](/Legion_Hunt/Legion Hunt Rewards Level 4/) | **4** | **8000000000** |
- | 5 | [Legion Hunt Rewards Level 5](/Legion_Hunt/Legion Hunt Rewards Level 5/) | **5** | **40000000000** |
- | 6 | [Legion Hunt Rewards Level 6](/Legion_Hunt/Legion Hunt Rewards Level 6/) | **6** | **160000000000** |
- | 7 | [Legion Hunt Rewards Level 7](/Legion_Hunt/Legion Hunt Rewards Level 7/) | **7** | **800000000000** |
- | 8 | [Legion Hunt Rewards Level 8](/Legion_Hunt/Legion Hunt Rewards Level 8/) | **8** | **4000000000000** |
- | 9 | [Legion Hunt Rewards Level 9](/Legion_Hunt/Legion Hunt Rewards Level 9/) | **9** | **16000000000000** |
- | 10 | [Legion Hunt Rewards Level 10](/Legion_Hunt/Legion Hunt Rewards Level 10/) | **10** | **80000000000000** |
+ | 2 | [Legion Hunt Rewards Level 2](/Legion_Hunt/Legion Hunt Rewards Level 2/) | **2** | **300000000** |
+ | 3 | [Legion Hunt Rewards Level 3](/Legion_Hunt/Legion Hunt Rewards Level 3/) | **3** | **1200000000** |
+ | 4 | [Legion Hunt Rewards Level 4](/Legion_Hunt/Legion Hunt Rewards Level 4/) | **4** | **6400000000** |
+ | 5 | [Legion Hunt Rewards Level 5](/Legion_Hunt/Legion Hunt Rewards Level 5/) | **5** | **32000000000** |
+ | 6 | [Legion Hunt Rewards Level 6](/Legion_Hunt/Legion Hunt Rewards Level 6/) | **6** | **120000000000** |
+ | 7 | [Legion Hunt Rewards Level 7](/Legion_Hunt/Legion Hunt Rewards Level 7/) | **7** | **640000000000** |
+ | 8 | [Legion Hunt Rewards Level 8](/Legion_Hunt/Legion Hunt Rewards Level 8/) | **8** | **3200000000000** |
+ | 9 | [Legion Hunt Rewards Level 9](/Legion_Hunt/Legion Hunt Rewards Level 9/) | **9** | **12000000000000** |
+ | 10 | [Legion Hunt Rewards Level 10](/Legion_Hunt/Legion Hunt Rewards Level 10/) | **10** | **64000000000000** |
 
 
 ## Rules
