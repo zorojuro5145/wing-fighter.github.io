@@ -2,7 +2,7 @@
 title: "Planet Wars Gold"
 permalink: /Planet_Wars/Planet Wars Gold/
 excerpt: "Wing Fighter Planet WarsGold"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-09-10
 locale: en
 ref: "Planet Wars Gold.md"
 toc: false
@@ -32,9 +32,9 @@ classes: wide
 
   |  Place | Icon | Player Ranking Rewards |
   |:-------|:----:|:----------------|
-  | **1** | ![Rank 1 to 1](/images/planet_wars/rank_1_p.png) | **40000x**![Stars](/images/item/Stars_p.png), **104x**![Badge](/images/item/Badge_p.png) |
-  | **2** | ![Rank 2 to 2](/images/planet_wars/rank_2_p.png) | **30000x**![Stars](/images/item/Stars_p.png), **80x**![Badge](/images/item/Badge_p.png) |
-  | **3** | ![Rank 3 to 3](/images/planet_wars/rank_3_p.png) | **20000x**![Stars](/images/item/Stars_p.png), **50x**![Badge](/images/item/Badge_p.png) |
+  | ![Place 1](/images/place_1_p.png) | ![Rank 1 to 1](/images/planet_wars/rank_1_p.png) | **40000x**![Stars](/images/item/Stars_p.png), **104x**![Badge](/images/item/Badge_p.png) |
+  | ![Place 2](/images/place_2_p.png) | ![Rank 2 to 2](/images/planet_wars/rank_2_p.png) | **30000x**![Stars](/images/item/Stars_p.png), **80x**![Badge](/images/item/Badge_p.png) |
+  | ![Place 3](/images/place_3_p.png) | ![Rank 3 to 3](/images/planet_wars/rank_3_p.png) | **20000x**![Stars](/images/item/Stars_p.png), **50x**![Badge](/images/item/Badge_p.png) |
   | 4 - 10 | ![Rank 4 to 10](/images/planet_wars/rank_4_p.png) | **16000x**![Stars](/images/item/Stars_p.png), **40x**![Badge](/images/item/Badge_p.png) |
   | 11 - 20 | ![Rank 11 to 20](/images/planet_wars/rank_5_p.png) | **12000x**![Stars](/images/item/Stars_p.png), **30x**![Badge](/images/item/Badge_p.png) |
   | 21 - 200 | ![Rank 21 to 200](/images/planet_wars/rank_6_p.png) | **8000x**![Stars](/images/item/Stars_p.png), **26x**![Badge](/images/item/Badge_p.png) |
@@ -44,9 +44,9 @@ classes: wide
 
   |  Place | Icon | Legion Ranking Rewards |
   |:-------|:----:|:----------------|
-  | **1** | ![Rank 1 to 1](/images/planet_wars/rank_1_p.png) | **24000x**![Stars](/images/item/Stars_p.png), **9000x**![Unknown_78](/images/item/xqdz_icon6_p.png), **1800x**![Basic Training Guide](/images/item/Basic_Training_Guide_p.png) |
-  | **2** | ![Rank 2 to 2](/images/planet_wars/rank_2_p.png) | **21000x**![Stars](/images/item/Stars_p.png), **8400x**![Unknown_78](/images/item/xqdz_icon6_p.png), **1500x**![Basic Training Guide](/images/item/Basic_Training_Guide_p.png) |
-  | **3** | ![Rank 3 to 3](/images/planet_wars/rank_3_p.png) | **19800x**![Stars](/images/item/Stars_p.png), **8100x**![Unknown_78](/images/item/xqdz_icon6_p.png), **1200x**![Basic Training Guide](/images/item/Basic_Training_Guide_p.png) |
+  | ![Place 1](/images/place_1_p.png) | ![Rank 1 to 1](/images/planet_wars/rank_1_p.png) | **24000x**![Stars](/images/item/Stars_p.png), **9000x**![Unknown_78](/images/item/xqdz_icon6_p.png), **1800x**![Basic Training Guide](/images/item/Basic_Training_Guide_p.png) |
+  | ![Place 2](/images/place_2_p.png) | ![Rank 2 to 2](/images/planet_wars/rank_2_p.png) | **21000x**![Stars](/images/item/Stars_p.png), **8400x**![Unknown_78](/images/item/xqdz_icon6_p.png), **1500x**![Basic Training Guide](/images/item/Basic_Training_Guide_p.png) |
+  | ![Place 3](/images/place_3_p.png) | ![Rank 3 to 3](/images/planet_wars/rank_3_p.png) | **19800x**![Stars](/images/item/Stars_p.png), **8100x**![Unknown_78](/images/item/xqdz_icon6_p.png), **1200x**![Basic Training Guide](/images/item/Basic_Training_Guide_p.png) |
   | **4** | ![Rank 4 to 4](/images/planet_wars/rank_4_p.png) | **19200x**![Stars](/images/item/Stars_p.png), **7800x**![Unknown_78](/images/item/xqdz_icon6_p.png), **600x**![Basic Training Guide](/images/item/Basic_Training_Guide_p.png) |
   | **5** | ![Rank 5 to 5](/images/planet_wars/rank_5_p.png) | **18600x**![Stars](/images/item/Stars_p.png), **7650x**![Unknown_78](/images/item/xqdz_icon6_p.png), **550x**![Basic Training Guide](/images/item/Basic_Training_Guide_p.png) |
   | **6** | ![Rank 6 to 6](/images/planet_wars/rank_6_p.png) | **18000x**![Stars](/images/item/Stars_p.png), **7500x**![Unknown_78](/images/item/xqdz_icon6_p.png), **460x**![Basic Training Guide](/images/item/Basic_Training_Guide_p.png) |

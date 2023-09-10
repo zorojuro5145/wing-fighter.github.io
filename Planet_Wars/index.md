@@ -2,7 +2,7 @@
 title: "Planet Wars"
 permalink: /Planet_Wars/
 excerpt: "Wing Fighter Planet Wars"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-09-10
 locale: en
 ref: "index.md"
 toc: false
