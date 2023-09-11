@@ -14,7 +14,7 @@ classes: wide
 
 ## Details
 
-  **Type:** ![Physical](/images/common_sx_icon9.png)
+  **BOSS Type:** ![Physical](/images/common_sx_icon9.png) Physical
 
-  **Attack Type:** ![Physical](/images/common_sx_icon9.png)
+  **Attack Type:** ![Physical](/images/common_sx_icon9.png) Physical
 
