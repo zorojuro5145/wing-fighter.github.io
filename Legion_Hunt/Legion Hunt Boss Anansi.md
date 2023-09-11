@@ -18,3 +18,7 @@ classes: wide
 
   **Attack Type:** ![Physical](/images/common_sx_icon9.png) Physical
 
+  **Attack: 2000**
+
+  **Time Limit: 60** seconds
+
