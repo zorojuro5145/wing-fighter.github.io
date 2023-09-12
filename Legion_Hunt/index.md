@@ -25,11 +25,11 @@ classes: wide
   |:----|:----------|:-------------:|:-------------:|:----------------|:------------|:--------|
  | 1 | [Legion Hunt Boss Icarus](/Legion_Hunt/Legion Hunt Boss Icarus/) | **Sunday** | 3 | **2** | **50x**![Diamonds](/images/item/Diamonds_p.png) | **10x**![Unknown_3](/images/item/Settlement_Energy_p.png) |
  | 2 | [Legion Hunt Boss Anansi](/Legion_Hunt/Legion Hunt Boss Anansi/) | **Monday** | 3 | **2** | **50x**![Diamonds](/images/item/Diamonds_p.png) | **10x**![Unknown_3](/images/item/Settlement_Energy_p.png) |
- | 3 | **Hydra** | **Tuesday** | 3 | **2** | **50x**![Diamonds](/images/item/Diamonds_p.png) | **10x**![Unknown_3](/images/item/Settlement_Energy_p.png) |
- | 4 | **Pegasus** | **Wednesday** | 3 | **2** | **50x**![Diamonds](/images/item/Diamonds_p.png) | **10x**![Unknown_3](/images/item/Settlement_Energy_p.png) |
- | 5 | **Charon** | **Thursday** | 3 | **2** | **50x**![Diamonds](/images/item/Diamonds_p.png) | **10x**![Unknown_3](/images/item/Settlement_Energy_p.png) |
- | 6 | **Jormungand** | **Friday** | 3 | **2** | **50x**![Diamonds](/images/item/Diamonds_p.png) | **10x**![Unknown_3](/images/item/Settlement_Energy_p.png) |
- | 7 | **Chimera** | **Saturday** | 3 | **2** | **50x**![Diamonds](/images/item/Diamonds_p.png) | **10x**![Unknown_3](/images/item/Settlement_Energy_p.png) |
+ | 3 | [Legion Hunt Boss Hydra](/Legion_Hunt/Legion Hunt Boss Hydra/) | **Tuesday** | 3 | **2** | **50x**![Diamonds](/images/item/Diamonds_p.png) | **10x**![Unknown_3](/images/item/Settlement_Energy_p.png) |
+ | 4 | [Legion Hunt Boss Pegasus](/Legion_Hunt/Legion Hunt Boss Pegasus/) | **Wednesday** | 3 | **2** | **50x**![Diamonds](/images/item/Diamonds_p.png) | **10x**![Unknown_3](/images/item/Settlement_Energy_p.png) |
+ | 5 | [Legion Hunt Boss Charon](/Legion_Hunt/Legion Hunt Boss Charon/) | **Thursday** | 3 | **2** | **50x**![Diamonds](/images/item/Diamonds_p.png) | **10x**![Unknown_3](/images/item/Settlement_Energy_p.png) |
+ | 6 | [Legion Hunt Boss Jormungand](/Legion_Hunt/Legion Hunt Boss Jormungand/) | **Friday** | 3 | **2** | **50x**![Diamonds](/images/item/Diamonds_p.png) | **10x**![Unknown_3](/images/item/Settlement_Energy_p.png) |
+ | 7 | [Legion Hunt Boss Chimera](/Legion_Hunt/Legion Hunt Boss Chimera/) | **Saturday** | 3 | **2** | **50x**![Diamonds](/images/item/Diamonds_p.png) | **10x**![Unknown_3](/images/item/Settlement_Energy_p.png) |
 
 
 ## Legion Hunt Levels by Guild Damage:
