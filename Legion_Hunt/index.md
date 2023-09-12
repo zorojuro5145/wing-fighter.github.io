@@ -23,7 +23,7 @@ classes: wide
 
   |  Nr | Boss Name | Day of the week | Free attemps | Buy attemps | Price to buy attemp | Consume |
   |:----|:----------|:-------------:|:-------------:|:----------------|:------------|:--------|
- | 1 | **Icarus** | **Sunday** | 3 | **2** | **50x**![Diamonds](/images/item/Diamonds_p.png) | **10x**![Unknown_3](/images/item/Settlement_Energy_p.png) |
+ | 1 | [Legion Hunt Boss Icarus](/Legion_Hunt/Legion Hunt Boss Icarus/) | **Sunday** | 3 | **2** | **50x**![Diamonds](/images/item/Diamonds_p.png) | **10x**![Unknown_3](/images/item/Settlement_Energy_p.png) |
  | 2 | [Legion Hunt Boss Anansi](/Legion_Hunt/Legion Hunt Boss Anansi/) | **Monday** | 3 | **2** | **50x**![Diamonds](/images/item/Diamonds_p.png) | **10x**![Unknown_3](/images/item/Settlement_Energy_p.png) |
  | 3 | **Hydra** | **Tuesday** | 3 | **2** | **50x**![Diamonds](/images/item/Diamonds_p.png) | **10x**![Unknown_3](/images/item/Settlement_Energy_p.png) |
  | 4 | **Pegasus** | **Wednesday** | 3 | **2** | **50x**![Diamonds](/images/item/Diamonds_p.png) | **10x**![Unknown_3](/images/item/Settlement_Energy_p.png) |
