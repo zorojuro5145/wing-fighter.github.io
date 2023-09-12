@@ -2,7 +2,7 @@
 title: "Pilot Achilles"
 permalink: /pilots/Achilles/
 excerpt: "Wing Fighter Achilles"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-09-12
 locale: en
 ref: "Achilles.md"
 toc: false
@@ -51,32 +51,32 @@ classes: wide
 
   |  Level |      Upgrade Cost   |  Upgrade Stars  |
   |:-------|:--------------------|:----------------|
-  | **0** -> **1**  | **50x**![Basic Training Guide](/images/item/Basic_Training_Guide_p.png)[Basic Training Guide](/item/Basic Training Guide_90/) | **250x**![Stars](/images/item/Stars_p.png)[Stars](/item/Stars_2/) |
-  | **1** -> **2**  | **100x**![Basic Training Guide](/images/item/Basic_Training_Guide_p.png)[Basic Training Guide](/item/Basic Training Guide_90/) | **550x**![Stars](/images/item/Stars_p.png)[Stars](/item/Stars_2/) |
-  | **2** -> **3**  | **50x**![Standard Training Guide](/images/item/Standard_Training_Guide_p.png)[Standard Training Guide](/item/Standard Training Guide_91/) | **1350x**![Stars](/images/item/Stars_p.png)[Stars](/item/Stars_2/) |
-  | **3** -> **4**  | **100x**![Standard Training Guide](/images/item/Standard_Training_Guide_p.png)[Standard Training Guide](/item/Standard Training Guide_91/) | **2650x**![Stars](/images/item/Stars_p.png)[Stars](/item/Stars_2/) |
-  | **4** -> **5**  | **50x**![Advanced Training Guide](/images/item/Advanced_Training_Guide_p.png)[Advanced Training Guide](/item/Advanced Training Guide_92/) | **6650x**![Stars](/images/item/Stars_p.png)[Stars](/item/Stars_2/) |
-  | **5** -> **6**  | **100x**![Advanced Training Guide](/images/item/Advanced_Training_Guide_p.png)[Advanced Training Guide](/item/Advanced Training Guide_92/) | **13250x**![Stars](/images/item/Stars_p.png)[Stars](/item/Stars_2/) |
-  | **6** -> **7**  | **200x**![Advanced Training Guide](/images/item/Advanced_Training_Guide_p.png)[Advanced Training Guide](/item/Advanced Training Guide_92/) | **26550x**![Stars](/images/item/Stars_p.png)[Stars](/item/Stars_2/) |
-  | **7** -> **8**  | **100x**![Expert Training Guide](/images/item/Expert_Training_Guide_p.png)[Expert Training Guide](/item/Expert Training Guide_93/) | **66350x**![Stars](/images/item/Stars_p.png)[Stars](/item/Stars_2/) |
-  | **8** -> **9**  | **125x**![Expert Training Guide](/images/item/Expert_Training_Guide_p.png)[Expert Training Guide](/item/Expert Training Guide_93/) | **82950x**![Stars](/images/item/Stars_p.png)[Stars](/item/Stars_2/) |
-  | **9** -> **10**  | **150x**![Expert Training Guide](/images/item/Expert_Training_Guide_p.png)[Expert Training Guide](/item/Expert Training Guide_93/) | **99500x**![Stars](/images/item/Stars_p.png)[Stars](/item/Stars_2/) |
+  | **0** -> **1**  | **50x**![Basic Training Guide](/images/item/Basic_Training_Guide_p.png)[Basic Training Guide](/item/Basic Training Guide_90/) | **250x**![Stars](/images/item/Stars_p.png) |
+  | **1** -> **2**  | **100x**![Basic Training Guide](/images/item/Basic_Training_Guide_p.png)[Basic Training Guide](/item/Basic Training Guide_90/) | **550x**![Stars](/images/item/Stars_p.png) |
+  | **2** -> **3**  | **50x**![Standard Training Guide](/images/item/Standard_Training_Guide_p.png)[Standard Training Guide](/item/Standard Training Guide_91/) | **1350x**![Stars](/images/item/Stars_p.png) |
+  | **3** -> **4**  | **100x**![Standard Training Guide](/images/item/Standard_Training_Guide_p.png)[Standard Training Guide](/item/Standard Training Guide_91/) | **2650x**![Stars](/images/item/Stars_p.png) |
+  | **4** -> **5**  | **50x**![Advanced Training Guide](/images/item/Advanced_Training_Guide_p.png)[Advanced Training Guide](/item/Advanced Training Guide_92/) | **6650x**![Stars](/images/item/Stars_p.png) |
+  | **5** -> **6**  | **100x**![Advanced Training Guide](/images/item/Advanced_Training_Guide_p.png)[Advanced Training Guide](/item/Advanced Training Guide_92/) | **13250x**![Stars](/images/item/Stars_p.png) |
+  | **6** -> **7**  | **200x**![Advanced Training Guide](/images/item/Advanced_Training_Guide_p.png)[Advanced Training Guide](/item/Advanced Training Guide_92/) | **26550x**![Stars](/images/item/Stars_p.png) |
+  | **7** -> **8**  | **100x**![Expert Training Guide](/images/item/Expert_Training_Guide_p.png)[Expert Training Guide](/item/Expert Training Guide_93/) | **66350x**![Stars](/images/item/Stars_p.png) |
+  | **8** -> **9**  | **125x**![Expert Training Guide](/images/item/Expert_Training_Guide_p.png)[Expert Training Guide](/item/Expert Training Guide_93/) | **82950x**![Stars](/images/item/Stars_p.png) |
+  | **9** -> **10**  | **150x**![Expert Training Guide](/images/item/Expert_Training_Guide_p.png)[Expert Training Guide](/item/Expert Training Guide_93/) | **99500x**![Stars](/images/item/Stars_p.png) |
 
 
 
 
 ## Evolve
 
-  |  Star level | Stats | Effect Coefficient | Power | Evolve Materials | Awake Costs Shards |
+  |  Star level | Stats | Skill multiplier | Power | Evolve Materials | Awake Costs Shards |
   |:------------|:-----:|:-------------------|:----------------:|:--------------------:|:-------------|
-  | ![Star 0](/images/s0.png)  | Physical Defense Break: +5, Energy Defense: +5  | +0.0%  | -  | -  |  |
-  | ![Star1](/images/s1.png)  | Physical Defense Break: +10, Energy Defense: +10  | +10.0%  | -  | **20x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +15, Energy Defense: +15  | +20.0%  | -  | **40x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +20, Energy Defense: +20  | +30.0%  | -  | **80x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **30x**![Achilles Shard](/images/pilots/Achilles_Shard_p.png)Achilles Shard  |  |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +25, Energy Defense: +25  | +40.0%  | -  | **120x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **60x**![Achilles Shard](/images/pilots/Achilles_Shard_p.png)Achilles Shard  |  |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +30, Energy Defense: +30  | +50.0%  | -  | **200x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **90x**![Achilles Shard](/images/pilots/Achilles_Shard_p.png)Achilles Shard  |  |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +40, Energy Defense: +40  | +70.0%  | -  | **600x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **120x**![Achilles Shard](/images/pilots/Achilles_Shard_p.png)Achilles Shard  |  |
-  | AWAKED  | Physical Defense Break: +50, Energy Defense: +50  | +100.0%  | -  | **900x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  ![N](/images/pilots/N_p.png) x1060 |
+  | ![Star 0](/images/s0.png)  | Physical Defense Break: +5, Energy Defense: +5  | *0.0  | -  | -  |  |
+  | ![Star1](/images/s1.png)  | Physical Defense Break: +10, Energy Defense: +10  | *0.1  | -  | **20x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +15, Energy Defense: +15  | *0.2  | -  | **40x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +20, Energy Defense: +20  | *0.3  | -  | **80x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **30x**![Achilles Shard](/images/pilots/Achilles_Shard_p.png)Achilles Shard  |  |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +25, Energy Defense: +25  | *0.4  | -  | **120x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **60x**![Achilles Shard](/images/pilots/Achilles_Shard_p.png)Achilles Shard  |  |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +30, Energy Defense: +30  | *0.5  | -  | **200x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **90x**![Achilles Shard](/images/pilots/Achilles_Shard_p.png)Achilles Shard  |  |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +40, Energy Defense: +40  | *0.7  | -  | **600x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **120x**![Achilles Shard](/images/pilots/Achilles_Shard_p.png)Achilles Shard  |  |
+  | AWAKED  | Physical Defense Break: +50, Energy Defense: +50  | *1.0  | -  | **900x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  ![N](/images/pilots/N_p.png) x1060 |
 
 
 

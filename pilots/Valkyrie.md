@@ -2,7 +2,7 @@
 title: "Pilot Valkyrie"
 permalink: /pilots/Valkyrie/
 excerpt: "Wing Fighter Valkyrie"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-09-12
 locale: en
 ref: "Valkyrie.md"
 toc: false
@@ -51,32 +51,32 @@ classes: wide
 
   |  Level |      Upgrade Cost   |  Upgrade Stars  |
   |:-------|:--------------------|:----------------|
-  | **0** -> **1**  | **50x**![Basic Training Guide](/images/item/Basic_Training_Guide_p.png)[Basic Training Guide](/item/Basic Training Guide_90/) | **550x**![Stars](/images/item/Stars_p.png)[Stars](/item/Stars_2/) |
-  | **1** -> **2**  | **100x**![Basic Training Guide](/images/item/Basic_Training_Guide_p.png)[Basic Training Guide](/item/Basic Training Guide_90/) | **1050x**![Stars](/images/item/Stars_p.png)[Stars](/item/Stars_2/) |
-  | **2** -> **3**  | **50x**![Standard Training Guide](/images/item/Standard_Training_Guide_p.png)[Standard Training Guide](/item/Standard Training Guide_91/) | **2650x**![Stars](/images/item/Stars_p.png)[Stars](/item/Stars_2/) |
-  | **3** -> **4**  | **100x**![Standard Training Guide](/images/item/Standard_Training_Guide_p.png)[Standard Training Guide](/item/Standard Training Guide_91/) | **5300x**![Stars](/images/item/Stars_p.png)[Stars](/item/Stars_2/) |
-  | **4** -> **5**  | **50x**![Advanced Training Guide](/images/item/Advanced_Training_Guide_p.png)[Advanced Training Guide](/item/Advanced Training Guide_92/) | **13250x**![Stars](/images/item/Stars_p.png)[Stars](/item/Stars_2/) |
-  | **5** -> **6**  | **100x**![Advanced Training Guide](/images/item/Advanced_Training_Guide_p.png)[Advanced Training Guide](/item/Advanced Training Guide_92/) | **26550x**![Stars](/images/item/Stars_p.png)[Stars](/item/Stars_2/) |
-  | **6** -> **7**  | **200x**![Advanced Training Guide](/images/item/Advanced_Training_Guide_p.png)[Advanced Training Guide](/item/Advanced Training Guide_92/) | **53050x**![Stars](/images/item/Stars_p.png)[Stars](/item/Stars_2/) |
-  | **7** -> **8**  | **100x**![Expert Training Guide](/images/item/Expert_Training_Guide_p.png)[Expert Training Guide](/item/Expert Training Guide_93/) | **132700x**![Stars](/images/item/Stars_p.png)[Stars](/item/Stars_2/) |
-  | **8** -> **9**  | **125x**![Expert Training Guide](/images/item/Expert_Training_Guide_p.png)[Expert Training Guide](/item/Expert Training Guide_93/) | **165850x**![Stars](/images/item/Stars_p.png)[Stars](/item/Stars_2/) |
-  | **9** -> **10**  | **150x**![Expert Training Guide](/images/item/Expert_Training_Guide_p.png)[Expert Training Guide](/item/Expert Training Guide_93/) | **199050x**![Stars](/images/item/Stars_p.png)[Stars](/item/Stars_2/) |
+  | **0** -> **1**  | **50x**![Basic Training Guide](/images/item/Basic_Training_Guide_p.png)[Basic Training Guide](/item/Basic Training Guide_90/) | **550x**![Stars](/images/item/Stars_p.png) |
+  | **1** -> **2**  | **100x**![Basic Training Guide](/images/item/Basic_Training_Guide_p.png)[Basic Training Guide](/item/Basic Training Guide_90/) | **1050x**![Stars](/images/item/Stars_p.png) |
+  | **2** -> **3**  | **50x**![Standard Training Guide](/images/item/Standard_Training_Guide_p.png)[Standard Training Guide](/item/Standard Training Guide_91/) | **2650x**![Stars](/images/item/Stars_p.png) |
+  | **3** -> **4**  | **100x**![Standard Training Guide](/images/item/Standard_Training_Guide_p.png)[Standard Training Guide](/item/Standard Training Guide_91/) | **5300x**![Stars](/images/item/Stars_p.png) |
+  | **4** -> **5**  | **50x**![Advanced Training Guide](/images/item/Advanced_Training_Guide_p.png)[Advanced Training Guide](/item/Advanced Training Guide_92/) | **13250x**![Stars](/images/item/Stars_p.png) |
+  | **5** -> **6**  | **100x**![Advanced Training Guide](/images/item/Advanced_Training_Guide_p.png)[Advanced Training Guide](/item/Advanced Training Guide_92/) | **26550x**![Stars](/images/item/Stars_p.png) |
+  | **6** -> **7**  | **200x**![Advanced Training Guide](/images/item/Advanced_Training_Guide_p.png)[Advanced Training Guide](/item/Advanced Training Guide_92/) | **53050x**![Stars](/images/item/Stars_p.png) |
+  | **7** -> **8**  | **100x**![Expert Training Guide](/images/item/Expert_Training_Guide_p.png)[Expert Training Guide](/item/Expert Training Guide_93/) | **132700x**![Stars](/images/item/Stars_p.png) |
+  | **8** -> **9**  | **125x**![Expert Training Guide](/images/item/Expert_Training_Guide_p.png)[Expert Training Guide](/item/Expert Training Guide_93/) | **165850x**![Stars](/images/item/Stars_p.png) |
+  | **9** -> **10**  | **150x**![Expert Training Guide](/images/item/Expert_Training_Guide_p.png)[Expert Training Guide](/item/Expert Training Guide_93/) | **199050x**![Stars](/images/item/Stars_p.png) |
 
 
 
 
 ## Evolve
 
-  |  Star level | Stats | Effect Coefficient | Power | Evolve Materials | Awake Costs Shards |
+  |  Star level | Stats | Skill multiplier | Power | Evolve Materials | Awake Costs Shards |
   |:------------|:-----:|:-------------------|:----------------:|:--------------------:|:-------------|
-  | ![Star 0](/images/s0.png)  | Physical Defense: +8, Energy Defense: +8  | +0.0%  | -  | -  |  |
-  | ![Star1](/images/s1.png)  | Physical Defense: +16, Energy Defense: +16  | +10.0%  | -  | **30x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense: +24, Energy Defense: +24  | +20.0%  | -  | **60x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense: +32, Energy Defense: +32  | +30.0%  | -  | **120x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **45x**![Valkyrie Shard](/images/pilots/Valkyrie_Shard_p.png)Valkyrie Shard  |  |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense: +40, Energy Defense: +40  | +40.0%  | -  | **180x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **90x**![Valkyrie Shard](/images/pilots/Valkyrie_Shard_p.png)Valkyrie Shard  |  ![N](/images/pilots/N_p.png) x100 |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense: +48, Energy Defense: +48  | +50.0%  | -  | **300x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **135x**![Valkyrie Shard](/images/pilots/Valkyrie_Shard_p.png)Valkyrie Shard  |  ![N](/images/pilots/N_p.png) x200 |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense: +60, Energy Defense: +60  | +70.0%  | -  | **900x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **180x**![Valkyrie Shard](/images/pilots/Valkyrie_Shard_p.png)Valkyrie Shard  |  ![N](/images/pilots/N_p.png) x400 |
-  | AWAKED  | Physical Defense: +75, Energy Defense: +75  | +100.0%  | -  | **1350x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  ![R](/images/pilots/R_p.png) x900 ![N](/images/pilots/N_p.png) x800 |
+  | ![Star 0](/images/s0.png)  | Physical Defense: +8, Energy Defense: +8  | *0.0  | -  | -  |  |
+  | ![Star1](/images/s1.png)  | Physical Defense: +16, Energy Defense: +16  | *0.1  | -  | **30x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense: +24, Energy Defense: +24  | *0.2  | -  | **60x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense: +32, Energy Defense: +32  | *0.3  | -  | **120x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **45x**![Valkyrie Shard](/images/pilots/Valkyrie_Shard_p.png)Valkyrie Shard  |  |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense: +40, Energy Defense: +40  | *0.4  | -  | **180x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **90x**![Valkyrie Shard](/images/pilots/Valkyrie_Shard_p.png)Valkyrie Shard  |  ![N](/images/pilots/N_p.png) x100 |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense: +48, Energy Defense: +48  | *0.5  | -  | **300x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **135x**![Valkyrie Shard](/images/pilots/Valkyrie_Shard_p.png)Valkyrie Shard  |  ![N](/images/pilots/N_p.png) x200 |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense: +60, Energy Defense: +60  | *0.7  | -  | **900x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **180x**![Valkyrie Shard](/images/pilots/Valkyrie_Shard_p.png)Valkyrie Shard  |  ![N](/images/pilots/N_p.png) x400 |
+  | AWAKED  | Physical Defense: +75, Energy Defense: +75  | *1.0  | -  | **1350x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  ![R](/images/pilots/R_p.png) x900 ![N](/images/pilots/N_p.png) x800 |
 
 
 

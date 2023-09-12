@@ -2,7 +2,7 @@
 title: "Legion Hunt"
 permalink: /Legion_Hunt/
 excerpt: "Wing Fighter Legion Hunt"
-last_modified_at: 2023-09-11
+last_modified_at: 2023-09-12
 locale: en
 ref: "index.md"
 toc: false
@@ -23,13 +23,13 @@ classes: wide
 
   |  Nr | Boss Name | Day of the week | Free attemps | Buy attemps | Price to buy attemp | Consume |
   |:----|:----------|:-------------:|:-------------:|:----------------|:------------|:--------|
- | 1 | **Icarus** | **Sun** | 3 | **2** | **50x**![Diamonds](/images/item/Diamonds_p.png) | **10x**![Unknown_3](/images/item/Settlement_Energy_p.png) |
- | 2 | [Legion Hunt Boss Anansi](/Legion_Hunt/Legion Hunt Boss Anansi/) | **Mon** | 3 | **2** | **50x**![Diamonds](/images/item/Diamonds_p.png) | **10x**![Unknown_3](/images/item/Settlement_Energy_p.png) |
- | 3 | **Hydra** | **Tue** | 3 | **2** | **50x**![Diamonds](/images/item/Diamonds_p.png) | **10x**![Unknown_3](/images/item/Settlement_Energy_p.png) |
- | 4 | **Pegasus** | **Wed** | 3 | **2** | **50x**![Diamonds](/images/item/Diamonds_p.png) | **10x**![Unknown_3](/images/item/Settlement_Energy_p.png) |
- | 5 | **Charon** | **Thu** | 3 | **2** | **50x**![Diamonds](/images/item/Diamonds_p.png) | **10x**![Unknown_3](/images/item/Settlement_Energy_p.png) |
- | 6 | **Jormungand** | **Fri** | 3 | **2** | **50x**![Diamonds](/images/item/Diamonds_p.png) | **10x**![Unknown_3](/images/item/Settlement_Energy_p.png) |
- | 7 | **Chimera** | **Sat** | 3 | **2** | **50x**![Diamonds](/images/item/Diamonds_p.png) | **10x**![Unknown_3](/images/item/Settlement_Energy_p.png) |
+ | 1 | **Icarus** | **Sunday** | 3 | **2** | **50x**![Diamonds](/images/item/Diamonds_p.png) | **10x**![Unknown_3](/images/item/Settlement_Energy_p.png) |
+ | 2 | [Legion Hunt Boss Anansi](/Legion_Hunt/Legion Hunt Boss Anansi/) | **Monday** | 3 | **2** | **50x**![Diamonds](/images/item/Diamonds_p.png) | **10x**![Unknown_3](/images/item/Settlement_Energy_p.png) |
+ | 3 | **Hydra** | **Tuesday** | 3 | **2** | **50x**![Diamonds](/images/item/Diamonds_p.png) | **10x**![Unknown_3](/images/item/Settlement_Energy_p.png) |
+ | 4 | **Pegasus** | **Wednesday** | 3 | **2** | **50x**![Diamonds](/images/item/Diamonds_p.png) | **10x**![Unknown_3](/images/item/Settlement_Energy_p.png) |
+ | 5 | **Charon** | **Thursday** | 3 | **2** | **50x**![Diamonds](/images/item/Diamonds_p.png) | **10x**![Unknown_3](/images/item/Settlement_Energy_p.png) |
+ | 6 | **Jormungand** | **Friday** | 3 | **2** | **50x**![Diamonds](/images/item/Diamonds_p.png) | **10x**![Unknown_3](/images/item/Settlement_Energy_p.png) |
+ | 7 | **Chimera** | **Saturday** | 3 | **2** | **50x**![Diamonds](/images/item/Diamonds_p.png) | **10x**![Unknown_3](/images/item/Settlement_Energy_p.png) |
 
 
 ## Legion Hunt Levels by Guild Damage:
