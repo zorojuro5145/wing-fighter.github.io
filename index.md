@@ -16,26 +16,16 @@ sidebar:
 
 
 
-{% capture notice-update20230906 %}
+{% capture notice-update20230911 %}
 
-The Wiki Updated to client version **1.7.550**
-
-List of changes:
-1. All fighter bonus for level 60 is now **HP +200** (was +100).
-2. Many changes with Energy/Physical types
-3. Conqueror Transform: Transform into Conqueror Titan and **the attack of all gears increases by 30%** (was "Transform into Conqueror Titan and unleash full firepower upon enemies!")
-4. Thor Transform: Transform into Thor Titan and **the attack of all gears increases by 30%** (was "Transform into Thor Titan and unleash full firepower upon enemies!")
-5. Gem Anti-Air: Fighter Against **aerial enemies (including players)** (was "Fighter Against flying enemies")
-6. Changes in [Planet Wars](/Planet_Wars/) (added 7, 8 and 9 points)
-7. Introduced new 11 chests (not yet released). Save money ;)
-
-Added the [Upgrade Costs for Talents](https://wing-fighter.github.io/talent/#talent-level-up-conditions) 
+The Wiki got information about [Legion Hunt](https://wing-fighter.github.io/Legion_Hunt/). Example, for [Boss Anansi](https://wing-fighter.github.io/Legion_Hunt/Legion%20Hunt%20Boss%20Anansi/).
+Special Thanks to **Tom**!
 
 {% endcapture %}
 
 <div class="notice--danger">
-  <h4 class="no_toc">6 September 2023 Wiki Update: Wiki updated to latest version 1.7.550</h4>
-  {{ notice-update20230906 | markdownify }}
+  <h4 class="no_toc">11 September 2023 Wiki Update: Added Legion Hunt, Bosses</h4>
+  {{ notice-update20230911 | markdownify }}
 </div>
 
 
@@ -58,6 +48,7 @@ You will find here:
 <h1> <img src="/images/suit_icon_1_p.png" alt="Gear Sets" width="28" height="32"/><a href="/gear_set/" hreflang="en">Gear Sets</a> </h1>
 <h1> <img src="/images/shop.png" alt="Shop" width="31" height="23"/><a href="/shop/" hreflang="en">Shop</a> </h1>
 <h1> <img src="/images/planet_wars/Legend_p.png" alt="Planet Wars" width="32" height="20"/><a href="/Planet_Wars/" hreflang="en">Planet Wars</a> </h1>
+<h1> <img src="/images/legion_hunt_p.png" alt="Planet Wars" width="32" height="29"/><a href="/Legion_Hunt/" hreflang="en">Legion Hunt</a> </h1>
 
 <h1> <img src="/images/img_2.png" alt="Gear Set Chest" width="34" height="28"/><a href="/shop/Gear%20Set%20Chest_29/" hreflang="en">Gear Set Chest</a> </h1>
 <h1> <img src="/images/mixed_box_2.png" alt="Super Chest" width="34" height="26"/><a href="/shop/Super%20Chest_21/" hreflang="en">Super Chest</a> </h1>
@@ -85,6 +76,29 @@ The Wing Fighter - the perfect game for nostalgic arcade lovers! Extra informati
 
 * Take Flight Again in Wing Fighter, a Modern Classic Arcade Shooter
 
+
+
+{% capture notice-update20230906 %}
+
+The Wiki Updated to client version **1.7.550**
+
+List of changes:
+1. All fighter bonus for level 60 is now **HP +200** (was +100).
+2. Many changes with Energy/Physical types
+3. Conqueror Transform: Transform into Conqueror Titan and **the attack of all gears increases by 30%** (was "Transform into Conqueror Titan and unleash full firepower upon enemies!")
+4. Thor Transform: Transform into Thor Titan and **the attack of all gears increases by 30%** (was "Transform into Thor Titan and unleash full firepower upon enemies!")
+5. Gem Anti-Air: Fighter Against **aerial enemies (including players)** (was "Fighter Against flying enemies")
+6. Changes in [Planet Wars](/Planet_Wars/) (added 7, 8 and 9 points)
+7. Introduced new 11 chests (not yet released). Save money ;)
+
+Added the [Upgrade Costs for Talents](https://wing-fighter.github.io/talent/#talent-level-up-conditions) 
+
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">6 September 2023 Wiki Update: Wiki updated to latest version 1.7.550</h4>
+  {{ notice-update20230906 | markdownify }}
+</div>
 
 
 {% capture notice-update20230831 %}
