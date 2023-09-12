@@ -2,7 +2,7 @@
 title: "Equipment SSR Armor"
 permalink: /equipment/Equipment SSR Armor/
 excerpt: "Wing Fighter Equipment SSR Armor"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-09-12
 locale: en
 ref: "Equipment SSR Armor.md"
 toc: false

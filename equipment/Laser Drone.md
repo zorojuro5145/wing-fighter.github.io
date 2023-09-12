@@ -2,7 +2,7 @@
 title: "Equipment Laser Drone"
 permalink: /equipment/Laser Drone/
 excerpt: "Wing Fighter Equipment Laser Drone"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-09-12
 locale: en
 ref: "Laser Drone.md"
 toc: false
@@ -25,7 +25,7 @@ classes: wide
 
  **Description:** Laser can shoot through enemies 
 
- **Attack type:** ![Physical](/images/common_sx_icon9.png) 
+ **Attack type:** ![Physical](/images/common_sx_icon9.png) Physical 
 
  **Group:** Drone 
 

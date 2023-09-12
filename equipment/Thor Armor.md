@@ -2,7 +2,7 @@
 title: "Equipment Thor Armor"
 permalink: /equipment/Thor Armor/
 excerpt: "Wing Fighter Equipment Thor Armor"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-09-12
 locale: en
 ref: "Thor Armor.md"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
 
  **Gear Set:** [Gear Set Thor](/gear_set/Thor){: .btn .btn--info}
 
- **Attack type:** ![Energy](/images/common_sx_icon8.png) 
+ **Attack type:** ![Energy](/images/common_sx_icon8.png) Energy 
 
  **Group:** SSR Armor 
 

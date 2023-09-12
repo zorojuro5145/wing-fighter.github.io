@@ -2,7 +2,7 @@
 title: "Equipment Blazing Winggun"
 permalink: /equipment/Blazing Winggun/
 excerpt: "Wing Fighter Equipment Blazing Winggun"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-09-12
 locale: en
 ref: "Blazing Winggun.md"
 toc: false
@@ -25,7 +25,7 @@ classes: wide
 
  **Description:** Deal continuous burning damage to the target 
 
- **Attack type:** ![Energy](/images/common_sx_icon8.png) 
+ **Attack type:** ![Energy](/images/common_sx_icon8.png) Energy 
 
  **Group:** Winggun 
 

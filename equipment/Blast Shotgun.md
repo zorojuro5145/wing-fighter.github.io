@@ -2,7 +2,7 @@
 title: "Equipment Blast Shotgun"
 permalink: /equipment/Blast Shotgun/
 excerpt: "Wing Fighter Equipment Blast Shotgun"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-09-12
 locale: en
 ref: "Blast Shotgun.md"
 toc: false
@@ -25,7 +25,7 @@ classes: wide
 
  **Description:** Increase damage against closer targets 
 
- **Attack type:** ![Physical](/images/common_sx_icon9.png) 
+ **Attack type:** ![Physical](/images/common_sx_icon9.png) Physical 
 
  **Group:** Gun 
 

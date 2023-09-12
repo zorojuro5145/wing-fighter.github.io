@@ -2,7 +2,7 @@
 title: "Equipment HP Restore Armor"
 permalink: /equipment/HP Restore Armor/
 excerpt: "Wing Fighter Equipment HP Restore Armor"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-09-12
 locale: en
 ref: "HP Restore Armor.md"
 toc: false
@@ -25,7 +25,7 @@ classes: wide
 
  **Description:** Recovery effect of Red Heart +20% 
 
- **Attack type:** ![Energy](/images/common_sx_icon8.png) 
+ **Attack type:** ![Energy](/images/common_sx_icon8.png) Energy 
 
  **Group:** Armor 
 

@@ -2,7 +2,7 @@
 title: "Fighter Phantom"
 permalink: /fighter/Phantom/
 excerpt: "Wing Fighter Phantom"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-09-12
 locale: en
 ref: "Phantom.md"
 toc: false
@@ -16,7 +16,7 @@ classes: wide
 
  **Rarity:** SSR 
 
- **Attack type:** ![Physical](/images/common_sx_icon9.png) 
+ **Attack type:** ![Physical](/images/common_sx_icon9.png) Physical 
 
  **Attack:** +250
 

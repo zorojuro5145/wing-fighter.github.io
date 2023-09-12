@@ -2,7 +2,7 @@
 title: "Equipment Forcefield Armor"
 permalink: /equipment/Forcefield Armor/
 excerpt: "Wing Fighter Equipment Forcefield Armor"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-09-12
 locale: en
 ref: "Forcefield Armor.md"
 toc: false
@@ -25,7 +25,7 @@ classes: wide
 
  **Description:** Chance to dodge enemies attack 
 
- **Attack type:** ![Physical](/images/common_sx_icon9.png) 
+ **Attack type:** ![Physical](/images/common_sx_icon9.png) Physical 
 
  **Group:** Armor 
 

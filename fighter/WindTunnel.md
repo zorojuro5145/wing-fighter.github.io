@@ -2,7 +2,7 @@
 title: "Fighter WindTunnel"
 permalink: /fighter/WindTunnel/
 excerpt: "Wing Fighter WindTunnel"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-09-12
 locale: en
 ref: "WindTunnel.md"
 toc: false
@@ -16,7 +16,7 @@ classes: wide
 
  **Rarity:** SR 
 
- **Attack type:** ![Energy](/images/common_sx_icon8.png) 
+ **Attack type:** ![Energy](/images/common_sx_icon8.png) Energy 
 
  **Attack:** +150
 

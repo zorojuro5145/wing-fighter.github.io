@@ -2,7 +2,7 @@
 title: "Fighter Red Phantom"
 permalink: /fighter/Red Phantom/
 excerpt: "Wing Fighter Red Phantom"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-09-12
 locale: en
 ref: "Red Phantom.md"
 toc: false
@@ -16,7 +16,7 @@ classes: wide
 
  **Rarity:** N 
 
- **Attack type:** ![Physical](/images/common_sx_icon9.png) 
+ **Attack type:** ![Physical](/images/common_sx_icon9.png) Physical 
 
  **Attack:** +100
 

@@ -2,7 +2,7 @@
 title: "Equipment Ultimate - Ultimate Bomb"
 permalink: /equipment/Ultimate - Ultimate Bomb/
 excerpt: "Wing Fighter Equipment Ultimate - Ultimate Bomb"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-09-12
 locale: en
 ref: "Ultimate - Ultimate Bomb.md"
 toc: false
@@ -25,7 +25,7 @@ classes: wide
 
  **Description:** Can be released in battle. Deal massive damage to surrounding enemies, and clear the barrage around 
 
- **Attack type:** ![Physical](/images/common_sx_icon9.png) 
+ **Attack type:** ![Physical](/images/common_sx_icon9.png) Physical 
 
  **Group:** Ultimate 
 

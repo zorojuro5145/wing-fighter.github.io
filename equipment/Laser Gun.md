@@ -2,7 +2,7 @@
 title: "Equipment Laser Gun"
 permalink: /equipment/Laser Gun/
 excerpt: "Wing Fighter Equipment Laser Gun"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-09-12
 locale: en
 ref: "Laser Gun.md"
 toc: false
@@ -25,7 +25,7 @@ classes: wide
 
  **Description:** Focused damage straight ahead 
 
- **Attack type:** ![Energy](/images/common_sx_icon8.png) 
+ **Attack type:** ![Energy](/images/common_sx_icon8.png) Energy 
 
  **Group:** Gun 
 

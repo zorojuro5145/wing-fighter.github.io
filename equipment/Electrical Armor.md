@@ -2,7 +2,7 @@
 title: "Equipment Electrical Armor"
 permalink: /equipment/Electrical Armor/
 excerpt: "Wing Fighter Equipment Electrical Armor"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-09-12
 locale: en
 ref: "Electrical Armor.md"
 toc: false
@@ -25,7 +25,7 @@ classes: wide
 
  **Description:** Deal lightning damage to up to 5 nearby enemies 
 
- **Attack type:** ![Energy](/images/common_sx_icon8.png) 
+ **Attack type:** ![Energy](/images/common_sx_icon8.png) Energy 
 
  **Group:** Armor 
 

@@ -2,7 +2,7 @@
 title: "Fighter Thane"
 permalink: /fighter/Thane/
 excerpt: "Wing Fighter Thane"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-09-12
 locale: en
 ref: "Thane.md"
 toc: false
@@ -16,7 +16,7 @@ classes: wide
 
  **Rarity:** SSR 
 
- **Attack type:** ![Energy](/images/common_sx_icon8.png) 
+ **Attack type:** ![Energy](/images/common_sx_icon8.png) Energy 
 
  **Attack:** +250
 

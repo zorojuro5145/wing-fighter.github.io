@@ -2,7 +2,7 @@
 title: "Equipment Conqueror Missile"
 permalink: /equipment/Conqueror Missile/
 excerpt: "Wing Fighter Equipment Conqueror Missile"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-09-12
 locale: en
 ref: "Conqueror Missile.md"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
 
  **Gear Set:** [Gear Set Conqueror](/gear_set/Conqueror){: .btn .btn--warning}
 
- **Attack type:** ![Physical](/images/common_sx_icon9.png) 
+ **Attack type:** ![Physical](/images/common_sx_icon9.png) Physical 
 
  **Group:** SSR Missile 
 

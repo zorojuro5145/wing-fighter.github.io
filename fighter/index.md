@@ -2,7 +2,7 @@
 title: "Fighters"
 permalink: /fighter/
 excerpt: "Wing Fighter Fighter"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-09-12
 locale: en
 ref: "index.md"
 toc: false

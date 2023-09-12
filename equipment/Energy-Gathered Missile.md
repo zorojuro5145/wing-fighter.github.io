@@ -2,7 +2,7 @@
 title: "Equipment Energy-Gathered Missile"
 permalink: /equipment/Energy-Gathered Missile/
 excerpt: "Wing Fighter Equipment Energy-Gathered Missile"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-09-12
 locale: en
 ref: "Energy-Gathered Missile.md"
 toc: false
@@ -25,7 +25,7 @@ classes: wide
 
  **Description:** Launch energy missiles capable of tracking and penetrating targets. 
 
- **Attack type:** ![Energy](/images/common_sx_icon8.png) 
+ **Attack type:** ![Energy](/images/common_sx_icon8.png) Energy 
 
  **Group:** Missile 
 

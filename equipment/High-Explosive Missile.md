@@ -2,7 +2,7 @@
 title: "Equipment High-Explosive Missile"
 permalink: /equipment/High-Explosive Missile/
 excerpt: "Wing Fighter Equipment High-Explosive Missile"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-09-12
 locale: en
 ref: "High-Explosive Missile.md"
 toc: false
@@ -25,7 +25,7 @@ classes: wide
 
  **Description:** Blast after hitting the target, dealing splash damage to surrounding enemies 
 
- **Attack type:** ![Physical](/images/common_sx_icon9.png) 
+ **Attack type:** ![Physical](/images/common_sx_icon9.png) Physical 
 
  **Group:** Missile 
 

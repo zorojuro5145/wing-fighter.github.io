@@ -2,7 +2,7 @@
 title: "Fighter Hardrock"
 permalink: /fighter/Hardrock/
 excerpt: "Wing Fighter Hardrock"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-09-12
 locale: en
 ref: "Hardrock.md"
 toc: false
@@ -16,7 +16,7 @@ classes: wide
 
  **Rarity:** SR 
 
- **Attack type:** ![Physical](/images/common_sx_icon9.png) 
+ **Attack type:** ![Physical](/images/common_sx_icon9.png) Physical 
 
  **Attack:** +150
 

@@ -2,7 +2,7 @@
 title: "Equipment Heavy Machine Gun"
 permalink: /equipment/Heavy Machine Gun/
 excerpt: "Wing Fighter Equipment Heavy Machine Gun"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-09-12
 locale: en
 ref: "Heavy Machine Gun.md"
 toc: false
@@ -25,7 +25,7 @@ classes: wide
 
  **Description:** Wide firing range. 
 
- **Attack type:** ![Physical](/images/common_sx_icon9.png) 
+ **Attack type:** ![Physical](/images/common_sx_icon9.png) Physical 
 
  **Group:** Gun 
 

@@ -2,7 +2,7 @@
 title: "Equipment Railgun"
 permalink: /equipment/Railgun/
 excerpt: "Wing Fighter Equipment Railgun"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-09-12
 locale: en
 ref: "Railgun.md"
 toc: false
@@ -25,7 +25,7 @@ classes: wide
 
  **Description:** Low attack rate but insane damage 
 
- **Attack type:** ![Energy](/images/common_sx_icon8.png) 
+ **Attack type:** ![Energy](/images/common_sx_icon8.png) Energy 
 
  **Group:** Gun 
 

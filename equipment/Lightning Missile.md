@@ -2,7 +2,7 @@
 title: "Equipment Lightning Missile"
 permalink: /equipment/Lightning Missile/
 excerpt: "Wing Fighter Equipment Lightning Missile"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-09-12
 locale: en
 ref: "Lightning Missile.md"
 toc: false
@@ -25,7 +25,7 @@ classes: wide
 
  **Description:** Shoot a lighting ball, dealing damage to all enemies in its path 
 
- **Attack type:** ![Energy](/images/common_sx_icon8.png) 
+ **Attack type:** ![Energy](/images/common_sx_icon8.png) Energy 
 
  **Group:** Missile 
 

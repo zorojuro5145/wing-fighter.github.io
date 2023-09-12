@@ -2,7 +2,7 @@
 title: "Equipment Shock Armor"
 permalink: /equipment/Shock Armor/
 excerpt: "Wing Fighter Equipment Shock Armor"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-09-12
 locale: en
 ref: "Shock Armor.md"
 toc: false
@@ -25,7 +25,7 @@ classes: wide
 
  **Description:** Generate shock waves every 10 seconds around the fighter, dealing damage to up to 10 enemies 
 
- **Attack type:** ![Physical](/images/common_sx_icon9.png) 
+ **Attack type:** ![Physical](/images/common_sx_icon9.png) Physical 
 
  **Group:** Armor 
 

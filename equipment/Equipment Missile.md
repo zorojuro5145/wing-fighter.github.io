@@ -2,7 +2,7 @@
 title: "Equipment Missile"
 permalink: /equipment/Equipment Missile/
 excerpt: "Wing Fighter Equipment Missile"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-09-12
 locale: en
 ref: "Equipment Missile.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Equipment Rapid Fire Drone"
 permalink: /equipment/Rapid Fire Drone/
 excerpt: "Wing Fighter Equipment Rapid Fire Drone"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-09-12
 locale: en
 ref: "Rapid Fire Drone.md"
 toc: false
@@ -25,7 +25,7 @@ classes: wide
 
  **Description:** Equipped with a rapid-firing weapon, good for offensive support 
 
- **Attack type:** ![Energy](/images/common_sx_icon8.png) 
+ **Attack type:** ![Energy](/images/common_sx_icon8.png) Energy 
 
  **Group:** Drone 
 

@@ -2,7 +2,7 @@
 title: "Equipment Standard Missile"
 permalink: /equipment/Standard Missile/
 excerpt: "Wing Fighter Equipment Standard Missile"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-09-12
 locale: en
 ref: "Standard Missile.md"
 toc: false
@@ -25,7 +25,7 @@ classes: wide
 
  **Description:** Automatically track enemies 
 
- **Attack type:** ![Physical](/images/common_sx_icon9.png) 
+ **Attack type:** ![Physical](/images/common_sx_icon9.png) Physical 
 
  **Group:** Missile 
 
