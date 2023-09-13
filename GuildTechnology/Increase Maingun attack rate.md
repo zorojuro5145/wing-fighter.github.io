@@ -28,9 +28,7 @@ classes: wide
 
   **Value Type:** 10
 
-  **Growth:** 0.002
-
-  **Value_type:** 2
+  **Growth:** 0.2% per level
 
   **score_param:** 1
 
