@@ -22,6 +22,18 @@ classes: wide
   2. Upgrading technology will consume legion points. Legion points can be obtained by hunting the legion Boss.<br/>
   3. Resetting technology is free for the first time. Each subsequent reset will consume diamonds.
 
+ {% capture notice-updateDEV %}
+ 
+ To see upgrade costs please click on required Legion Technology.
+ Tip: Right now, the additional "Fighter Enhancement" technologies are disabled. It contains "Increase Fighter attack" and "Increase Fighter HP" for eaach fighter type N to SSR. 
+ 
+{% endcapture %}
+ 
+<div class="notice--danger">
+  <h4 class="no_toc">Hints and Tips</h4>
+  {{ notice-updateDEV | markdownify }}
+</div>
+
 
 ## Legion Technology List:
 
