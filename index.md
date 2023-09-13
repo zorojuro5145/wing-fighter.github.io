@@ -13,19 +13,21 @@ sidebar:
 
 
 
+<h1> <img src="/images/guild_technology/guild_tech_icon_28_p.png" alt="Legion Technology" width="32" height="21"/><a href="/GuildTechnology/" hreflang="en">Legion Technology</a> </h1>
 
 
 
-{% capture notice-update20230911 %}
+{% capture notice-update20230913 %}
 
-The Wiki got information about [Legion Hunt](https://wing-fighter.github.io/Legion_Hunt/). Example, for [Boss Anansi](https://wing-fighter.github.io/Legion_Hunt/Legion%20Hunt%20Boss%20Anansi/).
-Special Thanks to **Tom**!
+* A new feature released on Wiki: [Legion Technology](https://wing-fighter.github.io/GuildTechnology/).  Enjoy! **All upgrade costs** are inside.
+
+* Added all Bosses into [Legion Hunt](https://wing-fighter.github.io/Legion_Hunt/). Again, Special Thanks to **Tom** from **Joyfort** for video!
 
 {% endcapture %}
 
 <div class="notice--danger">
-  <h4 class="no_toc">11 September 2023 Wiki Update: Added Legion Hunt, Bosses</h4>
-  {{ notice-update20230911 | markdownify }}
+  <h4 class="no_toc">13 September 2023 Wiki Update: Added Legion Technologies, All Guild Hunt Bosses with video</h4>
+  {{ notice-update20230913 | markdownify }}
 </div>
 
 
@@ -49,6 +51,7 @@ You will find here:
 <h1> <img src="/images/shop.png" alt="Shop" width="31" height="23"/><a href="/shop/" hreflang="en">Shop</a> </h1>
 <h1> <img src="/images/planet_wars/Legend_p.png" alt="Planet Wars" width="32" height="20"/><a href="/Planet_Wars/" hreflang="en">Planet Wars</a> </h1>
 <h1> <img src="/images/legion_hunt_p.png" alt="Planet Wars" width="32" height="29"/><a href="/Legion_Hunt/" hreflang="en">Legion Hunt</a> </h1>
+<h1> <img src="/images/guild_technology/guild_tech_icon_28_p.png" alt="Legion Technology" width="32" height="21"/><a href="/GuildTechnology/" hreflang="en">Legion Technology</a> </h1>
 
 <h1> <img src="/images/img_2.png" alt="Gear Set Chest" width="34" height="28"/><a href="/shop/Gear%20Set%20Chest_29/" hreflang="en">Gear Set Chest</a> </h1>
 <h1> <img src="/images/mixed_box_2.png" alt="Super Chest" width="34" height="26"/><a href="/shop/Super%20Chest_21/" hreflang="en">Super Chest</a> </h1>
@@ -76,6 +79,18 @@ The Wing Fighter - the perfect game for nostalgic arcade lovers! Extra informati
 
 * Take Flight Again in Wing Fighter, a Modern Classic Arcade Shooter
 
+
+{% capture notice-update20230911 %}
+
+The Wiki got information about [Legion Hunt](https://wing-fighter.github.io/Legion_Hunt/). Example, for [Boss Anansi](https://wing-fighter.github.io/Legion_Hunt/Legion%20Hunt%20Boss%20Anansi/).
+Special Thanks to **Tom**!
+
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">11 September 2023 Wiki Update: Added Legion Hunt, Bosses</h4>
+  {{ notice-update20230911 | markdownify }}
+</div>
 
 
 {% capture notice-update20230906 %}
