@@ -20,21 +20,7 @@ classes: wide
 
   **Type:** Equipment Reinforce
 
-  **Attribute Target:** 20
-
-  **Component Type:** 1
-
-  **Unit Branch:** 99
-
-  **Value Type:** 2
-
   **Growth:** 0.2% per level
 
-  **score_param:** 1
-
-  **star_param:** 1
-
-  **power_caculate:** 2
-
-  **power_param:** 8
+  **Extra Power: +8** per level
 

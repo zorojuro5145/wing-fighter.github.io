@@ -20,21 +20,7 @@ classes: wide
 
   **Type:** Enemy Weakened
 
-  **Attribute Target:** 999
-
-  **Component Type:** 0
-
-  **Unit Branch:** 5
-
-  **Value Type:** 5
-
   **Growth:** 0.3% per level
 
-  **score_param:** 4
-
-  **star_param:** null
-
-  **power_caculate:** 2
-
-  **power_param:** 8
+  **Extra Power: +8** per level
 

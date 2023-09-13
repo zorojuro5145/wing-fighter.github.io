@@ -20,21 +20,7 @@ classes: wide
 
   **Type:** Damage Increase
 
-  **Attribute Target:** 999
-
-  **Component Type:** 0
-
-  **Unit Branch:** 4
-
-  **Value Type:** 6
-
   **Growth:** 0.3% per level
 
-  **score_param:** 3
-
-  **star_param:** null
-
-  **power_caculate:** 2
-
-  **power_param:** 8
+  **Extra Power: +8** per level
 
