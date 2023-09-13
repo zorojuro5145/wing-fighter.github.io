@@ -2,7 +2,7 @@
 title: "Legion Hunt"
 permalink: /Legion_Hunt/
 excerpt: "Wing Fighter Legion Hunt"
-last_modified_at: 2023-09-12
+last_modified_at: 2023-09-13
 locale: en
 ref: "index.md"
 toc: false
