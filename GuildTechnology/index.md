@@ -15,7 +15,10 @@ classes: wide
 
 ## Rules
 
-  Upgrading legion technology can increase your power$1. Player will retain the technology level even after leaving the legion.$2. Upgrading technology will consume legion points. Legion points can be obtained by hunting the legion Boss.$3. Resetting technology is free for the first time. Each subsequent reset will consume diamonds.
+  Upgrading legion technology can increase your power<br/>
+  1. Player will retain the technology level even after leaving the legion.<br/>
+  2. Upgrading technology will consume legion points. Legion points can be obtained by hunting the legion Boss.<br/>
+  3. Resetting technology is free for the first time. Each subsequent reset will consume diamonds.
 
 
 ## Legion Technology List:
