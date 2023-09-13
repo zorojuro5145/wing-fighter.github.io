@@ -24,8 +24,9 @@ classes: wide
 
  {% capture notice-updateDEV %}
  
- To see upgrade costs please click on required Legion Technology.
- Tip: Right now, the additional "Fighter Enhancement" technologies are disabled. It contains "Increase Fighter attack" and "Increase Fighter HP" for eaach fighter type N to SSR. 
+ To see **Upgrade Costs** please click on required Legion Technology.
+
+ **Tip**: Right now, the additional "Fighter Enhancement" technologies are disabled. It contains "Increase XX Fighter attack" and "Increase XX Fighter HP" for eaach fighter type(from N to SSR). 
  
 {% endcapture %}
  
