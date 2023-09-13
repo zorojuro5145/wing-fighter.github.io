@@ -42,6 +42,8 @@ docs:
       url: /Planet_Wars/
     - title: "Legion Hunt"
       url: /Legion_Hunt/
+    - title: "Legion Technology"
+      url: /GuildTechnology/
       
   - title: "Language"
     children:
