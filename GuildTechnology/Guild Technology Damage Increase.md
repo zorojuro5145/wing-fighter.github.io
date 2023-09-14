@@ -2,7 +2,7 @@
 title: "Guild Technology Damage Increase"
 permalink: /GuildTechnology/Guild Technology Damage Increase/
 excerpt: "Wing Fighter Guild TechnologyDamage Increase"
-last_modified_at: 2023-09-13
+last_modified_at: 2023-09-14
 locale: en
 ref: "Guild Technology Damage Increase.md"
 toc: false
