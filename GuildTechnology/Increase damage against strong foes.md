@@ -26,8 +26,8 @@ classes: wide
 
 ## Upgrade
 
-  | to Level |     Upgrade Costs   |    Total Upgrade Costs   |  Extra Power | Damage |
-  |:-------|:--------------------|:-------------------------|:-------------|:------|
+  | to Level |       Upgrade Costs     |      Total Upgrade Costs     | BP | Damage |
+  |:-------|:------------------------|:------------------------------|:----|:---|
   | 1  | **30x**![Unknown_79](/images/item/jt_jd_img25_p.png), **2500x**![Stars](/images/item/Stars_p.png)  | **30x**![Unknown_79](/images/item/jt_jd_img25_p.png), **2500x**![Stars](/images/item/Stars_p.png)  | **8**  | **+0.3 %** |
   | 2  | **39x**![Unknown_79](/images/item/jt_jd_img25_p.png), **5000x**![Stars](/images/item/Stars_p.png)  | **69x**![Unknown_79](/images/item/jt_jd_img25_p.png), **7500x**![Stars](/images/item/Stars_p.png)  | **16**  | **+0.6 %** |
   | 3  | **84x**![Unknown_79](/images/item/jt_jd_img25_p.png), **7500x**![Stars](/images/item/Stars_p.png)  | **153x**![Unknown_79](/images/item/jt_jd_img25_p.png), **15000x**![Stars](/images/item/Stars_p.png)  | **24**  | **+0.9 %** |
