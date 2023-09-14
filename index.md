@@ -13,9 +13,6 @@ sidebar:
 
 
 
-<h1> <img src="/images/guild_technology/guild_tech_icon_28_p.png" alt="Legion Technology" width="32" height="21"/><a href="/GuildTechnology/" hreflang="en">Legion Technology</a> </h1>
-
-
 
 {% capture notice-update20230913 %}
 
