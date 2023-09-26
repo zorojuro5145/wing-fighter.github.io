@@ -16,7 +16,7 @@ sidebar:
 
 {% capture notice-update20230926 %}
 
-* The correction for [Conqueror Missile](https://wing-fighter.github.io/equipment/Conqueror Missile/) and [Conqueror Winggun](https://wing-fighter.github.io/equipment/Conqueror Winggun/). The game contains wrong upgrade item types for them.
+* Updated [Equipment](/equipment/) upgrade information for all equipments. Thanks to **PhoeniX-Skye** for reporting issue with [Conqueror Missile](https://wing-fighter.github.io/equipment/Conqueror Missile/) and [Conqueror Winggun](https://wing-fighter.github.io/equipment/Conqueror Winggun/).
 
 {% endcapture %}
 
