@@ -2,7 +2,7 @@
 title: "Equipment Thor Maingun"
 permalink: /equipment/Thor Maingun/
 excerpt: "Wing Fighter Equipment Thor Maingun"
-last_modified_at: 2023-09-12
+last_modified_at: 2023-09-26
 locale: en
 ref: "Thor Maingun.md"
 toc: false

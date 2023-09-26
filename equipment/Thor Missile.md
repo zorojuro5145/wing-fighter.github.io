@@ -2,7 +2,7 @@
 title: "Equipment Thor Missile"
 permalink: /equipment/Thor Missile/
 excerpt: "Wing Fighter Equipment Thor Missile"
-last_modified_at: 2023-09-12
+last_modified_at: 2023-09-26
 locale: en
 ref: "Thor Missile.md"
 toc: false

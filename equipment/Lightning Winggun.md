@@ -2,7 +2,7 @@
 title: "Equipment Lightning Winggun"
 permalink: /equipment/Lightning Winggun/
 excerpt: "Wing Fighter Equipment Lightning Winggun"
-last_modified_at: 2023-09-12
+last_modified_at: 2023-09-26
 locale: en
 ref: "Lightning Winggun.md"
 toc: false

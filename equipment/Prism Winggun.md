@@ -2,7 +2,7 @@
 title: "Equipment Prism Winggun"
 permalink: /equipment/Prism Winggun/
 excerpt: "Wing Fighter Equipment Prism Winggun"
-last_modified_at: 2023-09-12
+last_modified_at: 2023-09-26
 locale: en
 ref: "Prism Winggun.md"
 toc: false

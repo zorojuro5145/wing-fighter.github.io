@@ -2,7 +2,7 @@
 title: "Equipment Drone"
 permalink: /equipment/Equipment Drone/
 excerpt: "Wing Fighter Equipment Drone"
-last_modified_at: 2023-09-12
+last_modified_at: 2023-09-26
 locale: en
 ref: "Equipment Drone.md"
 toc: false

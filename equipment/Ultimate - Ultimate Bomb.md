@@ -2,7 +2,7 @@
 title: "Equipment Ultimate - Ultimate Bomb"
 permalink: /equipment/Ultimate - Ultimate Bomb/
 excerpt: "Wing Fighter Equipment Ultimate - Ultimate Bomb"
-last_modified_at: 2023-09-12
+last_modified_at: 2023-09-26
 locale: en
 ref: "Ultimate - Ultimate Bomb.md"
 toc: false

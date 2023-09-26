@@ -2,7 +2,7 @@
 title: "Equipment Winggun Cannon"
 permalink: /equipment/Winggun Cannon/
 excerpt: "Wing Fighter Equipment Winggun Cannon"
-last_modified_at: 2023-09-12
+last_modified_at: 2023-09-26
 locale: en
 ref: "Winggun Cannon.md"
 toc: false

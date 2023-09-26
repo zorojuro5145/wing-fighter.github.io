@@ -2,7 +2,7 @@
 title: "Equipment Standard Missile"
 permalink: /equipment/Standard Missile/
 excerpt: "Wing Fighter Equipment Standard Missile"
-last_modified_at: 2023-09-12
+last_modified_at: 2023-09-26
 locale: en
 ref: "Standard Missile.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Equipment Forcefield Armor"
 permalink: /equipment/Forcefield Armor/
 excerpt: "Wing Fighter Equipment Forcefield Armor"
-last_modified_at: 2023-09-12
+last_modified_at: 2023-09-26
 locale: en
 ref: "Forcefield Armor.md"
 toc: false

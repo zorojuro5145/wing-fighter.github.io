@@ -2,7 +2,7 @@
 title: "Equipment Thor Winggun"
 permalink: /equipment/Thor Winggun/
 excerpt: "Wing Fighter Equipment Thor Winggun"
-last_modified_at: 2023-09-12
+last_modified_at: 2023-09-26
 locale: en
 ref: "Thor Winggun.md"
 toc: false
