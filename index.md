@@ -14,17 +14,15 @@ sidebar:
 
 
 
-{% capture notice-update20230913 %}
+{% capture notice-update20230926 %}
 
-* A new feature released on Wiki: [Legion Technology](https://wing-fighter.github.io/GuildTechnology/).  Enjoy! **All upgrade costs** are inside.
-
-* Added all Bosses into [Legion Hunt](https://wing-fighter.github.io/Legion_Hunt/). Again, Special Thanks to **Tom** from **Joyfort** for video!
+* The correction for [Conqueror Missile](https://wing-fighter.github.io/equipment/Conqueror Missile/) and [Conqueror Winggun](https://wing-fighter.github.io/equipment/Conqueror Winggun/). The game contains wrong upgrade item types for them.
 
 {% endcapture %}
 
 <div class="notice--danger">
-  <h4 class="no_toc">13 September 2023 Wiki Update: Added Legion Technologies, All Guild Hunt Bosses with video</h4>
-  {{ notice-update20230913 | markdownify }}
+  <h4 class="no_toc">26 September 2023 Wiki Update: Correction for Conqueror Missile and Conqueror Winggun</h4>
+  {{ notice-update20230926 | markdownify }}
 </div>
 
 
@@ -75,6 +73,21 @@ The Wing Fighter - the perfect game for nostalgic arcade lovers! Extra informati
 * Wing Fighter: A Nostalgic Trip to Arcade's Glory Days
 
 * Take Flight Again in Wing Fighter, a Modern Classic Arcade Shooter
+
+
+
+{% capture notice-update20230913 %}
+
+* A new feature released on Wiki: [Legion Technology](https://wing-fighter.github.io/GuildTechnology/).  Enjoy! **All upgrade costs** are inside.
+
+* Added all Bosses into [Legion Hunt](https://wing-fighter.github.io/Legion_Hunt/). Again, Special Thanks to **Tom** from **Joyfort** for video!
+
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">13 September 2023 Wiki Update: Added Legion Technologies, All Guild Hunt Bosses with video</h4>
+  {{ notice-update20230913 | markdownify }}
+</div>
 
 
 {% capture notice-update20230911 %}
