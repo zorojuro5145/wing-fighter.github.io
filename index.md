@@ -14,15 +14,48 @@ sidebar:
 
 
 
-{% capture notice-update20230926 %}
+{% capture notice-update20231015 %}
 
-* Updated [Equipment](/equipment/) upgrade information for all equipments. Thanks to **PhoeniX-Skye** for reporting issue with [Conqueror Missile](https://wing-fighter.github.io/equipment/Conqueror Missile/) and [Conqueror Winggun](https://wing-fighter.github.io/equipment/Conqueror Winggun/).
+**Big event!**
+
+**Hold your breath!**
+
+<img src="/images/NewBOSS.jpeg" alt="New SSR Destroyer Titan"/>
+
+New SSR Set:
+
+* Name: Destroyer (translated from Chinese, could be different name)
+
+<img src="/images/NewSet.jpg" alt="New SSR Destroyer set"/>
+
+* Type: Energy Attack
+
+* Fighter skills: summon an energy gathering device in front of the fighter every 16 seconds for 4 seconds. Damage increased when your barrage passes through the Shaped Device.
+
+* Description: Destroyer, bringing chaos and destruction to the world again and again. But he was not the personification of malice, and his arrival often heralded new beginnings. He is a light in the darkness, a new life after destruction!
+
+
+New Titan Boss:
+
+* Introduction: In the depths of the ocean, Kraken of the North is sleeping. This dangerous and powerful opponent is the sea octopus monster, with her terrible tentacles prey on innocent people. She is not only cunning, but also full of destructive power, once the rage, everything on the sea will be destroyed in a moment. So be sure to protect yourself - be careful of her tentacles!
+
+
+* Please note: The Titans Challenge season starts at 0: 00 on October 17. This season the damage done to Titan Kraken will increase by 100% after wearing the Destroyer 5 Piece Suit.
+
+
+{% include video id="NIn-Tq7fwbE" provider="youtube" %}
+
+
+* Adjust Battle Pass Reward Content
+
+
+Wiki will be updated to latest state after release of new content. Enjoy!
 
 {% endcapture %}
 
 <div class="notice--danger">
-  <h4 class="no_toc">26 September 2023 Wiki Update: Correction for Conqueror Missile and Conqueror Winggun</h4>
-  {{ notice-update20230926 | markdownify }}
+  <h4 class="no_toc">15 October 2023 Wiki Announcement: New SSR Set, New Titan Boss, New fun!</h4>
+  {{ notice-update20231015 | markdownify }}
 </div>
 
 
@@ -74,6 +107,18 @@ The Wing Fighter - the perfect game for nostalgic arcade lovers! Extra informati
 
 * Take Flight Again in Wing Fighter, a Modern Classic Arcade Shooter
 
+
+
+{% capture notice-update20230926 %}
+
+* Updated [Equipment](/equipment/) upgrade information for all equipments. Thanks to **PhoeniX-Skye** for reporting issue with [Conqueror Missile](https://wing-fighter.github.io/equipment/Conqueror Missile/) and [Conqueror Winggun](https://wing-fighter.github.io/equipment/Conqueror Winggun/).
+
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">26 September 2023 Wiki Update: Correction for Conqueror Missile and Conqueror Winggun</h4>
+  {{ notice-update20230926 | markdownify }}
+</div>
 
 
 {% capture notice-update20230913 %}
