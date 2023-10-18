@@ -25,7 +25,7 @@ classes: wide
 
  **Description:** Launch a cutting beam to slice enemies within range after hitting the enemy 
 
- **Gear Set:** [Gear Set Destroyer](/gear_set/Destroyer){: .btn .btn--info}
+ **Gear Set:** [Gear Set Destroyer](/gear_set/Destroyer){: .btn .btn--danger}
 
  **Attack type:** ![Energy](/images/common_sx_icon8.png) Energy 
 

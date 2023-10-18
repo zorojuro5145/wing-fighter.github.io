@@ -25,7 +25,7 @@ classes: wide
 
  **Description:** Launch two energy balls, causing damage upon hitting enemies 
 
- **Gear Set:** [Gear Set Destroyer](/gear_set/Destroyer){: .btn .btn--info}
+ **Gear Set:** [Gear Set Destroyer](/gear_set/Destroyer){: .btn .btn--danger}
 
  **Attack type:** ![Energy](/images/common_sx_icon8.png) Energy 
 

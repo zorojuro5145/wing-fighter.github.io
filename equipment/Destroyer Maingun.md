@@ -25,7 +25,7 @@ classes: wide
 
  **Description:** Rapidly launch laser forward, penetrating all enemies 
 
- **Gear Set:** [Gear Set Destroyer](/gear_set/Destroyer){: .btn .btn--info}
+ **Gear Set:** [Gear Set Destroyer](/gear_set/Destroyer){: .btn .btn--danger}
 
  **Attack type:** ![Energy](/images/common_sx_icon8.png) Energy 
 

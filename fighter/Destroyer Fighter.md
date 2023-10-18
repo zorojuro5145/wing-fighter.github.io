@@ -26,7 +26,7 @@ classes: wide
 
  **Critical damage:** +200%
 
- **Gear Set:** [Gear Set Destroyer](/gear_set/Destroyer){: .btn .btn--info}
+ **Gear Set:** [Gear Set Destroyer](/gear_set/Destroyer){: .btn .btn--danger}
 
 ## Skill
 

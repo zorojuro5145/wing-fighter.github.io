@@ -25,7 +25,7 @@ classes: wide
 
  **Description:** A force field forms around the fighter, causing a slowing effect on enemy bullet 
 
- **Gear Set:** [Gear Set Destroyer](/gear_set/Destroyer){: .btn .btn--info}
+ **Gear Set:** [Gear Set Destroyer](/gear_set/Destroyer){: .btn .btn--danger}
 
  **Attack type:** ![Energy](/images/common_sx_icon8.png) Energy 
 

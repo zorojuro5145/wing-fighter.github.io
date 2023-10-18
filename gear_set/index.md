@@ -16,6 +16,8 @@ sidebar:
 
   [Gear Set Thor](/gear_set/Thor){: .btn .btn--info}
 
+  [Gear Set Destroyer](/gear_set/Destroyer){: .btn .btn--danger}
+
 
 ## Conqueror
 
