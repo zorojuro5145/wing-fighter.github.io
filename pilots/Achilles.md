@@ -2,7 +2,7 @@
 title: "Pilot Achilles"
 permalink: /pilots/Achilles/
 excerpt: "Wing Fighter Achilles"
-last_modified_at: 2023-09-12
+last_modified_at: 2023-10-18
 locale: en
 ref: "Achilles.md"
 toc: false

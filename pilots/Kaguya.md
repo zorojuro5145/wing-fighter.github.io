@@ -2,7 +2,7 @@
 title: "Pilot Kaguya"
 permalink: /pilots/Kaguya/
 excerpt: "Wing Fighter Kaguya"
-last_modified_at: 2023-09-12
+last_modified_at: 2023-10-18
 locale: en
 ref: "Kaguya.md"
 toc: false

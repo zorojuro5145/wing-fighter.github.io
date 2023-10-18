@@ -2,7 +2,7 @@
 title: "Collection Center Alloy Plate +7"
 permalink: /CollectionCenter/Alloy Plate_7/
 excerpt: "Wing Fighter Collection CenterAlloy Plate +7"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-10-18
 locale: en
 ref: "Alloy Plate_7.md"
 toc: false

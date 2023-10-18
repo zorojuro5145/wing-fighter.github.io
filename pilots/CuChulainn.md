@@ -2,7 +2,7 @@
 title: "Pilot CuChulainn"
 permalink: /pilots/CuChulainn/
 excerpt: "Wing Fighter CuChulainn"
-last_modified_at: 2023-09-12
+last_modified_at: 2023-10-18
 locale: en
 ref: "CuChulainn.md"
 toc: false
@@ -32,17 +32,17 @@ classes: wide
 
   |  Level | Effective Amount: |     Total Bonus:    | Total Power |
   |:----|:-----:|:-------------------:|:-------:|
-  | +**0**  | **6**  | For every 8 hours of idle rewards received, Hourly Stars Output from Idle Rewards + <span style="color: #03ff6b">1</span><br/><span style="color: #000000;"></span>  | + **10** |
-  | +**1**  | **9**  | For every 8 hours of idle rewards received, Hourly Stars Output from Idle Rewards + <span style="color: #03ff6b">2</span><br/><span style="color: #000000;"></span>  | + **25** |
-  | +**2**  | **12**  | For every 8 hours of idle rewards received, Hourly Stars Output from Idle Rewards + <span style="color: #03ff6b">3</span><br/><span style="color: #000000;"></span>  | + **45** |
-  | +**3**  | **15**  | For every 8 hours of idle rewards received, Hourly Stars Output from Idle Rewards + <span style="color: #03ff6b">4</span><br/><span style="color: #000000;"></span>  | + **70** |
-  | +**4**  | **18**  | For every 8 hours of idle rewards received, Hourly Stars Output from Idle Rewards + <span style="color: #03ff6b">5</span><br/><span style="color: #000000;"></span>  | + **100** |
-  | +**5**  | **24**  | For every 8 hours of idle rewards received, Hourly Stars Output from Idle Rewards + <span style="color: #03ff6b">6</span><br/><span style="color: #000000;"></span>  | + **135** |
-  | +**6**  | **30**  | For every 8 hours of idle rewards received, Hourly Stars Output from Idle Rewards + <span style="color: #03ff6b">7</span><br/><span style="color: #000000;"></span>  | + **175** |
-  | +**7**  | **36**  | For every 8 hours of idle rewards received, Hourly Stars Output from Idle Rewards + <span style="color: #03ff6b">8</span><br/><span style="color: #000000;"></span>  | + **220** |
-  | +**8**  | **42**  | For every 8 hours of idle rewards received, Hourly Stars Output from Idle Rewards + <span style="color: #03ff6b">9</span><br/><span style="color: #000000;"></span>  | + **280** |
-  | +**9**  | **48**  | For every 8 hours of idle rewards received, Hourly Stars Output from Idle Rewards + <span style="color: #03ff6b">10</span><br/><span style="color: #000000;"></span>  | + **370** |
-  | +**10**  | **60**  | For every 8 hours of idle rewards received, Hourly Stars Output from Idle Rewards + <span style="color: #03ff6b">11</span><br/><span style="color: #000000;"></span>  | + **492** |
+  | +**0**  | **6**  | For every 8 hours of idle rewards received, Hourly Stars Output from Idle Rewards + <span style="color: #03ff6b">3</span><br/><span style="color: #000000;"></span>  | + **10** |
+  | +**1**  | **9**  | For every 8 hours of idle rewards received, Hourly Stars Output from Idle Rewards + <span style="color: #03ff6b">6</span><br/><span style="color: #000000;"></span>  | + **25** |
+  | +**2**  | **12**  | For every 8 hours of idle rewards received, Hourly Stars Output from Idle Rewards + <span style="color: #03ff6b">9</span><br/><span style="color: #000000;"></span>  | + **45** |
+  | +**3**  | **15**  | For every 8 hours of idle rewards received, Hourly Stars Output from Idle Rewards + <span style="color: #03ff6b">12</span><br/><span style="color: #000000;"></span>  | + **70** |
+  | +**4**  | **18**  | For every 8 hours of idle rewards received, Hourly Stars Output from Idle Rewards + <span style="color: #03ff6b">15</span><br/><span style="color: #000000;"></span>  | + **100** |
+  | +**5**  | **24**  | For every 8 hours of idle rewards received, Hourly Stars Output from Idle Rewards + <span style="color: #03ff6b">18</span><br/><span style="color: #000000;"></span>  | + **135** |
+  | +**6**  | **30**  | For every 8 hours of idle rewards received, Hourly Stars Output from Idle Rewards + <span style="color: #03ff6b">21</span><br/><span style="color: #000000;"></span>  | + **175** |
+  | +**7**  | **36**  | For every 8 hours of idle rewards received, Hourly Stars Output from Idle Rewards + <span style="color: #03ff6b">24</span><br/><span style="color: #000000;"></span>  | + **220** |
+  | +**8**  | **42**  | For every 8 hours of idle rewards received, Hourly Stars Output from Idle Rewards + <span style="color: #03ff6b">27</span><br/><span style="color: #000000;"></span>  | + **280** |
+  | +**9**  | **48**  | For every 8 hours of idle rewards received, Hourly Stars Output from Idle Rewards + <span style="color: #03ff6b">30</span><br/><span style="color: #000000;"></span>  | + **370** |
+  | +**10**  | **60**  | For every 8 hours of idle rewards received, Hourly Stars Output from Idle Rewards + <span style="color: #03ff6b">33</span><br/><span style="color: #000000;"></span>  | + **492** |
 
 
 

@@ -2,7 +2,7 @@
 title: "CC Resource Fighter Shard"
 permalink: /CollectionCenter/CC Resource Fighter Shard/
 excerpt: "Wing Fighter CC ResourceFighter Shard"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-10-18
 locale: en
 ref: "CC Resource Fighter Shard.md"
 toc: false
@@ -27,4 +27,4 @@ classes: wide
   | ![Fighter Shard +8](/images/cc/CC_Fighter_Shard_5_p.png) | [Fighter Shard +8](/CollectionCenter/Fighter Shard_8/) | Get SR Fighter Shard×3 |
   | ![Fighter Shard +9](/images/cc/CC_Fighter_Shard_6_p.png) | [Fighter Shard +9](/CollectionCenter/Fighter Shard_9/) | Chance to get SSR Fighter Shard×2 |
   | ![Fighter Shard +10](/images/cc/CC_Fighter_Shard_6_p.png) | [Fighter Shard +10](/CollectionCenter/Fighter Shard_10/) | Get SSR Fighter Shard×2 |
-  | ![Fighter Shard +11](/images/cc/CC_Fighter_Shard_6_p.png) | [Fighter Shard +11](/CollectionCenter/Fighter Shard_11/) | Chance to get Conqueror Fighter Shard×2 |
+  | ![Fighter Shard +11](/images/cc/CC_Fighter_Shard_6_p.png) | [Fighter Shard +11](/CollectionCenter/Fighter Shard_11/) | Chance to get gear set fighter shards ×2 |

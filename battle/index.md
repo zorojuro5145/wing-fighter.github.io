@@ -2,7 +2,7 @@
 title: "Battle"
 permalink: /battle/
 excerpt: "Wing Fighter Battle"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-10-18
 locale: en
 ref: "index.md"
 toc: false
@@ -159,4 +159,4 @@ classes: wide
   | 63 | Event.Forest Dawn | Forest Dawn | **2** | **82000** | Desert08 (normal) | **5x**![Unknown_3](/images/item/Settlement_Energy_p.png) |
   | 64 | Atlas | null | **null** | **9000** | Ectype01 (normal) |  |
   | 65 | Arachne | null | **null** | **9000** | Desert11 (sandstorm) |  |
-  | 66 | Arachne | null | **null** | **9000** | Desert11 (sandstorm) |  |
+  | 66 | Kraken | null | **null** | **9000** | Desert12 (normal) |  |

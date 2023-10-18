@@ -2,7 +2,7 @@
 title: "Collection Center Level +60"
 permalink: /CollectionCenter/Collection Center Level 60/
 excerpt: "Wing Fighter Collection CenterLevel +60"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-10-18
 locale: en
 ref: "Collection Center Level 60.md"
 toc: false
@@ -50,7 +50,7 @@ classes: wide
   | +12 | ![Fighter Shard +8](/images/cc/CC_Fighter_Shard_5_p.png) [Fighter Shard +8](/CollectionCenter/Fighter Shard_8/) | Get SR Fighter Shard×3 | **4.210571** |
   | +13 | ![Fighter Shard +9](/images/cc/CC_Fighter_Shard_6_p.png) [Fighter Shard +9](/CollectionCenter/Fighter Shard_9/) | Chance to get SSR Fighter Shard×2 | **2.1052854** |
   | +14 | ![Fighter Shard +10](/images/cc/CC_Fighter_Shard_6_p.png) [Fighter Shard +10](/CollectionCenter/Fighter Shard_10/) | Get SSR Fighter Shard×2 | **2.1052854** |
-  | +15 | ![Fighter Shard +11](/images/cc/CC_Fighter_Shard_6_p.png) [Fighter Shard +11](/CollectionCenter/Fighter Shard_11/) | Chance to get Conqueror Fighter Shard×2 | **2.1052854** |
+  | +15 | ![Fighter Shard +11](/images/cc/CC_Fighter_Shard_6_p.png) [Fighter Shard +11](/CollectionCenter/Fighter Shard_11/) | Chance to get gear set fighter shards ×2 | **2.1052854** |
   | +16 | ![Alloy Plate +7](/images/cc/CC_Alloy_Plate_5_p.png) [Alloy Plate +7](/CollectionCenter/Alloy Plate_7/) | Alloy Plate×7 | **6.315856** |
   | +17 | ![Alloy Plate +8](/images/cc/CC_Alloy_Plate_5_p.png) [Alloy Plate +8](/CollectionCenter/Alloy Plate_8/) | Alloy Plate×8 | **3.157928** |
   | +18 | ![Alloy Plate +9](/images/cc/CC_Alloy_Plate_6_p.png) [Alloy Plate +9](/CollectionCenter/Alloy Plate_9/) | Alloy Plate×9 | **3.157928** |

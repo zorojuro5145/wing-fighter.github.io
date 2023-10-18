@@ -2,7 +2,7 @@
 title: "Collection Center Nano Material +4"
 permalink: /CollectionCenter/Nano Material_4/
 excerpt: "Wing Fighter Collection CenterNano Material +4"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-10-18
 locale: en
 ref: "Nano Material_4.md"
 toc: false
