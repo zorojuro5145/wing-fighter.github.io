@@ -2,7 +2,7 @@
 title: "Talent Pre-Battle Skill"
 permalink: /talent/Talent Pre-Battle Skill/
 excerpt: "Wing Fighter Talent Pre-Battle Skill"
-last_modified_at: 2023-09-07
+last_modified_at: 2023-10-18
 locale: en
 ref: "Talent Pre-Battle Skill.md"
 toc: false

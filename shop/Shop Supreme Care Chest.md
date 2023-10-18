@@ -2,7 +2,7 @@
 title: "Shop Supreme Care Chest"
 permalink: /shop/Shop Supreme Care Chest/
 excerpt: "Wing Fighter Supreme Care Chest"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-10-18
 locale: en
 ref: "Shop Supreme Care Chest.md"
 toc: false
@@ -24,9 +24,11 @@ classes: wide
  [Supreme Care Chest](/shop/Shop Supreme Care Chest/) |[Super Chest](/shop/Super Chest_21) | Get 2-4 star equipment, fighters, and fighter materials | 
  [Supreme Care Chest](/shop/Shop Supreme Care Chest/) |[Super Chest×10](/shop/Super Chest×10_22) | Get 2-4 star equipment, fighters, and fighter materials | 
  [Supreme Care Chest](/shop/Shop Supreme Care Chest/) |[Conqueror Chest](/shop/Conqueror Chest_28) | Get 2-4 star equipment, fighters, and fighter materials | 
- [Supreme Care Chest](/shop/Shop Supreme Care Chest/) |[Gear Set Chest](/shop/Gear Set Chest_29) | Get 2-4 star equipment, fighters, and fighter materials | 
+ [Supreme Care Chest](/shop/Shop Supreme Care Chest/) |[Titan Chest](/shop/Titan Chest_29) | Get 2-4 star equipment, fighters, and fighter materials | 
  [Supreme Care Chest](/shop/Shop Supreme Care Chest/) |[Gem Chest](/shop/Gem Chest_38) | Get 1-3 Star Gems | 
  [Supreme Care Chest](/shop/Shop Supreme Care Chest/) |[Unknown](/shop/Unknown_40) | Conqueror <span style="color: #00f375"><size=56>Probability Up!</size></span><br/><span style="color: #000000;"></span> | 
  [Supreme Care Chest](/shop/Shop Supreme Care Chest/) |[Unknown](/shop/Unknown_41) | Conqueror <span style="color: #00f375"><size=56>Probability Up!</size></span><br/><span style="color: #000000;"></span> | 
  [Supreme Care Chest](/shop/Shop Supreme Care Chest/) |[Unknown](/shop/Unknown_42) | Thor <span style="color: #00f375"><size=56>Probability Up!</size></span><br/><span style="color: #000000;"></span> | 
  [Supreme Care Chest](/shop/Shop Supreme Care Chest/) |[Unknown](/shop/Unknown_43) | Thor <span style="color: #00f375"><size=56>Probability Up!</size></span><br/><span style="color: #000000;"></span> | 
+ [Supreme Care Chest](/shop/Shop Supreme Care Chest/) |[Unknown](/shop/Unknown_48) | Destroyer <span style="color: #00f375"><size=56>Probability Up!</size></span><br/><span style="color: #000000;"></span> | 
+ [Supreme Care Chest](/shop/Shop Supreme Care Chest/) |[Unknown](/shop/Unknown_49) | Destroyer <span style="color: #00f375"><size=56>Probability Up!</size></span><br/><span style="color: #000000;"></span> | 

@@ -2,7 +2,7 @@
 title: "Shop Advanced Chest"
 permalink: /shop/Advanced Chest_2/
 excerpt: "Wing Fighter Advanced Chest"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-10-18
 locale: en
 ref: "Advanced Chest_2.md"
 toc: false

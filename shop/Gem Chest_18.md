@@ -2,7 +2,7 @@
 title: "Shop Gem Chest"
 permalink: /shop/Gem Chest_18/
 excerpt: "Wing Fighter Gem Chest"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-10-18
 locale: en
 ref: "Gem Chest_18.md"
 toc: false
@@ -31,7 +31,7 @@ classes: wide
   | 1 | 50.0 | <span style="color: #c7c7c7">1-Star Gem</span><br/><span style="color: #000000;"></span> | 
   | 2 | 34.0 | <span style="color: #c7c7c7">2-Star Gem</span><br/><span style="color: #000000;"></span> | 
   | 3 | 12.0 | <span style="color: #c7c7c7">3-Star Gem</span><br/><span style="color: #000000;"></span> | 
-  | 4 | 3.0 | <span style="color: #c7c7c7">4-Star Gem</span><br/><span style="color: #000000;"></span> | 
+  | 4 | 4.0 | <span style="color: #c7c7c7">4-Star Gem</span><br/><span style="color: #000000;"></span> | 
 
 
 ## Items in Drop:

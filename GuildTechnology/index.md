@@ -2,7 +2,7 @@
 title: "Legion Technology"
 permalink: /GuildTechnology/
 excerpt: "Wing Fighter Legion Technology"
-last_modified_at: 2023-09-14
+last_modified_at: 2023-10-18
 locale: en
 ref: "index.md"
 toc: false

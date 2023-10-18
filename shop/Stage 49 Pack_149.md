@@ -2,7 +2,7 @@
 title: "Shop Stage 49 Pack"
 permalink: /shop/Stage 49 Pack_149/
 excerpt: "Wing Fighter Stage 49 Pack"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-10-18
 locale: en
 ref: "Stage 49 Pack_149.md"
 toc: false

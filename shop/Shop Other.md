@@ -2,7 +2,7 @@
 title: "Shop Other"
 permalink: /shop/Shop Other/
 excerpt: "Wing Fighter Other"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-10-18
 locale: en
 ref: "Shop Other.md"
 toc: false
@@ -29,15 +29,17 @@ classes: wide
  [Other](/shop/Shop Other/) |[Overload ×6](/shop/Overload ×6_37) | Obtain 6 "Overload" buffs | 
  [Other](/shop/Shop Other/) |[Pilot Recruit](/shop/Pilot Recruit_44) | Randomly get pilot or pilot shards | 
  [Other](/shop/Shop Other/) |[Pilot Recruit](/shop/Pilot Recruit_45) | Randomly get pilot or pilot shards | 
- [Other](/shop/Shop Other/) |[](/shop/_161) |  | 
- [Other](/shop/Shop Other/) |[](/shop/_162) |  | 
- [Other](/shop/Shop Other/) |[](/shop/_163) |  | 
- [Other](/shop/Shop Other/) |[](/shop/_164) |  | 
- [Other](/shop/Shop Other/) |[](/shop/_165) |  | 
- [Other](/shop/Shop Other/) |[](/shop/_166) |  | 
- [Other](/shop/Shop Other/) |[](/shop/_167) |  | 
- [Other](/shop/Shop Other/) |[](/shop/_168) |  | 
- [Other](/shop/Shop Other/) |[](/shop/_169) |  | 
- [Other](/shop/Shop Other/) |[](/shop/_170) |  | 
- [Other](/shop/Shop Other/) |[](/shop/_171) |  | 
- [Other](/shop/Shop Other/) |[](/shop/_172) |  | 
+ [Other](/shop/Shop Other/) |[Unknown](/shop/Unknown_46) |  | 
+ [Other](/shop/Shop Other/) |[Unknown](/shop/Unknown_47) |  | 
+ [Other](/shop/Shop Other/) |[Free](/shop/Free_161) |  | 
+ [Other](/shop/Shop Other/) |[Valuable Pack](/shop/Valuable Pack_162) |  | 
+ [Other](/shop/Shop Other/) |[Normal Pack](/shop/Normal Pack_163) |  | 
+ [Other](/shop/Shop Other/) |[Advance Pack](/shop/Advance Pack_164) |  | 
+ [Other](/shop/Shop Other/) |[Premium Pack](/shop/Premium Pack_165) |  | 
+ [Other](/shop/Shop Other/) |[Super Pack](/shop/Super Pack_166) |  | 
+ [Other](/shop/Shop Other/) |[Free](/shop/Free_167) |  | 
+ [Other](/shop/Shop Other/) |[Valuable Pack](/shop/Valuable Pack_168) |  | 
+ [Other](/shop/Shop Other/) |[Normal Pack](/shop/Normal Pack_169) |  | 
+ [Other](/shop/Shop Other/) |[Advance Pack](/shop/Advance Pack_170) |  | 
+ [Other](/shop/Shop Other/) |[Premium Pack](/shop/Premium Pack_171) |  | 
+ [Other](/shop/Shop Other/) |[Super Pack](/shop/Super Pack_172) |  | 

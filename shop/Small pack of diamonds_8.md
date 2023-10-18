@@ -2,7 +2,7 @@
 title: "Shop Small pack of diamonds"
 permalink: /shop/Small pack of diamonds_8/
 excerpt: "Wing Fighter Small pack of diamonds"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-10-18
 locale: en
 ref: "Small pack of diamonds_8.md"
 toc: false
@@ -23,7 +23,5 @@ classes: wide
  **Active:** + 
 
  **Price:** 9.99 $/EUR 
-
- **Discount: +50%** 
 
 

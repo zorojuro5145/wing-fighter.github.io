@@ -2,7 +2,7 @@
 title: "Talent Firepower"
 permalink: /talent/Talent Firepower/
 excerpt: "Wing Fighter Talent Firepower"
-last_modified_at: 2023-09-07
+last_modified_at: 2023-10-18
 locale: en
 ref: "Talent Firepower.md"
 toc: false

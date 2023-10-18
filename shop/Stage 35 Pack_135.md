@@ -2,7 +2,7 @@
 title: "Shop Stage 35 Pack"
 permalink: /shop/Stage 35 Pack_135/
 excerpt: "Wing Fighter Stage 35 Pack"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-10-18
 locale: en
 ref: "Stage 35 Pack_135.md"
 toc: false
@@ -34,6 +34,6 @@ classes: wide
   |:----|:------------:|:-----------------|
   | 1 | **6500**  | ![Diamonds](/images/item/Diamonds_p.png) [Diamonds](/item/Diamonds_15/) | 
   | 2 | **460000**  | ![Stars](/images/item/Stars_p.png) [Stars](/item/Stars_2/) | 
-  | 3 | **75**  | ![Fighter Crate Key](/images/item/Fighter_Crate_Key_p.png) [Fighter Crate Key](/item/Fighter Crate Key_30/) | 
+  | 3 | **75**  | ![Super Key](/images/item/Super_Key_p.png) [Super Key](/item/Super Key_30/) | 
   | 4 | **280**  | ![Alloy Plate](/images/item/Alloy_Plate_p.png) [Alloy Plate](/item/Alloy Plate_20/) | 
 

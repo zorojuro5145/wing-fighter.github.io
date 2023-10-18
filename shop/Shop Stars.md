@@ -2,7 +2,7 @@
 title: "Shop Stars"
 permalink: /shop/Shop Stars/
 excerpt: "Wing Fighter Stars"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-10-18
 locale: en
 ref: "Shop Stars.md"
 toc: false

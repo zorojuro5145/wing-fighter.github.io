@@ -2,7 +2,7 @@
 title: "Shop Stage 28 Pack"
 permalink: /shop/Stage 28 Pack_128/
 excerpt: "Wing Fighter Stage 28 Pack"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-10-18
 locale: en
 ref: "Stage 28 Pack_128.md"
 toc: false
@@ -34,6 +34,6 @@ classes: wide
   |:----|:------------:|:-----------------|
   | 1 | **3700**  | ![Diamonds](/images/item/Diamonds_p.png) [Diamonds](/item/Diamonds_15/) | 
   | 2 | **270000**  | ![Stars](/images/item/Stars_p.png) [Stars](/item/Stars_2/) | 
-  | 3 | **45**  | ![Fighter Crate Key](/images/item/Fighter_Crate_Key_p.png) [Fighter Crate Key](/item/Fighter Crate Key_30/) | 
+  | 3 | **45**  | ![Super Key](/images/item/Super_Key_p.png) [Super Key](/item/Super Key_30/) | 
   | 4 | **475**  | ![Unknown_61](/images/item/random_module_1_p.png) [random_module_1](/item/random_module_1_61/) | 
 

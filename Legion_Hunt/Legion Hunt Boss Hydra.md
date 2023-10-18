@@ -2,7 +2,7 @@
 title: "Legion Hunt Boss Hydra"
 permalink: /Legion_Hunt/Legion Hunt Boss Hydra/
 excerpt: "Wing Fighter Legion Hunt Boss Hydra"
-last_modified_at: 2023-09-13
+last_modified_at: 2023-10-18
 locale: en
 ref: "Legion Hunt Boss Hydra.md"
 toc: false

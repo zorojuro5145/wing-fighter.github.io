@@ -2,7 +2,7 @@
 title: "Talent Idle Reward"
 permalink: /talent/Idle Reward/
 excerpt: "Wing Fighter Talent Idle Reward"
-last_modified_at: 2023-09-07
+last_modified_at: 2023-10-18
 locale: en
 ref: "Idle Reward.md"
 toc: false

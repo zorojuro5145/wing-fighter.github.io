@@ -2,7 +2,7 @@
 title: "Shop Ad-free (Permanent)"
 permalink: /shop/Ad-free (Permanent)_5/
 excerpt: "Wing Fighter Ad-free (Permanent)"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-10-18
 locale: en
 ref: "Ad-free (Permanent)_5.md"
 toc: false

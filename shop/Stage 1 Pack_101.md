@@ -2,7 +2,7 @@
 title: "Shop Stage 1 Pack"
 permalink: /shop/Stage 1 Pack_101/
 excerpt: "Wing Fighter Stage 1 Pack"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-10-18
 locale: en
 ref: "Stage 1 Pack_101.md"
 toc: false
@@ -34,5 +34,5 @@ classes: wide
   |:----|:------------:|:-----------------|
   | 1 | **200**  | ![Diamonds](/images/item/Diamonds_p.png) [Diamonds](/item/Diamonds_15/) | 
   | 2 | **10000**  | ![Stars](/images/item/Stars_p.png) [Stars](/item/Stars_2/) | 
-  | 3 | **4**  | ![Fighter Crate Key](/images/item/Fighter_Crate_Key_p.png) [Fighter Crate Key](/item/Fighter Crate Key_30/) | 
+  | 3 | **4**  | ![Super Key](/images/item/Super_Key_p.png) [Super Key](/item/Super Key_30/) | 
 

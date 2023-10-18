@@ -2,7 +2,7 @@
 title: "Shop"
 permalink: /shop/
 excerpt: "Wing Fighter Shop"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-10-18
 locale: en
 ref: "index.md"
 toc: false
@@ -41,7 +41,7 @@ classes: wide
   | 26 |  [Other](/shop/Shop Other/) |[Unknown](/shop/Unknown_26) |  | 
   | 27 |  [Other](/shop/Shop Other/) |[Unknown](/shop/Unknown_27) |  | 
   | 28 |  [Supreme Care Chest](/shop/Shop Supreme Care Chest/) |[Conqueror Chest](/shop/Conqueror Chest_28) | Get 2-4 star equipment, fighters, and fighter materials | 
-  | 29 |  [Supreme Care Chest](/shop/Shop Supreme Care Chest/) |[Gear Set Chest](/shop/Gear Set Chest_29) | Get 2-4 star equipment, fighters, and fighter materials | 
+  | 29 |  [Supreme Care Chest](/shop/Shop Supreme Care Chest/) |[Titan Chest](/shop/Titan Chest_29) | Get 2-4 star equipment, fighters, and fighter materials | 
   | 30 |  [Other](/shop/Shop Other/) |[Unknown](/shop/Unknown_30) | Get 1-2 star equipment, fighters, and fighter materials | 
   | 31 |  [Other](/shop/Shop Other/) |[Unknown](/shop/Unknown_31) | Get 1-3 Star Gems | 
   | 32 |  [Other](/shop/Shop Other/) |[Unknown](/shop/Unknown_32) |  | 
@@ -58,75 +58,79 @@ classes: wide
   | 43 |  [Supreme Care Chest](/shop/Shop Supreme Care Chest/) |[Unknown](/shop/Unknown_43) | Thor <span style="color: #00f375"><size=56>Probability Up!</size></span><br/><span style="color: #000000;"></span> | 
   | 44 |  [Other](/shop/Shop Other/) |[Pilot Recruit](/shop/Pilot Recruit_44) | Randomly get pilot or pilot shards | 
   | 45 |  [Other](/shop/Shop Other/) |[Pilot Recruit](/shop/Pilot Recruit_45) | Randomly get pilot or pilot shards | 
-  | 46 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 1 Pack](/shop/Stage 1 Pack_101) |  | 
-  | 47 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 2 Pack](/shop/Stage 2 Pack_102) |  | 
-  | 48 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 3 Pack](/shop/Stage 3 Pack_103) |  | 
-  | 49 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 4 Pack](/shop/Stage 4 Pack_104) |  | 
-  | 50 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 5 Pack](/shop/Stage 5 Pack_105) |  | 
-  | 51 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 6 Pack](/shop/Stage 6 Pack_106) |  | 
-  | 52 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 7 Pack](/shop/Stage 7 Pack_107) |  | 
-  | 53 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 8 Pack](/shop/Stage 8 Pack_108) |  | 
-  | 54 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 9 Pack](/shop/Stage 9 Pack_109) |  | 
-  | 55 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 10 Pack](/shop/Stage 10 Pack_110) |  | 
-  | 56 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 11 Pack](/shop/Stage 11 Pack_111) |  | 
-  | 57 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 12 Pack](/shop/Stage 12 Pack_112) |  | 
-  | 58 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 13 Pack](/shop/Stage 13 Pack_113) |  | 
-  | 59 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 14 Pack](/shop/Stage 14 Pack_114) |  | 
-  | 60 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 15 Pack](/shop/Stage 15 Pack_115) |  | 
-  | 61 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 16 Pack](/shop/Stage 16 Pack_116) |  | 
-  | 62 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 17 Pack](/shop/Stage 17 Pack_117) |  | 
-  | 63 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 18 Pack](/shop/Stage 18 Pack_118) |  | 
-  | 64 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 19 Pack](/shop/Stage 19 Pack_119) |  | 
-  | 65 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 20 Pack](/shop/Stage 20 Pack_120) |  | 
-  | 66 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 21 Pack](/shop/Stage 21 Pack_121) |  | 
-  | 67 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 22 Pack](/shop/Stage 22 Pack_122) |  | 
-  | 68 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 23 Pack](/shop/Stage 23 Pack_123) |  | 
-  | 69 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 24 Pack](/shop/Stage 24 Pack_124) |  | 
-  | 70 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 25 Pack](/shop/Stage 25 Pack_125) |  | 
-  | 71 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 26 Pack](/shop/Stage 26 Pack_126) |  | 
-  | 72 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 27 Pack](/shop/Stage 27 Pack_127) |  | 
-  | 73 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 28 Pack](/shop/Stage 28 Pack_128) |  | 
-  | 74 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 29 Pack](/shop/Stage 29 Pack_129) |  | 
-  | 75 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 30 Pack](/shop/Stage 30 Pack_130) |  | 
-  | 76 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 31 Pack](/shop/Stage 31 Pack_131) |  | 
-  | 77 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 32 Pack](/shop/Stage 32 Pack_132) |  | 
-  | 78 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 33 Pack](/shop/Stage 33 Pack_133) |  | 
-  | 79 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 34 Pack](/shop/Stage 34 Pack_134) |  | 
-  | 80 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 35 Pack](/shop/Stage 35 Pack_135) |  | 
-  | 81 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 36 Pack](/shop/Stage 36 Pack_136) |  | 
-  | 82 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 37 Pack](/shop/Stage 37 Pack_137) |  | 
-  | 83 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 38 Pack](/shop/Stage 38 Pack_138) |  | 
-  | 84 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 39 Pack](/shop/Stage 39 Pack_139) |  | 
-  | 85 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 40 Pack](/shop/Stage 40 Pack_140) |  | 
-  | 86 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 41 Pack](/shop/Stage 41 Pack_141) |  | 
-  | 87 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 42 Pack](/shop/Stage 42 Pack_142) |  | 
-  | 88 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 43 Pack](/shop/Stage 43 Pack_143) |  | 
-  | 89 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 44 Pack](/shop/Stage 44 Pack_144) |  | 
-  | 90 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 45 Pack](/shop/Stage 45 Pack_145) |  | 
-  | 91 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 46 Pack](/shop/Stage 46 Pack_146) |  | 
-  | 92 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 47 Pack](/shop/Stage 47 Pack_147) |  | 
-  | 93 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 48 Pack](/shop/Stage 48 Pack_148) |  | 
-  | 94 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 49 Pack](/shop/Stage 49 Pack_149) |  | 
-  | 95 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 50 Pack](/shop/Stage 50 Pack_150) |  | 
-  | 96 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 51 Pack](/shop/Stage 51 Pack_151) |  | 
-  | 97 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 52 Pack](/shop/Stage 52 Pack_152) |  | 
-  | 98 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 53 Pack](/shop/Stage 53 Pack_153) |  | 
-  | 99 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 54 Pack](/shop/Stage 54 Pack_154) |  | 
-  | 100 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 55 Pack](/shop/Stage 55 Pack_155) |  | 
-  | 101 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 56 Pack](/shop/Stage 56 Pack_156) |  | 
-  | 102 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 57 Pack](/shop/Stage 57 Pack_157) |  | 
-  | 103 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 58 Pack](/shop/Stage 58 Pack_158) |  | 
-  | 104 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 59 Pack](/shop/Stage 59 Pack_159) |  | 
-  | 105 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 60 Pack](/shop/Stage 60 Pack_160) |  | 
-  | 106 |  [Other](/shop/Shop Other/) |[](/shop/_161) |  | 
-  | 107 |  [Other](/shop/Shop Other/) |[](/shop/_162) |  | 
-  | 108 |  [Other](/shop/Shop Other/) |[](/shop/_163) |  | 
-  | 109 |  [Other](/shop/Shop Other/) |[](/shop/_164) |  | 
-  | 110 |  [Other](/shop/Shop Other/) |[](/shop/_165) |  | 
-  | 111 |  [Other](/shop/Shop Other/) |[](/shop/_166) |  | 
-  | 112 |  [Other](/shop/Shop Other/) |[](/shop/_167) |  | 
-  | 113 |  [Other](/shop/Shop Other/) |[](/shop/_168) |  | 
-  | 114 |  [Other](/shop/Shop Other/) |[](/shop/_169) |  | 
-  | 115 |  [Other](/shop/Shop Other/) |[](/shop/_170) |  | 
-  | 116 |  [Other](/shop/Shop Other/) |[](/shop/_171) |  | 
-  | 117 |  [Other](/shop/Shop Other/) |[](/shop/_172) |  | 
+  | 46 |  [Other](/shop/Shop Other/) |[Unknown](/shop/Unknown_46) |  | 
+  | 47 |  [Other](/shop/Shop Other/) |[Unknown](/shop/Unknown_47) |  | 
+  | 48 |  [Supreme Care Chest](/shop/Shop Supreme Care Chest/) |[Unknown](/shop/Unknown_48) | Destroyer <span style="color: #00f375"><size=56>Probability Up!</size></span><br/><span style="color: #000000;"></span> | 
+  | 49 |  [Supreme Care Chest](/shop/Shop Supreme Care Chest/) |[Unknown](/shop/Unknown_49) | Destroyer <span style="color: #00f375"><size=56>Probability Up!</size></span><br/><span style="color: #000000;"></span> | 
+  | 50 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 1 Pack](/shop/Stage 1 Pack_101) |  | 
+  | 51 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 2 Pack](/shop/Stage 2 Pack_102) |  | 
+  | 52 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 3 Pack](/shop/Stage 3 Pack_103) |  | 
+  | 53 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 4 Pack](/shop/Stage 4 Pack_104) |  | 
+  | 54 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 5 Pack](/shop/Stage 5 Pack_105) |  | 
+  | 55 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 6 Pack](/shop/Stage 6 Pack_106) |  | 
+  | 56 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 7 Pack](/shop/Stage 7 Pack_107) |  | 
+  | 57 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 8 Pack](/shop/Stage 8 Pack_108) |  | 
+  | 58 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 9 Pack](/shop/Stage 9 Pack_109) |  | 
+  | 59 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 10 Pack](/shop/Stage 10 Pack_110) |  | 
+  | 60 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 11 Pack](/shop/Stage 11 Pack_111) |  | 
+  | 61 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 12 Pack](/shop/Stage 12 Pack_112) |  | 
+  | 62 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 13 Pack](/shop/Stage 13 Pack_113) |  | 
+  | 63 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 14 Pack](/shop/Stage 14 Pack_114) |  | 
+  | 64 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 15 Pack](/shop/Stage 15 Pack_115) |  | 
+  | 65 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 16 Pack](/shop/Stage 16 Pack_116) |  | 
+  | 66 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 17 Pack](/shop/Stage 17 Pack_117) |  | 
+  | 67 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 18 Pack](/shop/Stage 18 Pack_118) |  | 
+  | 68 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 19 Pack](/shop/Stage 19 Pack_119) |  | 
+  | 69 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 20 Pack](/shop/Stage 20 Pack_120) |  | 
+  | 70 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 21 Pack](/shop/Stage 21 Pack_121) |  | 
+  | 71 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 22 Pack](/shop/Stage 22 Pack_122) |  | 
+  | 72 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 23 Pack](/shop/Stage 23 Pack_123) |  | 
+  | 73 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 24 Pack](/shop/Stage 24 Pack_124) |  | 
+  | 74 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 25 Pack](/shop/Stage 25 Pack_125) |  | 
+  | 75 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 26 Pack](/shop/Stage 26 Pack_126) |  | 
+  | 76 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 27 Pack](/shop/Stage 27 Pack_127) |  | 
+  | 77 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 28 Pack](/shop/Stage 28 Pack_128) |  | 
+  | 78 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 29 Pack](/shop/Stage 29 Pack_129) |  | 
+  | 79 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 30 Pack](/shop/Stage 30 Pack_130) |  | 
+  | 80 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 31 Pack](/shop/Stage 31 Pack_131) |  | 
+  | 81 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 32 Pack](/shop/Stage 32 Pack_132) |  | 
+  | 82 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 33 Pack](/shop/Stage 33 Pack_133) |  | 
+  | 83 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 34 Pack](/shop/Stage 34 Pack_134) |  | 
+  | 84 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 35 Pack](/shop/Stage 35 Pack_135) |  | 
+  | 85 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 36 Pack](/shop/Stage 36 Pack_136) |  | 
+  | 86 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 37 Pack](/shop/Stage 37 Pack_137) |  | 
+  | 87 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 38 Pack](/shop/Stage 38 Pack_138) |  | 
+  | 88 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 39 Pack](/shop/Stage 39 Pack_139) |  | 
+  | 89 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 40 Pack](/shop/Stage 40 Pack_140) |  | 
+  | 90 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 41 Pack](/shop/Stage 41 Pack_141) |  | 
+  | 91 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 42 Pack](/shop/Stage 42 Pack_142) |  | 
+  | 92 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 43 Pack](/shop/Stage 43 Pack_143) |  | 
+  | 93 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 44 Pack](/shop/Stage 44 Pack_144) |  | 
+  | 94 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 45 Pack](/shop/Stage 45 Pack_145) |  | 
+  | 95 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 46 Pack](/shop/Stage 46 Pack_146) |  | 
+  | 96 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 47 Pack](/shop/Stage 47 Pack_147) |  | 
+  | 97 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 48 Pack](/shop/Stage 48 Pack_148) |  | 
+  | 98 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 49 Pack](/shop/Stage 49 Pack_149) |  | 
+  | 99 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 50 Pack](/shop/Stage 50 Pack_150) |  | 
+  | 100 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 51 Pack](/shop/Stage 51 Pack_151) |  | 
+  | 101 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 52 Pack](/shop/Stage 52 Pack_152) |  | 
+  | 102 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 53 Pack](/shop/Stage 53 Pack_153) |  | 
+  | 103 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 54 Pack](/shop/Stage 54 Pack_154) |  | 
+  | 104 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 55 Pack](/shop/Stage 55 Pack_155) |  | 
+  | 105 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 56 Pack](/shop/Stage 56 Pack_156) |  | 
+  | 106 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 57 Pack](/shop/Stage 57 Pack_157) |  | 
+  | 107 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 58 Pack](/shop/Stage 58 Pack_158) |  | 
+  | 108 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 59 Pack](/shop/Stage 59 Pack_159) |  | 
+  | 109 |  [Stage X Pack](/shop/Shop Stage X Pack/) |[Stage 60 Pack](/shop/Stage 60 Pack_160) |  | 
+  | 110 |  [Other](/shop/Shop Other/) |[Free](/shop/Free_161) |  | 
+  | 111 |  [Other](/shop/Shop Other/) |[Valuable Pack](/shop/Valuable Pack_162) |  | 
+  | 112 |  [Other](/shop/Shop Other/) |[Normal Pack](/shop/Normal Pack_163) |  | 
+  | 113 |  [Other](/shop/Shop Other/) |[Advance Pack](/shop/Advance Pack_164) |  | 
+  | 114 |  [Other](/shop/Shop Other/) |[Premium Pack](/shop/Premium Pack_165) |  | 
+  | 115 |  [Other](/shop/Shop Other/) |[Super Pack](/shop/Super Pack_166) |  | 
+  | 116 |  [Other](/shop/Shop Other/) |[Free](/shop/Free_167) |  | 
+  | 117 |  [Other](/shop/Shop Other/) |[Valuable Pack](/shop/Valuable Pack_168) |  | 
+  | 118 |  [Other](/shop/Shop Other/) |[Normal Pack](/shop/Normal Pack_169) |  | 
+  | 119 |  [Other](/shop/Shop Other/) |[Advance Pack](/shop/Advance Pack_170) |  | 
+  | 120 |  [Other](/shop/Shop Other/) |[Premium Pack](/shop/Premium Pack_171) |  | 
+  | 121 |  [Other](/shop/Shop Other/) |[Super Pack](/shop/Super Pack_172) |  | 

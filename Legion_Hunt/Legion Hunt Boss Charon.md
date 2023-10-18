@@ -2,7 +2,7 @@
 title: "Legion Hunt Boss Charon"
 permalink: /Legion_Hunt/Legion Hunt Boss Charon/
 excerpt: "Wing Fighter Legion Hunt Boss Charon"
-last_modified_at: 2023-09-13
+last_modified_at: 2023-10-18
 locale: en
 ref: "Legion Hunt Boss Charon.md"
 toc: false

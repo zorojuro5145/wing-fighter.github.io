@@ -2,7 +2,7 @@
 title: "Talents"
 permalink: /talent/
 excerpt: "Wing Fighter Talent"
-last_modified_at: 2023-09-07
+last_modified_at: 2023-10-18
 locale: en
 ref: "index.md"
 toc: false

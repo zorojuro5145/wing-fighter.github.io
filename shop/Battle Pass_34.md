@@ -2,7 +2,7 @@
 title: "Shop Battle Pass"
 permalink: /shop/Battle Pass_34/
 excerpt: "Wing Fighter Battle Pass"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-10-18
 locale: en
 ref: "Battle Pass_34.md"
 toc: false

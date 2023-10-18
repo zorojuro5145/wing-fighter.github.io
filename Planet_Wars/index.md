@@ -2,7 +2,7 @@
 title: "Planet Wars"
 permalink: /Planet_Wars/
 excerpt: "Wing Fighter Planet Wars"
-last_modified_at: 2023-09-10
+last_modified_at: 2023-10-18
 locale: en
 ref: "index.md"
 toc: false
@@ -76,12 +76,13 @@ classes: wide
 **Occupation Rules**
 
 
-  1. Unoccupied planets can be directly occupied. Defeating the occupiers can gain the right to occupy the planet. After defeating the opponent, the player has 1 minute to decide whether to occupy the planet. If no choice is made for more than 1 minute, the player will lose the right to occupy.<br/>
+  1. Unoccupied planets can be directly occupied, and players can gain the right to occupy a planet by defeating its occupants. Players need to defeat the opponent and decide whether to occupy within 1 minute after initiating an attack. If no choice is made for more than 1 minute, the player will lose the right to occupy.<br/>
   2. Lv.1 to Lv.3 planets have a 1-hour protection period after occupation, during which time they cannot be attacked by other players. Lv.4 and Lv.5 planets have no protection period after occupation.<br/>
-  3. Each player can only occupy at most 1 planet at the same time.<br/>
-  4. Each planet can be occupied for up to 8 hours each time. The planet will be in an unoccupied state after the occupation time reaches 8 hours.<br/>
-  5. The higher the planet level, the higher the rare earth output. The higher the legion tier, the higher the planet's output.<br/>
-  6. Occupying a planet will consume 1 occupation attempt. The occupation attempt will recover over time. And diamonds can be used to purchase occupation attempts.<br/>
+  3. After giving up the occupation of a level 1, 2 and 3 planet, you cannot reoccupy it within 10 minutes.<br/>
+  4. Each player can only occupy at most 1 planet at the same time.<br/>
+  5. Each planet can be occupied for up to 8 hours each time. The planet will be in an unoccupied state after the occupation time reaches 8 hours.<br/>
+  6. The higher the planet level, the higher the rare earth output. The higher the legion tier, the higher the planet's output.<br/>
+  7. Occupying a planet will consume 1 occupation attempt. The occupation attempt will recover over time. And diamonds can be used to purchase occupation attempts.<br/>
 
 
 **Ranking Rewards**
