@@ -22,7 +22,7 @@ sidebar:
 
 <img src="/images/NewBOSS.jpeg" alt="New SSR Destroyer Titan"/>
 
-New SSR Set:
+**New SSR Set:**
 
 * Name: Destroyer (translated from Chinese, could be different name)
 
@@ -35,12 +35,12 @@ New SSR Set:
 * Description: Destroyer, bringing chaos and destruction to the world again and again. But he was not the personification of malice, and his arrival often heralded new beginnings. He is a light in the darkness, a new life after destruction!
 
 
-New Titan Boss:
+**New Titan Boss:**
 
 * Introduction: In the depths of the ocean, Kraken of the North is sleeping. This dangerous and powerful opponent is the sea octopus monster, with her terrible tentacles prey on innocent people. She is not only cunning, but also full of destructive power, once the rage, everything on the sea will be destroyed in a moment. So be sure to protect yourself - be careful of her tentacles!
 
 
-* Please note: The Titans Challenge season starts at 0: 00 on October 17. This season the damage done to Titan Kraken will increase by 100% after wearing the Destroyer 5 Piece Suit.
+* Please note: The Titans Challenge season starts at 000 on 24 October. This season the damage done to Titan Kraken will increase by 100% after wearing the Destroyer 5 Piece Suit.
 
 
 {% include video id="NIn-Tq7fwbE" provider="youtube" %}
