@@ -2,7 +2,7 @@
 title: "Equipment Ultimate - Ultimate Laser"
 permalink: /equipment/Ultimate - Ultimate Laser/
 excerpt: "Wing Fighter Equipment Ultimate - Ultimate Laser"
-last_modified_at: 2023-09-26
+last_modified_at: 2023-10-18
 locale: en
 ref: "Ultimate - Ultimate Laser.md"
 toc: false

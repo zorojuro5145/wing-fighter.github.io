@@ -2,7 +2,7 @@
 title: "Gem Anti-Air Gem +3"
 permalink: /gem/Anti-Air Gem_3/
 excerpt: "Wing Fighter Gem Anti-Air Gem +3"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-10-18
 locale: en
 ref: "Anti-Air Gem_3.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Gear Set Thor"
 permalink: /gear_set/Thor
 excerpt: "Wing Fighter Gear Set Thor"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-10-18
 locale: en
 ref: "Thor.md"
 toc: false
@@ -19,7 +19,7 @@ sidebar:
 
  **Name:** [Thor](/gear_set/Thor) 
 
- **Description:** Equip all five Thor gears can <span style="color: #FF502E">transform into</span><br/><span style="color: #000000;"> Thor Titan in battle!</span> 
+ **Description:** Equip five Thor gears can <span style="color: #FF502E">transform into</span><br/><span style="color: #000000;"> Thor Titan in battle!</span> 
 
  **Fighter:** ![Thor](/images/ship/fj_img102_p.png) [Thor](/fighter/Thor) 
 

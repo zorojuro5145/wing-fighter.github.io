@@ -2,7 +2,7 @@
 title: "Fighter Arrow"
 permalink: /fighter/Arrow/
 excerpt: "Wing Fighter Arrow"
-last_modified_at: 2023-09-12
+last_modified_at: 2023-10-18
 locale: en
 ref: "Arrow.md"
 toc: false
@@ -16,7 +16,7 @@ classes: wide
 
  **Rarity:** SR 
 
- **Attack type:** ![Physical](/images/common_sx_icon9.png) Physical 
+ **Attack type:** ![Energy](/images/common_sx_icon8.png) Energy 
 
  **Attack:** +150
 

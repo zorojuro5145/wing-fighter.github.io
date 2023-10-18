@@ -2,7 +2,7 @@
 title: "Gem Dodge Gem +4"
 permalink: /gem/Dodge Gem_4/
 excerpt: "Wing Fighter Gem Dodge Gem +4"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-10-18
 locale: en
 ref: "Dodge Gem_4.md"
 toc: false

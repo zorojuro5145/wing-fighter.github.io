@@ -2,7 +2,7 @@
 title: "Equipment HP"
 permalink: /equipment/Equipment HP/
 excerpt: "Wing Fighter Equipment HP"
-last_modified_at: 2023-09-26
+last_modified_at: 2023-10-18
 locale: en
 ref: "Equipment HP.md"
 toc: false
@@ -24,5 +24,6 @@ classes: wide
   | 6 | ![Forcefield Armor](/images/equipment/zhuangjia3_p.png) | [Forcefield Armor](/equipment/Forcefield Armor) | Chance to dodge enemies attack | ![Physical](/images/common_sx_icon9.png) | 
   | 8 | ![HP Restore Armor](/images/equipment/zhuangjia4_p.png) | [HP Restore Armor](/equipment/HP Restore Armor) | Recovery effect of Red Heart +20% | ![Energy](/images/common_sx_icon8.png) | 
   | 10 | ![Shock Armor](/images/equipment/zhuangjia5_p.png) | [Shock Armor](/equipment/Shock Armor) | Generate shock waves every 10 seconds around the fighter, dealing damage to up to 10 enemies | ![Physical](/images/common_sx_icon9.png) | 
-  | 13 | ![Thor Armor](/images/equipment/zhuangjia7_p.png) | [Thor Armor](/equipment/Thor Armor) | Form a ring lightning that revolves around the fighter, dealing damage to enemies it touches | ![Energy](/images/common_sx_icon8.png) | 
-  | 15 | ![Conqueror Armor](/images/equipment/zhuangjia6_p.png) | [Conqueror Armor](/equipment/Conqueror Armor) | Two blade shields around the fighter can resist once damage. The blade can be restored after a period of disappearance. | ![Physical](/images/common_sx_icon9.png) | 
+  | 12 | ![Destroyer Armor](/images/equipment/zhuangjia8_p.png) | [Destroyer Armor](/equipment/Destroyer Armor) | A force field forms around the fighter, causing a slowing effect on enemy bullet | ![Energy](/images/common_sx_icon8.png) | 
+  | 15 | ![Thor Armor](/images/equipment/zhuangjia7_p.png) | [Thor Armor](/equipment/Thor Armor) | Form a ring lightning that revolves around the fighter, dealing damage to enemies it touches | ![Energy](/images/common_sx_icon8.png) | 
+  | 18 | ![Conqueror Armor](/images/equipment/zhuangjia6_p.png) | [Conqueror Armor](/equipment/Conqueror Armor) | Two blade shields around the fighter can resist once damage. The blade can be restored after a period of disappearance. | ![Physical](/images/common_sx_icon9.png) | 

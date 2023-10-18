@@ -2,7 +2,7 @@
 title: "Equipment SSR Maingun"
 permalink: /equipment/Equipment SSR Maingun/
 excerpt: "Wing Fighter Equipment SSR Maingun"
-last_modified_at: 2023-09-26
+last_modified_at: 2023-10-18
 locale: en
 ref: "Equipment SSR Maingun.md"
 toc: false
@@ -19,5 +19,6 @@ classes: wide
 
   |  Nr | Icon |      Equipment        |   Description   | Attack Type |
   |:----|:----:|:---------------:|:---------------:|:---:|
-  | 18 | ![Thor Maingun](/images/equipment/zhupao7_p.png) | [Thor Maingun](/equipment/Thor Maingun) | Continuously launch lightning towards the front fan-shaped area | ![Energy](/images/common_sx_icon8.png) | 
-  | 20 | ![Conqueror Maingun](/images/equipment/zhupao6_p.png) | [Conqueror Maingun](/equipment/Conqueror Maingun) | High attack rate with high damage | ![Physical](/images/common_sx_icon9.png) | 
+  | 19 | ![Destroyer Maingun](/images/equipment/zhupao8_p.png) | [Destroyer Maingun](/equipment/Destroyer Maingun) | Rapidly launch laser forward, penetrating all enemies | ![Energy](/images/common_sx_icon8.png) | 
+  | 22 | ![Thor Maingun](/images/equipment/zhupao7_p.png) | [Thor Maingun](/equipment/Thor Maingun) | Continuously launch lightning towards the front fan-shaped area | ![Energy](/images/common_sx_icon8.png) | 
+  | 24 | ![Conqueror Maingun](/images/equipment/zhupao6_p.png) | [Conqueror Maingun](/equipment/Conqueror Maingun) | High attack rate with high damage | ![Physical](/images/common_sx_icon9.png) | 

@@ -2,7 +2,7 @@
 title: "Equipment Hardened Armor"
 permalink: /equipment/Hardened Armor/
 excerpt: "Wing Fighter Equipment Hardened Armor"
-last_modified_at: 2023-09-26
+last_modified_at: 2023-10-18
 locale: en
 ref: "Hardened Armor.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Gear Set"
 permalink: /gear_set/
 excerpt: "Wing Fighter Gear Set"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-10-18
 locale: en
 ref: "index.md"
 toc: false
@@ -51,6 +51,25 @@ sidebar:
  **Missile:** ![Thor Missile](/images/equipment/daodan6_p.png) [Thor Missile](/equipment/Thor Missile) 
 
  **Armor:** ![Thor Armor](/images/equipment/zhuangjia7_p.png) [Thor Armor](/equipment/Thor Armor) 
+
+
+
+
+## Destroyer
+
+ **Icon:** ![Destroyer](/images/suit_icon_3_p.png) 
+
+ **More info:** [Destroyer](/gear_set/Destroyer) 
+
+ **Fighter:** ![Destroyer Fighter](/images/ship/fj_img103_p.png) [Destroyer Fighter](/fighter/Destroyer Fighter) 
+
+ **Maingun:** ![Destroyer Maingun](/images/equipment/zhupao8_p.png) [Destroyer Maingun](/equipment/Destroyer Maingun) 
+
+ **Winggun:** ![Destroyer Winggun](/images/equipment/fupao8_p.png) [Destroyer Winggun](/equipment/Destroyer Winggun) 
+
+ **Missile:** ![Destroyer Missile](/images/equipment/daodan7_p.png) [Destroyer Missile](/equipment/Destroyer Missile) 
+
+ **Armor:** ![Destroyer Armor](/images/equipment/zhuangjia8_p.png) [Destroyer Armor](/equipment/Destroyer Armor) 
 
 
 

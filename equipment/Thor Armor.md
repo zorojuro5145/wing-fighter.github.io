@@ -2,7 +2,7 @@
 title: "Equipment Thor Armor"
 permalink: /equipment/Thor Armor/
 excerpt: "Wing Fighter Equipment Thor Armor"
-last_modified_at: 2023-09-26
+last_modified_at: 2023-10-18
 locale: en
 ref: "Thor Armor.md"
 toc: false

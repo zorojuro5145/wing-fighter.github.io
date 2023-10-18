@@ -2,7 +2,7 @@
 title: "Fighter NightWing"
 permalink: /fighter/NightWing/
 excerpt: "Wing Fighter NightWing"
-last_modified_at: 2023-09-12
+last_modified_at: 2023-10-18
 locale: en
 ref: "NightWing.md"
 toc: false

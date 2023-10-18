@@ -2,7 +2,7 @@
 title: "Gear Set Conqueror"
 permalink: /gear_set/Conqueror
 excerpt: "Wing Fighter Gear Set Conqueror"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-10-18
 locale: en
 ref: "Conqueror.md"
 toc: false
@@ -19,7 +19,7 @@ sidebar:
 
  **Name:** [Conqueror](/gear_set/Conqueror) 
 
- **Description:** Equip all five Conqueror gears can <span style="color: #FF502E">transform into</span><br/><span style="color: #000000;"> Conqueror Titan in battle!</span> 
+ **Description:** Equip five Conqueror gears can <span style="color: #FF502E">transform into</span><br/><span style="color: #000000;"> Conqueror Titan in battle!</span> 
 
  **Fighter:** ![Conqueror](/images/ship/fj_img101_p.png) [Conqueror](/fighter/Conqueror) 
 

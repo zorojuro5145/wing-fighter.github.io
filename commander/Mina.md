@@ -2,7 +2,7 @@
 title: "Commander Mina"
 permalink: /commander/Mina/
 excerpt: "Wing Fighter Mina"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-10-18
 locale: en
 ref: "Mina.md"
 toc: false

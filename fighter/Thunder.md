@@ -2,7 +2,7 @@
 title: "Fighter Thunder"
 permalink: /fighter/Thunder/
 excerpt: "Wing Fighter Thunder"
-last_modified_at: 2023-09-12
+last_modified_at: 2023-10-18
 locale: en
 ref: "Thunder.md"
 toc: false
@@ -16,7 +16,7 @@ classes: wide
 
  **Rarity:** SR 
 
- **Attack type:** ![Energy](/images/common_sx_icon8.png) Energy 
+ **Attack type:** ![Physical](/images/common_sx_icon9.png) Physical 
 
  **Attack:** +150
 

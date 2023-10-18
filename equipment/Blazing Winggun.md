@@ -2,7 +2,7 @@
 title: "Equipment Blazing Winggun"
 permalink: /equipment/Blazing Winggun/
 excerpt: "Wing Fighter Equipment Blazing Winggun"
-last_modified_at: 2023-09-26
+last_modified_at: 2023-10-18
 locale: en
 ref: "Blazing Winggun.md"
 toc: false
