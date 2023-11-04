@@ -2,7 +2,7 @@
 title: "Pilot Juliet"
 permalink: /pilots/Juliet/
 excerpt: "Wing Fighter Juliet"
-last_modified_at: 2023-10-18
+last_modified_at: 2023-11-04
 locale: en
 ref: "Juliet.md"
 toc: false

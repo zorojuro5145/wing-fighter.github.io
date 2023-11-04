@@ -1,30 +1,30 @@
 ---
-title: "Pilot Achilles"
-permalink: /pilots/Achilles/
-excerpt: "Wing Fighter Achilles"
+title: "Pilot Balder"
+permalink: /pilots/Balder/
+excerpt: "Wing Fighter Balder"
 last_modified_at: 2023-11-04
 locale: en
-ref: "Achilles.md"
+ref: "Balder.md"
 toc: false
 classes: wide
 ---
 
 
- ![Achilles](/images/pilots/aviator_piece_3003.png)
+ ![Balder](/images/pilots/aviator_piece_3005.png)
 
 ## Details
 
- **Skill:** For every 100 strong foes killed, the attack on strong foes + <span style="color: #03ff6b">YY</span><br/><span style="color: #000000;"></span> 
+ **Skill:** For every 3 resource refreshes at the Collection Center, Winggun attack + <span style="color: #03ff6b">YY</span><br/><span style="color: #000000;"></span> 
 
  **Attributes:** **Physical Defense Break** and **Energy Defense**
 
- **Shard:** ![Achilles Shard](/images/pilots/Achilles_Shard_p.png)Achilles Shard 
+ **Shard:** ![Balder Shard](/images/pilots/Balder_Shard_p.png)Balder Shard 
 
  **To get full pilot You need:** **20** shards 
 
  **Rarity:** N 
 
- **Extra Power:** +408 
+ **Extra Power:** +410 
 
 
 
@@ -32,17 +32,17 @@ classes: wide
 
   |  Level | Effective Amount: |     Total Bonus:    | Total Power |
   |:----|:-----:|:-------------------:|:-------:|
-  | +**0**  | **3**  | For every 100 strong foes killed, the attack on strong foes + <span style="color: #03ff6b">12</span><br/><span style="color: #000000;"></span>  | + **10** |
-  | +**1**  | **6**  | For every 100 strong foes killed, the attack on strong foes + <span style="color: #03ff6b">27</span><br/><span style="color: #000000;"></span>  | + **25** |
-  | +**2**  | **9**  | For every 100 strong foes killed, the attack on strong foes + <span style="color: #03ff6b">45</span><br/><span style="color: #000000;"></span>  | + **45** |
-  | +**3**  | **12**  | For every 100 strong foes killed, the attack on strong foes + <span style="color: #03ff6b">66</span><br/><span style="color: #000000;"></span>  | + **70** |
-  | +**4**  | **15**  | For every 100 strong foes killed, the attack on strong foes + <span style="color: #03ff6b">90</span><br/><span style="color: #000000;"></span>  | + **100** |
-  | +**5**  | **18**  | For every 100 strong foes killed, the attack on strong foes + <span style="color: #03ff6b">117</span><br/><span style="color: #000000;"></span>  | + **140** |
-  | +**6**  | **21**  | For every 100 strong foes killed, the attack on strong foes + <span style="color: #03ff6b">147</span><br/><span style="color: #000000;"></span>  | + **190** |
-  | +**7**  | **24**  | For every 100 strong foes killed, the attack on strong foes + <span style="color: #03ff6b">181</span><br/><span style="color: #000000;"></span>  | + **250** |
-  | +**8**  | **27**  | For every 100 strong foes killed, the attack on strong foes + <span style="color: #03ff6b">219</span><br/><span style="color: #000000;"></span>  | + **360** |
-  | +**9**  | **30**  | For every 100 strong foes killed, the attack on strong foes + <span style="color: #03ff6b">261</span><br/><span style="color: #000000;"></span>  | + **520** |
-  | +**10**  | **33**  | For every 100 strong foes killed, the attack on strong foes + <span style="color: #03ff6b">307</span><br/><span style="color: #000000;"></span>  | + **741** |
+  | +**0**  | **3**  | For every 3 resource refreshes at the Collection Center, Winggun attack + <span style="color: #03ff6b">12</span><br/><span style="color: #000000;"></span>  | + **10** |
+  | +**1**  | **6**  | For every 3 resource refreshes at the Collection Center, Winggun attack + <span style="color: #03ff6b">27</span><br/><span style="color: #000000;"></span>  | + **25** |
+  | +**2**  | **9**  | For every 3 resource refreshes at the Collection Center, Winggun attack + <span style="color: #03ff6b">45</span><br/><span style="color: #000000;"></span>  | + **45** |
+  | +**3**  | **12**  | For every 3 resource refreshes at the Collection Center, Winggun attack + <span style="color: #03ff6b">66</span><br/><span style="color: #000000;"></span>  | + **70** |
+  | +**4**  | **15**  | For every 3 resource refreshes at the Collection Center, Winggun attack + <span style="color: #03ff6b">90</span><br/><span style="color: #000000;"></span>  | + **100** |
+  | +**5**  | **18**  | For every 3 resource refreshes at the Collection Center, Winggun attack + <span style="color: #03ff6b">117</span><br/><span style="color: #000000;"></span>  | + **140** |
+  | +**6**  | **21**  | For every 3 resource refreshes at the Collection Center, Winggun attack + <span style="color: #03ff6b">147</span><br/><span style="color: #000000;"></span>  | + **190** |
+  | +**7**  | **24**  | For every 3 resource refreshes at the Collection Center, Winggun attack + <span style="color: #03ff6b">181</span><br/><span style="color: #000000;"></span>  | + **250** |
+  | +**8**  | **27**  | For every 3 resource refreshes at the Collection Center, Winggun attack + <span style="color: #03ff6b">219</span><br/><span style="color: #000000;"></span>  | + **360** |
+  | +**9**  | **30**  | For every 3 resource refreshes at the Collection Center, Winggun attack + <span style="color: #03ff6b">261</span><br/><span style="color: #000000;"></span>  | + **520** |
+  | +**10**  | **33**  | For every 3 resource refreshes at the Collection Center, Winggun attack + <span style="color: #03ff6b">307</span><br/><span style="color: #000000;"></span>  | + **741** |
 
 
 
@@ -72,10 +72,10 @@ classes: wide
   | ![Star 0](/images/s0.png)  | Physical Defense Break: +5, Energy Defense: +5  | *0.0  | -  | -  |  |
   | ![Star1](/images/s1.png)  | Physical Defense Break: +10, Energy Defense: +10  | *0.1  | -  | **20x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  |
   | ![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +15, Energy Defense: +15  | *0.2  | -  | **40x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +20, Energy Defense: +20  | *0.3  | -  | **80x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **30x**![Achilles Shard](/images/pilots/Achilles_Shard_p.png)Achilles Shard  |  |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +25, Energy Defense: +25  | *0.4  | -  | **120x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **60x**![Achilles Shard](/images/pilots/Achilles_Shard_p.png)Achilles Shard  |  |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +30, Energy Defense: +30  | *0.5  | -  | **200x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **90x**![Achilles Shard](/images/pilots/Achilles_Shard_p.png)Achilles Shard  |  |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +40, Energy Defense: +40  | *0.7  | -  | **600x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **120x**![Achilles Shard](/images/pilots/Achilles_Shard_p.png)Achilles Shard  |  |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +20, Energy Defense: +20  | *0.3  | -  | **80x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **30x**![Balder Shard](/images/pilots/Balder_Shard_p.png)Balder Shard  |  |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +25, Energy Defense: +25  | *0.4  | -  | **120x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **60x**![Balder Shard](/images/pilots/Balder_Shard_p.png)Balder Shard  |  |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +30, Energy Defense: +30  | *0.5  | -  | **200x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **90x**![Balder Shard](/images/pilots/Balder_Shard_p.png)Balder Shard  |  |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +40, Energy Defense: +40  | *0.7  | -  | **600x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **120x**![Balder Shard](/images/pilots/Balder_Shard_p.png)Balder Shard  |  |
   | AWAKED  | Physical Defense Break: +50, Energy Defense: +50  | *1.0  | -  | **900x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  ![N](/images/pilots/N_p.png) x1060 |
 
 

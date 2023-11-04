@@ -2,7 +2,7 @@
 title: "Pilot Gunnlod"
 permalink: /pilots/Gunnlod/
 excerpt: "Wing Fighter Gunnlod"
-last_modified_at: 2023-10-18
+last_modified_at: 2023-11-04
 locale: en
 ref: "Gunnlod.md"
 toc: false
