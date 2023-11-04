@@ -2,7 +2,7 @@
 title: "Equipment Attack"
 permalink: /equipment/Equipment Attack/
 excerpt: "Wing Fighter Equipment Attack"
-last_modified_at: 2023-10-18
+last_modified_at: 2023-11-04
 locale: en
 ref: "Equipment Attack.md"
 toc: false
@@ -28,7 +28,7 @@ classes: wide
   | 13 | ![Crescent Winggun](/images/equipment/fupao5_p.png) | [Crescent Winggun](/equipment/Crescent Winggun) | Crescent-shaped barrage, gradually enlarging with the firing distance. | ![Physical](/images/common_sx_icon9.png) | 
   | 14 | ![Destroyer Missile](/images/equipment/daodan7_p.png) | [Destroyer Missile](/equipment/Destroyer Missile) | Launch a cutting beam to slice enemies within range after hitting the enemy | ![Energy](/images/common_sx_icon8.png) | 
   | 16 | ![Destroyer Winggun](/images/equipment/fupao8_p.png) | [Destroyer Winggun](/equipment/Destroyer Winggun) | Launch two energy balls, causing damage upon hitting enemies | ![Energy](/images/common_sx_icon8.png) | 
-  | 17 | ![Thor Missile](/images/equipment/daodan6_p.png) | [Thor Missile](/equipment/Thor Missile) | Attract thunder from the atmosphere after hitting the enemy, dealing a heavy blow to the enemy | ![Energy](/images/common_sx_icon8.png) | 
+  | 17 | ![Thor Missile](/images/equipment/daodan6_p.png) | [Thor Missile](/equipment/Thor Missile) | Attract thunderbolt from the atmosphere after hitting the enemy, dealing a heavy blow to the enemy | ![Energy](/images/common_sx_icon8.png) | 
   | 19 | ![Destroyer Maingun](/images/equipment/zhupao8_p.png) | [Destroyer Maingun](/equipment/Destroyer Maingun) | Rapidly launch laser forward, penetrating all enemies | ![Energy](/images/common_sx_icon8.png) | 
   | 20 | ![Thor Winggun](/images/equipment/fupao7_p.png) | [Thor Winggun](/equipment/Thor Winggun) | Launch 2 lightning balls, forming a lightning force field after hitting the enemy, dealing damage to passing enemies | ![Energy](/images/common_sx_icon8.png) | 
   | 21 | ![Conqueror Missile](/images/equipment/daodan5_p.png) | [Conqueror Missile](/equipment/Conqueror Missile) | Cluster missiles that can release many homing missiles after exploding | ![Physical](/images/common_sx_icon9.png) | 
@@ -41,9 +41,9 @@ classes: wide
   | 28 | ![Rocket Drone](/images/equipment/wurenji2_p.png) | [Rocket Drone](/equipment/Rocket Drone) | Launch a mini missile that seeks targets automatically | ![Physical](/images/common_sx_icon9.png) | 
   | 29 | ![High-Explosive Missile](/images/equipment/daodan2_p.png) | [High-Explosive Missile](/equipment/High-Explosive Missile) | Blast after hitting the target, dealing splash damage to surrounding enemies | ![Physical](/images/common_sx_icon9.png) | 
   | 30 | ![Heavy Machine Gun](/images/equipment/zhupao1_p.png) | [Heavy Machine Gun](/equipment/Heavy Machine Gun) | Wide firing range. | ![Physical](/images/common_sx_icon9.png) | 
-  | 31 | ![Lightning Missile](/images/equipment/daodan3_p.png) | [Lightning Missile](/equipment/Lightning Missile) | Shoot a lighting ball, dealing damage to all enemies in its path | ![Energy](/images/common_sx_icon8.png) | 
+  | 31 | ![Lightning Missile](/images/equipment/daodan3_p.png) | [Lightning Missile](/equipment/Lightning Missile) | Shoot a lightning ball, dealing damage to all enemies in its path | ![Energy](/images/common_sx_icon8.png) | 
   | 32 | ![Laser Gun](/images/equipment/zhupao2_p.png) | [Laser Gun](/equipment/Laser Gun) | Focused damage straight ahead | ![Energy](/images/common_sx_icon8.png) | 
   | 33 | ![Energy-Gathered Missile](/images/equipment/daodan4_p.png) | [Energy-Gathered Missile](/equipment/Energy-Gathered Missile) | Launch energy missiles capable of tracking and penetrating targets. | ![Energy](/images/common_sx_icon8.png) | 
   | 34 | ![Railgun](/images/equipment/zhupao3_p.png) | [Railgun](/equipment/Railgun) | Low attack rate but insane damage | ![Energy](/images/common_sx_icon8.png) | 
-  | 35 | ![Batarang Gun](/images/equipment/zhupao4_p.png) | [Batarang Gun](/equipment/Batarang Gun) | Mid attack rate. Deal damage to multiple enemies | ![Physical](/images/common_sx_icon9.png) | 
+  | 35 | ![Batarang Gun](/images/equipment/zhupao4_p.png) | [Batarang Gun](/equipment/Batarang Gun) | Moderate attack rate. Deal damage to multiple enemies | ![Physical](/images/common_sx_icon9.png) | 
   | 36 | ![Blast Shotgun](/images/equipment/zhupao5_p.png) | [Blast Shotgun](/equipment/Blast Shotgun) | Increase damage against closer targets | ![Physical](/images/common_sx_icon9.png) | 

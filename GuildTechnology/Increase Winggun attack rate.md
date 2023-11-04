@@ -2,7 +2,7 @@
 title: "Legion Technology Increase Winggun attack rate"
 permalink: /GuildTechnology/Increase Winggun attack rate/
 excerpt: "Wing Fighter Legion TechnologyIncrease Winggun attack rate"
-last_modified_at: 2023-10-18
+last_modified_at: 2023-11-04
 locale: en
 ref: "Increase Winggun attack rate.md"
 toc: false

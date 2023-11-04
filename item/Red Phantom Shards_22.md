@@ -2,7 +2,7 @@
 title: "Red Phantom Shards"
 permalink: /item/Red Phantom Shards_22/
 excerpt: "Wing Fighter Red Phantom Shards"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-11-04
 locale: en
 ref: "Red Phantom Shards_22.md"
 toc: false

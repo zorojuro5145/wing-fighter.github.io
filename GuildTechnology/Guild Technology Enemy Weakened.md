@@ -2,7 +2,7 @@
 title: "Guild Technology Enemy Weakened"
 permalink: /GuildTechnology/Guild Technology Enemy Weakened/
 excerpt: "Wing Fighter Guild TechnologyEnemy Weakened"
-last_modified_at: 2023-10-18
+last_modified_at: 2023-11-04
 locale: en
 ref: "Guild Technology Enemy Weakened.md"
 toc: false

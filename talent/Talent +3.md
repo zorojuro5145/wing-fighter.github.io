@@ -2,7 +2,7 @@
 title: "Talent +3"
 permalink: /talent/Talent +3/
 excerpt: "Wing Fighter Talent +3"
-last_modified_at: 2023-10-18
+last_modified_at: 2023-11-04
 locale: en
 ref: "Talent +3.md"
 toc: false
@@ -25,7 +25,7 @@ classes: wide
   | 4 | ![Attack Rate](/images/talent/Talent_4_p.png) | [Attack Rate](/talent/Attack Rate) | Increase Attack Rate | 
   | 6 | ![Idle Reward](/images/talent/Talent_6_p.png) | [Idle Reward](/talent/Idle Reward) | Get More Stars From Idling | 
   | 7 | ![Healing Heart](/images/talent/Talent_7_p.png) | [Healing Heart](/talent/Healing Heart) | Increase the effect of Healing Heart | 
-  | 8 | ![Equipment](/images/talent/Talent_8_p.png) | [Equipment](/talent/Equipment) | Improve Equipment Attributes | 
+  | 8 | ![Equipment](/images/talent/Talent_8_p.png) | [Equipment](/talent/Equipment) | Improve Equipment Base Attributes | 
   | 9 | ![Physical Defense Break](/images/talent/Talent_9_p.png) | [Physical Defense Break](/talent/Physical Defense Break) | Increase the final damage of the physical attack | 
   | 10 | ![Physical Defense](/images/talent/Talent_10_p.png) | [Physical Defense](/talent/Physical Defense) | Reduce the final damage of the enemy's physical attack | 
   | 11 | ![Energy Defense Break](/images/talent/Talent_11_p.png) | [Energy Defense Break](/talent/Energy Defense Break) | Increase the final damage of the energy attack | 

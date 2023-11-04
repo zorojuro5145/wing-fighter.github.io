@@ -2,7 +2,7 @@
 title: "Random Modules"
 permalink: /item/Random Modules_71/
 excerpt: "Wing Fighter Random Modules"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-11-04
 locale: en
 ref: "Random Modules_71.md"
 toc: false

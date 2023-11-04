@@ -2,7 +2,7 @@
 title: "Collection Center Fighter Shard +4"
 permalink: /CollectionCenter/Fighter Shard_4/
 excerpt: "Wing Fighter Collection CenterFighter Shard +4"
-last_modified_at: 2023-10-18
+last_modified_at: 2023-11-04
 locale: en
 ref: "Fighter Shard_4.md"
 toc: false

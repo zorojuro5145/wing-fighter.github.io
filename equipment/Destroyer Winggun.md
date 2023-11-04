@@ -2,7 +2,7 @@
 title: "Equipment Destroyer Winggun"
 permalink: /equipment/Destroyer Winggun/
 excerpt: "Wing Fighter Equipment Destroyer Winggun"
-last_modified_at: 2023-10-18
+last_modified_at: 2023-11-04
 locale: en
 ref: "Destroyer Winggun.md"
 toc: false

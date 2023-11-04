@@ -2,7 +2,7 @@
 title: "Recruitment Ticket"
 permalink: /item/Recruitment Ticket_88/
 excerpt: "Wing Fighter Recruitment Ticket"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-11-04
 locale: en
 ref: "Recruitment Ticket_88.md"
 toc: false
@@ -18,7 +18,7 @@ classes: wide
 
  **Name:** Recruitment Ticket 
 
- **Description:** Used to recruit pilot
+ **Description:** Can only be used in Pilot Recruitment. Cannot be used in Limited Time Recruitment. 
 
  **Rarity:** 4 
 

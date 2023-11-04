@@ -2,7 +2,7 @@
 title: "Module Crate Key"
 permalink: /item/Module Crate Key_29/
 excerpt: "Wing Fighter Module Crate Key"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-11-04
 locale: en
 ref: "Module Crate Key_29.md"
 toc: false

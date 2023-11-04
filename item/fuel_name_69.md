@@ -2,7 +2,7 @@
 title: "fuel_name_69"
 permalink: /item/fuel_name_69/
 excerpt: "Wing Fighter fuel_name_69"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-11-04
 locale: en
 ref: "fuel_name_69.md"
 toc: false

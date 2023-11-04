@@ -2,7 +2,7 @@
 title: "Selectable Fighter Shard Chest"
 permalink: /item/Selectable Fighter Shard Chest_112/
 excerpt: "Wing Fighter Selectable Fighter Shard Chest"
-last_modified_at: 2023-10-18
+last_modified_at: 2023-11-04
 locale: en
 ref: "Selectable Fighter Shard Chest_112.md"
 toc: false

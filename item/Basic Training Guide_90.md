@@ -2,7 +2,7 @@
 title: "Basic Training Guide"
 permalink: /item/Basic Training Guide_90/
 excerpt: "Wing Fighter Basic Training Guide"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-11-04
 locale: en
 ref: "Basic Training Guide_90.md"
 toc: false

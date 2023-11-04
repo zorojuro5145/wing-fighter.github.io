@@ -2,7 +2,7 @@
 title: "Shop Conqueror Chest"
 permalink: /shop/Conqueror Chest_28/
 excerpt: "Wing Fighter Conqueror Chest"
-last_modified_at: 2023-10-18
+last_modified_at: 2023-11-04
 locale: en
 ref: "Conqueror Chest_28.md"
 toc: false
@@ -28,29 +28,32 @@ classes: wide
 
   |  Nr | Drop Rate, %  |    Drop Item     |
   |:----|:-------------:|:-----------------|
-  | 1 | 1.5 | <span style="color: #006ffd">Rare Conqueror Equipment</span><br/><span style="color: #000000;"></span> | 
-  | 2 | 1.5 | <span style="color: #006ffd">Rare Thor Equipment</span><br/><span style="color: #000000;"></span> | 
-  | 3 | 0.15 | <span style="color: #c2000e">Conqueror Fighter</span><br/><span style="color: #000000;"></span> | 
-  | 4 | 0.15 | <span style="color: #c2000e">Thor Fighter</span><br/><span style="color: #000000;"></span> | 
-  | 5 | 0.9 | <span style="color: #c2000e">Conqueror Fighter Shard×5</span><br/><span style="color: #000000;"></span> | 
-  | 6 | 0.9 | <span style="color: #c2000e">Thor Fighter Shard×5</span><br/><span style="color: #000000;"></span> | 
-  | 7 | 0.4 | <span style="color: #9f00d7">Epic Equipment</span><br/><span style="color: #000000;"></span> | 
-  | 8 | 19.0 | <span style="color: #006ffd">Rare Equipment</span><br/><span style="color: #000000;"></span> | 
-  | 9 | 16.9 | <span style="color: #00b36d">Uncommon Equipment</span><br/><span style="color: #000000;"></span> | 
-  | 10 | 0.8 | <span style="color: #c2000e">SSR Fighter</span><br/><span style="color: #000000;"></span> | 
-  | 11 | 7.0 | <span style="color: #ea7500">SR Fighter</span><br/><span style="color: #000000;"></span> | 
-  | 12 | 3.8 | <span style="color: #9f00d7">R Fighter</span><br/><span style="color: #000000;"></span> | 
-  | 13 | 1.9 | <span style="color: #006ffd">N Fighter</span><br/><span style="color: #000000;"></span> | 
-  | 14 | 2.4 | <span style="color: #c2000e">SSR Fighter Shard×5</span><br/><span style="color: #000000;"></span> | 
-  | 15 | 14.5 | <span style="color: #ea7500">SR Fighter Shard×5</span><br/><span style="color: #000000;"></span> | 
-  | 16 | 6.8 | <span style="color: #9f00d7">R Fighter Shard×5</span><br/><span style="color: #000000;"></span> | 
-  | 17 | 3.4 | <span style="color: #006ffd">N Fighter Shard×5</span><br/><span style="color: #000000;"></span> | 
-  | 18 | 3.0 | <span style="color: #c7c7c7">Module×60</span><br/><span style="color: #000000;"></span> | 
-  | 19 | 3.0 | <span style="color: #c7c7c7">Module×30</span><br/><span style="color: #000000;"></span> | 
-  | 20 | 3.0 | <span style="color: #c7c7c7">Alloy Plate×30</span><br/><span style="color: #000000;"></span> | 
-  | 21 | 3.0 | <span style="color: #c7c7c7">Alloy Plate×15</span><br/><span style="color: #000000;"></span> | 
-  | 22 | 3.0 | <span style="color: #c7c7c7">Star×8000</span><br/><span style="color: #000000;"></span> | 
-  | 23 | 3.0 | <span style="color: #c7c7c7">Star×4000</span><br/><span style="color: #000000;"></span> | 
+  | 1 | 1.0 | <span style="color: #006ffd">Rare Conqueror Equipment</span><br/><span style="color: #000000;"></span> | 
+  | 2 | 1.0 | <span style="color: #006ffd">Rare Thor Equipment</span><br/><span style="color: #000000;"></span> | 
+  | 3 | 1.0 | <span style="color: #006ffd">Rare Destroyer Equipment</span><br/><span style="color: #000000;"></span> | 
+  | 4 | 0.1 | <span style="color: #c2000e">Conqueror Fighter</span><br/><span style="color: #000000;"></span> | 
+  | 5 | 0.1 | <span style="color: #c2000e">Thor Fighter</span><br/><span style="color: #000000;"></span> | 
+  | 6 | 0.1 | <span style="color: #c2000e">Destroyer Fighter</span><br/><span style="color: #000000;"></span> | 
+  | 7 | 0.6 | <span style="color: #c2000e">Conqueror Fighter Shard×5</span><br/><span style="color: #000000;"></span> | 
+  | 8 | 0.6 | <span style="color: #c2000e">Thor Fighter Shard×5</span><br/><span style="color: #000000;"></span> | 
+  | 9 | 0.6 | <span style="color: #c2000e">Destroyer Fighter Shard ×5</span><br/><span style="color: #000000;"></span> | 
+  | 10 | 0.4 | <span style="color: #9f00d7">Epic Equipment</span><br/><span style="color: #000000;"></span> | 
+  | 11 | 19.0 | <span style="color: #006ffd">Rare Equipment</span><br/><span style="color: #000000;"></span> | 
+  | 12 | 16.9 | <span style="color: #00b36d">Uncommon Equipment</span><br/><span style="color: #000000;"></span> | 
+  | 13 | 0.8 | <span style="color: #c2000e">SSR Fighter</span><br/><span style="color: #000000;"></span> | 
+  | 14 | 7.0 | <span style="color: #ea7500">SR Fighter</span><br/><span style="color: #000000;"></span> | 
+  | 15 | 3.8 | <span style="color: #9f00d7">R Fighter</span><br/><span style="color: #000000;"></span> | 
+  | 16 | 1.9 | <span style="color: #006ffd">N Fighter</span><br/><span style="color: #000000;"></span> | 
+  | 17 | 2.4 | <span style="color: #c2000e">SSR Fighter Shard×5</span><br/><span style="color: #000000;"></span> | 
+  | 18 | 14.5 | <span style="color: #ea7500">SR Fighter Shard×5</span><br/><span style="color: #000000;"></span> | 
+  | 19 | 6.8 | <span style="color: #9f00d7">R Fighter Shard×5</span><br/><span style="color: #000000;"></span> | 
+  | 20 | 3.4 | <span style="color: #006ffd">N Fighter Shard×5</span><br/><span style="color: #000000;"></span> | 
+  | 21 | 3.0 | <span style="color: #c7c7c7">Module×60</span><br/><span style="color: #000000;"></span> | 
+  | 22 | 3.0 | <span style="color: #c7c7c7">Module×30</span><br/><span style="color: #000000;"></span> | 
+  | 23 | 3.0 | <span style="color: #c7c7c7">Alloy Plate×30</span><br/><span style="color: #000000;"></span> | 
+  | 24 | 3.0 | <span style="color: #c7c7c7">Alloy Plate×15</span><br/><span style="color: #000000;"></span> | 
+  | 25 | 3.0 | <span style="color: #c7c7c7">Star×8000</span><br/><span style="color: #000000;"></span> | 
+  | 26 | 3.0 | <span style="color: #c7c7c7">Star×4000</span><br/><span style="color: #000000;"></span> | 
 
 
 ## Items in Drop:

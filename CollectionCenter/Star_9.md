@@ -2,7 +2,7 @@
 title: "Collection Center Star +9"
 permalink: /CollectionCenter/Star_9/
 excerpt: "Wing Fighter Collection CenterStar +9"
-last_modified_at: 2023-10-18
+last_modified_at: 2023-11-04
 locale: en
 ref: "Star_9.md"
 toc: false

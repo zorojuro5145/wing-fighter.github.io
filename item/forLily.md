@@ -2,7 +2,7 @@
 title: "Wing Fighter Items"
 permalink: /item/forLily/
 excerpt: "Wing Fighter item"
-last_modified_at: 2023-09-07
+last_modified_at: 2023-11-04
 locale: en
 ref: "forLily.md"
 toc: false
@@ -39,17 +39,18 @@ classes: wide
   | 26 | ![Thane Shards](/images/item/Thane_Shards_p.png) | 1 | [Thane Shards](/item/Thane Shards_49/) | **2** | Used to evolve Thane | 6 | 121 | 
   | 27 | ![Conqueror Shard](/images/item/Conqueror_Shard_p.png) | 1 | [Conqueror Shard](/item/Conqueror Shard_101/) | **2** | Used to evolve Fighter Conqueror | 6 | 1101 | 
   | 28 | ![Thor fighter shard](/images/item/Thor_fighter_shard_p.png) | 1 | [Thor fighter shard](/item/Thor fighter shard_102/) | **2** | Used to fuse and evolve Thor fighter | 6 | 1102 | 
-  | 29 | ![Unknown_50](/images/item/actor_debris_1_p.png) | 1 | [actor_debris_name_0](/item/actor_debris_name_0_50/) | **2** | ? | 1 | 28 | 
-  | 30 | ![EXP Card I](/images/item/EXP_Card_I_p.png) | 100 | [EXP Card I](/item/EXP Card I_51/) | **5** | Used to increase commander experience by 100 | 2 | 29 | 
-  | 31 | ![EXP Card II](/images/item/EXP_Card_II_p.png) | 500 | [EXP Card II](/item/EXP Card II_52/) | **5** | Used to increase commander experience by 500 | 3 | 30 | 
-  | 32 | ![EXP Card III](/images/item/EXP_Card_III_p.png) | 2500 | [EXP Card III](/item/EXP Card III_53/) | **5** | Used to increase commander experience by 2500 | 4 | 31 | 
-  | 33 | ![EXP Card IV](/images/item/EXP_Card_IV_p.png) | 10000 | [EXP Card IV](/item/EXP Card IV_54/) | **5** | Used to increase commander experience by 10000 | 5 | 32 | 
-  | 34 | ![EXP Card V](/images/item/EXP_Card_V_p.png) | 50000 | [EXP Card V](/item/EXP Card V_55/) | **5** | Used to increase commander experience by 25000 | 6 | 33 | 
-  | 35 | ![Evolution Medal](/images/item/Evolution_Medal_p.png) | 1 | [Evolution Medal](/item/Evolution Medal_56/) | **5** | Used to ascend commander | 1 | 34 | 
-  | 36 | ![Unknown_66](/images/item/actor_debris_1_p.png) | 1 | [actor_debris_name_0](/item/actor_debris_name_0_66/) | **5** | ? | 1 | 39 | 
-  | 37 | ![Unknown_89](/images/item/actor_debris_1_p.png) | 1 | [actor_debris_name_0](/item/actor_debris_name_0_89/) | **2** | ? | 1 | 64 | 
-  | 38 | ![Basic Training Guide](/images/item/Basic_Training_Guide_p.png) | 1 | [Basic Training Guide](/item/Basic Training Guide_90/) | **5** | Used to upgrade pilot | 3 | 65 | 
-  | 39 | ![Standard Training Guide](/images/item/Standard_Training_Guide_p.png) | 1 | [Standard Training Guide](/item/Standard Training Guide_91/) | **5** | Used to upgrade pilot | 4 | 66 | 
-  | 40 | ![Advanced Training Guide](/images/item/Advanced_Training_Guide_p.png) | 1 | [Advanced Training Guide](/item/Advanced Training Guide_92/) | **5** | Used to upgrade pilot | 5 | 67 | 
-  | 41 | ![Expert Training Guide](/images/item/Expert_Training_Guide_p.png) | 1 | [Expert Training Guide](/item/Expert Training Guide_93/) | **5** | Used to upgrade pilot | 6 | 68 | 
-  | 42 | ![Badge](/images/item/Badge_p.png) | 1 | [Badge](/item/Badge_94/) | **5** | Used to evolve pilot | 4 | 69 | 
+  | 29 | ![Destroyer Fighter Shard](/images/item/Destroyer_Fighter_Shard_p.png) | 1 | [Destroyer Fighter Shard](/item/Destroyer Fighter Shard_103/) | **2** | Used to fuse and evolve Destroyer fighter | 6 | 1103 | 
+  | 30 | ![Unknown_50](/images/item/actor_debris_1_p.png) | 1 | [actor_debris_name_0](/item/actor_debris_name_0_50/) | **2** | ? | 1 | 28 | 
+  | 31 | ![EXP Card I](/images/item/EXP_Card_I_p.png) | 100 | [EXP Card I](/item/EXP Card I_51/) | **5** | Used to increase commander experience by 100 | 2 | 29 | 
+  | 32 | ![EXP Card II](/images/item/EXP_Card_II_p.png) | 500 | [EXP Card II](/item/EXP Card II_52/) | **5** | Used to increase commander experience by 500 | 3 | 30 | 
+  | 33 | ![EXP Card III](/images/item/EXP_Card_III_p.png) | 2500 | [EXP Card III](/item/EXP Card III_53/) | **5** | Used to increase commander experience by 2500 | 4 | 31 | 
+  | 34 | ![EXP Card IV](/images/item/EXP_Card_IV_p.png) | 10000 | [EXP Card IV](/item/EXP Card IV_54/) | **5** | Used to increase commander experience by 10000 | 5 | 32 | 
+  | 35 | ![EXP Card V](/images/item/EXP_Card_V_p.png) | 50000 | [EXP Card V](/item/EXP Card V_55/) | **5** | Used to increase commander experience by 25000 | 6 | 33 | 
+  | 36 | ![Evolution Medal](/images/item/Evolution_Medal_p.png) | 1 | [Evolution Medal](/item/Evolution Medal_56/) | **5** | Used to ascend commander | 1 | 34 | 
+  | 37 | ![Unknown_66](/images/item/actor_debris_1_p.png) | 1 | [actor_debris_name_0](/item/actor_debris_name_0_66/) | **5** | ? | 1 | 39 | 
+  | 38 | ![Unknown_89](/images/item/actor_debris_1_p.png) | 1 | [actor_debris_name_0](/item/actor_debris_name_0_89/) | **2** | ? | 1 | 64 | 
+  | 39 | ![Basic Training Guide](/images/item/Basic_Training_Guide_p.png) | 1 | [Basic Training Guide](/item/Basic Training Guide_90/) | **5** | Used to upgrade pilot | 3 | 65 | 
+  | 40 | ![Standard Training Guide](/images/item/Standard_Training_Guide_p.png) | 1 | [Standard Training Guide](/item/Standard Training Guide_91/) | **5** | Used to upgrade pilot | 4 | 66 | 
+  | 41 | ![Advanced Training Guide](/images/item/Advanced_Training_Guide_p.png) | 1 | [Advanced Training Guide](/item/Advanced Training Guide_92/) | **5** | Used to upgrade pilot | 5 | 67 | 
+  | 42 | ![Expert Training Guide](/images/item/Expert_Training_Guide_p.png) | 1 | [Expert Training Guide](/item/Expert Training Guide_93/) | **5** | Used to upgrade pilot | 6 | 68 | 
+  | 43 | ![Badge](/images/item/Badge_p.png) | 1 | [Badge](/item/Badge_94/) | **5** | Used to evolve pilot | 4 | 69 | 

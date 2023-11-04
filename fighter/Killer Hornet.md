@@ -2,7 +2,7 @@
 title: "Fighter Killer Hornet"
 permalink: /fighter/Killer Hornet/
 excerpt: "Wing Fighter Killer Hornet"
-last_modified_at: 2023-10-18
+last_modified_at: 2023-11-04
 locale: en
 ref: "Killer Hornet.md"
 toc: false

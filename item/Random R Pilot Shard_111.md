@@ -2,7 +2,7 @@
 title: "Random R Pilot Shard"
 permalink: /item/Random R Pilot Shard_111/
 excerpt: "Wing Fighter Random R Pilot Shard"
-last_modified_at: 2023-10-18
+last_modified_at: 2023-11-04
 locale: en
 ref: "Random R Pilot Shard_111.md"
 toc: false

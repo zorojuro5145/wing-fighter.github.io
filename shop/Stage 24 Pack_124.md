@@ -2,7 +2,7 @@
 title: "Shop Stage 24 Pack"
 permalink: /shop/Stage 24 Pack_124/
 excerpt: "Wing Fighter Stage 24 Pack"
-last_modified_at: 2023-10-18
+last_modified_at: 2023-11-04
 locale: en
 ref: "Stage 24 Pack_124.md"
 toc: false
@@ -35,5 +35,5 @@ classes: wide
   | 1 | **2500**  | ![Diamonds](/images/item/Diamonds_p.png) [Diamonds](/item/Diamonds_15/) | 
   | 2 | **155000**  | ![Stars](/images/item/Stars_p.png) [Stars](/item/Stars_2/) | 
   | 3 | **32**  | ![Super Key](/images/item/Super_Key_p.png) [Super Key](/item/Super Key_30/) | 
-  | 4 | **270**  | ![Unknown_61](/images/item/random_module_1_p.png) [random_module_1](/item/random_module_1_61/) | 
+  | 4 | **270**  | ![](/images/item/_p.png) [](/item/_61/) | 
 

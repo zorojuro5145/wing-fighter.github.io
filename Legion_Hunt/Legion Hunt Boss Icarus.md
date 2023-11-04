@@ -2,7 +2,7 @@
 title: "Legion Hunt Boss Icarus"
 permalink: /Legion_Hunt/Legion Hunt Boss Icarus/
 excerpt: "Wing Fighter Legion Hunt Boss Icarus"
-last_modified_at: 2023-10-18
+last_modified_at: 2023-11-04
 locale: en
 ref: "Legion Hunt Boss Icarus.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Wing Fighter Items"
 permalink: /item/
 excerpt: "Wing Fighter item"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-11-04
 locale: en
 ref: "index.md"
 toc: false
@@ -39,7 +39,7 @@ classes: wide
   | 26 | ![Standard Equipment Crate Key](/images/item/Standard_Equipment_Crate_Key_p.png) | 1 | [Standard Equipment Crate Key](/item/Standard Equipment Crate Key_27/) | Open the standard equipment crate once for free | 3 | 22 | 
   | 27 | ![Epic Equipment Crate Key](/images/item/Epic_Equipment_Crate_Key_p.png) | 1 | [Epic Equipment Crate Key](/item/Epic Equipment Crate Key_28/) | Open the epic equipment crate once for free | 4 | 23 | 
   | 28 | ![Module Crate Key](/images/item/Module_Crate_Key_p.png) | 1 | [Module Crate Key](/item/Module Crate Key_29/) | Open the module crate once for free | 3 | 24 | 
-  | 29 | ![Fighter Crate Key](/images/item/Fighter_Crate_Key_p.png) | 1 | [Fighter Crate Key](/item/Fighter Crate Key_30/) | Open the fighter crate once for free | 4 | 25 | 
+  | 29 | ![Super Key](/images/item/Super_Key_p.png) | 1 | [Super Key](/item/Super Key_30/) | Used to open Super Chest | 4 | 25 | 
   | 30 |  | 1 | [Unknown](/item/item_31/) | ? | 1 | 26 | 
   | 31 | ![Phantom Shards](/images/item/Phantom_Shards_p.png) | 1 | [Phantom Shards](/item/Phantom Shards_32/) | For starring up the fighter Phantom | 6 | 105 | 
   | 32 | ![Glacier Shards](/images/item/Glacier_Shards_p.png) | 1 | [Glacier Shards](/item/Glacier Shards_33/) | For starring up the fighter Glacier | 5 | 106 | 
@@ -61,56 +61,66 @@ classes: wide
   | 48 | ![Thane Shards](/images/item/Thane_Shards_p.png) | 1 | [Thane Shards](/item/Thane Shards_49/) | Used to evolve Thane | 6 | 121 | 
   | 49 | ![Conqueror Shard](/images/item/Conqueror_Shard_p.png) | 1 | [Conqueror Shard](/item/Conqueror Shard_101/) | Used to evolve Fighter Conqueror | 6 | 1101 | 
   | 50 | ![Thor fighter shard](/images/item/Thor_fighter_shard_p.png) | 1 | [Thor fighter shard](/item/Thor fighter shard_102/) | Used to fuse and evolve Thor fighter | 6 | 1102 | 
-  | 51 | ![Unknown_50](/images/item/actor_debris_1_p.png) | 1 | [actor_debris_name_0](/item/actor_debris_name_0_50/) | ? | 1 | 28 | 
-  | 52 | ![EXP Card I](/images/item/EXP_Card_I_p.png) | 100 | [EXP Card I](/item/EXP Card I_51/) | Used to increase commander experience by 100 | 2 | 29 | 
-  | 53 | ![EXP Card II](/images/item/EXP_Card_II_p.png) | 500 | [EXP Card II](/item/EXP Card II_52/) | Used to increase commander experience by 500 | 3 | 30 | 
-  | 54 | ![EXP Card III](/images/item/EXP_Card_III_p.png) | 2500 | [EXP Card III](/item/EXP Card III_53/) | Used to increase commander experience by 2500 | 4 | 31 | 
-  | 55 | ![EXP Card IV](/images/item/EXP_Card_IV_p.png) | 10000 | [EXP Card IV](/item/EXP Card IV_54/) | Used to increase commander experience by 10000 | 5 | 32 | 
-  | 56 | ![EXP Card V](/images/item/EXP_Card_V_p.png) | 50000 | [EXP Card V](/item/EXP Card V_55/) | Used to increase commander experience by 25000 | 6 | 33 | 
-  | 57 | ![Evolution Medal](/images/item/Evolution_Medal_p.png) | 1 | [Evolution Medal](/item/Evolution Medal_56/) | Used to ascend commander | 1 | 34 | 
-  | 58 | ![Stars](/images/item/Stars_p.png) | 1 | [Stars](/item/Stars_57/) | Stars | 1 | 35 | 
-  | 59 | ![Random SR Fighter Shard](/images/item/Random_SR_Fighter_Shard_p.png) | 201 | [Random SR Fighter Shard](/item/Random SR Fighter Shard_58/) | Randomly get 1 SR fighter shard | 1 | 38 | 
-  | 60 | ![Random SSR Fighter Shard](/images/item/Random_SSR_Fighter_Shard_p.png) | 43 | [Random SSR Fighter Shard](/item/Random SSR Fighter Shard_59/) | Randomly get 1 SSR fighter shard | 1 | 39 | 
-  | 61 | ![Unknown_60](/images/item/random_equip_p.png) | 44 | [random_equip](/item/random_equip_60/) | ? | 1 | 40 | 
-  | 62 | ![Unknown_61](/images/item/random_module_1_p.png) | 45 | [random_module_1](/item/random_module_1_61/) | ? | 1 | 41 | 
-  | 63 | ![Unknown_62](/images/item/random_module_2_p.png) | 46 | [random_module_2](/item/random_module_2_62/) | ? | 1 | 42 | 
-  | 64 | ![Unknown_63](/images/item/random_gem_red_p.png) | 47 | [random_gem_red](/item/random_gem_red_63/) | ? | 1 | 43 | 
-  | 65 | ![Unknown_64](/images/item/random_gem_blue_p.png) | 48 | [random_gem_blue](/item/random_gem_blue_64/) | ? | 1 | 44 | 
-  | 66 | ![Unknown_65](/images/item/random_gem_green_p.png) | 49 | [random_gem_green](/item/random_gem_green_65/) | ? | 1 | 45 | 
-  | 67 | ![Unknown_66](/images/item/actor_debris_1_p.png) | 1 | [actor_debris_name_0](/item/actor_debris_name_0_66/) | ? | 1 | 39 | 
-  | 68 | ![Unknown_67](/images/item/ttsd_img2_p.png) | 1 | [Unknown](/item/item_67/) | ? | 1 | 46 | 
-  | 69 | ![Unknown_68](/images/item/bh_img25_p.png) | 1 | [nano_material_name](/item/nano_material_name_68/) | ? | 1 | 47 | 
-  | 70 | ![Unknown_69](/images/item/bh_img27_p.png) | 1 | [fuel_name](/item/fuel_name_69/) | ? | 1 | 48 | 
-  | 71 | ![Titan Key](/images/item/Titan_Key_p.png) | 1 | [Titan Key](/item/Titan Key_70/) | Used for opening Conqueror Chest | 4 | 49 | 
-  | 72 | ![Random Modules](/images/item/Random_Modules_p.png) | 57 | [Random Modules](/item/Random Modules_71/) | Randomly get one module | 1 | 50 | 
-  | 73 | ![Random 1-star Gem](/images/item/Random_1-star_Gem_p.png) | 58 | [Random 1-star Gem](/item/Random 1-star Gem_72/) | Randomly get one 1-star gem | 1 | 52 | 
-  | 74 | ![Random 2-star Gem](/images/item/Random_2-star_Gem_p.png) | 59 | [Random 2-star Gem](/item/Random 2-star Gem_73/) | Randomly get one 2-star gem | 1 | 53 | 
-  | 75 | ![Random 3-star Gem](/images/item/Random_3-star_Gem_p.png) | 60 | [Random 3-star Gem](/item/Random 3-star Gem_74/) | Randomly get one 3-star gem | 1 | 54 | 
-  | 76 | ![Random 4-star Gem](/images/item/Random_4-star_Gem_p.png) | 61 | [Random 4-star Gem](/item/Random 4-star Gem_75/) | Randomly get one 4-star gem | 1 | 55 | 
-  | 77 | ![Random Epic Equipment](/images/item/Random_Epic_Equipment_p.png) | 62 | [Random Epic Equipment](/item/Random Epic Equipment_76/) | Randomly get one Epic Normal Equipment | 1 | 56 | 
-  | 78 | ![Random Epic Conqueror Equipment](/images/item/Random_Epic_Conqueror_Equipment_p.png) | 63 | [Random Epic Conqueror Equipment](/item/Random Epic Conqueror Equipment_77/) | Randomly get one Epic Conqueror Equipment | 1 | 57 | 
-  | 79 | ![Unknown_78](/images/item/xqdz_icon6_p.png) | 1 | [Unknown](/item/item_78/) | ? | 1 | 58 | 
-  | 80 | ![Unknown_79](/images/item/jt_jd_img25_p.png) | 1 | [Unknown](/item/item_79/) | ? | 1 | 59 | 
-  | 81 | ![Random Fighter of Gear Set](/images/item/Random_Fighter_of_Gear_Set_p.png) | 64 | [Random Fighter of Gear Set](/item/Random Fighter of Gear Set_80/) | Randomly get 1 shard of Conqueror Fighter or Thor Fighter | 1 | 60 | 
-  | 82 | ![Random Equipment of Gear Set](/images/item/Random_Equipment_of_Gear_Set_p.png) | 65 | [Random Equipment of Gear Set](/item/Random Equipment of Gear Set_81/) | Randomly get 1 Epic Conqueror Equipment or Thor Equipment | 1 | 61 | 
-  | 83 | ![Stargate Challenge Ticket](/images/item/Stargate_Challenge_Ticket_p.png) | 1 | [Stargate Challenge Ticket](/item/Stargate Challenge Ticket_82/) | Used to challenge Titan | 1 | 62 | 
-  | 84 | ![Random Epic Equipment](/images/item/Random_Epic_Equipment_p.png) | 62 | [Random Epic Equipment](/item/Random Epic Equipment_83/) | Randomly get one Epic Normal Equipment | 1 | 71 | 
-  | 85 | ![Random Epic Equipment](/images/item/Random_Epic_Equipment_p.png) | 62 | [Random Epic Equipment](/item/Random Epic Equipment_84/) | Randomly get one Epic Normal Equipment | 2 | 72 | 
-  | 86 | ![Random Epic Equipment](/images/item/Random_Epic_Equipment_p.png) | 62 | [Random Epic Equipment](/item/Random Epic Equipment_85/) | Randomly get one Epic Normal Equipment | 3 | 73 | 
-  | 87 | ![Random 1-star Gem](/images/item/Random_1-star_Gem_p.png) | 62 | [Random 1-star Gem](/item/Random 1-star Gem_86/) | Randomly get one 1-star gem | 1 | 52 | 
-  | 88 | ![Random 2-star Gem](/images/item/Random_2-star_Gem_p.png) | 62 | [Random 2-star Gem](/item/Random 2-star Gem_87/) | Randomly get one 2-star gem | 2 | 53 | 
-  | 89 | ![Recruitment Ticket](/images/item/Recruitment_Ticket_p.png) | 1 | [Recruitment Ticket](/item/Recruitment Ticket_88/) | Used to recruit pilot | 4 | 63 | 
-  | 90 | ![Unknown_89](/images/item/actor_debris_1_p.png) | 1 | [actor_debris_name_0](/item/actor_debris_name_0_89/) | ? | 1 | 64 | 
-  | 91 | ![Basic Training Guide](/images/item/Basic_Training_Guide_p.png) | 1 | [Basic Training Guide](/item/Basic Training Guide_90/) | Used to upgrade pilot | 3 | 65 | 
-  | 92 | ![Standard Training Guide](/images/item/Standard_Training_Guide_p.png) | 1 | [Standard Training Guide](/item/Standard Training Guide_91/) | Used to upgrade pilot | 4 | 66 | 
-  | 93 | ![Advanced Training Guide](/images/item/Advanced_Training_Guide_p.png) | 1 | [Advanced Training Guide](/item/Advanced Training Guide_92/) | Used to upgrade pilot | 5 | 67 | 
-  | 94 | ![Expert Training Guide](/images/item/Expert_Training_Guide_p.png) | 1 | [Expert Training Guide](/item/Expert Training Guide_93/) | Used to upgrade pilot | 6 | 68 | 
-  | 95 | ![Badge](/images/item/Badge_p.png) | 1 | [Badge](/item/Badge_94/) | Used to evolve pilot | 4 | 69 | 
-  | 96 | ![Pilot](/images/item/Pilot_p.png) | 1 | [Pilot](/item/Pilot_95/) | Pilot | 1 | 70 | 
-  | 97 | ![](/images/item/_p.png) | 1 | [](/item/_96/) |  | 4 | 71 | 
-  | 98 | ![](/images/item/_p.png) | 75 | [](/item/_97/) |  | 3 | 72 | 
-  | 99 | ![](/images/item/_p.png) | 76 | [](/item/_98/) |  | 3 | 73 | 
-  | 100 | ![Unknown_2001](/images/item/daily_gift2_p.png) | 1 | [Unknown](/item/item_2001/) | ? | 1 | 21 | 
-  | 101 | ![Unknown_2002](/images/item/daily_gift2_p.png) | 1 | [Unknown](/item/item_2002/) | ? | 1 | 21 | 
-  | 102 | ![Unknown_2005](/images/item/daily_gift5_p.png) | 1 | [Unknown](/item/item_2005/) | ? | 1 | 14 | 
-  | 103 | ![Unknown_2006](/images/item/daily_gift3_p.png) | 1 | [Unknown](/item/item_2006/) | ? | 1 | 14 | 
+  | 51 | ![Destroyer Fighter Shard](/images/item/Destroyer_Fighter_Shard_p.png) | 1 | [Destroyer Fighter Shard](/item/Destroyer Fighter Shard_103/) | Used to fuse and evolve Destroyer fighter | 6 | 1103 | 
+  | 52 | ![Unknown_50](/images/item/actor_debris_1_p.png) | 1 | [actor_debris_name_0](/item/actor_debris_name_0_50/) | ? | 1 | 28 | 
+  | 53 | ![EXP Card I](/images/item/EXP_Card_I_p.png) | 100 | [EXP Card I](/item/EXP Card I_51/) | Used to increase commander experience by 100 | 2 | 29 | 
+  | 54 | ![EXP Card II](/images/item/EXP_Card_II_p.png) | 500 | [EXP Card II](/item/EXP Card II_52/) | Used to increase commander experience by 500 | 3 | 30 | 
+  | 55 | ![EXP Card III](/images/item/EXP_Card_III_p.png) | 2500 | [EXP Card III](/item/EXP Card III_53/) | Used to increase commander experience by 2500 | 4 | 31 | 
+  | 56 | ![EXP Card IV](/images/item/EXP_Card_IV_p.png) | 10000 | [EXP Card IV](/item/EXP Card IV_54/) | Used to increase commander experience by 10000 | 5 | 32 | 
+  | 57 | ![EXP Card V](/images/item/EXP_Card_V_p.png) | 50000 | [EXP Card V](/item/EXP Card V_55/) | Used to increase commander experience by 25000 | 6 | 33 | 
+  | 58 | ![Evolution Medal](/images/item/Evolution_Medal_p.png) | 1 | [Evolution Medal](/item/Evolution Medal_56/) | Used to ascend commander | 1 | 34 | 
+  | 59 | ![Stars](/images/item/Stars_p.png) | 1 | [Stars](/item/Stars_57/) | Stars | 1 | 35 | 
+  | 60 | ![Random SR Fighter Shard](/images/item/Random_SR_Fighter_Shard_p.png) | 201 | [Random SR Fighter Shard](/item/Random SR Fighter Shard_58/) | Randomly get 1 SR fighter shard | 1 | 38 | 
+  | 61 | ![Random SSR Fighter Shard](/images/item/Random_SSR_Fighter_Shard_p.png) | 43 | [Random SSR Fighter Shard](/item/Random SSR Fighter Shard_59/) | Randomly get 1 SSR fighter shard | 1 | 39 | 
+  | 62 | ![Unknown_60](/images/item/random_equip_p.png) | 44 | [random_equip](/item/random_equip_60/) | ? | 1 | 40 | 
+  | 63 | ![](/images/item/_p.png) | 45 | [](/item/_61/) |  | 1 | 41 | 
+  | 64 | ![](/images/item/_p.png) | 46 | [](/item/_62/) |  | 1 | 42 | 
+  | 65 | ![](/images/item/_p.png) | 47 | [](/item/_63/) |  | 1 | 43 | 
+  | 66 | ![](/images/item/_p.png) | 48 | [](/item/_64/) |  | 1 | 44 | 
+  | 67 | ![](/images/item/_p.png) | 49 | [](/item/_65/) |  | 1 | 45 | 
+  | 68 | ![Unknown_66](/images/item/actor_debris_1_p.png) | 1 | [actor_debris_name_0](/item/actor_debris_name_0_66/) | ? | 1 | 39 | 
+  | 69 | ![Unknown_67](/images/item/ttsd_img2_p.png) | 1 | [Unknown](/item/item_67/) | ? | 1 | 46 | 
+  | 70 | ![Unknown_68](/images/item/bh_img25_p.png) | 1 | [nano_material_name](/item/nano_material_name_68/) | ? | 1 | 47 | 
+  | 71 | ![Unknown_69](/images/item/bh_img27_p.png) | 1 | [fuel_name](/item/fuel_name_69/) | ? | 1 | 48 | 
+  | 72 | ![Titan Key](/images/item/Titan_Key_p.png) | 1 | [Titan Key](/item/Titan Key_70/) | Used to open Titan chest | 4 | 49 | 
+  | 73 | ![Random Modules](/images/item/Random_Modules_p.png) | 57 | [Random Modules](/item/Random Modules_71/) | Randomly get one module | 1 | 50 | 
+  | 74 | ![Random 1-star Gem](/images/item/Random_1-star_Gem_p.png) | 58 | [Random 1-star Gem](/item/Random 1-star Gem_72/) | Randomly get one 1-star gem | 1 | 52 | 
+  | 75 | ![Random 2-star Gem](/images/item/Random_2-star_Gem_p.png) | 59 | [Random 2-star Gem](/item/Random 2-star Gem_73/) | Randomly get one 2-star gem | 1 | 53 | 
+  | 76 | ![Random 3-star Gem](/images/item/Random_3-star_Gem_p.png) | 60 | [Random 3-star Gem](/item/Random 3-star Gem_74/) | Randomly get one 3-star gem | 1 | 54 | 
+  | 77 | ![Random 4-star Gem](/images/item/Random_4-star_Gem_p.png) | 61 | [Random 4-star Gem](/item/Random 4-star Gem_75/) | Randomly get one 4-star gem | 1 | 55 | 
+  | 78 | ![Random Epic Equipment](/images/item/Random_Epic_Equipment_p.png) | 62 | [Random Epic Equipment](/item/Random Epic Equipment_76/) | Randomly get one Epic Normal Equipment | 1 | 56 | 
+  | 79 | ![Random Epic Conqueror Equipment](/images/item/Random_Epic_Conqueror_Equipment_p.png) | 63 | [Random Epic Conqueror Equipment](/item/Random Epic Conqueror Equipment_77/) | Randomly get one Epic Conqueror Equipment | 1 | 57 | 
+  | 80 | ![Unknown_78](/images/item/xqdz_icon6_p.png) | 1 | [Unknown](/item/item_78/) | ? | 1 | 58 | 
+  | 81 | ![Unknown_79](/images/item/jt_jd_img25_p.png) | 1 | [Unknown](/item/item_79/) | ? | 1 | 59 | 
+  | 82 | ![Random Fighter of Gear Set](/images/item/Random_Fighter_of_Gear_Set_p.png) | 64 | [Random Fighter of Gear Set](/item/Random Fighter of Gear Set_80/) | Randomly get 1 shard of Conqueror Fighter or Thor Fighter | 1 | 60 | 
+  | 83 | ![Random Equipment of Gear Set](/images/item/Random_Equipment_of_Gear_Set_p.png) | 65 | [Random Equipment of Gear Set](/item/Random Equipment of Gear Set_81/) | Randomly get 1 Epic Conqueror Equipment or Thor Equipment | 1 | 61 | 
+  | 84 | ![Stargate Challenge Ticket](/images/item/Stargate_Challenge_Ticket_p.png) | 1 | [Stargate Challenge Ticket](/item/Stargate Challenge Ticket_82/) | Used to challenge Titan | 1 | 62 | 
+  | 85 | ![Random Epic Equipment](/images/item/Random_Epic_Equipment_p.png) | 62 | [Random Epic Equipment](/item/Random Epic Equipment_83/) | Randomly get one Epic Normal Equipment | 1 | 71 | 
+  | 86 | ![Random Epic Equipment](/images/item/Random_Epic_Equipment_p.png) | 62 | [Random Epic Equipment](/item/Random Epic Equipment_84/) | Randomly get one Epic Normal Equipment | 2 | 72 | 
+  | 87 | ![Random Epic Equipment](/images/item/Random_Epic_Equipment_p.png) | 62 | [Random Epic Equipment](/item/Random Epic Equipment_85/) | Randomly get one Epic Normal Equipment | 3 | 73 | 
+  | 88 | ![Random 1-star Gem](/images/item/Random_1-star_Gem_p.png) | 62 | [Random 1-star Gem](/item/Random 1-star Gem_86/) | Randomly get one 1-star gem | 1 | 52 | 
+  | 89 | ![Random 2-star Gem](/images/item/Random_2-star_Gem_p.png) | 62 | [Random 2-star Gem](/item/Random 2-star Gem_87/) | Randomly get one 2-star gem | 2 | 53 | 
+  | 90 | ![Recruitment Ticket](/images/item/Recruitment_Ticket_p.png) | 1 | [Recruitment Ticket](/item/Recruitment Ticket_88/) | Can only be used in Pilot Recruitment. Cannot be used in Limited Time Recruitment.  | 4 | 63 | 
+  | 91 | ![Unknown_89](/images/item/actor_debris_1_p.png) | 1 | [actor_debris_name_0](/item/actor_debris_name_0_89/) | ? | 1 | 64 | 
+  | 92 | ![Basic Training Guide](/images/item/Basic_Training_Guide_p.png) | 1 | [Basic Training Guide](/item/Basic Training Guide_90/) | Used to upgrade pilot | 3 | 65 | 
+  | 93 | ![Standard Training Guide](/images/item/Standard_Training_Guide_p.png) | 1 | [Standard Training Guide](/item/Standard Training Guide_91/) | Used to upgrade pilot | 4 | 66 | 
+  | 94 | ![Advanced Training Guide](/images/item/Advanced_Training_Guide_p.png) | 1 | [Advanced Training Guide](/item/Advanced Training Guide_92/) | Used to upgrade pilot | 5 | 67 | 
+  | 95 | ![Expert Training Guide](/images/item/Expert_Training_Guide_p.png) | 1 | [Expert Training Guide](/item/Expert Training Guide_93/) | Used to upgrade pilot | 6 | 68 | 
+  | 96 | ![Badge](/images/item/Badge_p.png) | 1 | [Badge](/item/Badge_94/) | Used to evolve pilot | 4 | 69 | 
+  | 97 | ![Pilot](/images/item/Pilot_p.png) | 1 | [Pilot](/item/Pilot_95/) | Pilot | 1 | 70 | 
+  | 98 | ![Key of Void](/images/item/Key_of_Void_p.png) | 1 | [Key of Void](/item/Key of Void_96/) | Used to open gear set event chest | 4 | 77 | 
+  | 99 | ![Random SR Pilot shard chest](/images/item/Random_SR_Pilot_shard_chest_p.png) | 75 | [Random SR Pilot shard chest](/item/Random SR Pilot shard chest_97/) | Randomly get SR pilot shard*5 | 3 | 75 | 
+  | 100 | ![Selectable SR Pilot shard chest](/images/item/Selectable_SR_Pilot_shard_chest_p.png) | 76 | [Selectable SR Pilot shard chest](/item/Selectable SR Pilot shard chest_98/) | Select SR pilot shard*5 | 5 | 76 | 
+  | 101 | ![Voucher](/images/item/Voucher_p.png) | 1 | [Voucher](/item/Voucher_99/) | 1 Voucher can be used as 1 CNY | 5 | 74 | 
+  | 102 | ![Selectable Titan chest](/images/item/Selectable_Titan_chest_p.png) | 77 | [Selectable Titan chest](/item/Selectable Titan chest_100/) | Select 1 epic gear from all gear sets | 4 | 78 | 
+  | 103 | ![Unknown_110](/images/item/fxy_box_icon4_p.png) | 78 | [Unknown](/item/item_110/) | ? | 3 | 79 | 
+  | 104 | ![Random R Pilot Shard](/images/item/Random_R_Pilot_Shard_p.png) | 81 | [Random R Pilot Shard](/item/Random R Pilot Shard_111/) | Obtain random R pilot shards ×5 | 2 | 80 | 
+  | 105 | ![Selectable Fighter Shard Chest](/images/item/Selectable_Fighter_Shard_Chest_p.png) | 82 | [Selectable Fighter Shard Chest](/item/Selectable Fighter Shard Chest_112/) | Select gear set fighter shards ×5 | 5 | 81 | 
+  | 106 | ![Random SR Pilot shard chest](/images/item/Random_SR_Pilot_shard_chest_p.png) | 86 | [Random SR Pilot shard chest](/item/Random SR Pilot shard chest_113/) | Randomly get SR pilot shard*5 | 5 | 82 | 
+  | 107 | ![Epic Equipment Selectable Pack](/images/item/Epic_Equipment_Selectable_Pack_p.png) | 87 | [Epic Equipment Selectable Pack](/item/Epic Equipment Selectable Pack_114/) | Select an Epic equipment | 4 | 83 | 
+  | 108 | ![4-star Gem Selectable Pack](/images/item/4-star_Gem_Selectable_Pack_p.png) | 88 | [4-star Gem Selectable Pack](/item/4-star Gem Selectable Pack_115/) | Select a 4-star gem | 4 | 84 | 
+  | 109 | ![Random R Pilot Shard](/images/item/Random_R_Pilot_Shard_p.png) | 89 | [Random R Pilot Shard](/item/Random R Pilot Shard_116/) | Obtain random R pilot shards ×5 | 2 | 85 | 
+  | 110 | ![Unknown_2001](/images/item/daily_gift2_p.png) | 1 | [Unknown](/item/item_2001/) | ? | 1 | 21 | 
+  | 111 | ![Unknown_2002](/images/item/daily_gift2_p.png) | 1 | [Unknown](/item/item_2002/) | ? | 1 | 21 | 
+  | 112 | ![Unknown_2005](/images/item/daily_gift5_p.png) | 1 | [Unknown](/item/item_2005/) | ? | 1 | 14 | 
+  | 113 | ![Unknown_2006](/images/item/daily_gift3_p.png) | 1 | [Unknown](/item/item_2006/) | ? | 1 | 14 | 

@@ -2,7 +2,7 @@
 title: "Legion Technology Reduce damage from normal enemies"
 permalink: /GuildTechnology/Reduce damage from normal enemies/
 excerpt: "Wing Fighter Legion TechnologyReduce damage from normal enemies"
-last_modified_at: 2023-10-18
+last_modified_at: 2023-11-04
 locale: en
 ref: "Reduce damage from normal enemies.md"
 toc: false

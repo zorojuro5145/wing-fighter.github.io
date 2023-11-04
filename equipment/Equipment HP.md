@@ -2,7 +2,7 @@
 title: "Equipment HP"
 permalink: /equipment/Equipment HP/
 excerpt: "Wing Fighter Equipment HP"
-last_modified_at: 2023-10-18
+last_modified_at: 2023-11-04
 locale: en
 ref: "Equipment HP.md"
 toc: false

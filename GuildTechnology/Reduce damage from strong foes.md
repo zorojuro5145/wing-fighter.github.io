@@ -2,7 +2,7 @@
 title: "Legion Technology Reduce damage from strong foes"
 permalink: /GuildTechnology/Reduce damage from strong foes/
 excerpt: "Wing Fighter Legion TechnologyReduce damage from strong foes"
-last_modified_at: 2023-10-18
+last_modified_at: 2023-11-04
 locale: en
 ref: "Reduce damage from strong foes.md"
 toc: false

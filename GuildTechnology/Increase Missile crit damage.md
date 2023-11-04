@@ -2,7 +2,7 @@
 title: "Legion Technology Increase Missile crit damage"
 permalink: /GuildTechnology/Increase Missile crit damage/
 excerpt: "Wing Fighter Legion TechnologyIncrease Missile crit damage"
-last_modified_at: 2023-10-18
+last_modified_at: 2023-11-04
 locale: en
 ref: "Increase Missile crit damage.md"
 toc: false

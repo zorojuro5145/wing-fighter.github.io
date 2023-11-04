@@ -2,7 +2,7 @@
 title: "Equipment Laser Gun"
 permalink: /equipment/Laser Gun/
 excerpt: "Wing Fighter Equipment Laser Gun"
-last_modified_at: 2023-10-18
+last_modified_at: 2023-11-04
 locale: en
 ref: "Laser Gun.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Tower Challenge"
 permalink: /battle/Challenge/
 excerpt: "Wing Fighter Tower Challenge"
-last_modified_at: 2023-10-18
+last_modified_at: 2023-11-04
 locale: en
 ref: "Challenge.md"
 toc: false

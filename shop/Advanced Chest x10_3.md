@@ -2,7 +2,7 @@
 title: "Shop Advanced Chest x10"
 permalink: /shop/Advanced Chest x10_3/
 excerpt: "Wing Fighter Advanced Chest x10"
-last_modified_at: 2023-10-18
+last_modified_at: 2023-11-04
 locale: en
 ref: "Advanced Chest x10_3.md"
 toc: false

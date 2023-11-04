@@ -2,7 +2,7 @@
 title: "Legion Hunt Rewards Level 5"
 permalink: /Legion_Hunt/Legion Hunt Rewards Level 5/
 excerpt: "Wing Fighter Legion Hunt Rewards Level 5"
-last_modified_at: 2023-09-10
+last_modified_at: 2023-11-04
 locale: en
 ref: "Legion Hunt Rewards Level 5.md"
 toc: false

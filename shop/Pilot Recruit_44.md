@@ -2,7 +2,7 @@
 title: "Shop Pilot Recruit"
 permalink: /shop/Pilot Recruit_44/
 excerpt: "Wing Fighter Pilot Recruit"
-last_modified_at: 2023-10-18
+last_modified_at: 2023-11-04
 locale: en
 ref: "Pilot Recruit_44.md"
 toc: false

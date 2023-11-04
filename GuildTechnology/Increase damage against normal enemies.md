@@ -2,7 +2,7 @@
 title: "Legion Technology Increase damage against normal enemies"
 permalink: /GuildTechnology/Increase damage against normal enemies/
 excerpt: "Wing Fighter Legion TechnologyIncrease damage against normal enemies"
-last_modified_at: 2023-10-18
+last_modified_at: 2023-11-04
 locale: en
 ref: "Increase damage against normal enemies.md"
 toc: false

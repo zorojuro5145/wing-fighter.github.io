@@ -2,7 +2,7 @@
 title: "Legion Hunt Rewards Level 1"
 permalink: /Legion_Hunt/Legion Hunt Rewards Level 1/
 excerpt: "Wing Fighter Legion Hunt Rewards Level 1"
-last_modified_at: 2023-09-10
+last_modified_at: 2023-11-04
 locale: en
 ref: "Legion Hunt Rewards Level 1.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Talent Equipment"
 permalink: /talent/Talent Equipment/
 excerpt: "Wing Fighter Talent Equipment"
-last_modified_at: 2023-10-18
+last_modified_at: 2023-11-04
 locale: en
 ref: "Talent Equipment.md"
 toc: false
@@ -19,4 +19,4 @@ classes: wide
 
   |  Nr | Icon |      Talent        |   Description   |
   |:----|:----:|:---------------:|:---------------:|
-  | 8 | ![Equipment](/images/talent/Talent_8_p.png) | [Equipment](/talent/Equipment) | Improve Equipment Attributes | 
+  | 8 | ![Equipment](/images/talent/Talent_8_p.png) | [Equipment](/talent/Equipment) | Improve Equipment Base Attributes | 

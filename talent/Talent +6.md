@@ -2,7 +2,7 @@
 title: "Talent +6"
 permalink: /talent/Talent +6/
 excerpt: "Wing Fighter Talent +6"
-last_modified_at: 2023-10-18
+last_modified_at: 2023-11-04
 locale: en
 ref: "Talent +6.md"
 toc: false
@@ -25,4 +25,4 @@ classes: wide
   | 4 | ![Attack Rate](/images/talent/Talent_4_p.png) | [Attack Rate](/talent/Attack Rate) | Increase Attack Rate | 
   | 6 | ![Idle Reward](/images/talent/Talent_6_p.png) | [Idle Reward](/talent/Idle Reward) | Get More Stars From Idling | 
   | 7 | ![Healing Heart](/images/talent/Talent_7_p.png) | [Healing Heart](/talent/Healing Heart) | Increase the effect of Healing Heart | 
-  | 8 | ![Equipment](/images/talent/Talent_8_p.png) | [Equipment](/talent/Equipment) | Improve Equipment Attributes | 
+  | 8 | ![Equipment](/images/talent/Talent_8_p.png) | [Equipment](/talent/Equipment) | Improve Equipment Base Attributes | 

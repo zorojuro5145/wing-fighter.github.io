@@ -2,7 +2,7 @@
 title: "Equipment Blast Shotgun"
 permalink: /equipment/Blast Shotgun/
 excerpt: "Wing Fighter Equipment Blast Shotgun"
-last_modified_at: 2023-10-18
+last_modified_at: 2023-11-04
 locale: en
 ref: "Blast Shotgun.md"
 toc: false

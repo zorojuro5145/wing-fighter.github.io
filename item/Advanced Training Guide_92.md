@@ -2,7 +2,7 @@
 title: "Advanced Training Guide"
 permalink: /item/Advanced Training Guide_92/
 excerpt: "Wing Fighter Advanced Training Guide"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-11-04
 locale: en
 ref: "Advanced Training Guide_92.md"
 toc: false

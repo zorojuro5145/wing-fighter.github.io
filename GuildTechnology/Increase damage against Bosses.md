@@ -2,7 +2,7 @@
 title: "Legion Technology Increase damage against Bosses"
 permalink: /GuildTechnology/Increase damage against Bosses/
 excerpt: "Wing Fighter Legion TechnologyIncrease damage against Bosses"
-last_modified_at: 2023-10-18
+last_modified_at: 2023-11-04
 locale: en
 ref: "Increase damage against Bosses.md"
 toc: false

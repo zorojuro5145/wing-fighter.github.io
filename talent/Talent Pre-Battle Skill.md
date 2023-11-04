@@ -2,7 +2,7 @@
 title: "Talent Pre-Battle Skill"
 permalink: /talent/Talent Pre-Battle Skill/
 excerpt: "Wing Fighter Talent Pre-Battle Skill"
-last_modified_at: 2023-10-18
+last_modified_at: 2023-11-04
 locale: en
 ref: "Talent Pre-Battle Skill.md"
 toc: false
@@ -19,4 +19,4 @@ classes: wide
 
   |  Nr | Icon |      Talent        |   Description   |
   |:----|:----:|:---------------:|:---------------:|
-  | 5 | ![Pre-Battle Skill](/images/talent/Talent_5_p.png) | [Pre-Battle Skill](/talent/Pre-Battle Skill) | Get One Skill When Entering the Field | 
+  | 5 | ![Pre-Battle Skill](/images/talent/Talent_5_p.png) | [Pre-Battle Skill](/talent/Pre-Battle Skill) | Get chance to choose initial skill | 

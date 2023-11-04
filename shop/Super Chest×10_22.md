@@ -2,7 +2,7 @@
 title: "Shop Super Chest×10"
 permalink: /shop/Super Chest×10_22/
 excerpt: "Wing Fighter Super Chest×10"
-last_modified_at: 2023-10-18
+last_modified_at: 2023-11-04
 locale: en
 ref: "Super Chest×10_22.md"
 toc: false

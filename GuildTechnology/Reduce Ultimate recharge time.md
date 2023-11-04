@@ -2,7 +2,7 @@
 title: "Legion Technology Reduce Ultimate recharge time"
 permalink: /GuildTechnology/Reduce Ultimate recharge time/
 excerpt: "Wing Fighter Legion TechnologyReduce Ultimate recharge time"
-last_modified_at: 2023-10-18
+last_modified_at: 2023-11-04
 locale: en
 ref: "Reduce Ultimate recharge time.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Legion Technology Increase Maingun attack rate"
 permalink: /GuildTechnology/Increase Maingun attack rate/
 excerpt: "Wing Fighter Legion TechnologyIncrease Maingun attack rate"
-last_modified_at: 2023-10-18
+last_modified_at: 2023-11-04
 locale: en
 ref: "Increase Maingun attack rate.md"
 toc: false

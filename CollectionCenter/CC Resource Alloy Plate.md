@@ -2,7 +2,7 @@
 title: "CC Resource Alloy Plate"
 permalink: /CollectionCenter/CC Resource Alloy Plate/
 excerpt: "Wing Fighter CC ResourceAlloy Plate"
-last_modified_at: 2023-10-18
+last_modified_at: 2023-11-04
 locale: en
 ref: "CC Resource Alloy Plate.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Voucher"
 permalink: /item/Voucher_99/
 excerpt: "Wing Fighter Voucher"
-last_modified_at: 2023-10-18
+last_modified_at: 2023-11-04
 locale: en
 ref: "Voucher_99.md"
 toc: false
@@ -18,7 +18,7 @@ classes: wide
 
  **Name:** Voucher 
 
- **Description:** 
+ **Description:** 1 Voucher can be used as 1 CNY
 
  **Rarity:** 5 
 

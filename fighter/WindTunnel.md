@@ -2,7 +2,7 @@
 title: "Fighter WindTunnel"
 permalink: /fighter/WindTunnel/
 excerpt: "Wing Fighter WindTunnel"
-last_modified_at: 2023-10-18
+last_modified_at: 2023-11-04
 locale: en
 ref: "WindTunnel.md"
 toc: false

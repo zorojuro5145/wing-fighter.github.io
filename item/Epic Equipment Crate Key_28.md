@@ -2,7 +2,7 @@
 title: "Epic Equipment Crate Key"
 permalink: /item/Epic Equipment Crate Key_28/
 excerpt: "Wing Fighter Epic Equipment Crate Key"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-11-04
 locale: en
 ref: "Epic Equipment Crate Key_28.md"
 toc: false

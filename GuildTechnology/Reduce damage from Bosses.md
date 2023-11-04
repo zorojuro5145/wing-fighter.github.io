@@ -2,7 +2,7 @@
 title: "Legion Technology Reduce damage from Bosses"
 permalink: /GuildTechnology/Reduce damage from Bosses/
 excerpt: "Wing Fighter Legion TechnologyReduce damage from Bosses"
-last_modified_at: 2023-10-18
+last_modified_at: 2023-11-04
 locale: en
 ref: "Reduce damage from Bosses.md"
 toc: false

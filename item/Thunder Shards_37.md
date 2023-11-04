@@ -2,7 +2,7 @@
 title: "Thunder Shards"
 permalink: /item/Thunder Shards_37/
 excerpt: "Wing Fighter Thunder Shards"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-11-04
 locale: en
 ref: "Thunder Shards_37.md"
 toc: false

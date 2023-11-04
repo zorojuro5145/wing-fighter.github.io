@@ -2,7 +2,7 @@
 title: "Talent Equipment"
 permalink: /talent/Equipment/
 excerpt: "Wing Fighter Talent Equipment"
-last_modified_at: 2023-10-18
+last_modified_at: 2023-11-04
 locale: en
 ref: "Equipment.md"
 toc: false
@@ -23,7 +23,7 @@ classes: wide
 
  **Name:** Equipment 
 
- **Description:** Improve Equipment Attributes 
+ **Description:** Improve Equipment Base Attributes 
 
  **Type:** Equipment 
 
@@ -31,14 +31,14 @@ classes: wide
 
   |  Level |     Bonus     |   Value, %   | Extra Power |
   |:-------|:-------------:|:---------:|:---------|
-  | 1  | Improve Equipment Attributes  | **+3.0**  |  |
-  | 2  | Improve Equipment Attributes  | **+6.0**  |  |
-  | 3  | Improve Equipment Attributes  | **+9.0**  |  |
-  | 4  | Improve Equipment Attributes  | **+12.0**  |  |
-  | 5  | Improve Equipment Attributes  | **+15.000001**  |  |
-  | 6  | Improve Equipment Attributes  | **+18.0**  |  |
-  | 7  | Improve Equipment Attributes  | **+21.0**  |  |
-  | 8  | Improve Equipment Attributes  | **+24.0**  |  |
-  | 9  | Improve Equipment Attributes  | **+27.000002**  |  |
-  | MAX  | Improve Equipment Attributes  | **+30.000002**  |  |
+  | 1  | Improve Equipment Base Attributes  | **+3.0**  |  |
+  | 2  | Improve Equipment Base Attributes  | **+6.0**  |  |
+  | 3  | Improve Equipment Base Attributes  | **+9.0**  |  |
+  | 4  | Improve Equipment Base Attributes  | **+12.0**  |  |
+  | 5  | Improve Equipment Base Attributes  | **+15.000001**  |  |
+  | 6  | Improve Equipment Base Attributes  | **+18.0**  |  |
+  | 7  | Improve Equipment Base Attributes  | **+21.0**  |  |
+  | 8  | Improve Equipment Base Attributes  | **+24.0**  |  |
+  | 9  | Improve Equipment Base Attributes  | **+27.000002**  |  |
+  | MAX  | Improve Equipment Base Attributes  | **+30.000002**  |  |
 

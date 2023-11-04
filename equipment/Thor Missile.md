@@ -2,7 +2,7 @@
 title: "Equipment Thor Missile"
 permalink: /equipment/Thor Missile/
 excerpt: "Wing Fighter Equipment Thor Missile"
-last_modified_at: 2023-10-18
+last_modified_at: 2023-11-04
 locale: en
 ref: "Thor Missile.md"
 toc: false
@@ -23,7 +23,7 @@ classes: wide
 
  **Name:** Thor Missile 
 
- **Description:** Attract thunder from the atmosphere after hitting the enemy, dealing a heavy blow to the enemy 
+ **Description:** Attract thunderbolt from the atmosphere after hitting the enemy, dealing a heavy blow to the enemy 
 
  **Gear Set:** [Gear Set Thor](/gear_set/Thor){: .btn .btn--info}
 
@@ -43,7 +43,7 @@ classes: wide
   |:----|:-------------:|:--------------------------|
   | 1  | ![+2](/images/sp_grade_2.png)  | Attack +10% |
   | 2  | ![+3](/images/sp_grade_3.png)  | Attack rate +10% |
-  | 3  | ![+4](/images/sp_grade_4.png)  | Thunder damage +100% |
+  | 3  | ![+4](/images/sp_grade_4.png)  | Thunderbolt damage +100% |
   | 4  | ![+5](/images/sp_grade_5.png)  | Attack +100% |
   | 5  | ![+6](/images/sp_grade_6.png)  | Missile can ricochet and deal damage to surrounding enemies |
 

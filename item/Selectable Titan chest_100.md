@@ -2,7 +2,7 @@
 title: "Selectable Titan chest"
 permalink: /item/Selectable Titan chest_100/
 excerpt: "Wing Fighter Selectable Titan chest"
-last_modified_at: 2023-10-18
+last_modified_at: 2023-11-04
 locale: en
 ref: "Selectable Titan chest_100.md"
 toc: false
@@ -18,7 +18,7 @@ classes: wide
 
  **Name:** Selectable Titan chest 
 
- **Description:** Select 1 Epic gear from all gear sets
+ **Description:** Select 1 epic gear from all gear sets
 
  **Rarity:** 4 
 

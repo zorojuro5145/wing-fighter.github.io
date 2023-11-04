@@ -2,7 +2,7 @@
 title: "Fighter Destroyer Fighter"
 permalink: /fighter/Destroyer Fighter/
 excerpt: "Wing Fighter Destroyer Fighter"
-last_modified_at: 2023-10-18
+last_modified_at: 2023-11-04
 locale: en
 ref: "Destroyer Fighter.md"
 toc: false

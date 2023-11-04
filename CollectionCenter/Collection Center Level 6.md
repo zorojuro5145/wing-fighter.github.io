@@ -2,7 +2,7 @@
 title: "Collection Center Level +6"
 permalink: /CollectionCenter/Collection Center Level 6/
 excerpt: "Wing Fighter Collection CenterLevel +6"
-last_modified_at: 2023-10-18
+last_modified_at: 2023-11-04
 locale: en
 ref: "Collection Center Level 6.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Shop Valuable Pack"
 permalink: /shop/Valuable Pack_168/
 excerpt: "Wing Fighter Valuable Pack"
-last_modified_at: 2023-10-18
+last_modified_at: 2023-11-04
 locale: en
 ref: "Valuable Pack_168.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Equipment Electrical Armor"
 permalink: /equipment/Electrical Armor/
 excerpt: "Wing Fighter Equipment Electrical Armor"
-last_modified_at: 2023-10-18
+last_modified_at: 2023-11-04
 locale: en
 ref: "Electrical Armor.md"
 toc: false

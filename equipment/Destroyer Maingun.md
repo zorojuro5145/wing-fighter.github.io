@@ -2,7 +2,7 @@
 title: "Equipment Destroyer Maingun"
 permalink: /equipment/Destroyer Maingun/
 excerpt: "Wing Fighter Equipment Destroyer Maingun"
-last_modified_at: 2023-10-18
+last_modified_at: 2023-11-04
 locale: en
 ref: "Destroyer Maingun.md"
 toc: false

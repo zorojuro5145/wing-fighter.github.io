@@ -2,7 +2,7 @@
 title: "Gem Red"
 permalink: /gem/Gem Red/
 excerpt: "Wing Fighter Gem Red"
-last_modified_at: 2023-10-18
+last_modified_at: 2023-11-04
 locale: en
 ref: "Gem Red.md"
 toc: false

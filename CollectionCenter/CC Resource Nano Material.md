@@ -2,7 +2,7 @@
 title: "CC Resource Nano Material"
 permalink: /CollectionCenter/CC Resource Nano Material/
 excerpt: "Wing Fighter CC ResourceNano Material"
-last_modified_at: 2023-10-18
+last_modified_at: 2023-11-04
 locale: en
 ref: "CC Resource Nano Material.md"
 toc: false

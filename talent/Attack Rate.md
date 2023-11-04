@@ -2,7 +2,7 @@
 title: "Talent Attack Rate"
 permalink: /talent/Attack Rate/
 excerpt: "Wing Fighter Talent Attack Rate"
-last_modified_at: 2023-10-18
+last_modified_at: 2023-11-04
 locale: en
 ref: "Attack Rate.md"
 toc: false

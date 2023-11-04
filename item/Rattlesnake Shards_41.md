@@ -2,7 +2,7 @@
 title: "Rattlesnake Shards"
 permalink: /item/Rattlesnake Shards_41/
 excerpt: "Wing Fighter Rattlesnake Shards"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-11-04
 locale: en
 ref: "Rattlesnake Shards_41.md"
 toc: false

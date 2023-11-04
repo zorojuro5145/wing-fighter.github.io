@@ -2,7 +2,7 @@
 title: "Pilot"
 permalink: /item/Pilot_95/
 excerpt: "Wing Fighter Pilot"
-last_modified_at: 2023-09-06
+last_modified_at: 2023-11-04
 locale: en
 ref: "Pilot_95.md"
 toc: false

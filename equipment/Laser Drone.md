@@ -2,7 +2,7 @@
 title: "Equipment Laser Drone"
 permalink: /equipment/Laser Drone/
 excerpt: "Wing Fighter Equipment Laser Drone"
-last_modified_at: 2023-10-18
+last_modified_at: 2023-11-04
 locale: en
 ref: "Laser Drone.md"
 toc: false

@@ -1,24 +1,24 @@
 ---
-title: "Selectable SR Pilot Shard Chest"
-permalink: /item/Selectable SR Pilot Shard Chest_98/
-excerpt: "Wing Fighter Selectable SR Pilot Shard Chest"
-last_modified_at: 2023-10-18
+title: "Selectable SR Pilot shard chest"
+permalink: /item/Selectable SR Pilot shard chest_98/
+excerpt: "Wing Fighter Selectable SR Pilot shard chest"
+last_modified_at: 2023-11-04
 locale: en
-ref: "Selectable SR Pilot Shard Chest_98.md"
+ref: "Selectable SR Pilot shard chest_98.md"
 toc: false
 classes: wide
 ---
 
 
- ![Selectable SR Pilot Shard Chest](/images/item/Selectable_SR_Pilot_Shard_Chest_p.png)
+ ![Selectable SR Pilot shard chest](/images/item/Selectable_SR_Pilot_shard_chest_p.png)
 
 
 
 ## Details
 
- **Name:** Selectable SR Pilot Shard Chest 
+ **Name:** Selectable SR Pilot shard chest 
 
- **Description:** Select SR pilot shards ×5
+ **Description:** Select SR pilot shard*5
 
  **Rarity:** 5 
 

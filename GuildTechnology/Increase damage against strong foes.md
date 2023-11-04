@@ -2,7 +2,7 @@
 title: "Legion Technology Increase damage against strong foes"
 permalink: /GuildTechnology/Increase damage against strong foes/
 excerpt: "Wing Fighter Legion TechnologyIncrease damage against strong foes"
-last_modified_at: 2023-10-18
+last_modified_at: 2023-11-04
 locale: en
 ref: "Increase damage against strong foes.md"
 toc: false
