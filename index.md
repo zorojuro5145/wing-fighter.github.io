@@ -2,7 +2,7 @@
 title: "Wing Fighter Wiki: Fighters, Pilots, Weapon, Quests, Events and more"
 excerpt: "Wing Fighter, Wing Fighter Wiki. Complete information about the Wing Fighter: Gun, Fighters, Items, Artifacts, Quests and more. Be strongest player with us. Wing Fighter - the perfect game for nostalgic arcade lovers!"
 author_profile: false
-last_modified_at: 2023-07-13
+last_modified_at: 2023-12-31
 toc: false
 locale: en
 classes: wide
@@ -12,21 +12,17 @@ sidebar:
 
 
 
-{% capture notice-update20231104 %}
+{% capture notice-update20231231 %}
 
-* Added [Pilots](https://wing-fighter.github.io/pilots/) with information for all pilots. 
+Wishing You all a **Happy Christmas** and a **New Year** filled with joy, prosperity, and continued success!
 
-* Wiki updated to *1.7.570* (latest client version)
-
-* Drop rate, new chests, new discounts are in my plan... 
-
-Enjoy great update! Some images are missed - I'll fix it asap.
+![Green Dragon in the Space helps Wing Fighters in 2024](https://wing-fighter.github.io/images/GreenDragon2024_WingFighter_p.jpg)
 
 {% endcapture %}
 
 <div class="notice--danger">
-  <h4 class="no_toc">4 November 2023 Wiki Update: Update Wiki to 1.7.570 with new Pilots, etc</h4>
-  {{ notice-update20231104 | markdownify }}
+  <h4 class="no_toc">31 December 2023 Happy New Year!</h4>
+  {{ notice-update20231231 | markdownify }}
 </div>
 
 
@@ -78,6 +74,22 @@ The Wing Fighter - the perfect game for nostalgic arcade lovers! Extra informati
 * Take Flight Again in Wing Fighter, a Modern Classic Arcade Shooter
 
 
+{% capture notice-update20231104 %}
+
+* Added [Pilots](https://wing-fighter.github.io/pilots/) with information for all pilots. 
+
+* Wiki updated to *1.7.570* (latest client version)
+
+* Drop rate, new chests, new discounts are in my plan... 
+
+Enjoy great update! Some images are missed - I'll fix it asap.
+
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">4 November 2023 Wiki Update: Update Wiki to 1.7.570 with new Pilots, etc</h4>
+  {{ notice-update20231104 | markdownify }}
+</div>
 
 {% capture notice-update20231018 %}
 
