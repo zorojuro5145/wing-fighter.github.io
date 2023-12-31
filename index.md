@@ -14,9 +14,11 @@ sidebar:
 
 {% capture notice-update20231231 %}
 
-Wishing You all a **Happy Christmas** and a **New Year** filled with joy, prosperity, and continued success!
+Wishing You all a **Happy Christmas** and a **Happy New Year** filled with joy, prosperity, and continued success!
 
 ![Green Dragon in the Space helps Wing Fighters in 2024](https://wing-fighter.github.io/images/GreenDragon2024_WingFighter_p.jpg)
+
+**Green Dragon 2024** helps **Wing Fighters** in the Space!
 
 {% endcapture %}
 
