@@ -2,7 +2,7 @@
 title: "Pilot Jeanne d'Arc"
 permalink: /pilots/Jeanne d'Arc/
 excerpt: "Wing Fighter Jeanne d'Arc"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Jeanne d'Arc.md"
 toc: false
@@ -73,7 +73,7 @@ classes: wide
   | ![Star1](/images/s1.png)  | Physical Defense: +12, Energy Defense: +20  | +0.75%  | +350  | **30x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  |
   | ![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense: +18, Energy Defense: +30  | +1.5%  | +880  | **60x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  |
   | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense: +24, Energy Defense: +40  | +2.25%  | +1650  | **120x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **45x**![Jeanne d'Arc Shard](/images/pilots/Jeanne_d'Arc_Shard_p.png)Jeanne d'Arc Shard  |  |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense: +30, Energy Defense: +50  | +3.0%  | +2890  | **180x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **90x**![Jeanne d'Arc Shard](/images/pilots/Jeanne_d'Arc_Shard_p.png)Jeanne d'Arc Shard  |  ![N](/images/pilots/N_p.png) x100 |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense: +30, Energy Defense: +50  | +3.0%  | +2890  | **180x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **90x**![Jeanne d'Arc Shard](/images/pilots/Jeanne_d'Arc_Shard_p.png)Jeanne d'Arc Shard  |  |
   | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense: +36, Energy Defense: +60  | +3.7500000000000004%  | +4470  | **300x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **135x**![Jeanne d'Arc Shard](/images/pilots/Jeanne_d'Arc_Shard_p.png)Jeanne d'Arc Shard  |  ![N](/images/pilots/N_p.png) x200 |
   | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense: +42, Energy Defense: +80  | +4.5%  | +6580  | **900x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **180x**![Jeanne d'Arc Shard](/images/pilots/Jeanne_d'Arc_Shard_p.png)Jeanne d'Arc Shard  |  ![N](/images/pilots/N_p.png) x400 |
   | AWAKED  | Physical Defense: +50, Energy Defense: +100  | +6.75%  | +9750  | **1350x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  ![R](/images/pilots/R_p.png) x900 ![N](/images/pilots/N_p.png) x800 |

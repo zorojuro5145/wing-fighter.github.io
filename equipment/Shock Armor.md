@@ -2,7 +2,7 @@
 title: "Equipment Shock Armor"
 permalink: /equipment/Shock Armor/
 excerpt: "Wing Fighter Equipment Shock Armor"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Shock Armor.md"
 toc: false

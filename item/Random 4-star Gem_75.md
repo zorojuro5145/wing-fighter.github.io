@@ -2,7 +2,7 @@
 title: "Random 4-star Gem"
 permalink: /item/Random 4-star Gem_75/
 excerpt: "Wing Fighter Random 4-star Gem"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Random 4-star Gem_75.md"
 toc: false
@@ -18,7 +18,7 @@ classes: wide
 
  **Name:** Random 4-star Gem 
 
- **Description:** Randomly get one 4-star gem
+ **Description:** Get one random 4-star gem
 
  **Rarity:** 1 
 

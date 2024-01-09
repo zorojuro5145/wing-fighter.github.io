@@ -2,7 +2,7 @@
 title: "Legion Technology Reduce damage from enemies on ground and water"
 permalink: /GuildTechnology/Reduce damage from enemies on ground and water/
 excerpt: "Wing Fighter Legion TechnologyReduce damage from enemies on ground and water"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Reduce damage from enemies on ground and water.md"
 toc: false

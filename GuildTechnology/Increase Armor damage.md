@@ -2,7 +2,7 @@
 title: "Legion Technology Increase Armor damage"
 permalink: /GuildTechnology/Increase Armor damage/
 excerpt: "Wing Fighter Legion TechnologyIncrease Armor damage"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Increase Armor damage.md"
 toc: false

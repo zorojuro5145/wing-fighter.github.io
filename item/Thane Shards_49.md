@@ -2,7 +2,7 @@
 title: "Thane Shards"
 permalink: /item/Thane Shards_49/
 excerpt: "Wing Fighter Thane Shards"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Thane Shards_49.md"
 toc: false

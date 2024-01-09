@@ -2,7 +2,7 @@
 title: "Shop Normal Pack"
 permalink: /shop/Normal Pack_169/
 excerpt: "Wing Fighter Normal Pack"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Normal Pack_169.md"
 toc: false

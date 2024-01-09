@@ -2,7 +2,7 @@
 title: "Drone Module"
 permalink: /item/Drone Module_13/
 excerpt: "Wing Fighter Drone Module"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Drone Module_13.md"
 toc: false

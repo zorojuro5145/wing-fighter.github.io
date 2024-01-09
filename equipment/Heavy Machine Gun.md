@@ -2,7 +2,7 @@
 title: "Equipment Heavy Machine Gun"
 permalink: /equipment/Heavy Machine Gun/
 excerpt: "Wing Fighter Equipment Heavy Machine Gun"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Heavy Machine Gun.md"
 toc: false

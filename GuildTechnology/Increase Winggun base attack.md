@@ -2,7 +2,7 @@
 title: "Legion Technology Increase Winggun base attack"
 permalink: /GuildTechnology/Increase Winggun base attack/
 excerpt: "Wing Fighter Legion TechnologyIncrease Winggun base attack"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Increase Winggun base attack.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Pilot Freya"
 permalink: /pilots/Freya/
 excerpt: "Wing Fighter Freya"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Freya.md"
 toc: false
@@ -73,7 +73,7 @@ classes: wide
   | ![Star1](/images/s1.png)  | Physical Defense Break: +20, Physical Defense: +20  | +1.0%  | +520  | **40x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  |
   | ![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +30, Physical Defense: +30  | +2.0%  | +1310  | **80x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  |
   | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +40, Physical Defense: +40  | +3.0%  | +2460  | **160x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **60x**![Freya Shard](/images/pilots/Freya_Shard_p.png)Freya Shard  |  |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +50, Physical Defense: +50  | +4.0%  | +4290  | **300x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **120x**![Freya Shard](/images/pilots/Freya_Shard_p.png)Freya Shard  |  ![R](/images/pilots/R_p.png) x100 |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +50, Physical Defense: +50  | +4.0%  | +4290  | **300x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **120x**![Freya Shard](/images/pilots/Freya_Shard_p.png)Freya Shard  |  |
   | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +60, Physical Defense: +60  | +5.0%  | +6640  | **500x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **180x**![Freya Shard](/images/pilots/Freya_Shard_p.png)Freya Shard  |  ![R](/images/pilots/R_p.png) x200 |
   | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +80, Physical Defense: +80  | +6.0%  | +9770  | **1200x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **240x**![Freya Shard](/images/pilots/Freya_Shard_p.png)Freya Shard  |  ![R](/images/pilots/R_p.png) x400 |
   | AWAKED  | Physical Defense Break: +100, Physical Defense: +100  | +9.0%  | +14480  | **1800x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  ![SR](/images/pilots/SR_p.png) x800 ![R](/images/pilots/R_p.png) x800 ![N](/images/pilots/N_p.png) x1500 |

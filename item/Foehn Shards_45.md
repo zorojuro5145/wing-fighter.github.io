@@ -2,7 +2,7 @@
 title: "Foehn Shards"
 permalink: /item/Foehn Shards_45/
 excerpt: "Wing Fighter Foehn Shards"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Foehn Shards_45.md"
 toc: false

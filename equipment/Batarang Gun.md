@@ -2,7 +2,7 @@
 title: "Equipment Batarang Gun"
 permalink: /equipment/Batarang Gun/
 excerpt: "Wing Fighter Equipment Batarang Gun"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Batarang Gun.md"
 toc: false

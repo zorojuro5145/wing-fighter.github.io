@@ -2,7 +2,7 @@
 title: "Fighter Destroyer Fighter"
 permalink: /fighter/Destroyer Fighter/
 excerpt: "Wing Fighter Destroyer Fighter"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Destroyer Fighter.md"
 toc: false
@@ -34,7 +34,7 @@ classes: wide
 
  **Skill Type:**  Passive Skill
 
- **Skill Description:**  Every 16 seconds, an energy concentrator appears in front of the fighter. The damage increases when bullets pass through it. The duration of the energy concentrator is 4 seconds
+ **Skill Description:**  Every 16 seconds, an energy concentrator appears in front of the fighter. The attack increases when bullets pass through it. The energy concentrator lasts for 4 seconds.
 
  **Extra Combat Power:**  +2000
 

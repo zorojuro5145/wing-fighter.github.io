@@ -2,7 +2,7 @@
 title: "Selectable Titan chest"
 permalink: /item/Selectable Titan chest_100/
 excerpt: "Wing Fighter Selectable Titan chest"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Selectable Titan chest_100.md"
 toc: false

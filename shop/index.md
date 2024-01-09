@@ -2,7 +2,7 @@
 title: "Shop"
 permalink: /shop/
 excerpt: "Wing Fighter Shop"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "index.md"
 toc: false
@@ -56,8 +56,8 @@ classes: wide
   | 41 |  [Supreme Care Chest](/shop/Shop Supreme Care Chest/) |[Unknown](/shop/Unknown_41) | Conqueror <span style="color: #00f375"><size=56>Probability Up!</size></span><br/><span style="color: #000000;"></span> | 
   | 42 |  [Supreme Care Chest](/shop/Shop Supreme Care Chest/) |[Unknown](/shop/Unknown_42) | Thor <span style="color: #00f375"><size=56>Probability Up!</size></span><br/><span style="color: #000000;"></span> | 
   | 43 |  [Supreme Care Chest](/shop/Shop Supreme Care Chest/) |[Unknown](/shop/Unknown_43) | Thor <span style="color: #00f375"><size=56>Probability Up!</size></span><br/><span style="color: #000000;"></span> | 
-  | 44 |  [Other](/shop/Shop Other/) |[Pilot Recruit](/shop/Pilot Recruit_44) | Randomly get pilot or pilot shards | 
-  | 45 |  [Other](/shop/Shop Other/) |[Pilot Recruit](/shop/Pilot Recruit_45) | Randomly get pilot or pilot shards | 
+  | 44 |  [Other](/shop/Shop Other/) |[Pilot Recruit](/shop/Pilot Recruit_44) | Get random pilots or pilot shards | 
+  | 45 |  [Other](/shop/Shop Other/) |[Pilot Recruit](/shop/Pilot Recruit_45) | Get random pilots or pilot shards | 
   | 46 |  [Other](/shop/Shop Other/) |[Unknown](/shop/Unknown_46) |  | 
   | 47 |  [Other](/shop/Shop Other/) |[Unknown](/shop/Unknown_47) |  | 
   | 48 |  [Supreme Care Chest](/shop/Shop Supreme Care Chest/) |[Unknown](/shop/Unknown_48) | Destroyer <span style="color: #00f375"><size=56>Probability Up!</size></span><br/><span style="color: #000000;"></span> | 

@@ -2,7 +2,7 @@
 title: "nano_material_name_68"
 permalink: /item/nano_material_name_68/
 excerpt: "Wing Fighter nano_material_name_68"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "nano_material_name_68.md"
 toc: false

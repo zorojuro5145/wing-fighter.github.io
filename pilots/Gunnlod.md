@@ -2,7 +2,7 @@
 title: "Pilot Gunnlod"
 permalink: /pilots/Gunnlod/
 excerpt: "Wing Fighter Gunnlod"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Gunnlod.md"
 toc: false
@@ -73,7 +73,7 @@ classes: wide
   | ![Star1](/images/s1.png)  | Physical Defense Break: +16, Physical Defense: +16  | *0.1  | -  | **30x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  |
   | ![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +24, Physical Defense: +24  | *0.2  | -  | **60x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  |
   | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +32, Physical Defense: +32  | *0.3  | -  | **120x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **45x**![Gunnlod Shard](/images/pilots/Gunnlod_Shard_p.png)Gunnlod Shard  |  |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +40, Physical Defense: +40  | *0.4  | -  | **180x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **90x**![Gunnlod Shard](/images/pilots/Gunnlod_Shard_p.png)Gunnlod Shard  |  ![N](/images/pilots/N_p.png) x100 |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +40, Physical Defense: +40  | *0.4  | -  | **180x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **90x**![Gunnlod Shard](/images/pilots/Gunnlod_Shard_p.png)Gunnlod Shard  |  |
   | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +48, Physical Defense: +48  | *0.5  | -  | **300x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **135x**![Gunnlod Shard](/images/pilots/Gunnlod_Shard_p.png)Gunnlod Shard  |  ![N](/images/pilots/N_p.png) x200 |
   | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +60, Physical Defense: +60  | *0.7  | -  | **900x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **180x**![Gunnlod Shard](/images/pilots/Gunnlod_Shard_p.png)Gunnlod Shard  |  ![N](/images/pilots/N_p.png) x400 |
   | AWAKED  | Physical Defense Break: +75, Physical Defense: +75  | *1.0  | -  | **1350x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  ![R](/images/pilots/R_p.png) x900 ![N](/images/pilots/N_p.png) x800 |

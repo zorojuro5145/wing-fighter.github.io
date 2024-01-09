@@ -2,7 +2,7 @@
 title: "Equipment Gun"
 permalink: /equipment/Equipment Gun/
 excerpt: "Wing Fighter Equipment Gun"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Equipment Gun.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Gem +3"
 permalink: /gem/Gem +3/
 excerpt: "Wing Fighter Gem +3"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Gem +3.md"
 toc: false

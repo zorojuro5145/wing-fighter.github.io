@@ -2,7 +2,7 @@
 title: "Shop Supreme Care Chest"
 permalink: /shop/Shop Supreme Care Chest/
 excerpt: "Wing Fighter Supreme Care Chest"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Shop Supreme Care Chest.md"
 toc: false

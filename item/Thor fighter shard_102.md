@@ -2,7 +2,7 @@
 title: "Thor fighter shard"
 permalink: /item/Thor fighter shard_102/
 excerpt: "Wing Fighter Thor fighter shard"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Thor fighter shard_102.md"
 toc: false

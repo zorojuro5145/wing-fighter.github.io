@@ -2,7 +2,7 @@
 title: "Random Epic Equipment"
 permalink: /item/Random Epic Equipment_83/
 excerpt: "Wing Fighter Random Epic Equipment"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Random Epic Equipment_83.md"
 toc: false
@@ -18,7 +18,7 @@ classes: wide
 
  **Name:** Random Epic Equipment 
 
- **Description:** Randomly get one Epic Normal Equipment
+ **Description:** Get one random Epic normal equipment
 
  **Rarity:** 1 
 

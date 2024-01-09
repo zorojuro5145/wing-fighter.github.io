@@ -2,7 +2,7 @@
 title: "Shop Free Pack"
 permalink: /shop/Free Pack_35/
 excerpt: "Wing Fighter Free Pack"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Free Pack_35.md"
 toc: false

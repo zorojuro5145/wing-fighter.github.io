@@ -2,7 +2,7 @@
 title: "Shop Super Pack"
 permalink: /shop/Super Pack_172/
 excerpt: "Wing Fighter Super Pack"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Super Pack_172.md"
 toc: false

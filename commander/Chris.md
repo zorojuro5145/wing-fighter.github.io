@@ -2,7 +2,7 @@
 title: "Commander Chris"
 permalink: /commander/Chris/
 excerpt: "Wing Fighter Chris"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Chris.md"
 toc: false

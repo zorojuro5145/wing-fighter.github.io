@@ -2,7 +2,7 @@
 title: "Random SSR Fighter Shard"
 permalink: /item/Random SSR Fighter Shard_59/
 excerpt: "Wing Fighter Random SSR Fighter Shard"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Random SSR Fighter Shard_59.md"
 toc: false
@@ -18,7 +18,7 @@ classes: wide
 
  **Name:** Random SSR Fighter Shard 
 
- **Description:** Randomly get 1 SSR fighter shard
+ **Description:** Get one random SSR fighter shard
 
  **Rarity:** 1 
 

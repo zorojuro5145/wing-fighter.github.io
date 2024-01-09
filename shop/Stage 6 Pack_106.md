@@ -2,7 +2,7 @@
 title: "Shop Stage 6 Pack"
 permalink: /shop/Stage 6 Pack_106/
 excerpt: "Wing Fighter Stage 6 Pack"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Stage 6 Pack_106.md"
 toc: false
@@ -35,5 +35,5 @@ classes: wide
   | 1 | **720**  | ![Diamonds](/images/item/Diamonds_p.png) [Diamonds](/item/Diamonds_15/) | 
   | 2 | **38000**  | ![Stars](/images/item/Stars_p.png) [Stars](/item/Stars_2/) | 
   | 3 | **12**  | ![Super Key](/images/item/Super_Key_p.png) [Super Key](/item/Super Key_30/) | 
-  | 4 | **100**  | ![](/images/item/_p.png) [](/item/_61/) | 
+  | 4 | **100**  | ![Random Module](/images/item/Random_Module_p.png) [Random Module](/item/Random Module_61/) | 
 

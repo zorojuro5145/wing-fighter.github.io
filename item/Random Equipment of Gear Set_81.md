@@ -2,7 +2,7 @@
 title: "Random Equipment of Gear Set"
 permalink: /item/Random Equipment of Gear Set_81/
 excerpt: "Wing Fighter Random Equipment of Gear Set"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Random Equipment of Gear Set_81.md"
 toc: false
@@ -18,7 +18,7 @@ classes: wide
 
  **Name:** Random Equipment of Gear Set 
 
- **Description:** Randomly get 1 Epic Conqueror Equipment or Thor Equipment
+ **Description:** Get one random Epic Conqueror or Thor Equipment
 
  **Rarity:** 1 
 

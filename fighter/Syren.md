@@ -2,7 +2,7 @@
 title: "Fighter Syren"
 permalink: /fighter/Syren/
 excerpt: "Wing Fighter Syren"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Syren.md"
 toc: false
@@ -32,7 +32,7 @@ classes: wide
 
  **Skill Type:**  Active Skill
 
- **Skill Description:**  Active skill to transform the fighter. The effects vary with the forms. \n Default form, restore HP when damaging enemies. \n Furious form, HP drops by 1% per second until the HP is 1. The attack increases by 1% for every 2% HP drop.
+ **Skill Description:**  Active skill to transform the fighter. The effects vary with the forms. \n Default form, restore HP when destroying enemies. \n Furious form, HP drops by 1% per second until the HP is 1. The attack increases by 1% for every 2% HP drop.
 
  **Extra Combat Power:**  +1200
 

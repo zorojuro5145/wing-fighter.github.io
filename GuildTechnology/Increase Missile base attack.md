@@ -2,7 +2,7 @@
 title: "Legion Technology Increase Missile base attack"
 permalink: /GuildTechnology/Increase Missile base attack/
 excerpt: "Wing Fighter Legion TechnologyIncrease Missile base attack"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Increase Missile base attack.md"
 toc: false

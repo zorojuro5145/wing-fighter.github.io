@@ -2,7 +2,7 @@
 title: "Wing Fighter Items"
 permalink: /item/forLily/
 excerpt: "Wing Fighter item"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "forLily.md"
 toc: false
@@ -45,7 +45,7 @@ classes: wide
   | 32 | ![EXP Card II](/images/item/EXP_Card_II_p.png) | 500 | [EXP Card II](/item/EXP Card II_52/) | **5** | Used to increase commander experience by 500 | 3 | 30 | 
   | 33 | ![EXP Card III](/images/item/EXP_Card_III_p.png) | 2500 | [EXP Card III](/item/EXP Card III_53/) | **5** | Used to increase commander experience by 2500 | 4 | 31 | 
   | 34 | ![EXP Card IV](/images/item/EXP_Card_IV_p.png) | 10000 | [EXP Card IV](/item/EXP Card IV_54/) | **5** | Used to increase commander experience by 10000 | 5 | 32 | 
-  | 35 | ![EXP Card V](/images/item/EXP_Card_V_p.png) | 50000 | [EXP Card V](/item/EXP Card V_55/) | **5** | Used to increase commander experience by 25000 | 6 | 33 | 
+  | 35 | ![EXP Card V](/images/item/EXP_Card_V_p.png) | 50000 | [EXP Card V](/item/EXP Card V_55/) | **5** | Used to increase commander experience by 50000 | 6 | 33 | 
   | 36 | ![Evolution Medal](/images/item/Evolution_Medal_p.png) | 1 | [Evolution Medal](/item/Evolution Medal_56/) | **5** | Used to ascend commander | 1 | 34 | 
   | 37 | ![Unknown_66](/images/item/actor_debris_1_p.png) | 1 | [actor_debris_name_0](/item/actor_debris_name_0_66/) | **5** | ? | 1 | 39 | 
   | 38 | ![Unknown_89](/images/item/actor_debris_1_p.png) | 1 | [actor_debris_name_0](/item/actor_debris_name_0_89/) | **2** | ? | 1 | 64 | 

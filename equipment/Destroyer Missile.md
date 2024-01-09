@@ -2,7 +2,7 @@
 title: "Equipment Destroyer Missile"
 permalink: /equipment/Destroyer Missile/
 excerpt: "Wing Fighter Equipment Destroyer Missile"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Destroyer Missile.md"
 toc: false

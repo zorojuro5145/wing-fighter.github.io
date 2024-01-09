@@ -2,7 +2,7 @@
 title: "Legion Hunt Boss Chimera"
 permalink: /Legion_Hunt/Legion Hunt Boss Chimera/
 excerpt: "Wing Fighter Legion Hunt Boss Chimera"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Legion Hunt Boss Chimera.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Legion Technology Increase Ultimate base attack"
 permalink: /GuildTechnology/Increase Ultimate base attack/
 excerpt: "Wing Fighter Legion TechnologyIncrease Ultimate base attack"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Increase Ultimate base attack.md"
 toc: false

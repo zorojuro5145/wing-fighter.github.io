@@ -2,7 +2,7 @@
 title: "Shop Conqueror Chest"
 permalink: /shop/Conqueror Chest_28/
 excerpt: "Wing Fighter Conqueror Chest"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Conqueror Chest_28.md"
 toc: false

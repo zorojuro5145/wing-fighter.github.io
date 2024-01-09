@@ -2,7 +2,7 @@
 title: "Shop Unknown"
 permalink: /shop/Unknown_200/
 excerpt: "Wing Fighter Unknown"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Unknown_200.md"
 toc: false
@@ -24,7 +24,7 @@ classes: wide
 
  **Price:** 12.99 $/EUR 
 
- **Discount: 1000%** 
+ **Discount: 800%** 
 
 
 

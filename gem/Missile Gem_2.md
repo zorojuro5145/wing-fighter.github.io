@@ -2,7 +2,7 @@
 title: "Gem Missile Gem +2"
 permalink: /gem/Missile Gem_2/
 excerpt: "Wing Fighter Gem Missile Gem +2"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Missile Gem_2.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Stars"
 permalink: /item/Stars_2/
 excerpt: "Wing Fighter Stars"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Stars_2.md"
 toc: false

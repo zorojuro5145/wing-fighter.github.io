@@ -2,7 +2,7 @@
 title: "Shop Advance Pack"
 permalink: /shop/Advance Pack_170/
 excerpt: "Wing Fighter Advance Pack"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Advance Pack_170.md"
 toc: false

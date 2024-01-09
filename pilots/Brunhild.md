@@ -2,7 +2,7 @@
 title: "Pilot Brunhild"
 permalink: /pilots/Brunhild/
 excerpt: "Wing Fighter Brunhild"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Brunhild.md"
 toc: false
@@ -73,7 +73,7 @@ classes: wide
   | ![Star1](/images/s1.png)  | Physical Defense Break: +20, Energy Defense: +20  | +1.0%  | +520  | **40x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  |
   | ![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +30, Energy Defense: +30  | +2.0%  | +1310  | **80x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  |
   | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +40, Energy Defense: +40  | +4.0%  | +2460  | **160x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **60x**![Brunhild Shard](/images/pilots/Brunhild_Shard_p.png)Brunhild Shard  |  |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +50, Energy Defense: +50  | +6.0%  | +4290  | **300x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **120x**![Brunhild Shard](/images/pilots/Brunhild_Shard_p.png)Brunhild Shard  |  ![R](/images/pilots/R_p.png) x100 |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +50, Energy Defense: +50  | +6.0%  | +4290  | **300x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **120x**![Brunhild Shard](/images/pilots/Brunhild_Shard_p.png)Brunhild Shard  |  |
   | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +60, Energy Defense: +60  | +8.0%  | +6650  | **500x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **180x**![Brunhild Shard](/images/pilots/Brunhild_Shard_p.png)Brunhild Shard  |  ![R](/images/pilots/R_p.png) x200 |
   | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +80, Energy Defense: +80  | +10.0%  | +9790  | **1200x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **240x**![Brunhild Shard](/images/pilots/Brunhild_Shard_p.png)Brunhild Shard  |  ![R](/images/pilots/R_p.png) x400 |
   | AWAKED  | Physical Defense Break: +100, Energy Defense: +100  | +14.000000000000002%  | +14500  | **1800x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  ![SR](/images/pilots/SR_p.png) x800 ![R](/images/pilots/R_p.png) x800 ![N](/images/pilots/N_p.png) x1500 |

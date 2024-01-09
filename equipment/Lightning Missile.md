@@ -2,7 +2,7 @@
 title: "Equipment Lightning Missile"
 permalink: /equipment/Lightning Missile/
 excerpt: "Wing Fighter Equipment Lightning Missile"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Lightning Missile.md"
 toc: false

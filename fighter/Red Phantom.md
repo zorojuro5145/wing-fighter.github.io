@@ -2,7 +2,7 @@
 title: "Fighter Red Phantom"
 permalink: /fighter/Red Phantom/
 excerpt: "Wing Fighter Red Phantom"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Red Phantom.md"
 toc: false

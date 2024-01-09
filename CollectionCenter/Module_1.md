@@ -2,7 +2,7 @@
 title: "Collection Center Module +1"
 permalink: /CollectionCenter/Module_1/
 excerpt: "Wing Fighter Collection CenterModule +1"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Module_1.md"
 toc: false

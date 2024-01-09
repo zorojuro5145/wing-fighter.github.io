@@ -2,7 +2,7 @@
 title: "Equipment Attack"
 permalink: /equipment/Equipment Attack/
 excerpt: "Wing Fighter Equipment Attack"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Equipment Attack.md"
 toc: false

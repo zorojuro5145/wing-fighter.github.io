@@ -2,7 +2,7 @@
 title: "Equipment Crescent Winggun"
 permalink: /equipment/Crescent Winggun/
 excerpt: "Wing Fighter Equipment Crescent Winggun"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Crescent Winggun.md"
 toc: false

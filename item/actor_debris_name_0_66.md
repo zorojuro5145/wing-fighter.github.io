@@ -2,7 +2,7 @@
 title: "actor_debris_name_0_66"
 permalink: /item/actor_debris_name_0_66/
 excerpt: "Wing Fighter actor_debris_name_0_66"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "actor_debris_name_0_66.md"
 toc: false

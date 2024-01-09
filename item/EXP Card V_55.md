@@ -2,7 +2,7 @@
 title: "EXP Card V"
 permalink: /item/EXP Card V_55/
 excerpt: "Wing Fighter EXP Card V"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "EXP Card V_55.md"
 toc: false
@@ -18,7 +18,7 @@ classes: wide
 
  **Name:** EXP Card V 
 
- **Description:** Used to increase commander experience by 25000
+ **Description:** Used to increase commander experience by 50000
 
  **Rarity:** 6 
 

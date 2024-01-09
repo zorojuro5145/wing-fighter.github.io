@@ -2,7 +2,7 @@
 title: "Talent Healing Heart"
 permalink: /talent/Talent Healing Heart/
 excerpt: "Wing Fighter Talent Healing Heart"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Talent Healing Heart.md"
 toc: false

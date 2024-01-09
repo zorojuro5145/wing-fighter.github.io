@@ -2,7 +2,7 @@
 title: "Random Epic Conqueror Equipment"
 permalink: /item/Random Epic Conqueror Equipment_77/
 excerpt: "Wing Fighter Random Epic Conqueror Equipment"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Random Epic Conqueror Equipment_77.md"
 toc: false
@@ -18,7 +18,7 @@ classes: wide
 
  **Name:** Random Epic Conqueror Equipment 
 
- **Description:** Randomly get one Epic Conqueror Equipment
+ **Description:** Get one random Epic Conqueror equipment
 
  **Rarity:** 1 
 

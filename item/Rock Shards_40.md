@@ -2,7 +2,7 @@
 title: "Rock Shards"
 permalink: /item/Rock Shards_40/
 excerpt: "Wing Fighter Rock Shards"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Rock Shards_40.md"
 toc: false

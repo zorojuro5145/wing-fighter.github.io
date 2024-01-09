@@ -2,7 +2,7 @@
 title: "Shop Stage 14 Pack"
 permalink: /shop/Stage 14 Pack_114/
 excerpt: "Wing Fighter Stage 14 Pack"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Stage 14 Pack_114.md"
 toc: false
@@ -35,5 +35,5 @@ classes: wide
   | 1 | **1800**  | ![Diamonds](/images/item/Diamonds_p.png) [Diamonds](/item/Diamonds_15/) | 
   | 2 | **81000**  | ![Stars](/images/item/Stars_p.png) [Stars](/item/Stars_2/) | 
   | 3 | **25**  | ![Super Key](/images/item/Super_Key_p.png) [Super Key](/item/Super Key_30/) | 
-  | 4 | **200**  | ![](/images/item/_p.png) [](/item/_61/) | 
+  | 4 | **200**  | ![Random Module](/images/item/Random_Module_p.png) [Random Module](/item/Random Module_61/) | 
 

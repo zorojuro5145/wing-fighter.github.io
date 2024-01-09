@@ -2,7 +2,7 @@
 title: "Legion Technology Increase Winggun crit rate"
 permalink: /GuildTechnology/Increase Winggun crit rate/
 excerpt: "Wing Fighter Legion TechnologyIncrease Winggun crit rate"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Increase Winggun crit rate.md"
 toc: false

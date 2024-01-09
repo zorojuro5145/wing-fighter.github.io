@@ -2,7 +2,7 @@
 title: "Gear Set Destroyer"
 permalink: /gear_set/Destroyer
 excerpt: "Wing Fighter Gear Set Destroyer"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Destroyer.md"
 toc: false

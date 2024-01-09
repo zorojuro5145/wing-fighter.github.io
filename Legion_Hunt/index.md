@@ -2,7 +2,7 @@
 title: "Legion Hunt"
 permalink: /Legion_Hunt/
 excerpt: "Wing Fighter Legion Hunt"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "index.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
   Higher damage ranking has better rewards!
 
 
-  by Guild Boss Rewards by Damage:   [Level 1](/Legion_Hunt/Legion Hunt Rewards Level 1/){: .btn .btn--primary}   [Level 2](/Legion_Hunt/Legion Hunt Rewards Level 2/){: .btn .btn--success}   [Level 3](/Legion_Hunt/Legion Hunt Rewards Level 3/){: .btn .btn--warning}   [Level 4](/Legion_Hunt/Legion Hunt Rewards Level 4/){: .btn .btn--danger}   [Level 5](/Legion_Hunt/Legion Hunt Rewards Level 5/){: .btn .btn--info}   [Level 6](/Legion_Hunt/Legion Hunt Rewards Level 6/){: .btn .btn--primary}   [Level 7](/Legion_Hunt/Legion Hunt Rewards Level 7/){: .btn .btn--success}   [Level 8](/Legion_Hunt/Legion Hunt Rewards Level 8/){: .btn .btn--warning}   [Level 9](/Legion_Hunt/Legion Hunt Rewards Level 9/){: .btn .btn--danger}   [Level 10](/Legion_Hunt/Legion Hunt Rewards Level 10/){: .btn .btn--info} 
+  by Guild Boss Rewards by Damage:   [Level 11](/Legion_Hunt/Legion Hunt Rewards Level 11/){: .btn .btn--primary}   [Level 1](/Legion_Hunt/Legion Hunt Rewards Level 1/){: .btn .btn--success}   [Level 12](/Legion_Hunt/Legion Hunt Rewards Level 12/){: .btn .btn--warning}   [Level 2](/Legion_Hunt/Legion Hunt Rewards Level 2/){: .btn .btn--danger}   [Level 3](/Legion_Hunt/Legion Hunt Rewards Level 3/){: .btn .btn--info}   [Level 4](/Legion_Hunt/Legion Hunt Rewards Level 4/){: .btn .btn--primary}   [Level 5](/Legion_Hunt/Legion Hunt Rewards Level 5/){: .btn .btn--success}   [Level 6](/Legion_Hunt/Legion Hunt Rewards Level 6/){: .btn .btn--warning}   [Level 7](/Legion_Hunt/Legion Hunt Rewards Level 7/){: .btn .btn--danger}   [Level 8](/Legion_Hunt/Legion Hunt Rewards Level 8/){: .btn .btn--info}   [Level 9](/Legion_Hunt/Legion Hunt Rewards Level 9/){: .btn .btn--primary}   [Level 10](/Legion_Hunt/Legion Hunt Rewards Level 10/){: .btn .btn--success} 
 
 
 
@@ -43,9 +43,11 @@ classes: wide
  | 5 | [Legion Hunt Rewards Level 5](/Legion_Hunt/Legion Hunt Rewards Level 5/) | **5** | **32000000000** |
  | 6 | [Legion Hunt Rewards Level 6](/Legion_Hunt/Legion Hunt Rewards Level 6/) | **6** | **120000000000** |
  | 7 | [Legion Hunt Rewards Level 7](/Legion_Hunt/Legion Hunt Rewards Level 7/) | **7** | **640000000000** |
- | 8 | [Legion Hunt Rewards Level 8](/Legion_Hunt/Legion Hunt Rewards Level 8/) | **8** | **3200000000000** |
- | 9 | [Legion Hunt Rewards Level 9](/Legion_Hunt/Legion Hunt Rewards Level 9/) | **9** | **12000000000000** |
- | 10 | [Legion Hunt Rewards Level 10](/Legion_Hunt/Legion Hunt Rewards Level 10/) | **10** | **64000000000000** |
+ | 8 | [Legion Hunt Rewards Level 8](/Legion_Hunt/Legion Hunt Rewards Level 8/) | **8** | **1200000000000** |
+ | 9 | [Legion Hunt Rewards Level 9](/Legion_Hunt/Legion Hunt Rewards Level 9/) | **9** | **4000000000000** |
+ | 10 | [Legion Hunt Rewards Level 10](/Legion_Hunt/Legion Hunt Rewards Level 10/) | **10** | **4000000000000** |
+ | 11 | [Legion Hunt Rewards Level 11](/Legion_Hunt/Legion Hunt Rewards Level 11/) | **11** | **10000000000000** |
+ | 12 | [Legion Hunt Rewards Level 12](/Legion_Hunt/Legion Hunt Rewards Level 12/) | **12** | **20000000000000** |
 
 
 ## Rules

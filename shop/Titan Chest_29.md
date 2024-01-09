@@ -2,7 +2,7 @@
 title: "Shop Titan Chest"
 permalink: /shop/Titan Chest_29/
 excerpt: "Wing Fighter Titan Chest"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Titan Chest_29.md"
 toc: false

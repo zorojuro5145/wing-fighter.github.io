@@ -2,7 +2,7 @@
 title: "Equipment Conqueror Armor"
 permalink: /equipment/Conqueror Armor/
 excerpt: "Wing Fighter Equipment Conqueror Armor"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Conqueror Armor.md"
 toc: false

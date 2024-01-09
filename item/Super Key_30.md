@@ -2,7 +2,7 @@
 title: "Super Key"
 permalink: /item/Super Key_30/
 excerpt: "Wing Fighter Super Key"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Super Key_30.md"
 toc: false

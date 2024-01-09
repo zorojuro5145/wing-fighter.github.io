@@ -2,7 +2,7 @@
 title: "Pilot Helen"
 permalink: /pilots/Helen/
 excerpt: "Wing Fighter Helen"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Helen.md"
 toc: false
@@ -73,9 +73,9 @@ classes: wide
   | ![Star1](/images/s1.png)  | Physical Defense Break: +10, Physical Defense: +10  | *0.1  | -  | **20x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  |
   | ![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +15, Physical Defense: +15  | *0.2  | -  | **40x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  |
   | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +20, Physical Defense: +20  | *0.3  | -  | **80x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **30x**![Helen Shard](/images/pilots/Helen_Shard_p.png)Helen Shard  |  |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +25, Physical Defense: +25  | *0.4  | -  | **220x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **60x**![Helen Shard](/images/pilots/Helen_Shard_p.png)Helen Shard  |  |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +25, Physical Defense: +25  | *0.4  | -  | **120x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **60x**![Helen Shard](/images/pilots/Helen_Shard_p.png)Helen Shard  |  |
   | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +30, Physical Defense: +30  | *0.5  | -  | **200x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **90x**![Helen Shard](/images/pilots/Helen_Shard_p.png)Helen Shard  |  |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +40, Physical Defense: +40  | *0.7  | -  | **600x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **220x**![Helen Shard](/images/pilots/Helen_Shard_p.png)Helen Shard  |  |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +40, Physical Defense: +40  | *0.7  | -  | **600x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **120x**![Helen Shard](/images/pilots/Helen_Shard_p.png)Helen Shard  |  |
   | AWAKED  | Physical Defense Break: +50, Physical Defense: +50  | *1.0  | -  | **900x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  ![N](/images/pilots/N_p.png) x1060 |
 
 

@@ -2,7 +2,7 @@
 title: "Legion Technology Increase Armor base HP"
 permalink: /GuildTechnology/Increase Armor base HP/
 excerpt: "Wing Fighter Legion TechnologyIncrease Armor base HP"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Increase Armor base HP.md"
 toc: false

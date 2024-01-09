@@ -2,7 +2,7 @@
 title: "Legion Technology Increase Maingun base attack"
 permalink: /GuildTechnology/Increase Maingun base attack/
 excerpt: "Wing Fighter Legion TechnologyIncrease Maingun base attack"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Increase Maingun base attack.md"
 toc: false

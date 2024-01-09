@@ -2,7 +2,7 @@
 title: "Random R Pilot Shard"
 permalink: /item/Random R Pilot Shard_111/
 excerpt: "Wing Fighter Random R Pilot Shard"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Random R Pilot Shard_111.md"
 toc: false
@@ -18,7 +18,7 @@ classes: wide
 
  **Name:** Random R Pilot Shard 
 
- **Description:** Obtain random R pilot shards ×5
+ **Description:** Obtain random R pilot shards ×1
 
  **Rarity:** 2 
 

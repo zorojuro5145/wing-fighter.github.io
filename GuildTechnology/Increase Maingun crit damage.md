@@ -2,7 +2,7 @@
 title: "Legion Technology Increase Maingun crit damage"
 permalink: /GuildTechnology/Increase Maingun crit damage/
 excerpt: "Wing Fighter Legion TechnologyIncrease Maingun crit damage"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Increase Maingun crit damage.md"
 toc: false

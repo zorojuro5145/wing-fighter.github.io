@@ -2,7 +2,7 @@
 title: "Pilot Athena"
 permalink: /pilots/Athena/
 excerpt: "Wing Fighter Athena"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Athena.md"
 toc: false
@@ -73,7 +73,7 @@ classes: wide
   | ![Star1](/images/s1.png)  | Energy Defense Break: +20, Energy Defense: +20  | +1.0%  | +520  | **40x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  |
   | ![Star1](/images/s1.png)![Star1](/images/s1.png)  | Energy Defense Break: +30, Energy Defense: +30  | +2.0%  | +1310  | **80x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  |
   | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Energy Defense Break: +40, Energy Defense: +40  | +3.0%  | +2460  | **160x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **60x**![Athena Shard](/images/pilots/Athena_Shard_p.png)Athena Shard  |  |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Energy Defense Break: +50, Energy Defense: +50  | +4.0%  | +4290  | **300x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **120x**![Athena Shard](/images/pilots/Athena_Shard_p.png)Athena Shard  |  ![R](/images/pilots/R_p.png) x100 |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Energy Defense Break: +50, Energy Defense: +50  | +4.0%  | +4290  | **300x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **120x**![Athena Shard](/images/pilots/Athena_Shard_p.png)Athena Shard  |  |
   | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Energy Defense Break: +60, Energy Defense: +60  | +5.0%  | +6650  | **500x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **180x**![Athena Shard](/images/pilots/Athena_Shard_p.png)Athena Shard  |  ![R](/images/pilots/R_p.png) x200 |
   | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Energy Defense Break: +80, Energy Defense: +80  | +6.0%  | +9790  | **1200x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **240x**![Athena Shard](/images/pilots/Athena_Shard_p.png)Athena Shard  |  ![R](/images/pilots/R_p.png) x400 |
   | AWAKED  | Energy Defense Break: +100, Energy Defense: +100  | +9.0%  | +14500  | **1800x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  ![SR](/images/pilots/SR_p.png) x800 ![R](/images/pilots/R_p.png) x800 ![N](/images/pilots/N_p.png) x1500 |

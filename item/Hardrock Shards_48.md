@@ -2,7 +2,7 @@
 title: "Hardrock Shards"
 permalink: /item/Hardrock Shards_48/
 excerpt: "Wing Fighter Hardrock Shards"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Hardrock Shards_48.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Pilot Valkyrie"
 permalink: /pilots/Valkyrie/
 excerpt: "Wing Fighter Valkyrie"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Valkyrie.md"
 toc: false
@@ -73,7 +73,7 @@ classes: wide
   | ![Star1](/images/s1.png)  | Physical Defense: +16, Energy Defense: +16  | *0.1  | -  | **30x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  |
   | ![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense: +24, Energy Defense: +24  | *0.2  | -  | **60x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  |
   | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense: +32, Energy Defense: +32  | *0.3  | -  | **120x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **45x**![Valkyrie Shard](/images/pilots/Valkyrie_Shard_p.png)Valkyrie Shard  |  |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense: +40, Energy Defense: +40  | *0.4  | -  | **180x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **90x**![Valkyrie Shard](/images/pilots/Valkyrie_Shard_p.png)Valkyrie Shard  |  ![N](/images/pilots/N_p.png) x100 |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense: +40, Energy Defense: +40  | *0.4  | -  | **180x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **90x**![Valkyrie Shard](/images/pilots/Valkyrie_Shard_p.png)Valkyrie Shard  |  |
   | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense: +48, Energy Defense: +48  | *0.5  | -  | **300x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **135x**![Valkyrie Shard](/images/pilots/Valkyrie_Shard_p.png)Valkyrie Shard  |  ![N](/images/pilots/N_p.png) x200 |
   | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense: +60, Energy Defense: +60  | *0.7  | -  | **900x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **180x**![Valkyrie Shard](/images/pilots/Valkyrie_Shard_p.png)Valkyrie Shard  |  ![N](/images/pilots/N_p.png) x400 |
   | AWAKED  | Physical Defense: +75, Energy Defense: +75  | *1.0  | -  | **1350x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  ![R](/images/pilots/R_p.png) x900 ![N](/images/pilots/N_p.png) x800 |

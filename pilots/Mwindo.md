@@ -2,7 +2,7 @@
 title: "Pilot Mwindo"
 permalink: /pilots/Mwindo/
 excerpt: "Wing Fighter Mwindo"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Mwindo.md"
 toc: false
@@ -73,7 +73,7 @@ classes: wide
   | ![Star1](/images/s1.png)  | Physical Defense: +16, Energy Defense: +24  | +1.0%  | +520  | **40x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  |
   | ![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense: +24, Energy Defense: +36  | +2.0%  | +1310  | **80x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  |
   | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense: +32, Energy Defense: +48  | +3.0%  | +2460  | **160x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **60x**![Mwindo Shard](/images/pilots/Mwindo_Shard_p.png)Mwindo Shard  |  |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense: +40, Energy Defense: +60  | +4.0%  | +4290  | **300x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **120x**![Mwindo Shard](/images/pilots/Mwindo_Shard_p.png)Mwindo Shard  |  ![R](/images/pilots/R_p.png) x100 |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense: +40, Energy Defense: +60  | +4.0%  | +4290  | **300x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **120x**![Mwindo Shard](/images/pilots/Mwindo_Shard_p.png)Mwindo Shard  |  |
   | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense: +48, Energy Defense: +72  | +5.0%  | +6650  | **500x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **180x**![Mwindo Shard](/images/pilots/Mwindo_Shard_p.png)Mwindo Shard  |  ![R](/images/pilots/R_p.png) x200 |
   | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense: +64, Energy Defense: +96  | +6.0%  | +9790  | **1200x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **240x**![Mwindo Shard](/images/pilots/Mwindo_Shard_p.png)Mwindo Shard  |  ![R](/images/pilots/R_p.png) x400 |
   | AWAKED  | Physical Defense: +80, Energy Defense: +120  | +9.0%  | +14500  | **1800x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  ![SR](/images/pilots/SR_p.png) x800 ![R](/images/pilots/R_p.png) x800 ![N](/images/pilots/N_p.png) x1500 |

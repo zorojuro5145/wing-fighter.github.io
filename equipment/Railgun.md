@@ -2,7 +2,7 @@
 title: "Equipment Railgun"
 permalink: /equipment/Railgun/
 excerpt: "Wing Fighter Equipment Railgun"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Railgun.md"
 toc: false

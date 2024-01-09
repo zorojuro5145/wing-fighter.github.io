@@ -2,7 +2,7 @@
 title: "Legion Technology Reduce damage from aerial enemies (including players)"
 permalink: /GuildTechnology/Reduce damage from aerial enemies _including players_/
 excerpt: "Wing Fighter Legion TechnologyReduce damage from aerial enemies (including players)"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Reduce damage from aerial enemies _including players_.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Selectable SR Pilot shard chest"
 permalink: /item/Selectable SR Pilot shard chest_98/
 excerpt: "Wing Fighter Selectable SR Pilot shard chest"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Selectable SR Pilot shard chest_98.md"
 toc: false

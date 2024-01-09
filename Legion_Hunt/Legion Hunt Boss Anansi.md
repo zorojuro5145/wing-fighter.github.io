@@ -2,7 +2,7 @@
 title: "Legion Hunt Boss Anansi"
 permalink: /Legion_Hunt/Legion Hunt Boss Anansi/
 excerpt: "Wing Fighter Legion Hunt Boss Anansi"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Legion Hunt Boss Anansi.md"
 toc: false

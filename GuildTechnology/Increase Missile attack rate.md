@@ -2,7 +2,7 @@
 title: "Legion Technology Increase Missile attack rate"
 permalink: /GuildTechnology/Increase Missile attack rate/
 excerpt: "Wing Fighter Legion TechnologyIncrease Missile attack rate"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Increase Missile attack rate.md"
 toc: false

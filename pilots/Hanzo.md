@@ -2,7 +2,7 @@
 title: "Pilot Hanzo"
 permalink: /pilots/Hanzo/
 excerpt: "Wing Fighter Hanzo"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Hanzo.md"
 toc: false
@@ -73,7 +73,7 @@ classes: wide
   | ![Star1](/images/s1.png)  | Physical Defense Break: +20, Energy Defense Break: +20  | +1.0%  | +520  | **40x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  |
   | ![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +30, Energy Defense Break: +30  | +2.0%  | +1310  | **80x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  |
   | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +40, Energy Defense Break: +40  | +3.0%  | +2460  | **160x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **60x**![Hanzo Shard](/images/pilots/Hanzo_Shard_p.png)Hanzo Shard  |  |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +50, Energy Defense Break: +50  | +4.0%  | +4290  | **300x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **120x**![Hanzo Shard](/images/pilots/Hanzo_Shard_p.png)Hanzo Shard  |  ![R](/images/pilots/R_p.png) x100 |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +50, Energy Defense Break: +50  | +4.0%  | +4290  | **300x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **120x**![Hanzo Shard](/images/pilots/Hanzo_Shard_p.png)Hanzo Shard  |  |
   | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +60, Energy Defense Break: +60  | +5.0%  | +6650  | **500x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **180x**![Hanzo Shard](/images/pilots/Hanzo_Shard_p.png)Hanzo Shard  |  ![R](/images/pilots/R_p.png) x200 |
   | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +80, Energy Defense Break: +80  | +6.0%  | +9790  | **1200x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **240x**![Hanzo Shard](/images/pilots/Hanzo_Shard_p.png)Hanzo Shard  |  ![R](/images/pilots/R_p.png) x400 |
   | AWAKED  | Physical Defense Break: +100, Energy Defense Break: +100  | +9.0%  | +14500  | **1800x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  ![SR](/images/pilots/SR_p.png) x800 ![R](/images/pilots/R_p.png) x800 ![N](/images/pilots/N_p.png) x1500 |

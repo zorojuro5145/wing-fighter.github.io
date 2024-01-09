@@ -2,7 +2,7 @@
 title: "Epic Equipment Selectable Pack"
 permalink: /item/Epic Equipment Selectable Pack_114/
 excerpt: "Wing Fighter Epic Equipment Selectable Pack"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Epic Equipment Selectable Pack_114.md"
 toc: false

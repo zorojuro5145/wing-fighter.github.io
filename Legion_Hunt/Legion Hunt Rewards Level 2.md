@@ -2,14 +2,14 @@
 title: "Legion Hunt Rewards Level 2"
 permalink: /Legion_Hunt/Legion Hunt Rewards Level 2/
 excerpt: "Wing Fighter Legion Hunt Rewards Level 2"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Legion Hunt Rewards Level 2.md"
 toc: false
 classes: wide
 ---
 
-  by Guild Boss Rewards by Damage:   [Level 1](/Legion_Hunt/Legion Hunt Rewards Level 1/){: .btn .btn--primary}   [Level 2](/Legion_Hunt/Legion Hunt Rewards Level 2/){: .btn .btn--success}   [Level 3](/Legion_Hunt/Legion Hunt Rewards Level 3/){: .btn .btn--warning}   [Level 4](/Legion_Hunt/Legion Hunt Rewards Level 4/){: .btn .btn--danger}   [Level 5](/Legion_Hunt/Legion Hunt Rewards Level 5/){: .btn .btn--info}   [Level 6](/Legion_Hunt/Legion Hunt Rewards Level 6/){: .btn .btn--primary}   [Level 7](/Legion_Hunt/Legion Hunt Rewards Level 7/){: .btn .btn--success}   [Level 8](/Legion_Hunt/Legion Hunt Rewards Level 8/){: .btn .btn--warning}   [Level 9](/Legion_Hunt/Legion Hunt Rewards Level 9/){: .btn .btn--danger}   [Level 10](/Legion_Hunt/Legion Hunt Rewards Level 10/){: .btn .btn--info} 
+  by Guild Boss Rewards by Damage:   [Level 11](/Legion_Hunt/Legion Hunt Rewards Level 11/){: .btn .btn--primary}   [Level 1](/Legion_Hunt/Legion Hunt Rewards Level 1/){: .btn .btn--success}   [Level 12](/Legion_Hunt/Legion Hunt Rewards Level 12/){: .btn .btn--warning}   [Level 2](/Legion_Hunt/Legion Hunt Rewards Level 2/){: .btn .btn--danger}   [Level 3](/Legion_Hunt/Legion Hunt Rewards Level 3/){: .btn .btn--info}   [Level 4](/Legion_Hunt/Legion Hunt Rewards Level 4/){: .btn .btn--primary}   [Level 5](/Legion_Hunt/Legion Hunt Rewards Level 5/){: .btn .btn--success}   [Level 6](/Legion_Hunt/Legion Hunt Rewards Level 6/){: .btn .btn--warning}   [Level 7](/Legion_Hunt/Legion Hunt Rewards Level 7/){: .btn .btn--danger}   [Level 8](/Legion_Hunt/Legion Hunt Rewards Level 8/){: .btn .btn--info}   [Level 9](/Legion_Hunt/Legion Hunt Rewards Level 9/){: .btn .btn--primary}   [Level 10](/Legion_Hunt/Legion Hunt Rewards Level 10/){: .btn .btn--success} 
 
 
 

@@ -2,7 +2,7 @@
 title: "Random Fighter of Gear Set"
 permalink: /item/Random Fighter of Gear Set_80/
 excerpt: "Wing Fighter Random Fighter of Gear Set"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Random Fighter of Gear Set_80.md"
 toc: false
@@ -18,7 +18,7 @@ classes: wide
 
  **Name:** Random Fighter of Gear Set 
 
- **Description:** Randomly get 1 shard of Conqueror Fighter or Thor Fighter
+ **Description:** Get one random shard of Conqueror or Thor Fighter
 
  **Rarity:** 1 
 

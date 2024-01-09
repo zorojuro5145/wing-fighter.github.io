@@ -2,7 +2,7 @@
 title: "Talent Field Repair"
 permalink: /talent/Talent Field Repair/
 excerpt: "Wing Fighter Talent Field Repair"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Talent Field Repair.md"
 toc: false

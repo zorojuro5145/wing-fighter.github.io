@@ -2,7 +2,7 @@
 title: "Equipment Conqueror Missile"
 permalink: /equipment/Conqueror Missile/
 excerpt: "Wing Fighter Equipment Conqueror Missile"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Conqueror Missile.md"
 toc: false

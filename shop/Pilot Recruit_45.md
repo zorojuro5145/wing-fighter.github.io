@@ -2,7 +2,7 @@
 title: "Shop Pilot Recruit"
 permalink: /shop/Pilot Recruit_45/
 excerpt: "Wing Fighter Pilot Recruit"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Pilot Recruit_45.md"
 toc: false
@@ -16,7 +16,7 @@ classes: wide
 
  **Name:** Pilot Recruit 
 
- **Description:** Randomly get pilot or pilot shards
+ **Description:** Get random pilots or pilot shards
 
  **Shop Type:** [Other](/shop/Shop Other/)
 

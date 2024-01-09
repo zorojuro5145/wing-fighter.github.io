@@ -2,7 +2,7 @@
 title: "Talent Strength"
 permalink: /talent/Strength/
 excerpt: "Wing Fighter Talent Strength"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Strength.md"
 toc: false

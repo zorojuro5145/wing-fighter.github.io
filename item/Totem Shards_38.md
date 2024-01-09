@@ -2,7 +2,7 @@
 title: "Totem Shards"
 permalink: /item/Totem Shards_38/
 excerpt: "Wing Fighter Totem Shards"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Totem Shards_38.md"
 toc: false

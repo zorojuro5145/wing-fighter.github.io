@@ -2,7 +2,7 @@
 title: "Pilot Vesta"
 permalink: /pilots/Vesta/
 excerpt: "Wing Fighter Vesta"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Vesta.md"
 toc: false
@@ -73,7 +73,7 @@ classes: wide
   | ![Star1](/images/s1.png)  | Physical Defense Break: +12, Physical Defense: +20  | +0.75%  | +350  | **30x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  |
   | ![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +18, Physical Defense: +30  | +1.5%  | +880  | **60x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  |
   | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +24, Physical Defense: +40  | +2.25%  | +1650  | **120x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **45x**![Vesta Shard](/images/pilots/Vesta_Shard_p.png)Vesta Shard  |  |
-  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +30, Physical Defense: +50  | +3.0%  | +2890  | **180x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **90x**![Vesta Shard](/images/pilots/Vesta_Shard_p.png)Vesta Shard  |  ![N](/images/pilots/N_p.png) x100 |
+  | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +30, Physical Defense: +50  | +3.0%  | +2890  | **180x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **90x**![Vesta Shard](/images/pilots/Vesta_Shard_p.png)Vesta Shard  |  |
   | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +36, Physical Defense: +60  | +3.7500000000000004%  | +4470  | **300x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **135x**![Vesta Shard](/images/pilots/Vesta_Shard_p.png)Vesta Shard  |  ![N](/images/pilots/N_p.png) x200 |
   | ![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)![Star1](/images/s1.png)  | Physical Defense Break: +42, Physical Defense: +80  | +4.5%  | +6580  | **900x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/), **180x**![Vesta Shard](/images/pilots/Vesta_Shard_p.png)Vesta Shard  |  ![N](/images/pilots/N_p.png) x400 |
   | AWAKED  | Physical Defense Break: +50, Physical Defense: +100  | +6.75%  | +9750  | **1350x**![Badge](/images/item/Badge_p.png)[Badge](/item/Badge_94/)  |  ![R](/images/pilots/R_p.png) x900 ![N](/images/pilots/N_p.png) x800 |

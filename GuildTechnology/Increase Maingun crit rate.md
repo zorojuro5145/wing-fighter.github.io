@@ -2,7 +2,7 @@
 title: "Legion Technology Increase Maingun crit rate"
 permalink: /GuildTechnology/Increase Maingun crit rate/
 excerpt: "Wing Fighter Legion TechnologyIncrease Maingun crit rate"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Increase Maingun crit rate.md"
 toc: false

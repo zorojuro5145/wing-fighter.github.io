@@ -2,7 +2,7 @@
 title: "Equipment SSR Missile"
 permalink: /equipment/Equipment SSR Missile/
 excerpt: "Wing Fighter Equipment SSR Missile"
-last_modified_at: 2023-11-04
+last_modified_at: 2024-01-09
 locale: en
 ref: "Equipment SSR Missile.md"
 toc: false
