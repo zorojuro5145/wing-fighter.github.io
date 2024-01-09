@@ -11,21 +11,27 @@ sidebar:
 ---
 
 
+{% capture notice-update20240109 %}
 
-{% capture notice-update20231231 %}
+![New Pilots](https://wing-fighter.github.io/images/new_pilots_p.png)
 
-Wishing You all a **Happy Christmas** and a **Happy New Year** filled with joy, prosperity, and continued success!
 
-![Green Dragon in the Space helps Wing Fighters in 2024](https://wing-fighter.github.io/images/GreenDragon2024_WingFighter_p.jpg)
+* Added [Pilots](https://wing-fighter.github.io/pilots/) with information for all pilots. 
 
-**Green Dragon 2024** helps **Wing Fighters** in the Space!
+* Wiki updated to *1.7.580 C2023.1.200* (latest client version)
+
+* New items, Small corrections for Syrena & Destroyer ships, ... 
+
+Enjoy *great* update! Some images are missed - I'll fix it asap. 
 
 {% endcapture %}
 
 <div class="notice--danger">
-  <h4 class="no_toc">31 December 2023 Happy New Year!</h4>
-  {{ notice-update20231231 | markdownify }}
+  <h4 class="no_toc">9 January 2024 Wiki Update: Update Wiki to 1.7.580 with new Pilots, etc</h4>
+  {{ notice-update20240109 | markdownify }}
 </div>
+
+
 
 
 
@@ -75,6 +81,22 @@ The Wing Fighter - the perfect game for nostalgic arcade lovers! Extra informati
 
 * Take Flight Again in Wing Fighter, a Modern Classic Arcade Shooter
 
+
+
+{% capture notice-update20231231 %}
+
+Wishing You all a **Happy Christmas** and a **Happy New Year** filled with joy, prosperity, and continued success!
+
+![Green Dragon in the Space helps Wing Fighters in 2024](https://wing-fighter.github.io/images/GreenDragon2024_WingFighter_p.jpg)
+
+**Green Dragon 2024** helps **Wing Fighters** in the Space!
+
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">31 December 2023 Happy New Year!</h4>
+  {{ notice-update20231231 | markdownify }}
+</div>
 
 {% capture notice-update20231104 %}
 
