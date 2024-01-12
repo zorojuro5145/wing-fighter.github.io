@@ -22,7 +22,7 @@ sidebar:
 
 * New items, Small corrections for Syrena & Destroyer ships, ... 
 
-Enjoy *great* update! Some images are missed - I'll fix it asap. 
+Enjoy ***great*** update!
 
 {% endcapture %}
 
