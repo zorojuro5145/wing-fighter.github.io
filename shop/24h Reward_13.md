@@ -14,7 +14,7 @@ classes: wide
 
 ## Details
 
- **Name:** 24h Reward 
+ **Diamonds:** 24h Reward 
 
  **Description:** 24 hours of idle rewards
 
