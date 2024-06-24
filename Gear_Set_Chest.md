@@ -5,11 +5,11 @@ excerpt: "Wing Fighter Gear Set Chest"
 last_modified_at: 2023-07-15
 locale: en
 ref: "Gear_Set_Chest.md"
-toc: false
+toc: chest
 classes: wide
 layout: single
 sidebar:
   nav: "docs"
----
+---Set
 
 TBD Gear Set Chest
